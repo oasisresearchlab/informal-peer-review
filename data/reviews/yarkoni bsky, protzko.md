@@ -1,0 +1,115 @@
+   - Markdown Part I
+		- --
+		- created: 2024-10-15T17:42:04 (UTC -04:00)
+		- tags: []
+		- source: [https://bsky.app/profile/talyarkoni.com/post/3kowl4n465k24](https://bsky.app/profile/talyarkoni.com/post/3kowl4n465k24)
+		- author:
+		- --
+		- # tal yarkoni: "i read the post on Gelman’s blog about the Protzko et al. “high replicability” paper, and then i skimmed the published paper, and then i read the review i wrote for an older version of the paper when it was submitted to Nature back in 2020, and after that i was left with 2 questions:" — Bluesky
+			- #inpeer/evdInfra/impacts/reactions/meta/dynamics/longForm
+			
+		- > ## Excerpt
+		- > i read the post on Gelman’s blog about the Protzko et al. “high replicability” paper, and then i skimmed the published paper, and then i read the review i wrote for an older version of the paper when it was submitted to Nature back in 2020, and after that i was left with 2 questions:
+			- #inpeer/who/reviewer/roles/reviewer/informal
+		- --
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- i read the post on Gelman’s blog about the Protzko et al. “high replicability” paper, and then i skimmed the published paper, and then i read the review i wrote for an older version of the paper when it was submitted to Nature back in 2020, and after that i was left with 2 questions:
+		- March 30, 2024 at 1:41 PM
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- (1) why would a journal want to publish this, and (2) why would the authors want to publish this?
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- i realize this sounds a bit harsh (because it is), and some of the authors on that paper are people i like and respect (
+		- is fr one of my intellectual heroes), but look, there really ought to be a point at which every person who takes themselves to be a serious scientist…
+			- #inpeer/evdInfra/impacts/reactions/authors/support/critiqueHero 
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- stares into the mirror and asks themselves whether they think they are really, truly engaging in an honest effort to seek truth and/or utility, or just playing science dress-up.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- the full title of the paper is “high replicability of newly discovered social-behavioural findings is achievable”. the top concern i raised in my review (among many others) was that the titular claim is dumb (i didn’t use those words at the time, but maybe i should have).
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- it’s dumb because it’s trivially true. the only world in which the authors could possibly be wrong is one without \_any\_ replicable effects in all of psychology. the authors present their paper as a kind of novel existence proof…
+			- #inpeer/how/practices/review/paper/values/creativity/trivialClaim
+				- This means that the claim being made is trivial and not adding value to the scholarly corpus.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- but this is an extraordinary act of hubris, and requires one to ignore every other well-conducted, replicable experiment conducted in the past 100 years (yes, they exist!). what reasonable, well-informed person could ever doubt that, uh, yeah, some effects are real?
+			- #inpeer/how/practices/review/paper/values/creativity/litIgnored
+				- This means that the report does not support a claim of novelty/creativity because it ignores relevant extant literature.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- the authors’ response, in a letter appealing the (original) rejection decision, was basically to say “ok yes dear pedant reviewer, you’re right that this paper \_shouldn’t\_ be necessary…
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- …but people aren’t always convinced by basic logic, so sometimes bad empirical evidence is necessary for persuasion, even if it doesn’t \_really\_ carry any informational content.”
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- i absolutely loathe this kind of argument, because the people making it never seem to realize that a reader who can be easily convinced into their desired conclusion by shitty empirical data can also be convinced just as easily, by equally shitty empirical data, of the opposite conclusion.
+			- #zoo/why/motivation/forResearching/debate
+				- This means that a debate has occurred between individuals or organizations as to why research ought to be done. For example, one party support a pragmatic reason (persuasion) and the other support knowledge-building with novel data and claims.
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+	- Markdown Part II
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- this kind of ends-justify-the-means thinking is imo a big part of how psychology ended up in this dark pit of cosplay despair in the first place. It’s a deeply cynical worldview that basically says:
+		- March 30, 2024 at 1:44 PM
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+			- “people won’t take us seriously if we speak plainly about what we’re doing, so we have to smoke and mirror some fake math at them to get them to show us respect”.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- it makes a mockery of the scientific enterprise, and i hate it, and when i see things like this, i’m glad i left academia (though i’m also glad i left for many other reasons, so this is admittedly a bit overwrought) /end
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:m4oniojqmvnpjfyjlqwbhkm3/bafkreiadnejo5rcoalgcaapa6nnudk2yqoecjua7cdabis5tvh5h3svfbq@jpeg)
+		- ]([https://bsky.app/profile/briannosek.bsky.social)](https://bsky.app/profile/briannosek.bsky.social))
+		- I think we are aligned philosophically, but not pragmatically. No one doubts that there are individual replicable effects, but there are doubts that replicability in general is achievable bc of pervasive hidden moderators, etc. I think I have more of a “meet people where they are” mindset than you
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:m4oniojqmvnpjfyjlqwbhkm3/bafkreiadnejo5rcoalgcaapa6nnudk2yqoecjua7cdabis5tvh5h3svfbq@jpeg)
+		- ]([https://bsky.app/profile/briannosek.bsky.social)](https://bsky.app/profile/briannosek.bsky.social))
+		- That is, for my reform aims, I don’t believe that the philosophical argument is sufficient to move the culture. I believe that some empirical evidence provides another vector to engage behavior change and maturation of theoretical understanding of replicability. And your review was excellent
+			- #zoo/why/motivation/forResearching/pragmaticPersuade
+				- This means the an individual or organization is advocating for a pragmatic reason to conduct research: persuade others.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- I guess I don’t see this as a philosophical argument, but as a matter of basic scientific literacy. the appropriate response to someone who's unsure whether or not larger n is a good thing (other things equal) isn't to say “here, let me show you some tiny p-values from a few large studies”...
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- …it’s to point them to resources for (re-)learning statistics. i get wanting to meet people where they are, but sometimes where people are just isn’t good enough. many students fail out of civil engineering programs every year, but we wouldn’t try to meet those students where they are by...
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- relaxing the requirement to know some math and physics before they get to build bridges. why is it okay to send psychologists out into the world to publish papers using experimental and statistical methods they don’t actually understand? is it because what psychologists do doesn’t matter?
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- really though, i come back to this point. if the only way you can get someone to do what you want is by dazzling them with results they clearly don’t understand (or they wouldn’t need the demonstration in the first place), you don’t have a science, you just have a bunch of rituals and storytelling.
+		- i absolutely loathe this kind of argument, because the people making it never seem to realize that a reader who can be easily convinced into their desired conclusion by shitty empirical data can also be convinced just as easily, by equally shitty empirical data, of the opposite conclusion.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- maybe your argument is that if we can get people to buy into the \_right\_ set of rituals, then that eventually does produce something approximating a real science, even if the rituals are adopted for the wrong reasons. personally i think that’s wishful thinking. but...
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
+		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
+		- ...even if it were in some empirical sense optimal, i still think it’s a bad idea, because when you turn everything into a game of storytelling, you run the risk of losing to better storytellers—and since the other side is less constrained by reality, they generally \_will\_ have better narratives.
+		- [
+		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:nm3yb6rhg7sqcc7fe5tzbspc/bafkreiaxvg2ms7revfkxnsgc6fz4czprrfkma3wqzeq2x2moyrczxmhueq@jpeg)
+		- ]([https://bsky.app/profile/jmikaelk.bsky.social)](https://bsky.app/profile/jmikaelk.bsky.social))
+		- Following this as an outsider, some seem to believe that truth and trust are disconnected empirical phenomena, and the logical relationship is irrelevant. Thinking about it this way, it will certainly seem irrelevant how trust is arrived at. This is certainly a form of cynicism, as you point out.

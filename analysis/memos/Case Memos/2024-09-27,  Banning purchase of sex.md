@@ -1,0 +1,250 @@
+memo
+	- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - [PubPeer](https://pubpeer.com/publications/73B937CFBA507A3B35968ED89A109A)
+            - Blank!
+	            - #inpeer/evdInfra/where/multimedia/pubpeer/unused
+		            - This means that infrastructure (PubPeer) isn't being used when it should be used.
+	                -![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F3hOGulGp2y.png?alt=media&token=fdf15367-fa3e-41ef-be7f-574d3aef8c2c)
+        - Paper
+            - [[@ciacciBanningPurchaseSex2024]]
+        - Social Media
+            - [Banning the use of common sense in data analysis increases cases of research failure: evidence from Sweden](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/) #inpeer/evdInfra/where/multimedia/blog/shared
+	            - > "In this case, Adema, Folke, and Rickne did a lot of work to track down what went wrong in that published analysis. A lot of work for an obscure paper in a minor journal. But the result is a useful general lesson, which is why I’m sharing the story here."
+		            - #inpeer/who/reviewer/roles/reviewer/informal/highLoad
+			            - This means that informal peer reviewers experienced a high work load as they worked through a case.
+                - Markdown: Post
+                    - --
+                    - created: 2024-09-27T15:59:47 (UTC -04:00)
+                    - tags: []
+                    - source: [https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/)
+                    - author:
+                    - --
+                    - # Banning the use of common sense in data analysis increases cases of research failure: evidence from Sweden | Statistical Modeling, Causal Inference, and Social Science
+
+					- > ## Excerpt
+					- > Olle Folke writes:
+					- --
+					- Olle Folke writes:
+					- > I wanted to highlight [a paper](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/03/s00148-024-00984-2-1.pdf) by an author who has previously been featured on your blog when he was one of the co-authors of a paper on the effect of strip clubs on sex crimes in New York. This paper looks at the effect of criminalizing the buying of sex in Sweden and finds a 40-60% increase. However, the paper is equally problematic as the one on strip clubs. In what I view as his two main specifications he using the timing of the ban to estimate the effect. However, while there is no variation across regions he uses regional data to estimate the effect, which of course does not make any sense. Not surprisingly there is no adjustment for the dependence of the error term across observations.
+					- >
+					- > What makes this analysis particularly weird is that there actually is no shift in the outcome if we use national data (see figure below). So basically the results must have been manufactured. As the author has not posted any replication files it is not possible to figure out what he has done to achieve the huge increase.
+					- >
+					- > I think that his response to this critique is that he has three alternative estimation methods. However, these are not very convincing and my suspicion is that neither those results would hold up for scrutiny. Also, I find the use of alternative methods both strange and problematic. First, it suggests that neither method is convincing it itself. However, doing four additional problematic analysis does not make the first one better. Also, it gives author an out when they are criticized as it involves a lot of labor to work through each analysis (especially when there is not replication data).
+					- ![](Banning%20the%20use%20of%20common%20sense%20in%20data%20analysis%20increases%20cases%20of%20research%20failure%20evidence%20from%20Sweden%20%20Statistical%20Modeling,%20Causal%20Inference,%20and%20Social%20Science/Reported-Rapes-Annual-1024x585.jpg)
+					- I took a look at the linked paper, and . . . yeah, I’m skeptical. The article begins:
+					- > This paper leverages the timing of a ban on the purchase of sex to assess its impact on rape offenses. Relying on Swedish high-frequency data from 1997 to 2014, I find that the ban increases the number of rapes by around 44–62%.
+					- But the above graph, supplied by Folke, does not show any apparent effect at all. The linked paper has a similar graph using monthly data that also shows
+					- nothing special going on at 1999:
+					- ![](Banning%20the%20use%20of%20common%20sense%20in%20data%20analysis%20increases%20cases%20of%20research%20failure%20evidence%20from%20Sweden%20%20Statistical%20Modeling,%20Causal%20Inference,%20and%20Social%20Science/Screenshot-2024-03-28-at-06.27.55-1024x833.png)
+					- This one’s a bit harder to read because of the two axes, the log scale, and the shorter time frame, but the numbers seem similar. In the time period under study, the red curve is around 5.0 on the log scale per month, 12\*log(5) = 1781, and the annual curve is around 2000, so that seems to line up.
+					- So, not much going on in the aggregate. But then the paper says:
+					- > Several pieces of evidence find that rape more than doubled after the introduction of the ban. First, Table 1 finds that the average before the ban is around 6 rapes per region and month, while after the introduction is roughly 12. Second, Table 2 presents the results of the naive analysis of regressing rape on a binary variable taking value 0 before the ban and 1 after, controlling for year, month, and region fixed effects. Results show that the post ban period is associated with an increase of around 100% of cases of rape in logs and 125% of cases of rape in the inverse hyperbolic sine transformation (IHS, hereafter). Third, a simple descriptive exercise –plotting rape normalized before the ban around zero by removing pre-treatment fixed effects– encounters that rape boosted around 110% during the sample period (Fig. 4).
+					- OK, the averages don’t really tell us anything much at all: they’re looking at data from 1997-2014, the policy change happened in 1999, in the midst of a slow increase, and most of the change happened after 2004, as is clearly shown in Folke’s graph. So Table 1 and Table 2 are pretty much irrelevant.
+					- But what about Figure 4:
+					- ![](Banning%20the%20use%20of%20common%20sense%20in%20data%20analysis%20increases%20cases%20of%20research%20failure%20evidence%20from%20Sweden%20%20Statistical%20Modeling,%20Causal%20Inference,%20and%20Social%20Science/Screenshot-2024-03-28-at-06.38.56-1024x999.png)
+					- This looks pretty compelling, no?
+					- I dunno. The first thing is that the claim that of “more than doubling” relies very strongly on the data after 2004. log(2) = 0.69, and if you look at that graph, the points only reach 0.69 around 2007, so the inference is leaning very heavily on the model by which the treatment causes a steady annual increase, rather than a short-term change in level at the time of the treatment. The other issue is the data before 1999, which in this graph are flat but in the two graphs shown earlier in this post showed an increasing trend. That makes a big difference in Figure 4! Replace that flat line pre-1999 with a positively-sloped line, and the story looks much different. Indeed, that line is soooo flat and right on zero, that I wonder if this is an artifact of the statistical fitting procedure (“Pre-treatment fixed effects are removed from the data to normalize the number of rapes around zero before the ban.”). I’m not really sure. The point is that something went wrong.
+					- They next show their regression discontinuity model, which fits a change in level rather than slope:
+					- ![](Banning%20the%20use%20of%20common%20sense%20in%20data%20analysis%20increases%20cases%20of%20research%20failure%20evidence%20from%20Sweden%20%20Statistical%20Modeling,%20Causal%20Inference,%20and%20Social%20Science/Screenshot-2024-03-28-at-06.45.13-1024x287.png)
+					- There’s something else strange going on here: if they’re really fitting fixed effects for years, how can they possibly estimate a change over time? This is not making a lot of sense.
+					- I’m not going to go through all of this paper in detail, I just did the above quick checks in order to get a rough sense what was going on, and to make sure I didn’t see anything immediately wrong with Folke’s basic analysis.
+					- Folke continued:
+					- > The paper is even stranger than I have expected. I have gotten part of the regression code and he is estimating models that would not get any estimates on the treatment of there where no coding error (treatment is constant within years but he includes year fixed effects). Also, when I do the RDanalysis he claims he is doing I get the figure below in which there clearly is not a jump of 0.6 log points…
+					- ![](Banning%20the%20use%20of%20common%20sense%20in%20data%20analysis%20increases%20cases%20of%20research%20failure%20evidence%20from%20Sweden%20%20Statistical%20Modeling,%20Causal%20Inference,%20and%20Social%20Science/RDPlot-Reported-Rapes-1024x745.jpg)
+					- What the hell????
+					- This one goes into the [regression discontinuity hall of fame](https://statmodeling.stat.columbia.edu/2021/03/11/regression-discontinuity-analysis-is-often-a-disaster-so-what-should-you-do-instead-do-we-just-give-up-on-the-whole-natural-experiment-idea-heres-my-recommendation/).
+					- The next day, Folke followed up:
+					- > It took some digging and coding the figure out how the author was able to find such a large effect. We \[Joop Adema, Olle Folke, and Johanna Rickne\] have now [written up a draft](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/03/Rates-of-reported-rapes-are-higher-in-January-than-in-December.pdf) of a comment where we show that it is all based on a specification error and he ends up estimating something entirely different than he claims to be.
+					- *The big picture, or, how can this sort of error be avoided or its consequences mitigated**
+					- Look, everybody makes mistakes. Statistical models are hard to fit and interpret, data can be a mess, and social science theories are vague enough that if you’re not careful you can explain just about anything.
+					- Still, it looks like this paper was an absolute disaster and a bit of an embarrassment for the Journal of Population Economics, which published it.
+					- Should the problems been noticed earlier? I’d argue yes.
+					- The problems with the regression discontinuity model—OK, we’re not gonna expect the author, reviewers, or editors of a paper to look too carefully at that—it’s a big ugly equation, after all—and we can’t expect author, reviewers, or editors to check the code—that’s a lot of work, right? Equations that don’t make sense, that’s just the cost of doing business.
+					- The clear problem is the pattern in the aggregate data, the national time series that shows no jump in 1999.
+					- I’m not saying that, just cos there’s no jump in 1999, that the policy had no effect. I’m just saying that the lack of jump in 1999 is right there for everyone to see. At the very least, if you’re gonna claim you found an effect, you’re under the scientific obligation to explain how you found that effect given the lack of pattern in the aggregate data. Such things can happen—you can have an effect that happens to be canceled out in the data by some other pattern at the same time—but then you should explain it, give that [trail of breadcrumbs](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/).
+					- So, I’m not saying the author, reviewers, and editors of that paper should’ve seen all or even most of the problems with this paper. What I am saying is that they should’ve engaged with the contradiction between their claims and what was shown by the simple time series. To have not done this is a form of “scientism,” a kind of mystical belief in the output of a black box, a “believe the stats, not your lying eyes” kind of attitude.
+					- Also, as Folke points out, the author of this paper has [a track record](https://statmodeling.stat.columbia.edu/2023/10/05/no-this-paper-on-strip-clubs-and-sex-crimes-was-never-gonna-get-retracted-also-a-reminder-of-the-importance-of-data-quality-and-a-reflection-on-why-researchers-often-think-its-just-fine-to-publ/) of extracting dramatic findings using questionable data analysis.
+					- I have no reason to think that the author is doing things wrong on purpose. Statistics is hard! The author’s key mistakes in these two papers have been:
+					- 1\. Following a workflow in which contrary indications were ignored or set aside rather than directly addressed.
+					- 2\. A lack of openness to the possibility that the work could be fatally flawed.
+					- 3\. Various technical errors, including insufficient concern about data quality, a misunderstanding of regression discontinuity checks, and an inappropriate faith in robustness checks.
+					- In this case, Adema, Folke, and Rickne did a lot of work to track down what went wrong in that published analysis. A lot of work for an obscure paper in a minor journal. But the result is a useful general lesson, which is why I’m sharing the story here.
+				- Markdown: Comments
+					- ## 7 thoughts on “Banning the use of common sense in data analysis increases cases of research failure: evidence from Sweden”
+
+						- ![](https://secure.gravatar.com/avatar/9f778788da3542958774e25f6023a361?s=68&d=identicon&r=g)[Brandon del Pozo](http://www.brandondelpozo.com/) on [March 28, 2024 11:32 AM at 11:32 am](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349493) said:
+						- Thank you for bringing attention to this. My colleagues and I believe the author’s prior work is fatally flawed, has no construct validity, speaks beyond its data, and should have been retracted.
+						- Over the course of two years, we spent hours and hours of our time researching the provenance of the data and the policies and work flows under examination, and talking to the government officials who oversaw those processes. We were also the custodians of the data for the independent variable and were certain it didn’t provide the basis for a valid study. We wrote a detailed reply showing the paper drew unsupportable conclusions using a literally impossible model. None of this was remotely related to our own research or helped our careers. It was about correcting the scholarly record, especially since the study generated national press.
+						- The author was initially helpful but ultimately defensive, and the journal was arrogant and dismissive. They basically said it was cute that we thought we could to toe to toe with economists, and since the results were strong and the robustness checks corroborated them, we should believe the stats and not our know knowledge of the model itself. But we were not just being cute: I have published some recent, high-profile studies with economists and the difference is that we consulted with the practitioners and custodians of the data prior to publication to ensure our models were plausible, our identifications were valid, and the findings made sense. For example: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811766](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811766)
+						- We did not, however, look under the hood at the code of this prior study. This blog post makes me wonder if that would have been the final nail in the analytical coffin. I think the journal has all of that online if anyone wants a stab at it.
+						- I know I sound a little vexed, but it’s because we did all if this in good faith and were initially very sensitive to how stressful this must be for researchers. It must make one’s stomach churn. That’s not the goal here; it’s to produce reliable knowledge, especially when its on a topic the public will flock to, But the arrogance and dismissiveness was staggering. But, there is no way around it: the prior paper is invalid. It cannot use any of its data for the dependent variable and must reject about 94% of the data for the independent variable. It is scientific nonsense.
+						- Here is our reply in a journal: [https://www.tandfonline.com/doi/abs/10.1080/15614263.2023.2253350](https://www.tandfonline.com/doi/abs/10.1080/15614263.2023.2253350)
+						- Open access on SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4528229](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4528229)
+						- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349493#respond)
+						- ![](https://secure.gravatar.com/avatar/6eb38b1547ca213b1b1add75e645ab05?s=68&d=identicon&r=g)G on [March 28, 2024 2:16 PM at 2:16 pm](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349558) said:
+						- In my causal inference class, we were taught that the timing of the treatment can’t be the forcing variable in a regression discontinuity because the timing of the treatment is almost certainly not exogenous to the outcome variable. Not to mention all the other flaws the other commenter and the correspondent highlighted.
+						- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349558#respond)
+						- ![](https://secure.gravatar.com/avatar/1dc83ba6ba60d7b2fdea6e76b8505d34?s=68&d=identicon&r=g)Claire V. on [March 28, 2024 3:59 PM at 3:59 pm](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349645) said:
+						- I’m curious if you caught the Gelman citation about higher-order polynomials in the References. That’s funny given your open peer review of his RDD.
+						- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349645#respond)
+							- ![](https://secure.gravatar.com/avatar/d582b760aff3a7d7ce1197505fb57837?s=39&d=identicon&r=g)[Andrew](http://www.stat.columbia.edu/~gelman/) on [March 28, 2024 4:45 PM at 4:45 pm](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349672) said:
+							- Claire:
+							- Yes, I did notice that. So please please nobody retract that paper. I want to keep my citation! I’ve heard it’s [worth $100,000](https://statmodeling.stat.columbia.edu/2021/09/21/more-on-that-claim-that-scientific-citations-are-worth-100000-each/).
+							- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349672#respond)
+						- ![](https://secure.gravatar.com/avatar/836c995441147d732e17a4c2e63dfd9c?s=68&d=identicon&r=g)Raphael K on [March 28, 2024 4:26 PM at 4:26 pm](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349655) said:
+						- “Third, it might be posited that the rise in rape might be driven by a change in reporting by victims as well.”
+						- Ciacci rightly points out that a change in reporting behaviour will affect the number of rapes reported. It baffles me how he then goes on to write (further down the page)
+						- “I find that criminalizing the purchase of sex increases rape and that this surge is driven by increases in attempted, completed, and indoor rapes in the short-run and in completed and outdoor
+						- rapes in the long-run. The findings of this paper posit that this regulation increases the number of rapes by about 44–62%.”
+						- Setting aside for a moment all objections about forking paths, how can one make such a statement? It completely ignores what he wrote earlier, namely that there are possible alternative explanations. If it had been any crime other than sex crimes, I would have been willing to swallow the implicit assumption of no change in reporting behaviour*. But for a researcher to ignore the change in reporting behaviour of sex crimes in the run-up time to #MeToo is just astonishing to me.
+						- *The research question is terribly hard. Any model created has to rely on strong assumptions. But ignoring the known limitations of the model will not further anyone’s understanding.
+						- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349655#respond)
+						- ![](https://secure.gravatar.com/avatar/457f60484a1242d410374b7d5a7e3ebf?s=68&d=identicon&r=g)Tom Passin on [March 28, 2024 4:47 PM at 4:47 pm](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349673) said:
+						- In my view, a key test about a discontinuity analysis should be that if you look at a graph of the data *without* the location of the discontinuity marked, would you think there was a discontinuity? “Look at” could include some simple checks; I don’t mean to imply that only your eyeballs are allowed, though they will generally be the starting point.
+						- If you can’t tell, then the data are probably too noisy to justify a discontinuity analysis. Now it might be that the effect starts building up some time after the discontinuity time, and the buildup is gradual. Sure – but then you have to provide good reason to suppose that those delayed, gradual effects aren’t the result of some more fundamental underlying change.
+						- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349673#respond)
+							- ![](https://secure.gravatar.com/avatar/42292509484c49d8aa9cf2190f54ba04?s=39&d=identicon&r=g)Daniel Lakeland on [March 29, 2024 12:04 AM at 12:04 am](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/#comment-2349849) said:
+							- I really think every “regression discontinuity” analysis should be replaced with a “state space time series model”. Basically at time t=0 something happens to change the behavior of the system. If that results in very fast re-equilibriation and the effect is immediately visible in the value of some measurement of interest within days,hours, or months after the event, then write the model that explains why that should be the case. If it results in 30 years of oscillatory behavior that’s still ongoing… write that into your model.
+							- Fitting two different polynomials on either side of a time point is the laziest bullshit I’ve heard in social sciences. At one point I fit such models to either side of completely homogeneous gaussian noise from a random number generator and found “large effects” in many of those RNG generated datasets. My blog is borked so I can’t point people to it, but yeah, it’s lazy hot garbage.
+							- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/?replytocom=2349849#respond)
+- Scholarly: outcomes for formal scholarly records like retractions, corrections, notices, etc.
+	- None after 6 months
+			#inpeer/evdInfra/impacts/reactions/publishers/revisions/lethargic/zombiePaper
+		        - This means that a paper has not been retracted despite significant flaws that were communicated to the authors and/or publisher(s). Or else use this code if a paper has been retracted and re-published elsewhere.
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FEvBSdt3BgL.png?alt=media&token=b41549e3-e4be-4b56-afa1-a9c699b87715)
+- Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+	- Many of these informal peer reviewers are established academics, though Joop Adema (co-author on the draft Olle shared) seemed to have been a Ph.D. student at the time. The low-tier journal _Journal of Population Economics_ may have been motivated to publish the paper to increase its own repute.
+	- The risks are low except to the Ciacci, though they're not exactly high. There is a small chance of a retraction.
+	- The rewards, I infer, are intrinsic here. In the comments, Brandon del Pozo mentioned that
+		- > "None of this was remotely related to our own research or helped our careers. ==It was about correcting the scholarly record== , especially since the study generated national press."
+			- #inpeer/why/benefits/review/intrinsic/correctLit
+- Sociology of Science:
+	- intersections with science reform structures and movements
+		- All of the informal peer reviewers here are supporting and practicing open and reproducible science in their work here. This is the community countering the research waste published in economics and other fields.
+			- #inpeer/who/reviewer/roles/expert/fields/openSci/advocate
+	- intersections with institutional and power structures
+		- The _Journal of Population Economics_ isn't retracting anything if it doesn't want to. This kind of local gatekeeping is not just about keeping research out, but keeping existing research in. There should be some kind of veto mechanism or other governance structure to update our priors -> posterior estimate of the p(paper replicates).
+		- Actually, what _would_ it look like if we used pure crowdsourcing (with a pool of expert, vetted scholars) to make these sorts of judgments. Might [[Life Cycle Journals]] do that at some point
+			- #discussion/implications/peerReview/practices/social/crowdsourceRevisions
+- Storytelling: What is the style/genre/frame of critical appraisal?
+				- [[destructive critical appraisal]]
+- **Observer**: Jay Patel
+- **Date of Observation**: 2024-03-28
+- **Duration of Observation**: one day for loose memoing, one day 6 months later for structured memoing and coding
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - JP: I discovered the case by reading [[Statistical Modeling, Causal Inference, and Social Science]].
+        - Gelman discovered the case via a reader, Olle Folke, writing in about a problematic paper. This is common for Gelman's blog.
+	        - #inpeer/how/practices/sociotechnical/social/crosspost/informalRev/followerShares
+		        - This means that a follower or reader of a blog/microblog shared their own informal peer review for discussion and/or action.
+    - Was the observation a partial or a complete session?
+        - complete session
+    - What occurred? Which concerns were raised and by whom?
+        - Olle Folke highlights a problematic paper [[@ciacciBanningPurchaseSex2024]] examining the effects of banning prostitution in Sweden (40-60% increase in sex crimes). The title of Gelman's blog post pokes fun of the errors in the paper. In the comments, he mentioned that he critiqued Ciacci's prior study on strip clubs for construct validity and exaggerated claims. The authors and journal were defensive or dismissive. They were not much help.
+	        - #inpeer/how/practices/review/paper/frames/destructive
+        - Commits [[(model) specification error]] by using regional data instead of aggregate national data. The regional data show an effect, but the national data do not show an effect.
+	        - #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/mispecifiedModel
+		        - This means that a modeling (model misspecification) error arose such that a term should not have been used or should have been used differently.
+        - Lack of open data and code makes reproducibility hard.
+	        - #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed
+            - National trend data
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2a70esB-ly.png?alt=media&token=a117a161-41f4-4d72-bd32-bd9ef9b653a8)
+            - National trend data
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNF-mNfy6X7.png?alt=media&token=bb0868bb-455c-42a3-aa4d-b2b1a36557ce)
+                - Fig. 4
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F38W_c50-K8.png?alt=media&token=459f760e-f843-48be-9837-cebf24f122bf)
+                - Data after 2004 strongly affect the data, whereas the 1999-2004 data aren't as promising.
+						- #inpeer/how/practices/review/paper/layers/empirical/interpretation/resultsDependSubset
+							- This means the interpretation of results into claims is untenable because the regression (model) is only working on a subset of the data.
+                - And the 1997-1999 line is so flat that it could be a statistical artifact of the fitting procedure. Expresses uncertainty here...
+	            #inpeer/how/practices/review/paper/layers/theoretic/senselessResult
+		            - This means that the results are not theoretically sensible. They are too unusual to make sense.
+                - Given the regression discontinuity model:
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FC63aQ9jmTJ.png?alt=media&token=d78d65d2-63f0-4800-abd9-3747ea75268c)
+                    - If _year_ is a fixed effect, then how could you estimate a change over time?
+	                    - #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/doomedtoFail
+		                    - This means that the statistical procedure is doomed to fail because of how it fails to consider the conceptual needs of the test.
+                - Folke: couldn't reproduce the RDanalysis, finds smaller effect size (log pts)
+                    - published a draft of a comment: [[analytic reproducibility]], [[reproducibility]], [[verification report]]
+	                    - #inpeer/evdInfra/what/reviews/informal/verificationReport
+		                    - This means that a verification report exist in the informal landscape for a given paper being informally reviewed.
+                        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fwo1XlBuM83.pdf?alt=media&token=ca865788-3f0d-41ef-9a8f-8e2f9b885542}}
+	                        - #inpeer/how/practices/review/paper/layers/empirical/rigor/reproducibilityFail/declineEffect
+		                        - This means that the credibility of the claim/result is in doubt because there was a reproducibility failure when re-analyzing the data. The effect size decreased from the stated one to a much smaller one.
+                - laments
+                    - unfulfilled needs
+                        - need to check analyses in detail
+                        - explain why the purported effects exist, avoid [[mindless statistical rituals]]
+                        - perform background check on study co-author(s) because this one has a record of using QRPs to extract dramatic findings
+			        #inpeer/who/reviewer/roles/villain/wasteProducer
+					- This means that one or more of the study co-authors has been producing research waste over a long timespan.
+                    - misunderstandings
+                        - regression discontinuity checks
+                        - robustness checks
+	                        - #zoo/education/statsMisconceptions
+		- This means that there is a need to educate the scholarly community about statistical misconceptions.
+        - Gelman shared this because the authors did a lot of work to correct an "obscure" paper in a "minor" journal.
+            - JP: Not so obscure, actually. Thousands of views, 2 citations, and Altmetric score = 852 (1836 tweeters, 2 news mentions including in [Germany](https://zeitung.faz.net/fas/wirtschaft/2023-09-17/14976e6bdc595a4a11fa271b4d4f7fea/?GEPC=s1)...).
+	            - #inpeer/evdInfra/what/studyReports/viralTarget
+	                -![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZbgEhqydss.png?alt=media&token=8a2d1ecc-56a6-4a97-9952-0a2915bf7ec2)
+    - Who participated?
+        - What are their roles and skills?
+        - [[Olle Folke]]
+            - Swedish economists with methods and stats expertise
+	            - #inpeer/who/reviewer
+			- with [[Joop Adema]] (at time of publication)
+	            - #inpeer/who/reviewer/roles/employment/student
+	            - #inpeer/who/reviewer ic/domainExpert
+			- [[Johanna Rickne]]
+				- #inpeer/who/reviewer
+				- #inpeer/who/reviewer
+        - [[Andrew Gelman]]
+            - #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
+        - [[Brandon del Pozo]]
+	        - #inpeer/who/reviewer/roles/expert
+	        - #inpeer/who/reviewer
+	        - #inpeer/who/reviewer/roles/sleuth/adjacentSleuth
+		        - This means that an informal peer reviewer from an adjacent/neighboring case comes out of the woodworks.
+            - assistant prof at Brown University at intersection of public health and safety
+                - 20+ years as a cop!
+	                - #inpeer/who/reviewer/roles/unconventional/formerPractitioner
+		                - This means that the individual formerly engaged in practical work in a relevant research area.
+            - previously critiqued another Ciacci paper
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - No major decisions, actions, or goals accomplished. The next steps are unclear, though the reply in the _Journal of Population Economics_ is worth studying.
+    - By whom and how, and after what deliberations or conversations?
+        - NA
+    - Are there follow-ups or next steps for anyone involved?
+        - JP: I really need to engage in [[active participant observation]] here.
+            - cross-post on PubPeer, synthesizing my notes
+			- #inpeer/digitalEthnography/activePartObs/tell/how/pubpeer
+				- This means that I engaged in active participant observation by cross-posting content to PubPeer.
+				- Update: My comment did not pass moderation! It's seems #discussion/implications/peerReview/tools/pubpeer/badUX due to the lack of guidance on how to submit a good PubPeer comment.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLeXyPt4_ED.png?alt=media&token=242adb15-3499-4bf1-ab9d-14394710de11)
+            - engage with journal: not worth it now
+    - What were my feelings about its sophistication and ease of authoring?
+        - The Swedes with their verification/reproducibility check were were diligent and this was likely difficult to author.
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - JP: I checked 2024-11-07 and did not find any updates, corrections, notices, or a retraction. BTW, this was a viral study with a high altmetric score and 3k+ accesses (views?).
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - I am finding the most egregious examples from scholarly sleuths and have plenty of cases right now. One only needs to follow these sleuths to keep the stack piling up.
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - Yes, I cross-posted content to PubPeer.
+- **Reflection**: What was your experience in this session: as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+	- Brandon del Pozo noted, in the comments, that he previously consulted with practitioners and data managers to ensure that his models were plausible and claims/results sensible. This reminded me of [[member checking]] in qualitative research.
+	        - #inpeer/how/practices/review/paper/layers/empirical/rigor/methods/stakeholderEngagement/memberChecking
+		        - This means that scholars worked with stakeholders like participants and/or practitioners to ensure that the results and claims are sensible. This practice from qualitative research can also be applied to quantitative research.
+    - What was interesting or concerning or confusing?
+        - The regression discontinuity equation is beyond me and the associated statistical jargon is a job for another day.
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+	    - I found it a bit awkward to post on PubPeer because the markdown editor on the site is a bit dated and doesn't permit much editing. The ease of authoring needs to improve. I dumped my memo notes into Google Gemini Advanced, prompted for a summary, read each line of output to assess accuracy, and published the comment on PubPeer. The headers that Gemini provided are clear and noticeable. The text is also direct and informative with overwhelming readers with details. I added a few lines at various points myself for added context.
+		    - #discussion/implications/peerReview/tools/pubpeer/badUX
+			    - This means that the user experience (UX) of the PubPeer platform could be smoother by supporting writing more easily on a modern interface rather than an old-school forum initially designed in 2012.
+    - What are the implications for evolving:
+        - formal peer review?
+            - The journal thought that robustness checks and RD checks safeguarded results somehow against other threats to validity. Journals need to realize that studies must meet multiple criteria to be published.
+	            - #discussion/implications/peerReview/practices/social/educatePublishers
+		- This means that scholars need to better educate publishers about the depth of reviewing needs and 

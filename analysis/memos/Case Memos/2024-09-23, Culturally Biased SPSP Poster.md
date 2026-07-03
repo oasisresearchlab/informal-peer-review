@@ -1,0 +1,235 @@
+- memo
+    - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+        - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+            - PubPeer
+                - NA, it's a poster.
+            - Poster
+                - SPSP Conference site
+                    - [Poster 134: Reconsidering the 'Religion of Peace'](https://x.com/NafsiatMahir/status/1756017250837119213) by [[John F. Gaski]] (adjunct scholar, Indiana Policy Review Foundation, marketing scholar with Midwestern roots!)
+	                    - #inpeer/evdInfra/what/studyReports/poster
+		                    - This is a poster just like with InPeeR case: Time-restricted feeding, Gelman.
+						- #inpeer/who/reviewer/ideology/politics/conservative
+							- The scholar is a conservative.
+						- #inpeer/who/reviewer/roles/villain/firebrand
+							- This means that the scholar is a controversial figure who speaks their mind like John Gaski.
+						- #inpeer/who/reviewer/roles/unconventional/thinktankScholar,
+			                    - The scholar lives outside of the academic/higher education community like at a nonprofit, think tank, etc.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FF3Nzl81mos.png?alt=media&token=c5294299-03cc-4012-a944-c5e7f5673857)
+                - retracted, evidence is:
+                    - [Poster board](https://x.com/HumanPeacocking/status/1756082648785785327)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9Oedux8kg1.png?alt=media&token=63c24476-a8df-4d15-8b56-8604faf49ca3)
+            - Social Media
+                - [X/Twitter post](https://x.com/NafsiatMahir/status/1756017250837119213): [[Syed Muhammad Omar]] #inpeer/evdInfra/where/multimedia/microblog/twitter
+	                - #inpeer/who/reviewer/roles/employment/student , #inpeer/who/reviewer/roles/expert , #inpeer/who/reviewer
+                    - [https://x.com/NafsiatMahir/status/1756017250837119213](https://x.com/NafsiatMahir/status/1756017250837119213)
+                        - Markdown
+                            - --
+                            - created: 2024-09-19T14:38:34 (UTC -04:00)
+                            - tags: []
+                            - source: [https://x.com/NafsiatMahir/status/1756017250837119213/photo/1](https://x.com/NafsiatMahir/status/1756017250837119213/photo/1)
+                            - author:
+                            - --
+                            - # Syed Muhammad Omar سید محمد عمر on X: "I don't even know how to react to this. Genuinely, I am appalled and in tears as I write this. @SPSPnews [https://t.co/3iJCsIB1lJ"](https://t.co/3iJCsIB1lJ") / Twitter
+
+                            - > ## Excerpt
+                            - > I don't even know how to react to this. Genuinely, I am appalled and in tears as I write this.
+                            - --
+                            - ## Conversation
+
+                            - I don't even know how to react to this. Genuinely, I am appalled and in tears as I write this.
+                            - [
+                            - ![](Syed%20Muhammad%20Omar%20%D8%B3%DB%8C%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%85%D8%B1%20on%20X%20I%20don't%20even%20know%20how%20to%20react%20to%20this.%20Genuinely,%20I%20am%20appalled%20and%20in%20tears%20as%20I%20write%20this.%20@SPSPnews%20httpst.co3iJCsIB1lJ%20%20Twitter/FHJjs4p7_normal.jpg "Jay")
+                            - ]([https://x.com/metasdl)](https://x.com/metasdl))
+                            - He was cited in a white supremacist manifesto
+                            - what is the shocking part? (not a rhetorical Q... is the problem that Islam is being singled out? i dont think any major religion is a "religion of peace".. that can only be the case for "religions" that have no role in statecraft or politics, but orthodox Islam in particular
+                            - Show more
+                            - Bhai... This is a psychology academic conference. It's basic Muslims=backwards ideology masquerading as scientific research. It speaks more to how ideology seeps into knowledge production and perpetuates de-contextualized violence.
+                            - Quote
+                            - Society for Personality and Social Psychology
+                            - Thank you for raising this. We have removed this poster from our presentation schedule and it has been removed from Whova. We will be evaluating our review processes. x.com/NafsiatMahir/s…
+                            - Show more
+                            - This is beyond comprehension and every shred of human dignity. BTW, here is what Pew ACTUALLY found
+                            - [
+                            - ![](Syed%20Muhammad%20Omar%20%D8%B3%DB%8C%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%85%D8%B1%20on%20X%20I%20don't%20even%20know%20how%20to%20react%20to%20this.%20Genuinely,%20I%20am%20appalled%20and%20in%20tears%20as%20I%20write%20this.%20@SPSPnews%20httpst.co3iJCsIB1lJ%20%20Twitter/GF70fbwaMAAgCwF.jpeg "Image")
+                            - ]([https://x.com/tinereyna/status/1756109755414933524/photo/1)](https://x.com/tinereyna/status/1756109755414933524/photo/1))
+                            - Well done for calling it out ! And what was the process for approving this abstract ?
+                            - Men don't cry when their religious views are reported or surveys are conducted. Widespread Muslim support for terrorism isn't news, has been documented for decades. Gaza alone has been the focus of several surveys finding majority support.
+                            - When you pause crying, why don't you refute the claims advanced by the poster? In spite of the stridency of poster's rhetoric, the social scientific observation requires addressing, viz that a preponderance of practicing Muslims are actually inclined to support violence
+                            - Facts and data appall you?
+                            - [
+                            - ![](Syed%20Muhammad%20Omar%20%D8%B3%DB%8C%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%85%D8%B1%20on%20X%20I%20don't%20even%20know%20how%20to%20react%20to%20this.%20Genuinely,%20I%20am%20appalled%20and%20in%20tears%20as%20I%20write%20this.%20@SPSPnews%20httpst.co3iJCsIB1lJ%20%20Twitter/GF7b1w-bYAAbcUv.jpeg "Image")
+                            - ]([https://x.com/HumanPeacocking/status/1756082648785785327/photo/1)](https://x.com/HumanPeacocking/status/1756082648785785327/photo/1))
+                            - Islam is a religion of peace. If you disagree, we will cut off your head, like Abdoullakh Anzorov did to Samuel Paty.
+                            - Decolonial psych? Not sure about Islam, but you are definitely evil.
+                            - Quote
+                            - #zoo/bin/Academic colleagues - henceforth, if you unironically mention #zoo/bin/decolonization in your publications or syllabi, I will consider you #zoo/bin/Hitler\-adjacent supporters of #zoo/bin/Hamas butchers who promote beheading of babies, rape, kidnapping, torture, and burning people alive. Yours.
+                            - Show more
+                            - Please stop fathoming yourself as a "scholar." You are light-years away from being a scholar. Islam is a toxic religion. Time you grow up.
+                - X/Twitter post: @datepsych or Alexander
+		                - #inpeer/who/reviewer/roles/influencer/nonscholarly
+		                    - The individual is a scientific communicator/influencer. They may or may not have a large following on social media.
+                    - [https://x.com/datepsych/status/1756031576016576830](https://x.com/datepsych/status/1756031576016576830)
+                    - [[>]] Poster cancelled at the SPSP psych conference for questioning if Islam is a “religion of peace.” pic.twitter.com/dnQOOZrlO5 [🐦](https://x.com/datepsych/status/1756031576016576830) by Alexander on [[February 9th, 2024]]
+                - [Substack post: The Censorious Society for Personality and Social Psychology](https://unsafescience.substack.com/p/the-censorious-society-for-personality) by [[Lee Jussim]]
+                    - 2024-02-13
+                        - long-form conservative take-down of SPSP's poster retraction and apology,
+	                        - #inpeer/who/reviewer
+	                        - #inpeer/who/reviewer/roles/sleuth
+	                        - #inpeer/who/reviewer/roles/hero/sciReformer
+	                        - #inpeer/who/reviewer/roles/employment/tenured
+		                    - #inpeer/who/reviewer/ideology/politics/conservative
+				                - The scholar is a social conservative due to explicit statements and/or connections to socially conservative organizations.
+	                            - > "Ok, so Gaski’s claims in his poster look like they have some evidentiary grounds. As usual, perhaps there are other data that are relevant that could refute his claims. If you know of any, please let me know in the comments. But his poster is certainly not on obviously weaker empirical grounds than, say, common claims about “whiteness” or “unconscious racism” or microaggressions.
+	                            - > "_COPE provides no grounds for retraction_"
+	                            - > "Even if the Occupation poster did not exist, and or was immediately taken down, the removal of the Gaski poster is still censorship of science by scientists, and that is the key point of this post."
+                - [Substack post: SPSP Censorship 2.0: "We Are Above the Rules"](https://unsafescience.substack.com/p/spsp-censorship-20-we-are-above-the) by [[Lee Jussim]]
+                    - > "Of course, SPSP does not need to be bound by COPE, but, as far as I can tell, they have articulated no other grounds for retractions. So, whatever their grounds are for removing the poster, they are making it up after the fact to justify imposing their “values” via censoring the poster. To be sure, SPSP is formally a private organization.
+	                    - #discussion/implications/peerReview/standards/retracting
+		                    - The individual mentions COPE guidelines used by publishers to justify retractions and considers whether or not they are applicable in a particular situation.
+                    - > "This poster was _not_ what was accepted. It was sneakily slipped in (whether by the person who had a bona fide research presentation accepted or someone else remains unclear). Regardless, it is against SPSP’s own rules to present something very different than what was accepted. And yet, the paper on Pew surveys of Muslims was removed but this was not. What’s next? Getting a poster accepted because it reports new studies of the role of Bayesian reasoning in political judgments and replacing it with Lock Up Trump posters?
+        - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+            - Poster was retracted the very same day by SPSP (2024-02-09) and announced by their X/Twitter account on Syed's thread.
+                - [https://x.com/SPSPnews/status/1756027021657092398](https://x.com/SPSPnews/status/1756027021657092398)
+                    - Markdown
+                        - --
+                        - created: 2024-09-19T14:37:40 (UTC -04:00)
+                        - tags: []
+                        - source: [https://x.com/SPSPnews/status/1756027021657092398](https://x.com/SPSPnews/status/1756027021657092398)
+                        - author:
+                        - --
+                        - # Society for Personality and Social Psychology on X: "Thank you for raising this. We have removed this poster from our presentation schedule and it has been removed from Whova. We will be evaluating our review processes." / Twitter
+
+                        - > ## Excerpt
+                        - > Tweet
+                        - --
+                        - ## Tweet
+
+                        - ## Conversation
+
+                        - Thank you for raising this. We have removed this poster from our presentation schedule and it has been removed from Whova. We will be evaluating our review processes.
+                        - Quote
+                        - Syed Muhammad Omar سید محمد عمر
+                        - I don't even know how to react to this. Genuinely, I am appalled and in tears as I write this. @SPSPnews
+                        - [
+                        - ![](Society%20for%20Personality%20and%20Social%20Psychology%20on%20X%20Thank%20you%20for%20raising%20this.%20We%20have%20removed%20this%20poster%20from%20our%20presentation%20schedule%20and%20it%20has%20been%20removed%20from%20Whova.%20We%20will%20be%20evaluating%20our%20review%20processes.%20%20Twitter/FHJjs4p7_normal.jpg "Jay")
+                        - ]([https://x.com/metasdl)](https://x.com/metasdl))
+                        - Why exactly are you censoring this poster? Please give reasons instead of just feelings.
+                        - The only thing appalling about this is that it was removed for apparently no reason other than being a taboo question.
+                        - Eliminate the DEI commitments in your organization
+                        - You should denounce yourself from any notion of seeking truth or to any semblance to science. How the hell did it come to be that you CONDONE fragility, which atrophies human potential in a civilized, multi-pluralistic society? Is anyone around anymore from before this myopic,
+                        - Show more
+                        - Why did you remove it? Your political ideology can enjoy no privilege, and has no place here. If your ideology drives you to censor facts, then it's incompatible with psychological science or any science. Concealing support for terrorism is obviously dangerous.
+                        - What is this SPSP? Subscribing to religious dogma? What happened to the scientific method? Are some questions forbidden!?
+                        - Appalled that this managed to get through review! Not good enough,
+                        - .
+                        - What you ought evaluate is the process that produced this cowardly response. Reinstate the poster or be recognized as an entity unwilling to work with free minds, and then fade into oblivion.
+                        - The person who complained, is "decolonizing psych"? On what basis do you admit such people into your society? How and why is he in a PhD program? Are you a scientific society or a mosque?
+                        - [
+                        - ![](Society%20for%20Personality%20and%20Social%20Psychology%20on%20X%20Thank%20you%20for%20raising%20this.%20We%20have%20removed%20this%20poster%20from%20our%20presentation%20schedule%20and%20it%20has%20been%20removed%20from%20Whova.%20We%20will%20be%20evaluating%20our%20review%20processes.%20%20Twitter/GGBgaPVXQAAMbv7.jpeg "Image")
+                        - ]([https://x.com/SocialImpurity/status/1756509865227211252/photo/1)](https://x.com/SocialImpurity/status/1756509865227211252/photo/1))
+                        - What is the factual basis for the removal? What information are you disputing?
+                        - Are you doing science or religious/political censorship?
+                        - While you do, I hope some more immediate response—care, support, recompense—can be quickly provided to those impacted.
+                        - SPSP wears the skin of science as a costume. Some dude’s “tears” about survey results shouldn’t be relevant to real scientists.
+                        - SPSP is not a scientific organization. Just promoting feel good dogma.
+                        - I hope you can finalize your review within days and publish a statement. This is shocking.
+            - SPSP Blog Posts
+                - [SPSP Blog Post: SPSP Updates Code of Conduct and Clarifies Policies for Convention Poster Displays](https://spsp.org/news/spsp-news/convention-poster-display-policy-clarification)
+                    - **Note:** SPSP is releasing two separate statements addressing concerns raised at the recent Annual Convention. Developing these statements involved careful consideration and input from various individuals. The separate release reflects the unique nature of each issue being addressed.
+                        - 2024-02-27
+                            - > "The SPSP Board of Directors has recently updated our [Code of Conduct](https://spsp.org/code-of-conduct) to clarify that **^^SPSP does not have any role or authority in investigating or adjudicating grievances for issues occurring outside of SPSP events or platforms (e.g., social media, and other events not hosted by SPSP)^^**. If there is a finding from an external institution or other entity that conduct occurred that violates our Code of Conduct, we then consider whether such conduct should trigger any action within SPSP."
+                            - > "We want to address concerns raised about the misuse of a poster presentation area during the recent SPSP Annual Convention. **^^The display presented was not the poster presentation that was accepted for the program, nor was the display authorized by SPSP. The poster areas are dedicated to presenting the scientific research accepted for the conference. The poster areas are not a platform for other forms of expression^^**, and we deeply apologize for any distress this unauthorized display caused attendees and for the length of time that the unauthorized display was visible."
+                            - future, prevention
+                                - > "we are reviewing our guidelines for poster presentations and exploring additional measures for ensuring adherence."
+                - [SPSP Blog Post: SPSP Addresses Convention Poster Concerns and Outlines Next Steps](https://spsp.org/news/spsp-news/convention-poster-concerns-next-steps)
+                    - **Note:** SPSP is releasing two separate statements addressing concerns raised at the recent Annual Convention. Developing these statements involved careful consideration and input from various individuals. The separate release reflects the unique nature of each issue being addressed.
+                    - 2024-02-29
+                        - reason for retraction:
+                            - > "Many attendees raised concerns about this poster after seeing the abstract on our online convention platform. In response, the poster abstract was reviewed. Based on that review which revealed a **^^lack of scientific rigor in the reporting of the results and a disconnect between the claims made in the abstract and the evidence provided in the data set^^**, SPSP retracted the poster. While SPSP removed the poster from our convention platform and did not display the presentation onsite, it had already been viewed by convention attendees, members, as well as others in our community."
+							#inpeer/evdInfra/impacts/reactions/publishers/revisions/admitsLowRigor
+		                            - The reason for a retraction is a stated lack of scholarly rigor, as when a publication uses faulty theorizing, study design, and/or analyses.
+	                            - #clippings/cscw/credibility/resultsMismatchClaims
+		                            - The claims and results do not match.
+                        - reviewing criteria, reviewer burden
+                            - > "Single presenter podium submissions (such as this one) are **^^evaluated by three volunteer reviewers, who are SPSP members with a PhD. Reviewers receive around 30 submissions to review.^^** Reviewers score three scientific criteria during evaluation: strength and rigor, contribution, and interest value. Separately, reviewers score the diversity, equity, inclusion, and/or anti-racism statements. More details about each of these criteria are available [on the SPSP website](https://spsp.org/events/annual-convention/submissions/evaluation-selection-process)."
+	                            - #inpeer/who/reviewer/roles/reviewer/formal/highLoad
+		                            - Reviewers have a high load/burden of submissions to evaluate.
+                        - acceptance difficulty
+                            - > "**^^accepts roughly 44% of single presenter wwwsubmissions, on average^^**. Submissions that do not score highly enough to be accepted as a single presenter talk are then considered for poster submissions (if the submitter indicated they wished to be considered for a poster). Single presenter submissions that score high enough to clear the threshold for acceptance as a poster are then added to the program. **^^SPSP accepts 99% of poster submissions, on average^^**."
+	                            - #inpeer/evdInfra/problems/publishing/laxStandards/authors
+		                            - The standards for conference posters, indexed by the high acceptance rate (99%), is lax.
+        - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+            - The seem to be few risks for Syed and Lee Jussim for doing this type of cultural InPeeR. The rewards for Syed are raising awareness of Islamophobia and inducing a retraction. For conservatives like Lee, it may simply be another step in their journey towards voicing the issues progressives fail on.
+	            - #inpeer/evdInfra/what/studyReports/poster/sensitiveTopic
+		            - The case being discussed involves a sensitive topic such as concerning a culture, minority, ethical matter, etc.
+				- #inpeer/why/benefits/review/intrinsic/identityBased
+					- The personal identity of the individual motivated them to engage in informal peer review.
+        - Sociology of Science:
+            - intersections with science reform structures and movements
+                - The DEI movement in academia, which I would consider strong in the psychological sciences, should have prevented such a poster from being disseminated. It appears that the actual poster was not the one promised by the author Gaski. Thankfully, the retraction was swift and formal with numerous social media posts apologizing and explaining the error. It is unclear how it could be prevented in the future, as the bait-and-switch tactic was also used for poster no.158 for a Free Palestine poster. It appears that the social media posts Lee noted in his Substack posts offer diverse appraisals from liberal, conservative, and moderate academics. Tage Rai and others side with SPSP, whereas Tom Carpenter is the moderate.
+	                - #inpeer/evdInfra/impacts/reactions/meta/dynamics/viral
+                - Lee Jussim has been part of an early science reform movement since 2012 (Stanford), [compiling Best Practices](https://web.archive.org/web/20240731083518/https://web.archive.org/web/20181216201724/http://bps.stanford.edu/) with [[Simine Vazire]]!
+	                - #inpeer/who/reviewer/roles/hero/sciReformer,
+	                - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate
+            - intersections with institutional and power structures
+                - SPSP is the largest social and personality psychology society. They seem to have the power to suggest reforms and require diversity and equity statements. It certainly seems as though they are enforcing a strong liberal agenda in their conferences.
+					- #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
+						- The outcome was a swift retraction meaning within minutes, hours, days, or a 1-4 weeks.
+					- #zoo/scholarlySociety
+						- A scholarly society (e.g. SPSP, APA, CHI, CSCW) is directly involved in the case.
+        - Storytelling: What is the style/genre/frame of critical appraisal?
+            - [[AdvisoryCriticalAppraisal]] ? ExpressiveCriticalAppraisal
+		            - #inpeer/how/practices/review/paper/frames/affective
+                - JP: He begins by expressing his emotional reaction and explaining the reason for his feelings.
+                - [[>]] Bhai... This is a psychology academic conference. **^^It's basic Muslims=backwards ideology masquerading as scientific research^^**. It speaks more to how **^^ideology seeps into knowledge production and perpetuates de-contextualized violence^^**. [🐦](https://x.com/NafsiatMahir/status/1756024301244088474) by Syed Muhammad Omar سید محمد عمر on [[February 9th, 2024]]
+	                - #inpeer/how/practices/review/paper/frames/advisory
+    - **Observer**: Jay Patel
+    - **Date of Observation**: Feb/March initially and coding [[September 23rd, 2024]] after a few days of holding the thought down
+    - **Duration of Observation**: one day to note, 2-3 days to code
+    - **Event or Activity Observed**: appraisal...
+    - **Description**: We will ask ourselves:
+        - How was the case discovered?
+            - JP discovered this on his X/Twitter feed during his daily browsing.
+            - Syed seems to have discovered this online or at SPSP. He's a Ph.D. student in Social Psychology at the University of Kansas.
+        - Was the observation a partial or a complete session?
+            - complete session
+        - What occurred? Which concerns were raised and by whom?
+            - Syed Omar discussed a racially biased poster singling Islam as a religion of violence, not peace. He was offended and voiced his emotional distress on X/Twitter. He received polarizing reactions with some commenters quote tweeting and expressing sympathy. Others expressed confusion about what was so wrong about the poster, claiming that no harm was committed and implying that the claims were true.
+        - Who participated?
+            - [[Syed Muhammad Omar]], @datepsych, Lee Jussim
+        - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+            - SPSP issued a poster retraction and apology with an explanation across two blogs posts and one tweet.q
+        - By whom and how, and after what deliberations or conversations?
+            - SPSP made the key decision with conservatives like Lee Jussim critiquing SPSP for scientific censorship.
+        - What are their roles and skills?
+            - Syed's role as a Muslim, international, Pakistani student in social psych led me to notice the poster. He did not need to launch into a formal historical and philosophical InPeeR, but noted his emotions then replied to questions from other Twitter users.
+        - Are there follow-ups or next steps for anyone involved?
+            - SPSP needs to figure out how to prevent this sort of thing from occurring in the future.
+        - What were my feelings about its sophistication and ease of authoring?
+            - The emotional toll to author something like this must have been significant, but I'm sure it was a powerful enough need that he could do it spontaneously without doubting himself. For conservatives like Lee Jussim, he's a tenured professors at an R1 university and he can author whatever he likes with ease. He's been researching censorship and related matters for some time.
+	            - #inpeer/who/reviewer/ideology/politics/conservative>.....
+        - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+            - Retraction: poster same day. It seems that retracting it from the conference (Whova) website is easy and it seems that SPSP posters aren't archival. I couldn't find it by searching around. The author did end up publishing his claims in a low-tier humanities journal, though.
+	            - #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
+		            - This means that the outcome of one or more informal peer reviews was a swift  retraction spanning minutes, hours, days, or just 1-4 weeks.
+        - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+            - These posts likely appear once-in-a-blue moon and the recent Israel-Hamas conflict may have precipitated Gaski's poster. I'm unsure of how many such incidents exist. This is the first time I've seen something like this.
+        - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+            - No, time has passed and I cannot engage in meaningful active participant observation. I may do so if a similar case arises.
+    - **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
+        - What stood out to you about this session, in light of our research problem?
+            - I originally missed Lee Jussim's take on this and now know the value of waiting a few days to weeks, returning to search for InPeeR reactions, and note them down. Note of implications section of #zoo/bin/CSCW2025InPeeRPaper and #zoo/bin/IntegrativePaper2024JP.
+        - What was interesting or concerning or confusing?
+            - This case features posters and social issues like DEI/bias and that does not often come across my feed!
+        - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+            - I almost missed including this case, but remembered due to the recent [[InPeeR case: Time-Restricted Feeding]].
+        - What are the implications for evolving:
+            - formal peer review?
+                - Let's definitely ensure that the promised research artifact is delivered during the conference, not something else.
+	                - #discussion/implications/peerReview/practices/cognitive/alignStudyPlanwithSubmission
+		                - This is inspiration for improving reviewing by checking to ensure that the plan (e.g. poster/talk/paper abstract matches the eventual content in the poster/talk/paper)
+		                - related to? #inpeer/how/practices/review/paper/layers/empirical/rigor/intConsistency/preregDev
+            - informal peer review?
+                - Let's use the power of social media to surface issues early for conferences, instead of three highly expert Ph.Ds. Let anyone review at anytime from the very beginning.
+	                - #discussion/implications/peerReview/practices/social/coordinateConferences
+		                - This is inspiration for improving reviewin

@@ -1,0 +1,88 @@
+---
+url: https://bsky.app/profile/jbakcoleman.bsky.social/post/3kophjigqwl2f
+sites: "[[bluesky - general]]"
+---
+
+
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - See other memos
+	            - #inpeer/evdInfra/where/multimedia/pubpeer/sparse
+        - Paper
+            - [[@protzko2024high]]
+        - Social Media
+            - [BSky Post](https://bsky.app/profile/jbakcoleman.bsky.social/post/3kophjigqwl2f): [[Joe Bak-Coleman]] deleted! #inpeer/evdInfra/where/multimedia/microblog/bluesky
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGqQ-mKVOuG.png?alt=media&token=cd0d5e26-9980-4956-ae25-6c1389c2afde)
+                - #inpeer/evdInfra/where/multimedia/microblog/bluesky
+                - #inpeer/how/practices/sociotechnical/technical/deletedPost
+	                - This means that an individual or organized deleted a post relevant for informal peer review.
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - retractions
+	        - #inpeer/evdInfra/impacts/reactions/publishers/revisions
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - Joe is doing this for the intrinsic motivation of correcting the scholar record and now find that a colleague, Berna Devezer, is being falsely named as a (formal) peer reviewer.
+	        - #inpeer/why/benefits/review/intrinsic
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - Joe is a metascientist and cross-disciplinary social and biological scientist.
+	            - #inpeer/who/reviewer/roles/expert/fields/metascientist
+        - intersections with institutional and power structures
+            - He is, however, early in his career and fighting the open science pioneers in pointing out the issues in the NHB High replicability paper.
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - He engaged in destructive critical appraisal and was outed as a formal (peer) reviewer.
+	        - #inpeer/how/practices/review/paper/frames/destructive
+- **Observer**: Jay Patel
+- **Date of Observation**: [[March 27th, 2024]], but analyzing in a structured way [[October 17th, 2024]]
+- **Duration of Observation**: two days, nonconsecutive
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - JP's timeline.
+        - These metascientists follow each other online and so it's not surprising that a story this big would break.
+    - Was the observation a partial or a complete session?
+        - complete session
+    - What occurred? Which concerns were raised and by whom?
+        - Lakens tweeted his dissenting opinion of Jessica Hullman's blog post in [[Statistical Modeling, Causal Inference, and Social Science]]. He named Joe and Berna as reviewers and claimed that Hullman wasn't up to speed on the second stage of review induced by Joe's additional commentary.
+	        - #inpeer/evdInfra/impacts/harms/reviewers/confidentialityLost
+		        - This means that an individual or organization was outed as a formal (peer) reviewer, a significant harm of informal peer reviewing.
+			- #inpeer/why/risks/reviewer/confidentialityLost
+				- This means that there is the possible risk of breaking a publisher's reviewer confidentiality because of informal peer reviewing.
+        - Joe then quote-tweeted Lakens and claimed that his thread exemplified the reason why people don't publicize scientific concerns. He was outed as a reviewer and Berna was too, even though she wasn't involved.
+    - Who participated?
+        - [[Daniël Lakens]]
+        - [[Jessica Hullman]]
+        - [[Joe Bak-Coleman]]
+        - [[Berna Devezer]]: mentioned
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - ...
+    - By whom and how, and after what deliberations or conversations?
+        - ...
+    - What are their roles and skills?
+        - See previous memos: metascientists, statistically savvy, tenured, mix of disciplines like CS, HCI, ecology, statistics, marketing, metascience
+    - Are there follow-ups or next steps for anyone involved?
+        - Lakens should have apologized for this thread, but we had to wait until Stephanie Lee's article in [The Chronicle of Higher Education: This Study Was Hailed as a Win for Science Reform. Now It's Being Retracted.](https://www.chronicle.com/article/this-study-was-hailed-as-a-win-for-science-reform-now-its-being-retracted)
+            - Lakens apologized:
+                - > "Devezer said it was “careless” of Lakens to incorrectly name her. And Bak-Coleman was upset at being identified. “This is a community where there’s been a lot of discussion of the need to protect whistle-blowers,” he said, pointing to the outpouring of support that the Data Colada scholars received in the face of a defamation lawsuit. **==Lakens’s post, given that he was assisting with the investigation, was “beyond the pale of what’s normal and acceptable in science.” “I should have not tweeted about it,” Lakens said in an interview, referring to the investigation,==** “and only stuck with what was publicly known.” He said that **==he regretted erroneously naming Devezer, and that he had deleted his replies to Hullman after the journal told him that he’d violated confidentiality rules. “It was a super-stupid thing to do,” he said."==**
+    - What were my feelings about its sophistication and ease of authoring?
+        - This must have been easy to author technologically, but I can imagine the emotional strain.
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - The microblogging posts were not enough to induce a retraction, but the Matters Arising article coincided with the paper's retraction day.
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - I see parallels with what [[Data Colada]] experienced. They had to deal with a huge lawsuit, however!
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - No
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - ?
+    - What was interesting or concerning or confusing?
+        - How did Lakens know that Hullman was a reviewer along with Bak-Coleman? Shouldn't reviewers be blind to each other?
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - Lakens has a COI with Protzko: they co-authored a metascientific preprint recently. Some very basic reviewing reforms could have corrected this mess. Just initiate crowdsourced peer review from the start and prevent the need for research waste polluting the literature.
+    - What are the implications for evolving:
+        - formal peer review?
+            - Journal reviewing confidentiality policies seem easy to break. Maybe they should be stricter. What are the consequences for breaking them?
+	            - #discussion/implications/peerReview/practices/social/enforceConfidentiality
+		            - This means that publishers need to enforce reviewers' confidentiality policies more strongly.
+        - informal peer review?
+            - Platforms supporting informal peer review ought to develop codes of conduct that require agreeing to confidentiality rules.

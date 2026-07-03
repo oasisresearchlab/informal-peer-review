@@ -1,0 +1,293 @@
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - [None yet](https://pubpeer.com/publications/6B67B6B2A7E71C8AFA9DC3587F403C)
+	            - #inpeer/evdInfra/where/multimedia/pubpeer/unused
+        - Paper
+            - [[@zwebner2024can]]
+        - Social Media
+            - Twitter: [[Kevin A. Bryan]] #inpeer/evdInfra/where/multimedia/microblog/twitter
+                - [[>]] The hardest thing to explain to non-academics is how different technical rigor is across fields. Here's (yet another) article in PNAS, of course handled by Fiske, of course in psych, that we would have desk rejected. Paper is "Can Names Shape Facial Appearance?" 1/n [🐦](https://x.com/Afinetheorem/status/1818297553143595223) by Kevin A. Bryan on [[July 30th, 2024]]
+                    - Markdown
+                        - --
+                        - created: 2024-07-30T15:52:11 (UTC -04:00)
+                        - tags: []
+                        - source: [https://x.com/Afinetheorem/status/1818297553143595223](https://x.com/Afinetheorem/status/1818297553143595223)
+                        - author:
+                        - --
+                        - # Kevin A. Bryan on X: "The hardest thing to explain to non-academics is how different technical rigor is across fields. Here's (yet another) article in PNAS, of course handled by Fiske, of course in psych, that we would have desk rejected. Paper is "Can Names Shape Facial Appearance?" 1/n" / X
+
+                        - > ## Excerpt
+                        - > Post
+                        - --
+                        - ## Post
+
+                        - ## Conversation
+
+                        - The hardest thing to explain to non-academics is how different technical rigor is across fields. Here's (yet another) article in PNAS, of course handled by Fiske, of course in psych, that we would have desk rejected. Paper is "Can Names Shape Facial Appearance?" 1/n
+                        - [
+                        - ![](Kevin%20A.%20Bryan%20on%20X%20The%20hardest%20thing%20to%20explain%20to%20non-academics%20is%20how%20different%20technical%20rigor%20is%20across%20fields.%20Here's%20 "Jay Patel")%20article%20in%20PNAS,%20of%20course%20handled%20by%20Fiske,%20of%20course%20in%20psych,%20that%20we%20would%20have%20desk%20rejected.%20Paper%20is%20Can%20Names%20Shape%20Facial%20Appearance%201n%20%20X/FHJjs4p7_x96.jpg)
+                        - ]([https://x.com/metasdl)](https://x.com/metasdl))
+                        - The question is (and I have no idea why we care, to be honest) whether names match facial appearance, even if we go beyond gender/race/obv religion. Their headline result? Yes, but only for adults, so people "grow into" their faces. 2/n
+                        - How? Show < 200 people a series of 30-40 faces, ask multiple choice Q of what the name is. Problem 1: responses obviously not independent across clusters. Are standard errors clustered? Who knows - not reported. From the p-values, though, I strongly suspect the answer is no. 3/n
+                        - What about "forking paths", multiple hypotheses only showing "significant" ones? Second study is preregistered. Click on the links: they're dead. I can't find the prereg by searching Google either. Surely they did one, but how can PNAS not even bother to click links to check? 4/n
+                        - Let's look at the prereg study. Of course, p-value literally on the absolute edge of significance (again, seemingly not clustered anyway). Obviously. And this was an online study, preregistered, where power could be selected - still, tiny sample size. 5/n
+                        - [
+                        - ![](Kevin%20A.%20Bryan%20on%20X%20The%20hardest%20thing%20to%20explain%20to%20non-academics%20is%20how%20different%20technical%20rigor%20is%20across%20fields.%20Here's%20 "Image")%20article%20in%20PNAS,%20of%20course%20handled%20by%20Fiske,%20of%20course%20in%20psych,%20that%20we%20would%20have%20desk%20rejected.%20Paper%20is%20Can%20Names%20Shape%20Facial%20Appearance%201n%20%20X/GTvinYLXcAAD5Fm.jpeg)
+                        - ]([https://x.com/Afinetheorem/status/1818297558738907564/photo/1)](https://x.com/Afinetheorem/status/1818297558738907564/photo/1))
+                        - To understand the clustering issue: adult names guessed right 27% of time. Imagine one single face was unusually predictive (say, 40% guess right), and every other face is randomly associated with names. You'd get 27% overall! But N=1 drives this. 6/n
+                        - I have friends in psych and marketing who are driven crazy by this. There is an old guard in the field that insists on dozens of publications, hence you get unimportant questions, questionable statistics, and shortcuts (to say nothing of the famous cases of fraud last year!). 7/n
+                        - Any reasonable person would bet against this replicating (and who cares if it did!). And yet, it's published in one of the most prestigious journals in science. Gelman has been pointing out this issue in PNAS for years, and nothing changes. Paper link: [pnas.org/doi/10.1073/pn](https://t.co/83NRcLL6T2) 8/8
+                        - (And to be clear, I'm not blaming the authors - they are responding to incentives in the field. Start insisting on technical accuracy in places like PNAS, and you'll get better papers!)
+                        - (and btw if you're clever you noticed that in the image I linked, for child images the name is guessed \*wrong\* in a "significantly" different way from random. No theoretical reason why so it's glossed over. But the reason is that standard error are not clustered hence too small!)
+                        - On the PNAS review form they ask something like "Is this of general scientific interest?" Really want to know who these reviewers were who enthusiastically marked "Yes!"
+                        - My experience with PNAS is that it is way way way way more editor dependent than referee. Aren't a nontrivial number solicited?
+                        - Don’t cast such wide aspersions. Some psychology is deep and rigorous.
+                        - 100%. This is why I mentioned in the thread how frustrated my friends in psych trying to do rigorous work get when stuff like this is published in PNAS
+                        - Also isn’t the easier explanation that names and appearances are correlated with culture and maybe these cultural facial differences are more distinct for adults. Like wouldn’t be hard to tell Chang from Jose. I imagine facial features could be just less distinct for kids?
+                        - I believe the study was in Israel and they tried to use a more homogenous population
+                        - Thanks. Do you think the hypothesis is fundamentally flawed? I don’t, basically because humans are so complex… which also makes psych testing (and polls) so vexing. PS: anyone with a bit of sci literacy should know physics papers != psych (or econ) papers.
+            - Twitter: [[Eiko Fried]] referencing [[Daniël Lakens]] #inpeer/who/reviewer/roles/sleuth , #inpeer/who/reviewer/roles/hero/sciReformer
+                - [[>]] PNAS at it again, this is time with p-values of 0.06 (yes) and 0.03 to corroborate their hypotheses. ¯\_(ツ)_/¯ [https://t.co/bkfDTmtN4m](https://t.co/bkfDTmtN4m) [🐦](https://x.com/EikoFried/status/1818219351805202842) by Eiko Fried on [[July 30th, 2024]]
+            - Twitter: [[Daniël Lakens]] #inpeer/who/reviewer/roles/sleuth , #inpeer/who/reviewer/roles/hero/sciReformer
+                - [[>]] Can they? Published in PNAS 🚩Edited by Susan Fiske🚩None of the link to preregs are public in publication🚩difference between significant and non-significant is itself not significant errors 🚩marginally significant results interpreted as support for hypothesis 🚩and then some [https://t.co/6n8aJ2DSuo](https://t.co/6n8aJ2DSuo) pic.twitter.com/c0eVKnlUfK [🐦](https://x.com/lakens/status/1818215189478519060) by Daniël Lakens on [[July 30th, 2024]]
+                    - Markdown
+                        - --
+                        - created: 2024-07-30T19:36:37 (UTC -04:00)
+                        - tags: []
+                        - source: [https://x.com/lakens/status/1818215189478519060](https://x.com/lakens/status/1818215189478519060)
+                        - author:
+                        - --
+                        - # (1) Daniël Lakens on X: "Can they? Published in PNAS 🚩Edited by Susan Fiske🚩None of the link to preregs are public in publication🚩difference between significant and non-significant is itself not significant errors 🚩marginally significant results interpreted as support for hypothesis 🚩and then some [https://t.co/c0eVKnlUfK"](https://t.co/c0eVKnlUfK") / X
+
+                        - > ## Excerpt
+                        - > Post
+                        - --
+                        - ## Post
+
+                        - ## Conversation
+
+                        - [
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/GTuYXuvXIAIAR2R.png)
+                        - ]([https://x.com/lakens/status/1818215189478519060/photo/1)](https://x.com/lakens/status/1818215189478519060/photo/1))
+                        - Quote
+                        - Replying to @NeuroscienceNew
+                        - “Can names shape facial appearance?” by Yonat Zwebner et al. PNAS pnas.org/doi/10.1073/pn 3/3
+                        - Show more
+                        - [
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/FHJjs4p7_bigger.jpg)
+                        - ]([https://x.com/metasdl)](https://x.com/metasdl))
+                        - This Post is from an account you muted.
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/1f6a9.svg) "marginally significant results interpreted as support for hypothesis" Source: %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/1f446.svg)
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/1f6a9.svg) "If you think there is a difference between a 4.8% (significant!) and 5.2% (not significant!), you are taking it too seriously." Source: [allendowney.blogspot.com/2011/05/there-](https://t.co/8XlfoauKtO)
+                        - This Post is from an account you muted.
+                        - This Post is from an account you muted.
+                        - none of the CIs include the point estimate %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/1f602.svg "Face with tears of joy")
+                        - This Post is from an account you muted.
+                        - Say you ran 4 studies, two tests per study. All 8 results are in the same direction, 7 significant and one p=0.06. Would you not publish? I would but would maybe add a notice regarding that one result recommending caution. But definitely of value IMO
+                        - This Post is from an account you muted.
+                        - Why do you consider edition by Susan Fiske as a read flag?
+                        - This Post is from an account you muted.
+                        - Isn't the difference between the significant and non significant conditions reported and significant? It seems to be in the screenshot.
+
+                        - Discover more
+                        - Sourced from across X
+                        - PNAS at it again, this is time with p-values of 0.06 (yes) and 0.03 to corroborate their hypotheses. ¯\\\_(ツ)\_/¯
+                        - This Post is from an account you muted.
+                        - me after writing and deleting one sentence in a manuscript
+                        - [
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/GTpi-yZXsAAQY4q.jpeg)
+                        - ]([https://x.com/Prokaryota/status/1817874674459594865/photo/1)](https://x.com/Prokaryota/status/1817874674459594865/photo/1))
+                        - I'm sorry but requiring ORCID IDs for all authors is a tad ridiculous. I can't hunt down every undergrad when some of them graduated two plus years ago
+                        - It's shocking how widely accepted Maslow's Hierarchy of Needs is in both the psych field & public consciousness… 70 years after its inception… Given the little empirical support it actually has. Here's what his then student Elliot Aronson had to say about his theory:%20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/1f9f5.svg "Thread")
+                        - [
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/GTwAMCragAAvTJT.jpeg)
+                        - ]([https://x.com/kaidi_wu/status/1818330915850097092/photo/1)](https://x.com/kaidi_wu/status/1818330915850097092/photo/1))
+                        - Official Neuroscience News Twitter. Brain research news articles on neuroscience, psychology, AI, neurology, brain cancer, robotics, mental health & science.
+
+                        - Live on X
+                        - ## Trending now
+
+
+                        - What’s happening
+                        - %20Dani%C3%ABl%20Lakens%20on%20X%20Can%20they%20Published%20in%20PNAS%20%F0%9F%9A%A9Edited%20by%20Susan%20Fiske%F0%9F%9A%A9None%20of%20the%20link%20to%20preregs%20are%20public%20in%20publication%F0%9F%9A%A9difference%20between%20significant%20and%20non-significant%20is%20itself%20not%20significant%20errors%20%F0%9F%9A%A9marginally%20significant%20results%20interpreted%20as%20support%20for%20hypothesis%20%F0%9F%9A%A9and%20then%20some%20httpst.coc0eVKnlUfK%20%20X/zQ70R1to.jpeg)
+                        - Trending in United States
+                        - Hotties for Harris
+                        - 5,838 posts
+                        - Trending in United States
+                        - Xmail
+                        - 10.9K posts
+                        - Trending in United States
+                        - #zoo/bin/ElonIsWeird
+                        - 4,583 posts
+                        - SAY IT TO MY FACE
+                        - 3,908 posts
+            - Twitter: Neuroscience News  #zoo/discovery/sciJourSocialMedia
+                - [[>]] Study Finds Faces Evolve to Match Names Over Time A new study reveals that people's faces tend to evolve to match their names, influenced by social expectations. Researchers found that adults' faces could be accurately matched to their names, while children's faces could not.… pic.twitter.com/vMLVQn4nJd [🐦](https://x.com/NeuroscienceNew/status/1818040431902589206) by Neuroscience News on [[July 29th, 2024]]
+	                - #inpeer/evdInfra/problems/sciComm/uncritical
+                    - Markdown
+                        - --
+                        - created: 2024-07-30T19:08:41 (UTC -04:00)
+                        - tags: []
+                        - source: [https://x.com/NeuroscienceNew/status/1818040431902589206](https://x.com/NeuroscienceNew/status/1818040431902589206)
+                        - author:
+                        - --
+                        - # Neuroscience News on X: "Study Finds Faces Evolve to Match Names Over Time A new study reveals that people's faces tend to evolve to match their names, influenced by social expectations. Researchers found that adults' faces could be accurately matched to their names, while children's faces could not. [https://t.co/vMLVQn4nJd"](https://t.co/vMLVQn4nJd") / X
+
+                        - > ## Excerpt
+                        - > Post
+                        - --
+                        - ## Post
+
+                        - ## Conversation
+
+                        - Study Finds Faces Evolve to Match Names Over Time A new study reveals that people's faces tend to evolve to match their names, influenced by social expectations. Researchers found that adults' faces could be accurately matched to their names, while children's faces could not. Machine learning confirmed that adults with the same name have similar facial features. This suggests that social stereotypes play a significant role in shaping our appearance over time. 1/3
+                        - [
+                        - ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/GTr6EbGW8AA2Kwz.jpeg "This shows men's faces.")
+                        - ]([https://x.com/NeuroscienceNew/status/1818040431902589206/photo/1)](https://x.com/NeuroscienceNew/status/1818040431902589206/photo/1))
+                        - [
+                        - ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/FHJjs4p7_normal.jpg "Jay Patel")
+                        - ]([https://x.com/metasdl)](https://x.com/metasdl))
+                        - Study Finds Faces Evolve to Match Names Over Time A new study finds that our faces evolve to match our names due to social expectations. Discover how social stereotypes shape our appearance over time. [neurosciencenews.com/name-face-evol](https://t.co/4I5Om1z8sR) 2/3
+                        - Any identical twins out there want to chime in on this?
+                        - More likely : High IQs give High IQ names, which match their High IQ physiognomy appearing over age (as the Wilson effects can mask it until adulthood).
+                        - I'm excited to find out what variety of statistical misapplication is driving this.
+                        - I want to see the metaface of "Bryan"
+                        - Naming my first-born son Adolf Hitler
+                        - Seems a bit overstated as a trendy article of interest to some but not so much for individuals with self awareness that comes from comparisons to others around them.
+                        - lmao
+                        - take a look at this garbage also cc
+                        - Names vary by social class which might have morphological relevance.
+                        - You can’t post this study and not also list which names will make your kid ugly. Cmon, sloppy research
+                        - 5% greater than chance at guessing for adults...
+                        - I met a lady who owned a Bernese mountain dog, and she would catch herself putting a brown sweater over a white blouse and black pants.
+                        - The usual correlation means causation fallacy. Could easy also be that families pick names for their offspring shaped on common inherited characteristics.
+                        - My face evolved into laughter upon reading this
+                        - How did this get published ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/1f62d.svg "😭") what is going on at PNAS
+                        - I saw a few name-specific modal music suggestions while researching old information. I think it is related to temperament theory. Each sound has a temperament. The temperament alloy formed by a certain series or combination of sounds that are frequently used may affect the person
+                        - I’ve always had a theory that people’s personalities often reflect what they see in the mirror day in and day out.
+                        - The simplest explanation is usually the best, but you have to find it first (it's not in the comments). It's much easier to jump to a weird conclusion.
+                        - ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/1f914.svg "🤔")![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/1f644.svg "🙄")
+                        - Wow, I feel smart trusting The Science!
+                        - Let's see if the study results can be replicated.
+                        - I'd be intrigued to try it out. Elon Musk has always been innovative, and if his search engine prioritizes unbiased results, it could be a game-changer.
+                        - I found that pronunciation and language changed the anatomy of the face.
+                        - In Buddhism, personality and character shape a person’s face during the adulthood, calmness, benevolence, friendliness … relax facial muscles. Nowadays, it must be done by remote directed energy mind control which mutilates a person’s skin and muscles [electronictorture.com](https://t.co/TZMM4k7Taa)
+                        - //
+                        - : Dear Ana, you are correct. I went to Italy&Switzerland…I fled to France, …They increased the cybertorture to lead me insane& kill me. They beamed so much microwave radiation in my head until alluminium foils melt.
+                        - Quote
+                        - Replying to @AnaToledoDavila @annalisamcc and @TargetedJustice
+                        - Dear Ana, you are correct. I went to Italy&Switzerland. The perpetrators followed me. I fled to France, they're in next door flats,beneath. They increased the cybertorture to lead me insane& kill me. They beamed so much microwave radiation in my head until alluminium foils melt.
+
+                        - Discover more
+                        - Sourced from across X
+                        - Healthy Diets with Low Sugar Slow Biological Aging A new study finds that diets rich in vitamins and minerals, with low added sugar, are linked to younger biological age. The study showed that healthier diets correlate with a younger epigenetic clock, even when accounting for
+                        - Show more
+                        - [
+                        - ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/GTr0ejGW4AAoUk8.jpeg "This shows a woman, a salad, and DNA.")
+                        - ]([https://x.com/NeuroscienceNew/status/1818034282671067221/photo/1)](https://x.com/NeuroscienceNew/status/1818034282671067221/photo/1))
+                        - [
+                        - ![](Neuroscience%20News%20on%20X%20Study%20Finds%20Faces%20Evolve%20to%20Match%20Names%20Over%20Time%20A%20new%20study%20reveals%20that%20people's%20faces%20tend%20to%20evolve%20to%20match%20their%20names,%20influenced%20by%20social%20expectations.%20Researchers%20found%20that%20adults'%20faces%20could%20be%20accurately%20matched%20to%20their%20names,%20while%20children's%20faces%20could%20not.%20httpst.covMLVQn4nJd%20%20X/GTrROaoW8AAam06.jpeg "Image")
+                        - ]([https://x.com/official_isme/status/1817995451896930555/photo/1)](https://x.com/official_isme/status/1817995451896930555/photo/1))
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - [ ] check for retraction [[August 29th, 2024]], though I doubt it will occur. Maybe some corrections for the pre-registration issue will surface.
+	        - JP: Update November 5th, 2024 [on the article webpage](https://www.pnas.org/doi/10.1073/pnas.2405334121)
+		        - "August 9, 2024: The Materials and Methods section has been updated to correct a broken link."
+			        - ![[Screenshot 2024-11-05 at 15.15.32.png]]
+							![[Screenshot 2024-11-05 at 15.14.35.png]]
+							    - #inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update
+								    - This means that the scholarly publication/artifact was updated in some way.
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - There don't seem to be any risks for these tenured professors in Canada, NL, and the US.
+	        - #inpeer/why/risks/reviewer/minimalPossible
+		        - This means that the risks for engaging in informal peer review are minimals, likely due to the reviewers' secure career status.
+		- Rewards include pointing out issues with PNAS, [[Susan Fiske]], and much of modern psychology. They could end up harming the image of all three entities, but someone has to call this failing out.
+        - Motivations are not clearly stated, but intrinsic motivation to promote sound research is dominant.
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - The paper includes a pre-registration for Study 2 and seems to play the part of a modern paper that has learned about the [[open science movement]]. However, the theoretic assumptions here are strange and more work is needed in order to access the pre-registration, consider the borderline p-values (0.06) interpreted as significant. Rather than engage in performative open science, authors should
+			- #inpeer/how/practices/review/paper/layers/empirical/analyses/noise/marginalPValues, #inpeer/how/practices/review/paper/layers/empirical/transparency/preregMissing
+			- #inpeer/how/practices/review/paper/layers/empirical/openness/practices/performative
+				- This means that the authors of a scholarly report followed open science practices performatively or superficially. For example, they may link to a missing pre-registration or one that doesn't align with the paper's methods and results. Or else, they may fail to upload data and code in a manner that would enable reproducibility/verification checks.
+        - intersections with institutional and power structures
+            - All scholarly sleuths in this InPeeR case are confronting an elite journal, an elite psychologist, and the science journalism ecosystem that feeds laypeople cutesy findings like these they are intuitively know to be true. These are tough forces to confront and education needs to immunize people against these harms.
+	            - #zoo/scavengers/problematicEditor
+		            - This means that the editor is responsible for disseminating research waste/low-quality studies.
+	            - #zoo/sciComm/sciJournalismfail
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - [[destructive critical appraisal]]
+	        - #inpeer/how/practices/review/paper/frames/destructive
+- **Observer**: Jay Patel
+- **Date of Observation**: [[July 30th, 2024]]
+- **Duration of Observation**: 1 day
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - The science news site: Neuroscience News alerted some folks, whereas others seem to have learned about it from PNAS directly.
+    - Was the observation a partial or a complete session?
+        - This was a complete session.
+    - What occurred? Which concerns were raised and by whom?
+        - A number of professors in research universities, including [[scholarly sleuth(s)]], have sized upon this PNAS paper and are calling out the red flags. It seems irreproducible and theoretically untenable, though they don't make this latter point clearly.
+            - Red flags
+                - borderline p-values
+                - PNAS
+                - Susan Fiske
+                - weird finding
+	        - #inpeer/how/practices/review/paper/layers/empirical/transparency/preregMissing
+                - This means that the pre-registration is not available when clicking link.
+    - Who participated?
+        - [[Eiko Fried]], [[Daniël Lakens]], [[Kevin A. Bryan]], miscellaneous scholars pointing out issues with CIs not containing the value
+	        - #inpeer/how/practices/review/paper/frames/destructive
+		        - #inpeer/how/practices/review/paper/values/credibility
+			        - #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/confidenceInts
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - No decisions so far beyond judgments about quality/reproducibility
+        - [x] check back [[August 30th, 2024]] ✅ 2025-08-06
+	        - JP: update November 5th, 2024
+		        - Just a minor update from PNAS so far fixing the [broken link to the OSF Materials](https://osf.io/u7vap/?view_only=8cb489846c1241729bee661161e3bcc5). Man, this was a vague update.
+    - By whom and how, and after what deliberations or conversations?
+        - [[scholarly sleuth(s)]]
+    - What are their roles and skills?
+        - They found this easy, as they notices these issues often. Lakens mentioned that it was discussed in his lab and they also found the CI issues later.
+    - Are there follow-ups or next steps for anyone involved?
+        - The PubPeer page for this article needs to be updated with the InPeeR commentaries.
+        - A set of corrections needs to be issued to ensure that the pre-registration is available, limitations expressed more clearly, and...
+    - What were my feelings about its sophistication and ease of authoring?
+        - These posts are quick and easy to author. The article, upon deeper appraisal, could be flawed in other ways that are as yet unclear.
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - [ ] check back [[August 30th, 2024]]
+	        - JP: update November 5th, 2024
+		        - Only a minor update about the broken OSF link corrected by PNAS and study authors
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - I'm unsure. It seems like this is an example of a bad paper in many respects from inaccessible materials, strange hypothesis, possibility of p-hacking, and errors with statistical reporting. The medley of red flags and malpractices are make this easy to spot. The strange hypothesis makes us dig deeper. If the hypothesis was more banal, then the paper would fly under the radar.
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - Yes, if Gemini use below counts.
+	        - #inpeer/digitalEthnography/activePartObs/tell/how/usedGenerativeAI
+		        - This means that I us of my active participant observation, I used generative AI tools like Gemini Pro, Claude, or ChatGPT to assist my reviewing.
+			- #discussion/implications/peerReview/tools
+        - The appraisers used their own eyes and minds. I am trying to use [[statcheck]] on the paper and would advise that others use [[GRIM]], [[GRIMMER]], and [[SPRITE]]. Statcheck failed on this.
+        - I used Gemini Advanced with my pro subscription to collect insights
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQMiznEgeeS.png?alt=media&token=efb69036-7c59-4d53-9111-a537ad96855a)
+- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - This paper has both easily correctable and uncorrectable issues. There is certainty a "problem in theory" here as well as clarity issues because CIs were reported on the difference from 25% (unconventional). We also see that sensitivity analyses could have been implemented.
+    - What was interesting or concerning or confusing?
+        - This is humdrum for me by now, but it's worth digging deeper and trying to reproduce the analyses from open data.
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - ...
+    - What are the implications for evolving:
+        - formal peer review?
+            - Check links to open content and pre-registrations:
+                - [[>]] What about "forking paths", multiple hypotheses only showing "significant" ones? **^^Second study is preregistered. Click on the links: they're dead. I can't find the prereg by searching Google either. Surely they did one, but how can PNAS not even bother to click links to check^^**? 4/n [🐦](https://x.com/Afinetheorem/status/1818297557077876753) by Kevin A. Bryan on [[July 30th, 2024]]
+            - Get people to use [[reporting guidelines]] for studies and for reporting deviations from pre-registrations
+	            - #discussion/implications/peerReview/standards/reporting/preregDeviations
+		            - This means that one implication of this informal peer review case is that we ought to report our preregistration deviations for transparency.
+            - Get reviewers to use [[⛵ [[MTD]] - multilayer appraisal and synthesis technique (MAST)]]
+            - If pre-registrations are mentioned in a paper, the minimum work to review should be to click the link. For authors, the minimum expected work should be to report deviations, as advised by [[@willroth2024best]].
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiYZk-Tb7N9.png?alt=media&token=d229e34d-3521-419f-98b7-3aaf01b03703)
+            - long-term
+                - [[>]] (And to be clear, I'm not blaming the authors - they are responding to incentives in the field. **^^Start insisting on technical accuracy in places like PNAS, and you'll get better papers^^**!) [🐦](https://x.com/Afinetheorem/status/1818297800037130656) by Kevin A. Bryan on [[July 30th, 2024]]
+        - informal peer review?
+            - Check links to open content and pre-registrations as a first step when appraising/reviewing papers to sniff test whether the use of open science practices was genuine or performative
+	            - #discussion/implications/peerReview/practices/cognitive/speedChecklinks
+		            - This means that one super-quick way to review scholarly reports could be to simply conduct a "sniff test" of the paper whereby the reviewer(s) clicks all links to open materials, data, code, supplementary analyses, etc.

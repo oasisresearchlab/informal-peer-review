@@ -1,0 +1,407 @@
+- memo: Heathers
+	- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+	    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+	        - PubPeer
+	            - [PubPeer](https://pubpeer.com/publications/B9D324ACD28DCC7D7B696DD2D1FF67)
+	                - [[James Heathers]] did not comment here.
+	        - Paper
+	            - [[@abou-khalilAppleCiderVinegar2024]]
+	        - Social Media
+	            - [BSky post: Apple cider vinegar for weight loss](https://bsky.app/profile/jamesheathers.bsky.social/post/3krvyfeqxie2g) announces the informal peer review
+	                - Markdown
+	                    - --
+	                    - created: 2024-09-12T19:07:32 (UTC -04:00)
+	                    - tags: []
+	                    - source: [https://bsky.app/profile/jamesheathers.bsky.social/post/3krvyfeqxie2g](https://bsky.app/profile/jamesheathers.bsky.social/post/3krvyfeqxie2g)
+	                    - author:
+	                    - --
+	                    - # JAMES HEATHERS: "Apple cider vinegar for weight loss. I don't want to talk about it, because it's just like every other tiresome and ridiculous product for weight loss - it doesn't work, and it's answering the wrong question. BUT. Is the research bad / annoying, or is it... something worse? 🧵" — Bluesky
+
+	                    - > ## Excerpt
+	                    - > Apple cider vinegar for weight loss.
+	                    - I don't want to talk about it, because it's just like every other tiresome and ridiculous product for weight loss - it doesn't work, and it's answering the wrong question.
+	                    - BUT. Is the research bad / annoying, or is it... something worse? 🧵
+	                    - --
+	                    - [
+	                    - ![](JAMES%20HEATHERS%20Apple%20cider%20vinegar%20for%20weight%20loss.%20I%20don't%20want%20to%20talk%20about%20it,%20because%20it's%20just%20like%20every%20other%20tiresome%20and%20ridiculous%20product%20for%20weight%20loss%20-%20it%20doesn't%20work,%20and%20it's%20answering%20the%20wrong%20question.%20BUT.%20Is%20the%20research%20bad%20%20annoying,%20or%20is%20it...%20something%20worse%20%F0%9F%A7%B5%20%E2%80%94%20Bluesky/bafkreibsvvosibgabjjnpw2wlhr2rzctvqc3xvfxbrczql4mrf5y34bvzm@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/jamesheathers.bsky.social)](https://bsky.app/profile/jamesheathers.bsky.social))
+	                    - ‪@jamesheathers.bsky.social‬
+	                    - Apple cider vinegar for weight loss. I don't want to talk about it, because it's just like every other tiresome and ridiculous product for weight loss - it doesn't work, and it's answering the wrong question. BUT. Is the research bad / annoying, or is it... something worse? 🧵
+	                    - [
+	                    - ![](JAMES%20HEATHERS%20Apple%20cider%20vinegar%20for%20weight%20loss.%20I%20don't%20want%20to%20talk%20about%20it,%20because%20it's%20just%20like%20every%20other%20tiresome%20and%20ridiculous%20product%20for%20weight%20loss%20-%20it%20doesn't%20work,%20and%20it's%20answering%20the%20wrong%20question.%20BUT.%20Is%20the%20research%20bad%20%20annoying,%20or%20is%20it...%20something%20worse%20%F0%9F%A7%B5%20%E2%80%94%20Bluesky/bafkreibsvvosibgabjjnpw2wlhr2rzctvqc3xvfxbrczql4mrf5y34bvzm@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/jamesheathers.bsky.social)](https://bsky.app/profile/jamesheathers.bsky.social))
+	                    - Recently, one of these studies (7kgs in 12 weeks!) went semi-viral. The only minor problem with it is the study is absolutely hopeless. It is almost tailor-made to annoy me in particular. Terrible methods, weird data, and a disclosure statement that isn't true.
+	                    - [
+	                    - ![](JAMES%20HEATHERS%20Apple%20cider%20vinegar%20for%20weight%20loss.%20I%20don't%20want%20to%20talk%20about%20it,%20because%20it's%20just%20like%20every%20other%20tiresome%20and%20ridiculous%20product%20for%20weight%20loss%20-%20it%20doesn't%20work,%20and%20it's%20answering%20the%20wrong%20question.%20BUT.%20Is%20the%20research%20bad%20%20annoying,%20or%20is%20it...%20something%20worse%20%F0%9F%A7%B5%20%E2%80%94%20Bluesky/bafkreibsvvosibgabjjnpw2wlhr2rzctvqc3xvfxbrczql4mrf5y34bvzm@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/jamesheathers.bsky.social)](https://bsky.app/profile/jamesheathers.bsky.social))
+	                    - I am amazed at how many people just accept this sewage at face value. Because it's easier, we throw a bad study into the 'oh well here is some evidence maybe i trust it maybe not who cares' bucket. Which is understandable, but in some contexts, lazy.
+	                    - [
+	                    - ![](JAMES%20HEATHERS%20Apple%20cider%20vinegar%20for%20weight%20loss.%20I%20don't%20want%20to%20talk%20about%20it,%20because%20it's%20just%20like%20every%20other%20tiresome%20and%20ridiculous%20product%20for%20weight%20loss%20-%20it%20doesn't%20work,%20and%20it's%20answering%20the%20wrong%20question.%20BUT.%20Is%20the%20research%20bad%20%20annoying,%20or%20is%20it...%20something%20worse%20%F0%9F%A7%B5%20%E2%80%94%20Bluesky/bafkreibsvvosibgabjjnpw2wlhr2rzctvqc3xvfxbrczql4mrf5y34bvzm@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/jamesheathers.bsky.social)](https://bsky.app/profile/jamesheathers.bsky.social))
+	                    - If you're a regular person, fine. If you're a journalist, I regard you through narrowed eyes, but only moderately narrowed. If you're a scientist, you're shit at your job. Do better.
+	                    - [
+	                    - ![](JAMES%20HEATHERS%20Apple%20cider%20vinegar%20for%20weight%20loss.%20I%20don't%20want%20to%20talk%20about%20it,%20because%20it's%20just%20like%20every%20other%20tiresome%20and%20ridiculous%20product%20for%20weight%20loss%20-%20it%20doesn't%20work,%20and%20it's%20answering%20the%20wrong%20question.%20BUT.%20Is%20the%20research%20bad%20%20annoying,%20or%20is%20it...%20something%20worse%20%F0%9F%A7%B5%20%E2%80%94%20Bluesky/bafkreibsvvosibgabjjnpw2wlhr2rzctvqc3xvfxbrczql4mrf5y34bvzm@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/jamesheathers.bsky.social)](https://bsky.app/profile/jamesheathers.bsky.social))
+	                    - Here is a mostly complete treatment of the paper, and these may not even be the extent of the problems, it's just where I stopped looking for them. [www.researchhub.com/post/2220/ap...](https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management)
+	            - [[researchhub]] [post: Apple Cider Vinegar For Weight Management](https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management)
+	                - includes the full informal peer review
+	                    - Markdown
+	                        - Post
+	                            - --
+	                            - created: 2024-09-12T19:08:50 (UTC -04:00)
+	                            - tags: []
+	                            - source: [https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management](https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management)
+	                            - author:
+	                            - --
+	                            - # Apple Cider Vinegar For Weight Management
+
+	                            - > ## Excerpt
+	                            - > This is a forensic review of the following paper:[https://www.researchhub.com/paper/6448687/apple-cider-vinegar-for-weight-management-in-lebanese-adolescents-and-young-adults-with-overweight-and-obesit...](https://www.researchhub.com/paper/6448687/apple-cider-vinegar-for-weight-management-in-lebanese-adolescents-and-young-adults-with-overweight-and-obesit...)
+	                            - --
+	                            - This is a forensic review of the following paper:
+	                            - [https://www.researchhub.com/paper/6448687/apple-cider-vinegar-for-weight-management-in-lebanese-adolescents-and-young-adults-with-overweight-and-obesity-a-randomised-double-blind-placebo-controlled-study](https://www.researchhub.com/paper/6448687/apple-cider-vinegar-for-weight-management-in-lebanese-adolescents-and-young-adults-with-overweight-and-obesity-a-randomised-double-blind-placebo-controlled-study)
+	                            - *BACKGROUND**
+	                            - This paper assigns morning apple cider vinegar consumption at 0mL, 5mL, 10mL and 15mL to a sample of 120 Lebanese adolescents and young adults. Intervention groups lost ~5 to 7 kgs in twelve weeks. The paper has been downloaded ~67K times, and Altmetric lists its mention in 127 media outlets. Some examples are listed below:
+	                            - [https://www.brisbanetimes.com.au/lifestyle/health-and-wellness/the-benefits-of-introducing-apple-cider-vinegar-to-your-diet-20240418-p5fkrp.html](https://www.brisbanetimes.com.au/lifestyle/health-and-wellness/the-benefits-of-introducing-apple-cider-vinegar-to-your-diet-20240418-p5fkrp.html)
+	                            - [https://www.salon.com/2024/04/11/drinking-apple-cider-vinegar-may-help-with-weight-loss-but-its-health-benefits-are-overstated_partner/](https://www.salon.com/2024/04/11/drinking-apple-cider-vinegar-may-help-with-weight-loss-but-its-health-benefits-are-overstated_partner)
+	                            - [https://theconversation.com/drinking-apple-cider-vinegar-may-help-with-weight-loss-but-its-health-benefits-are-overstated-226055](https://theconversation.com/drinking-apple-cider-vinegar-may-help-with-weight-loss-but-its-health-benefits-are-overstated-226055)
+	                            - [https://www.msn.com/de-de/gesundheit/other/apfelessig-stoffwechsel-boost-6-gr%C3%BCnde-warum-du-t%C3%A4glich-apfelessig-trinken-solltest/ar-AA1o4QaW](https://www.msn.com/de-de/gesundheit/other/apfelessig-stoffwechsel-boost-6-gr%C3%BCnde-warum-du-t%C3%A4glich-apfelessig-trinken-solltest/ar-AA1o4QaW)
+	                            - [https://www.nytimes.com/2024/04/09/well/eat/apple-cider-vinegar-benefits.html](https://www.nytimes.com/2024/04/09/well/eat/apple-cider-vinegar-benefits.html)
+	                            - The study also has a variety of problematic features.
+	                            - These are as follows:
+	                            - *(1) Data Availability**
+	                            - The paper states "All data relevant to the study are included in the article or uploaded as supplementary information." They are not, as no data is available. The supplementary material includes only a press release. This oversight ('state-but-withhold') is typically seen in papers which are deliberately trying to avoid scrutiny.
+	                            - *(2) Unlikely Distributions**
+	                            - Investigating distributions is best done when the data has listed constraints in addition to summary statistics. The paper states: "The subjects were evaluated for eligibility according to the following inclusion criteria: age between 12 and 25 years, BMIs between 27 and 34 kg/m2". The relevant figures are given in Table 1, with the descriptor "All values are mean±SD unless stated otherwise".
+	                            - They are:
+	                            - Age (years) 17.2±5.2 18.1±5.5 17.6±5.1 17.8±5.7
+	                            - BMI (kg/m2) 30.6±3.1 30.2±2.8 30.0±3.0 30.7±3.2
+	                            - SPRITE (Heathers et al. 2018; [https://www.researchhub.com/paper/6448709/recovering-data-from-summary-statistics-sample-parameter-reconstruction-via-iterative-techniques-sprite](https://www.researchhub.com/paper/6448709/recovering-data-from-summary-statistics-sample-parameter-reconstruction-via-iterative-techniques-sprite)) gives a method for reconstructing potential data from the above.
+	                            - An example for BMI, Group 1:
+	                            - range: 27 to 34
+	                            - mean: 30.6
+	                            - stdev: 3.1
+	                            - n: 30
+	                            - From 25 reconstructions, the mean distribution appears as below:
+	                            - ![](Apple%20Cider%20Vinegar%20For%20Weight%20Management/ae8231adacd2fb36900f1c2ff138987e.png)
+	                            - This describes a curiously strong preponderance of low values (BMI = 27) and high values (BMI = 34). As the samples are extremely similar, an identical and similarly non-realistic pattern emerges in all of the BMI data.
+	                            - An example for age, Group 1:
+	                            - range: 12 to 25
+	                            - mean: 17.2
+	                            - stdev: 5.2
+	                            - n: 30
+	                            - This distribution shows a strong over-representation at the lower bound (i.e. the 12 years old cut off). Again, similar patterns in the other age data can be observed.
+	                            - ![](Apple%20Cider%20Vinegar%20For%20Weight%20Management/e52eef2851884ad9742b3314a5d501a4.png)
+	                            - This is more realistic than the data given above, as some distributions can be found that do not contain the lower bound stack - however, these have few (or zero) recruited participants between ~17-21 years of age.
+	                            - ![](Apple%20Cider%20Vinegar%20For%20Weight%20Management/7593b354a768326901c29428535c43da.jpeg)
+	                            - *(3) Extremely Unlikely Randomization**
+	                            - When investigating potentially unusual baseline data, an omnibus p-value can be calculated easily from multiple independent p-values via the Stouffer, Fisher, or other related methods. The key word above is independent. Here, a strong mutual predictivity probably exists between weight, height, BMI, waist, hip, and BFR% measurements. As the level of dependence cannot be easily calculated, the method should not be used here. The below are the calculated p-values (green) using a 1way ANOVA.
+	                            - ![](Apple%20Cider%20Vinegar%20For%20Weight%20Management/234a2c724c07657a150ac109a6af90bc.jpeg)
+	                            - When these values (not given in the paper) are calculated, a strange pattern exists: age, height, and weight are almost identical between the randomized participants (p=0.93, p=0.99, p=0.99). This extreme uniformity likely represents a failure of randomization, although it is unclear how this arose.
+	                            - *(4) Statistical Analysis**
+	                            - The paper simply states: "Statistical analyses were performed using Statistical Package for the Social Sciences (SPSS) software (version 23.0). Significant differences between groups were determined by using an independent t-test. Statistical significance was set at p<0.05."
+	                            - This is wildly insufficient, both as a description and a method. The samples are not independent - this is a standard between-within design, where multiple independent groups (between subjects) are assessed over time (within subjects). Likewise, the relevant p-values within any within subject comparison are likely extreme, but cannot be recalculated due to the unavailability of data. Of course, these are hidden behind the perpetually irritating veil of "p<0.05".
+	                            - *(5) The Effect Size**
+	                            - In the highest vinegar consumption group, weight loss was around 9% of body mass. This handily beats semaglutide, which after the same timepoint (12 weeks) results in a 6% body mass loss. [https://www.nejm.org/doi/full/10.1056/NEJMoa2032183](https://www.nejm.org/doi/full/10.1056/NEJMoa2032183)
+	                            - If this was in fact the case, it seems likely that vinegar would be in wider use as a therapeutic agent. The industrial cost of production of vinegar is extremely low, as it can be bulk fermented close to orchards by primary producers. Given the availability and bulk cost of vinegar:
+	                            - [https://www.opentip.com/Azure-Market-Organics-Vinegar-Raw-Apple-Cider-Organic-p-12734366_AZU-CO185.html](https://www.opentip.com/Azure-Market-Organics-Vinegar-Raw-Apple-Cider-Organic-p-12734366_AZU-CO185.html)
+	                            - ... a 15mL dose costs around $1 per month. Ozempic at present US market prices costs approximately $935 per month before insurance.
+	                            - An unpatentable, freely available, absolutely harmless dietary intervention that is 50% more effective at short/medium term weight loss than GLP-1 agonists for ~1/1000th of the price feels improbable.
+	                            - *(6) Further Details**
+	                            - \* a full dietary diary is collected but never analysed
+	                            - \* a 12 week 120 person RCT was run without funding support
+	                            - \* "98% had no history of childhood obesity" is a strange statement to include, as many participants are obese children
+	                            - \* no participants were lost or failed to return data at any point
+	                            - *(7) Summary**
+	                            - I have no confidence in the accuracy of this study.
+	                            - *EDIT: 12pm, 7th May.**
+	                            - Multiple parties have confirmed that the ‘available data’, supposed to be uploaded with the paper, is also unavailable from the authors by direct request.
+	                        - Comments
+	                            - Discussion
+	                            - Post
+	                            - 3
+	                            - ![](https://lh3.googleusercontent.com/a-/AOh14GidrQUrw9Ix9xcAfV4iYPJXXfDmvvRVHI_Fh7ZY9w=s96-c "Author Profile Avatar")
+	                            - [Alexander Honkala](https://www.researchhub.com/author/209049)
+	                            - commented
+	                            - 4 months ago
+	                            - Tipping just for the high-quality statistical re-analysis.
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 2
+	                            - ![](https://lh3.googleusercontent.com/a/ACg8ocJXdPuAZPLAU9fJeGUEnIjE0yfNZR5XA9CzKHN9NnlweX-T=s96-c "Author Profile Avatar")
+	                            - [Dhonam Pemba](https://www.researchhub.com/author/977461)
+	                            - commented
+	                            - 4 months ago
+	                            - weight loss studies are too hard to control because they aren't all in the same facility for months. Everyone loses water weight at different rates and in the first few weeks it is just water weight. A true weight loss study needs control and trial in a 3 month program where everyone gets same energy expenditure and energy consumption.
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 2
+	                            - ![](https://lh3.googleusercontent.com/a/ACg8ocJoZ-Fe-AublosPFgD7uN5uE0kPYPXKmhwYnIY0AEWXPgbpW5iE=s96-c "Author Profile Avatar")
+	                            - [Igor Eckert](https://www.researchhub.com/author/994182)
+	                            - commented
+	                            - 4 months ago
+	                            - Fun facts:
+	                            - The authors have never participated in a (published) clinical trial before.
+	                            - The main author's ORCID description was generated by ChatGPT (which considers this study as "an example of his extensive research on vinegar's effect on obesity, lol).
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 5
+	                            - ![](https://storage.prod.researchhub.com/uploads/author_profile_images/2024/05/06/blob_x2r4adx "Author Profile Avatar")
+	                            - [James Heathers](https://www.researchhub.com/author/994087)
+	                            - commented
+	                            - 4 months ago
+	                            - These elements can be informative, but I don't discuss them. You might presume, for instance:
+	                                - everyone who published a later clinical trial started with a first one, and
+	                                - Lebanese researchers having to write in academic English would prefer to get their boilerplate text written by an LLM
+	                            - This doesn't make you wrong, not at all. It's more that context speaks, but data screams. I like screaming.
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 2
+	                            - ![](https://storage.prod.researchhub.com/uploads/author_profile_images/2023/10/27/blob "Author Profile Avatar")
+	                            - [Sikandar shah](https://www.researchhub.com/author/972427)
+	                            - commented
+	                            - 4 months ago
+	                            - Good effort [@James Heathers](https://www.researchhub.com/author/994087), I agree with your conclusion, they mentioned that diet diaries and physical activity logs were self-reported by participants which I think can lead to inaccuracies if you make such claims in science. It would be good to mention from where they take the participants and what are their professions.
+	                            - Almost 98.3%, were non-vegetarian in the study which would also make the biased and difficult to implement the results on the whole population.
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 1
+	                            - ![](https://storage.prod.researchhub.com/uploads/author_profile_images/2024/01/30/blob_8hLO0fL "Author Profile Avatar")
+	                            - [Guosong Yang](https://www.researchhub.com/author/976195)
+	                            - commented
+	                            - 4 months ago
+	                            - [@James Heathers](https://www.researchhub.com/author/994087)I very much agree with your point of view. The idea of apple cider vinegar as a weight loss or weight management is very unrealistic. This kind of data is more likely to be the advertising investment of its suppliers. I often drink apple cider vinegar, but I only treat it as a drink. Its unique acidic taste can increase my appetite, and its effect is like sour plum soup. You can say that drinking it properly can help your digestion, but losing weight is impossible. Real weight loss does not only rely on a balanced diet, but also requires daily exercise and appropriate outdoor activities.I have never heard of anyone promoting apple cider vinegar as a weight loss drink in China.I don’t know how this report was submitted. There is no scientific basis for it. Could it be that it has a weight loss effect just because it is acidic? And such publicity has led people to drink it excessively. It contains malic acid and citric acid. Excessive amounts may irritate the gastrointestinal tract and affect health. Apple cider vinegar is rich in vitamin C, so it can speed up gastrointestinal motility after drinking it. This effect only helps our digestion, and is not used to lose weight.Therefore, we should reject this kind of fake research report, because it will lead people to adopt a wrong weight loss method.
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 1
+	                            - ![](https://storage.prod.researchhub.com/uploads/author_profile_images/2024/03/08/blob "Author Profile Avatar")
+	                            - [Ozer Cinar](https://www.researchhub.com/author/989720)
+	                            - commented
+	                            - 4 months ago
+	                            - I am curious about the biochemical logic behind this weight loss?
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	                            - 1
+	                            - ![](https://storage.prod.researchhub.com/uploads/author_profile_images/2024/05/08/blob_l7FdeZR "Author Profile Avatar")
+	                            - [Pan JL](https://www.researchhub.com/author/988652)
+	                            - commented
+	                            - 4 months ago
+	                            - Hi[@James Heathers](https://www.researchhub.com/author/994087)I also think that the experimental data here is not credible, it does not control variables well, it does not specify what the participants eat every day, and even suggests that "small percentage (6.7%) were following a therapeutic diet.", Most of the subjects have a habit of overeating, and I think these factors indicate that the experiment is too variable. On this basis, the diet diary as experimental data was also submitted by the participants themselves, and its credibility was doubtful. The authenticity of the study is even less credible given the authors' reluctance to provide raw data
+	                            - Reply
+	                            - ![](https://www.researchhub.com/_next/image?url=%2Fstatic%2Ficons%2Ftip.png&w=48&q=75 "Tip")Tip
+	                            - Link
+	    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+	        - none after 6+ months
+	    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+	        - ResearchHub reviews are paid with $150 bounties, though Heathers doesn't need it. He is a strong scholarly sleuths with open access articles and blog posts about this metascientific and higher education views. As an industry research and entrepreneur he doesn't worry about the risks here.
+		        - #inpeer/evdInfra/where/multimedia/researchHub
+	    - Sociology of Science:
+	        - intersections with science reform structures and movements
+	            - Heathers references open science concepts and practices like [[open data]] in his review. He examines extremely low p-values, the high effect size, and missing COIs and finds this suspicious.
+	        - intersections with institutional and power structures
+	            - Heathers has the power of his personal brand from [[EverythingHertz]], the metascientific podcast co-hosted with [[Dan Quintana]].
+		            - #inpeer/who/reviewer/roles/sleuth , #inpeer/who/reviewer/roles/influencer/scholarly , #inpeer/who/reviewer/roles/expert/fields/openSci/advocate , #inpeer/who/reviewer/roles/unconventional/formerAcademic
+	    - Storytelling: What is the style/genre/frame of critical appraisal?
+	        - [[destructive critical appraisal]]
+	- **Observer**: Jay Patel
+	- **Date of Observation**: [[September 12th, 2024]] and logged loosely May 2024
+	- **Duration of Observation**: two days, separated by multiple months of incubation
+	- **Event or Activity Observed**: appraisal...
+	- **Description**: We will ask ourselves:
+	    - How was the case discovered?
+	        - JP: discovered on his BlueSky feed
+	        - Heathers: it's semi-viral, so maybe his own social media feeds on X/Twitter and BlueSky. LinkedIn is also a possibility.
+	    - Was the observation a partial or a complete session?
+	        - complete
+	    - What occurred? Which concerns were raised and by whom?
+	        - James Heathers listed a litany of red flags:
+	            - missing data despite a claim of open data
+		            - #inpeer/how/practices/review/paper/layers/empirical/analyses/unlikelyDescriptives
+	            - unlikely distributions in descriptive statistics with means and SDs
+	                - using [[SPRITE]] uncovers the distributions
+	                - #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/unlikelyDescriptives
+	                -  #inpeer/evdInfra/what/reviewTools/forensic/stats/SPRITE
+	            - very similar descriptives between participants that would be unlikely with sound randomization
+		            - #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/unlikelyDescriptives , #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/improbableValues ,
+	            - insufficient reporting of statistical details (e.g. CIs)
+		            - #inpeer/how/practices/review/paper/layers/empirical/analyses/missing/statsDetails
+	            - no funding mentioned
+		            - #inpeer/how/practices/review/paper/layers/meta/bias/COIs/missing
+	            - dietary diary data collected but never reported
+	                - [ ] JP: add to [[Wiki: Research Atlas]] under Methods: connect each data source to Results to ensure data were not dropped. This is [[🕸️ internal and external consistency of discourse graph/tangle of science]].
+	            - incongruous statements about "98% had no history of childhood obesity" but many participants in the study are obese
+		            - #inpeer/how/practices/review/paper/layers/discursive/intConsistency/conflictingStatements
+	            - no dropouts or lost data
+		            - #inpeer/how/practices/review/paper/layers/empirical/methods/dataCollection/noDropoutsOrLoss
+		            - #inpeer/how/practices/review/paper/layers/empirical/methods/dataCollection/noLostData
+	    - Who participated?
+	        - [[James Heathers]], various ResearchHub users commenting but without interesting observations. [Ozer Cinar did ask about the biochemical logic (mechanism) behind the weight loss](https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management#threadId=48919) and this is similar to my code in Obsidian about conceptual and theoretical grounding (vacuity). Let's reinstate that code now.
+		        - #inpeer/how/practices/review/paper/layers/theoretic/vacuousStudy
+	    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+	        - No impactful actions or decisions to my knowledge. James was tipped by a user for his review (750 tipped), but I don't see him being award a bounty.
+		        - #inpeer/evdInfra/impacts/reactions/markets/cash
+	    - What are their roles and skills?
+	        - [[scholarly sleuth(s)]], ex-biologist, metascientist, error detector, forensic metascientist
+	        - He is wizard at detecting all manner of research misconduct and reviews comprehensively (not only methods and results).
+	    - Are there follow-ups or next steps for anyone involved?
+	        - Well, this article is unlikely to be retracted without a large formal push. BMJ really needs to be contacted in a deeper way. Whose job is this? Why is Heathers targeting the paper instead of the journal? Is that why the paper still stands? [[[[QUE]] - Which aspects of an informal peer review predicts publisher activities like corrections, retractions, and notices of editorial concern.]]
+	    - What were my feelings about its sophistication and ease of authoring?
+	        - James spent a fair bit of time reading and reviewing this InPeeR and I appreciate the depth over [[Andre Calero Valdez]]'s InPeeR. We get more of these sorts of InPeeR on ResearchHub due to the payments and long-form writing capabilities. It seems like specialized review platforms are a good thing. This review even has a DOI! See: 10.55277/ResearchHub.m802570c
+		        - #inpeer/evdInfra/impacts/reactions/meta/dynamics/longForm
+		        - #inpeer/evdInfra/what/reviewTools/informal/DOI
+	    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+	        - None visible, but a revision by BMJ resulted in a second version of the article being uploaded. It's unclear what changed.
+		        - #inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update/noExplanation duplicate code with Andre Valez memo?
+	    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+	        - Just go to ResearchHub and find out!
+	    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+	        - I already did some active participant observation with BMJ Rapid Responses and PubPeer when processing Valdez's appraisal for this case.
+	- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
+	    - What stood out to you about this session, in light of our research problem?
+	        - It's wild that version 2 of [[@abou-khalilAppleCiderVinegar2024]] looks just like the original version of the article. WTF?!?
+	    - What was interesting or concerning or confusing?
+	        - James Heathers got paid, as far as I can tell.
+	    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+	        - As a viral study, this made it into 100+ news outlets like the [NYT](https://www.nytimes.com/2024/04/09/well/eat/apple-cider-vinegar-benefits.html). That... is troubling to say the least. The NYT article mentions multiple uses beyond weight loss and use for blood sugar reduction, acid reflux, and skin conditions. The article just reported the size and number of studies without reference to any InPeer.
+	        - Interestingly, I would have been able to identify all red flags that Heathers found using the [[Wiki: Research Atlas]] - tab: Evaluation: JP except for the diary data that were unreported. So I am adding this to appraise for internal consistency of the discourse graph better.
+	            - See row 193: "align goals/RQs with designs, align designs + measures with results"
+		            -         - #cscw/viralStudyTargeted
+	    - What are the implications for evolving:
+	        - formal peer review?
+	            - Journal-level standards for filtering research waste and needed with [[scholarly sleuth(s)]] guiding the way. As I recall from this week's repliCATS workshop, other professors did not catch a power analysis error in one of the papers that I caught. The specific expertise needed here would be _scholarly sleuths_. In fact, can we found a journal based just with their editorial involvement?
+			            #discussion/implications/peerReview/standards/prepublication
+					A direct request for data from the co-authors was unsuccessful even though *BMJ Nutrition* requires it! There have to be some standards here.
+						#inpeer/how/practices/review/paper/layers/empirical/openness/data/needed/requestFail
+	        - informal peer review?
+	            - Engaging authors and journals as part of [[active participant observation]] and InPeer itself will be valuable from the beginning. Let's not wait around to alert others.
+		            - #discussion/implications/peerReview/practices/social/stakeholderEngagement
+	        - sci comm? cc [[Joel Chan]]
+	            - connect InPeeR to sci comm so we can communicate the important critical comments to journalists as they are writing and afterwards through live updates someone on the article webpage
+	                - JP: Is this a [[startup idea(s)]]
+	                - #discussion/implications/sciComm/teachJournos
+	                - #discussion/implications/peerReview/practices/social/crosspost/informalRevscicomm
+		- This means that JP thinks one implication of this study is that scholars ought to crosspost informal peer reviews to science communications resources like science news websites.
+---
+- memo: Valdez
+	- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+	    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc
+	        - PubPeer
+	            - [PubPeer: abou-khalil2024](https://pubpeer.com/publications/B9D324ACD28DCC7D7B696DD2D1FF67)
+	                - [[active participant observation]] copied over BSky thread from @sumidu.bsky.social and alerted the lead author of my post when PubPeer prompted me to consider it.
+	                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_D53SpC4C-.png?alt=media&token=81b0bf68-5f75-4a9c-a397-b119f9f2f3f7) #inpeer/evdInfra/where/multimedia/bespoke/pubpeer
+	        - Paper
+	            - [[@abou-khalilAppleCiderVinegar2024]]
+	        - Social Media
+	            - [BSky post: @sumidu.bsky.social](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e) aka [[Andre Calero Valdez]] #inpeer/evdInfra/where/multimedia/microblog/bluesky
+	                - Markdown
+	                    - --
+	                    - created: 2024-09-11T18:29:43 (UTC -04:00)
+	                    - tags: []
+	                    - source: [https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e)
+	                    - author:
+	                    - --
+	                    - # André Calero Valdez: "I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
+
+	                    - > ## Excerpt
+	                    - > I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now.
+	                    - [https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
+	                    - It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported.
+
+	                    - --
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreib5o2sqgue7hk5w4vcupb27l325v3epqirpvit7kfg574mklxv76m@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/sumidu.bsky.social)](https://bsky.app/profile/sumidu.bsky.social))
+	                    - I hope my first-year bachelor students will do better
+	                    - than what is catching on in the news right now. [nutrition.bmj.com/content/earl...](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823) It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported.
+	                    - March 22, 2024 at 6:46 AM
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/infotainment.bsky.social)](https://bsky.app/profile/infotainment.bsky.social))
+	                    - Strange article! Worth a write-up on PubPeer, I think. Have you considered a commentary to the journal?
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreib5o2sqgue7hk5w4vcupb27l325v3epqirpvit7kfg574mklxv76m@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/sumidu.bsky.social)](https://bsky.app/profile/sumidu.bsky.social))
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/infotainment.bsky.social)](https://bsky.app/profile/infotainment.bsky.social))
+	                    - Nice! The figure at the bottom is clear and valuable. I often feel like tables hide a great deal in experimental papers.
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreib5o2sqgue7hk5w4vcupb27l325v3epqirpvit7kfg574mklxv76m@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/sumidu.bsky.social)](https://bsky.app/profile/sumidu.bsky.social))
+	                    - Apparently, they have just ignored the rapid response, so far.
+	                    - [
+	                    - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreibmmb56gvh3ahebv747bxkvxedyzbo6doyumrnqydx556r5r45ya4@jpeg.jpeg)
+	                    - ]([https://bsky.app/profile/crist14n.bsky.social)](https://bsky.app/profile/crist14n.bsky.social))
+	                    - Mindless statistics is also a recurrent problem in similar fields such as sports and exercise science. Select a paper published in any journal, and for every tested hypothesis, there will always be several null hypothesis tests consisting of t-tests or ANOVAs.
+	    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+	        - This occurred in March 2024 and by early September 2024, BMJ still did not include the Rapid Response that Andrew Calero Valdez requested! No corrections or retractions, though an updated version of the article was posted. I could not find differences between the first and second versions using Perplexity Pro (AI).
+		        - #inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update/noExplanation
+	    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+	        - Andre is a professor of HCI and Usable Safety Engineering at University of Lübeck (DE). His research interests are broad and he has an interest in open science. It seems safe for him to critique scholarship in and out of HCI. There are not many risks and I'm unsure why he would want to do this except for the public benefit and scratching intellectual itches.
+		        - #inpeer/who/reviewer, #inpeer/who/reviewer/roles/employment/tenured, #inpeer/who/reviewer/roles/expert , #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics #inpeer/how/practices/review/paper/frames/pedagogical #inpeer/who/reviewer/roles/unconventional/domainOutsider
+	    - Sociology of Science:
+	        - intersections with science reform structures and movements
+	            - He has an interest in open science. His activity is mild here, though it seems as if he like the [[🕵️ ERROR Program]]
+	        - intersections with institutional and power structures
+	            - He is part of the academic community and seems OK critiquing it in specific ways, but is not a leading reformer or advocate.
+	    - Storytelling: What is the style/genre/frame of critical appraisal?
+	        - [[destructive critical appraisal]], [[pedagogical critical appraisal]]
+	- **Observer**: Jay Patel
+	- **Date of Observation**: [[March 22nd, 2024]] and [[September 11th, 2024]]
+	- **Duration of Observation**: two days separated by almost six months
+	- **Event or Activity Observed**: appraisal...
+	- **Description**: We will ask ourselves:
+	    - How was the case discovered?
+	        - JP: BlueSky feed
+	        - Andre Calero Valdez: ?
+	    - Was the observation a partial or a complete session?
+	        - March: complete session
+	        - September: follow-up session
+	    - What occurred? Which concerns were raised and by whom?
+	        - Andre noted issues with reporting statistics and tore down the paper for being amateurish and choosing the wrong statistical tests. Why did BMJ publish this drivel?
+	    - Who participated?
+	        - [[Andre Calero Valdez]], [[Jay Patel 🫢]], [[Cristian Mesquida]]
+	    - Were decisions made, actions taken, or goals accomplished? By whom and how, and after what deliberations or conversations? What was left unresolved?
+	        - The author tried to reconstruct the 95% CIs from the statistics provided and succeeded. Those are on his personal website and linked above. Nothing of consequence came of this at BMJ. The authors are unaware of this. Maybe I can help BMJ produce a rapid response here.
+		        - #inpeer/how/practices/review/paper/layers/empirical/analyses/missing/uncertaintyEst, #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/wrongAnalyses, #
+			        - #inpeer/evdInfra/impacts/reactions/authors/support/reanalysisAddsMissingInfo
+	        - JP: I added a Rapid Response and received a confirmation that if accepted, my response will be posted online within 14 days (no DOI, no archiving, no peer reviewing).
+		        - #inpeer/digitalEthnography/activePartObs/tell/what/xPostJournalComments
+			        - This means that I, JP, crossposted an informal peer review from someone to the journals article's comments section (e.g. BMJ's Rapid Responses section or something else like that).
+			        - ![[Screenshot 2024-11-07 at 14.03.36.png]]
+	            - JP: This is embarrassing, as the study is viral and the informal peer reviews on the BMJ's Rapid Responses sections list many issues!
+	            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAcnK-EYv_i.png?alt=media&token=bce1b5ea-8d65-489b-af53-9b25143334a8)
+	            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRpGTlQbfzx.png?alt=media&token=0fc629b3-6a9e-46b0-82de-52b39512dde7)
+	    - What are their roles and skills?
+	        - Valdez is an HCI scientist listing R, Julia, and SEM as skills. As a quantitative researcher in HCI, he would certainly be able to pick up on many of these issues. Let's find out more online: [https://calerovaldez.com](https://calerovaldez.com)
+		        - #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
+	    - Are there follow-ups or next steps for anyone involved?
+	        - Await the BMJ and PubPeer responses [[September 25th, 2024]]
+	    - What were my feelings about its sophistication and ease of authoring?
+	        - This post required a bit of work from Andre, but he was an expert in R and publishing on Github pages. It was probably a breeze for him, though it's hard to know for sure.
+	    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+	        - None yet, though there are many Rapid Responses on the BMJ's page for this article. It ought to be retracted.
+	    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+	        - Continue monitoring the Bluesky feed and follow closely networked scholars.
+	    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+	        - Yes, I'm still waiting for PubPeer and BMJ to respond on their own platforms & emails. I used PubPeer and BMJ Rapid Response tab for the article [[@abou-khalilAppleCiderVinegar2024]].
+		        - #discussion/implications/peerReview/standards/reporting
+		        - #discussion/implications/peerReview/tools/publisher/informalRev
+		        - #inpeer/evdInfra/problems/publishing/failuseInformalrev
+	- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
+	    - What stood out to you about this session, in light of our research problem?
+	        - This was not a particularly viral case on Bluesky, but had some activity on [HackerNews](https://news.ycombinator.com/item?id=39687564). It mentions harms like dental and digestive side effects. The HN thread is a bit off-topic and not very helpful in this case.
+		        - #inpeer/evdInfra/impacts/reactions/meta/dynamics/viral
+	    - What was interesting or concerning or confusing?
+	        - Does BMJ Nutrition have any standards at all for publication and can I uncover the peer review process underlying it?
+		        - #inpeer/evdInfra/problems/publishing/laxStandards/publisher
+	    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+	        - The bibliometrics and altmetrics for this are very high:
+	            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab

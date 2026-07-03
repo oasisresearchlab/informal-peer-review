@@ -1,0 +1,197 @@
+---
+url: https://bsky.app/profile/infotainment.bsky.social/post/3l66myhizbx26
+sites: "[[bluesky - general]]"
+---
+
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+	- Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+		- PubPeer
+			- NA, this is more meta
+		- Paper
+			- NA, this is more meta
+		- Social Media
+			- [BlueSky post: JP active participant observation](https://bsky.app/profile/infotainment.bsky.social/post/3l66myhizbx26)
+				- #inpeer/evdInfra/develop/subculture/feedScicomment
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9uOIBoKPmH.png?alt=media&token=875cd8bd-5ad2-437b-bf75-b4dc3c94ccaa)
+					- #inpeer/evdInfra/problems/technical/pubpeer/socialMedia
+			            - This means that an individual (sleuth) prefers social media for most of their informal peer reviewing as opposed to bespoke solutions like PubPeer and publishers' tools.
+					- [[📝 JP: Quotable Quotes]] for # CSCW2025InPeeRPaper, # IntegrativePaper2024JP
+						    - "am I crazy, or is this wrong"
+						        - Could help describe sleuths perspectives upon encountering potentially problematic research.
+						        - Potential title for a paper?
+					- Markdown: JP Question
+						- --
+						- created: 2024-10-24T14:21:38 (UTC -04:00)
+						- tags: []
+						- source: https://bsky.app/profile/steveharoz.com/post/3l6e3upjgb62l
+						- author:
+						- --
+						- # Jay Patel: "#SciComment I'm curious to know... ❓If you evaluate papers online using PubPeer, blogs, microblogging services, personal websites, etc... why do you like certain technologies over others? 🤔 What prevents you from using PubPeer or ResearcHub instead of other transient or hard-to-find platforms?" — Bluesky
+						- > ## Excerpt
+						- > I sometimes use pubpeer, but
+						- 1) More people see social media posts.
+						- 2) Pubpeer's formal and permanent, which is worrying if I'm not 100% sure. So making an "am I crazy, or is this wrong" social media post has a lower barrier.
+						- 3) If I'm wrong, I can delete a social media post or edit a blog.
+						- --
+						- I'm curious to know... ❓If you evaluate papers online using PubPeer, blogs, microblogging services, personal websites, etc... why do you like certain technologies over others? 🤔 What prevents you from using PubPeer or ResearcHub instead of other transient or hard-to-find platforms?
+					- Markdown: Steve Haroz Reply with Dorothy Bishop and JP
+						- --
+						- created: 2024-10-24T14:22:07 (UTC -04:00)
+						- tags: []
+						- source: https://bsky.app/profile/steveharoz.com/post/3l6e3upjgb62l
+						- author:
+						- --
+						- # Steve Haroz: "I sometimes use pubpeer, but 1) More people see social media posts. 2) Pubpeer's formal and permanent, which is worrying if I'm not 100% sure. So making an "am I crazy, or is this wrong" social media post has a lower barrier. 3) If I'm wrong, I can delete a social media post or edit a blog." — Bluesky
+						- > ## Excerpt
+						- > I sometimes use pubpeer, but
+						- 1) More people see social media posts.
+						- 2) Pubpeer's formal and permanent, which is worrying if I'm not 100% sure. So making an "am I crazy, or is this wrong" social media post has a lower barrier.
+						- 3) If I'm wrong, I can delete a social media post or edit a blog.
+						- --
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg)
+						- ](https://bsky.app/profile/infotainment.bsky.social)
+						- I'm curious to know... ❓If you evaluate papers online using PubPeer, blogs, microblogging services, personal websites, etc... why do you like certain technologies over others? 🤔 What prevents you from using PubPeer or ResearcHub instead of other transient or hard-to-find platforms?
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:4wwhwq5yy6btl4omycw66gfd/bafkreidn4tcevbszvvgpugadajqeaikibj27edosspke5sszmvs4pyta44@jpeg)
+						- ](https://bsky.app/profile/steveharoz.com)
+						- I sometimes use pubpeer, but 1) More people see social media posts. 2) Pubpeer's formal and permanent, which is worrying if I'm not 100% sure. So making an "am I crazy, or is this wrong" social media post has a lower barrier. 3) If I'm wrong, I can delete a social media post or edit a blog.
+						- October 12, 2024 at 8:04 PM
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:4wwhwq5yy6btl4omycw66gfd/bafkreidn4tcevbszvvgpugadajqeaikibj27edosspke5sszmvs4pyta44@jpeg)
+						- ](https://bsky.app/profile/steveharoz.com)
+						- Also, nothing seems to ever result in meaningful action taken, so I'm not sure the venue or persistence matters.
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:bom4p44masckbj7vnfm6aunp/bafkreibyqehtxziev6gcqlna62jgwl75fsznenffjba6b6xmzmxppplzca@jpeg)
+						- ](https://bsky.app/profile/deevybee.bsky.social)
+						- agree with all but last bit. Aggregate info from PubPeer can help spot patterns of malpractice. Also some publishers do regularly check it
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg)
+						- ](https://bsky.app/profile/infotainment.bsky.social)
+						- Would love to know the details on this. Seems like a great opportunity to evaluate (quantify) the impacts of PubPeer.
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:bom4p44masckbj7vnfm6aunp/bafkreibyqehtxziev6gcqlna62jgwl75fsznenffjba6b6xmzmxppplzca@jpeg)
+						- ](https://bsky.app/profile/deevybee.bsky.social)
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg)
+						- ](https://bsky.app/profile/infotainment.bsky.social)
+						- Wonderful! Exactly my cup of tea.
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg)
+						- ](https://bsky.app/profile/infotainment.bsky.social)
+						- Would you consider alphaxiv's approach valuble? [www.alphaxiv.org](https://www.alphaxiv.org/) It seems to be a middle ground between social media and PubPeer with author engagement.
+						- ![](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreibfdzfevj2wqvewuc3muk3nwhv5dt6vklukd2x4w4ix3g7hrmvkpy@jpeg)
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:4wwhwq5yy6btl4omycw66gfd/bafkreidn4tcevbszvvgpugadajqeaikibj27edosspke5sszmvs4pyta44@jpeg)
+						- ](https://bsky.app/profile/steveharoz.com)
+						- If the comments don't follow the paper into different venues, then the comments will always have minimal visibility. A reader needs to be able to go from DOI link to comment. I don't see that path.
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreif7vzehrzpvtuf42vcr3pntrhidbqfrmbm75cndzlrlqksoznhgwu@jpeg)
+						- ](https://bsky.app/profile/infotainment.bsky.social)
+						- Do you mean that the cited papers would need to have comments overlayed? Or that the article/preprint webpage needs comments on it (in this case, the arxivlabs extensions we have planned may be interesting).
+						- ![](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:33ieaned7xdijudn4olv6whh/bafkreiasrkguzopalbds7swnbi54iejndmh2iupp7iftakmyhn3sf7i2pu@jpeg)
+						- [
+						- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:4wwhwq5yy6btl4omycw66gfd/bafkreidn4tcevbszvvgpugadajqeaikibj27edosspke5sszmvs4pyta44@jpeg)
+						- ](https://bsky.app/profile/steveharoz.com)
+						- I mean that the comments don't follow the paper to the journal which winds up becoming the canonical version. So few people will ever actually see it.
+	- Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+		- TBD
+	- Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+		- NA
+	- Sociology of Science:
+		- intersections with science reform structures and movements
+			- NA
+		- intersections with institutional and power structures
+			- NA
+	- Storytelling: What is the style/genre/frame of critical appraisal?
+		- NA
+- **Observer**: Jay Patel
+- **Date of Observation**: [[October 10th, 2024]]
+- **Duration of Observation**:
+	- Day 1/Oct 10: post questions to # SciComment
+	- Day 2/Oct 11: return next day to read replies, ask questions and loose memo
+	- Day 3/Oct 24: structured memo and coding
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+	- How was the case discovered?
+		- JP asked this after months of conducting this study because he was curious why PubPeer pages for articles are often blank or sparse. Why do sleuths avoid posting there?
+	- Was the observation a partial or a complete session?
+		- complete session
+	- What occurred? Which concerns were raised and by whom?
+		- JP asked sleuths in the BlueSky community # SciComment:
+			- > "❓If you evaluate papers online using PubPeer, blogs, microblogging services, personal websites, etc... why do you like certain technologies over others?
+
+🤔 What prevents you from using PubPeer or ResearchHub instead of other transient or hard-to-find platforms?"
+            - Steven Haroz uses PubPeer, but prefers social media for its:
+                - greater visibility
+	                - #inpeer/evdInfra/problems/technical/pubpeer/socialMedia
+						- This means that an individual (sleuth) wants a platform for informal peer review that reaches a large audience (the masses). Social media is purportedly better for this kind of thing than a bespoke open peer review platform .
+                - editing and deleting features
+	                - #inpeer/evdInfra/problems/technical/pubpeer/editingControl
+						- This means that an individual (sleuth) or organization wants a platform for informal peer review that provides editing control like changing a post or even deleting it. PubPeer does not allow that feature!
+                - uncertainty about whether PubPeer is impactful
+	                    - #inpeer/evdInfra/problems/technical/pubpeer/unclearImpacts
+		                    - This means that an individual (sleuth) or organization isn't using a platform for informal peer review because they are uncertain about its practical impacts like being able to induce corrections and retractions.
+						- Dorothy Bishop disagrees and thinks journals need statistics experts to make retraction calls
+            - Steve Haroz wants:
+                - appraisal/InPeeR comments to connect back to the original journal article on the publisher's website to increase their visibility; [[[[ART]] - alphaXiv]] and [[[[ART]] - arxivlabs]] comments don't cut it for him.
+                - Practically speaking, it's unclear how to do this within a narrow timeline. One workaround would be offering browser extensions for users to overlay comments onto journal articles, but their reach would be relatively low.
+        - Who participated?
+            - JP
+            - sleuths:
+                - [[Steve Haroz]]
+	                - #inpeer/who/reviewer/roles/sleuth
+	                - #inpeer/who/reviewer/roles/expert/fields/openSci/
+	                -  #inpeer/who/reviewer/roles/reviewer/informal
+                - [[Dorothy Bishop]]
+	                -  #inpeer/who/reviewer/roles/employment/retired
+	                - #inpeer/who/reviewer/roles/expert/fields/openSci/
+	                - #inpeer/who/reviewer/roles/hero/sciReformer
+	                - #inpeer/who/reviewer/roles/reviewer/informal
+	                - #inpeer/who/target/eliteAuthors
+					-  #inpeer/who/reviewer/roles/unconventional/formerAcademic
+        - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+            - None
+        - By whom and how, and after what deliberations or conversations?
+            - See above
+        - What are their roles and skills?
+            - Other memos already mention that Steve Haroz and Dorothy Bishop are well-versed in psychology (cognitive for SH and developmental/clinical for DB). They are forensic metasciensts, sleuths, and open science advocates. SH founded the BlueSky community # SciComment and Dorothy often posts there.
+        - Are there follow-ups or next steps for anyone involved?
+            - JP: I now have quite a lot more information about why social media is preferable for sleuths.
+            - ==**JP: I'm reminded on [[Andrew Gelman]]'s post on his blog explaining why he prefers to blog instead of post on PubPeer or edit journals**
+                **- [ ] find the bit on him mentioning PubPeer is less enticing if it really exist in my notes**
+                **- ^^Whenever they’ve asked me to edit a statistics journal, I say no thank you because I think I can make more of a contribution through this blog^^. I’ve said no enough times that they’ve stopped asking me. But I’ve had an idea for awhile and now I want to do it.**==
+	                #inpeer/evdInfra/problems/technical/pubpeer/socialMedia
+        - What were my feelings about its sophistication and ease of authoring?
+            - This seemed like an easy question for me to post online in a digital ethnography, but I had to work for it in that I needed months of immersion or connect with these two sleuths in a particular hashtag.
+            - I guess it's all worth it in the end if I'm going to avoid the formality of interviews and focus groups. This ensures that what I ask is important enough to be answered without monetary compensation. This methodology feels more authentic and reliable to me than the gamut of interviews and focus groups. It generates replies for free from people who are busy and whose ability to volunteer may be uncertain.
+        - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+            - NA
+        - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+            - NA
+        - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+            - Yes, I engaged in [[active participant observation]] by asking a question nagging at me for a while. I used BlueSky, a microblogging platform popular after the Twitter takeover in 2022.
+	            - #inpeer/digitalEthnography/activePartObs/ask/community
+    - **Reflection**: What was your experience in this session: as a participant? as a participant-observer?
+        - What stood out to you about this session, in light of our research problem?
+            - I actually got free responses in a timely manner to my question!
+        - What was interesting or concerning or confusing?
+            - The disagreement between Steve and Dorothy about PubPeer's impact was interesting. Steve, as a statistician, shouldn't reason from anecdotes alone. Dorothy seems to have more experience fighting papermills so it makes sense that in extreme cases of fraud she sees impacts whereas for statistical errors it may be tougher to induce a retraction.
+        - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+            - Skip
+        - What are the implications for evolving:
+            - formal peer review?
+                - Skip
+            - informal peer review?
+                - Well, we need to provide the features that Steve needs:
+                    - greater visibility of posts
+                        - JP: How do we compete with social media?
+                    - ability to edit and delete posts
+                        - This is easy.
+	                        - #discussion/implications/peerReview/tools/enableEditsDeletes
+		                        - This means that an implication of the research supports editing and deleting of informal peer review posts on digital platforms.
+                    - assurance of impacts: [[literature changes: retractions, corrections, notices of editorial concern]]
+			                    - #discussion/implications/peerReview/practices/social/assureImpacts
+			                    - This means that an implication of the research supports providing informal peer reviewers assurances that their posts will impact the scholarly literature through notices of editorial concern, corrections, and retractions.
+				                    - JP: I just had a thought that any newly created journals like the soon-to-come Lifecycle Journals and MetaROR ought to have statements regarding how they will respond to informal peer reviews in good faith.
+										== JP: Moderately difficult, but we could provide users case studies, statistics, and unite sleuths with joint statements like the [[InPeeR case: Scientific Reports AI Fiasco]] Op

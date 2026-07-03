@@ -1,0 +1,100 @@
+---
+url: https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v
+sites: "[[bluesky - general]]"
+---
+
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - NA
+        - Paper
+            - NA
+        - Social Media
+            - [BSky post: Berna](https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v) #inpeer/evdInfra/where/multimedia/microblog/bluesky
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fde-7Wt7QgH.png?alt=media&token=8c97e22f-1467-427a-924f-f3afb8f4d25d)
+
+	            - Markdown
+                - --
+                - created: 2024-10-17T14:07:15 (UTC -04:00)
+                - tags: []
+                - source: [https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v](https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v)
+                - author:
+                - --
+                - # Berna Devezer: "In a 🔥 post, @jessicahullman.bsky.social follows up on the recent NHB 'High replicability' paper. "It bugs me (though doesn’t not surprise me) to think that whether questionable practices get called out depends on who exactly is in the author list." tinyurl.com/4yr98zvw" — Bluesky
+
+                - > ## Excerpt
+                - > check out many labs 4, and chatard et al., 2020/ Haaf et al, 2020. basically, they had 2 cutoffs 60 p and 80p. even though 60 p is clearly lower quality, it had better results in terms of story, guess which was reported. study was about expertise not existing but look haaf figure it clearly exists
+                - --
+                - check out many labs 4, and chatard et al., 2020/ Haaf et al, 20#20. basically, they had 2 cutoffs 60 p and 80p. even though 60 p is clearly lower quality, it had better results in terms of story, guess which was reported. study was about expertise not existing but look haaf figure it clearly exists
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - retraction after 7+ months
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - Berna, as a tenured professor in a US research university conducts statistical, marketing, and metascientific research. Risks seem to be online critiques, but nothing lasting. She received some blame from Lakens, who named her as a purported reviewer of [[@protzko2024high]].
+	        - #inpeer/who/reviewer/roles/employment/tenured
+	        - #inpeer/who/reviewer/roles/expert/fields/metascientist
+	        - #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
+			- #inpeer/who/reviewer/roles/expert/fields/metascientist/critiquesBropensci
+				- This means that the individual or organization does metascience while being critical or it and/or bropen science.
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - Berna is part of the science reform movement, but against [[bropen science]], which she explicitly derides. Her focus is more on theory-driven research and epistemic iteration over models and theories than performing open science rituals like pre-registration, transparent reporting, and open sharing of materials, data, and code.
+	            - #inpeer/who/reviewer/ideology/philosophy/researcher
+		            - This means that the individual or organization publishes philosophical articles often.
+        - intersections with institutional and power structures
+            - She does not command the full influence of the open science pioneers, but has spoken critically about metascience at [[Critical Metascience: OSF Talk Series 2024]] so the relation is professional, but frosty.
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - endorsed appraisals by Jessica Hullman and Joe Bak-Coleman, but not critical appraisal of [[@protzko2024high]] herself in this thread. We can find her Matters Arising: Nature article for more details on appraisals.
+- **Observer**: Jay Patel
+- **Date of Observation**: [[March 27th, 2024]] for loose memoing, returned [[October 17th, 2024]] for analysis
+- **Duration of Observation**: two days, nonconsecutive
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - BlueSky timeline for JP.
+        - Berna discovered it via the formal and informal reviewer Jessica Hullman.
+    - Was the observation a partial or a complete session?
+        - complete, I returned 7 months later for re-examination
+    - What occurred? Which concerns were raised and by whom?
+        - Berna summarized Hullman's critical post from [[Statistical Modeling, Causal Inference, and Social Science]] in a BlueSky thread.
+            - Endorses InPeeR
+    - Who participated?
+        - [[Berna Devezer]]
+            - Commenters: psychologists, metascientists
+                - Will Gervaus
+                - Ingo Rohlfing
+                - John Flournoy
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - Not explicitly clear, but Berna's Matters Arising post in Nature with Joe Bake-Coleman appeared months later.
+    - By whom and how, and after what deliberations or conversations?
+        - See above
+    - What are their roles and skills?
+        - They are both statistically savvy social scientists and metascientists who are active on microblogging platforms like X/Twitter and Bluesky. Joe seems a bit earlier in the career pipeline, but has elite credentials. Both are generalists with cross-disciplinary expertise.
+    - Are there follow-ups or next steps for anyone involved?
+        - Not possible given the age of these posts...
+    - What were my feelings about its sophistication and ease of authoring?
+        - This post must have been easily authoring and was not as involved as the later [Nature: Matters Arising](https://www.nature.com/articles/s41562-024-01982-w) post.
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - Did the Matters Arising post push the need for retraction along? It sure seems that way given the same-day retraction:
+            - Matters Arising: published 2024-09-24
+            - Retraction notice: published 2024-09-24
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - NA
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - No
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - [[📝 JP: Quotable Quotes]]
+            - Berna's quote on the freedom to appraise if you are part of the "general scientific community" is gold.
+> 				"Oh for the authors and reviewers, yeah, I imagine they're waiting for that. ==**^^The general scientific community isn't bound by journal policy of course. The materials are out there for everyone to review^^**== just like Jessica (and Joe and me) did."
+                    - Source: [[Berna Devezer]], [BSky post: Berna](https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v)
+    - What was interesting or concerning or confusing?
+        - NA
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - NA
+    - What are the implications for evolving:
+        - formal peer review?
+            - NA
+        - informal peer review?
+            - Spread the word that InPeeR is desirable and possible.
+- #discussion/implications/peerReview/practices/social/advertiseInformalRevs
+		            - This means the be ought to publicize that informal peer review is desirable and possible.

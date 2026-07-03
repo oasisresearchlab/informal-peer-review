@@ -1,0 +1,178 @@
+---
+noteID: 649ffb6b-10ac-4553-bda2-e66ecbaee2fe
+---
+memo
+- Note: I originally did not plan to include this InPeer case because it's more work for me, the blog post doesn't allow commenting directly, and the case concerns a re-analysis of a critique of a meta-analysis by [[@ferguson2024social]]. But commenting is available and encouraged via e-mail, X/Twitter, and Bluesky. Moreover, this re-analysis by [[Matthew Jané]] has been praised widely on social media by [[Stephen Wild]] and [[Lee Jussim]]. So I'm including this case and expanding my inclusion criteria.
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+	- Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+		- PubPeer
+			- NA
+		- Paper
+			- targets [Substack blog post: Rausch & Haidt](https://www.afterbabel.com/p/the-case-for-causality-part-1), which critiqued [[@ferguson2024social]]
+		- Social Media
+			- [[@statistical]]
+				- [Blog post: A Statistical Interrogation of "The Case for Causality, Part 1" by Rausch and Haidt](https://matthewbjane.com/blog-posts/blog-post-6.html#discussion) #inpeer/evdInfra/where/multimedia/blog/personal
+					- Post
+						- > "The re-analysis of Ferguson ([2024](https://matthewbjane.com/blog-posts/blog-post-6.html#ref-ferguson2024))’s meta-analysis by R&H does not have adequate statistical rigor to build a “case for causality”. Post-hoc subgroup analyses conducted by R&H did not use a principled statistical model, they did not report any variability in their estimates, the estimates themselves were sub-optimal (unweighted averaging), and they misinterpreted the point-estimates that they calculated. They did not do a proper comparison of their point-estimates and instead they treated them as fixed quantities and simply claimed that these average effect sizes are different without consideration of variability in their estimation procedure. Their conclusion claimed that: we still found that his data _supports_ (rather than undermines) the contention by some scholars that “reductions in social media time would improve adolescent mental health,” at least as long as the reductions continue for two weeks or longer. Based on my re-analysis of R&H’s re-analysis I find that the intervention length when modeled properly as a continuous variable (since it literally is) does not support this claim. If I did anything incorrectly or if I did not use best practices, I take full responsibility and you can let me know by sending me a DM on twitter or emailing me at matthewbjane@gmail.com."
+					- Comments
+						- --
+						- created: 2024-09-05T15:51:07 (UTC -04:00)
+						- tags: []
+						- source: [https://www.afterbabel.com/p/the-case-for-causality-part-1/comments](https://www.afterbabel.com/p/the-case-for-causality-part-1/comments)
+						- author: Zach Rausch
+						- --
+						- # Comments - The Case for Causality, Part 1: The Fundamental Flaws of The Only Meta-Analysis of Social Media Reduction Experiments
+
+						- > ## Excerpt
+						- > A recent meta-analysis contains yet overlooks evidence that multi-week social media reduction experiments consistently improve mental health
+						- --
+						- I appreciate this discussion, but there is a pattern that needs attention. When citing studies claiming to show negative outcomes from social media use, Haidt, Twenge, Rausch, Murthy et al, rest their case on studies and surveys the large majority of which are long out of date (pre-2010), that use dubious definitions and methods, that investigate only social media and still produce very low or mixed effect sizes, and that produce a mere “positive correlation.” Then, when confronted with a mass of counter-research, they either ignore it or turn super-analytical, parsing each nuance, ferreting any complication, and advancing even the most far-fetched analogies based on the tiniest numbers or none at all – they’re the ones who brought up heroin use, for example. They then issue wild claims that “smartphones destroyed a generation” and “social media rewired childhood” and push the most extreme bans.
+						- I wish CDC’s ABES-2021 had asked more precise questions (2023’s appears to), but it remains by far the only usable multi-factorial survey. “Screen time” is a relevant variable, since the same authorities claim TV and video games also damage teenage mental health. Yes, it does differentiate whether parents/adults abuse teens never, rarely, sometimes, most of the time, or always. The definition for parental bullying is more narrowly specific than the broad language used to define cyberbullying (which could include voice telephones) and school bullying (which could include teachers, coaches, etc.), yet Murthy, Haidt, et al, don’t question the numbers for the latter two types.
+						- As for misusing small numbers, look at the huge panic blaming social media for the extremely rare phenomenon of teen (especially vanishingly rare girls’) suicide and self harm when there is not only zero evidence, but actual counter-evidence. The CDC survey has a fascinating result. It does show teens who use screens 5+ hours per day indeed report more sadness, poorer mental health, and more suicide ideation (51%, 37%, 25%) than teens onscreen less than 1 hour a day (37%, 23%, 16%) – but heavy screen users then turn around and report fewer risks: less actual self harm and suicide attempts (3%, 11%) than rarer screen users (5%, 15%). Teens using screens 5+ hours suffer less sleeplessness and lesser increases in drinking and drug use (31%, 15%, 14%) than rarely onscreen teens (37%, 22%, 23%). In a survey with 7,000 participants, these are not small numbers, yet look how rampantly these issues have been distorted.
+						- I don’t know where you’re getting your drug numbers. The CDC Wonder shows that for age 25-64, drug/alcohol overdose deaths soared steadily: 15,325 (2000), 34,861 (2010), 47,328 (2015), 94,376 (2021) and 95,122 (2022). I don’t trust hospital ER data, but annual overdose cases among age 25-64 also skyrocketed into the millions over this period, in turn only the iceberg tip of what teens face among adults around them. Again, these are not small numbers.
+						- Yet, After Babel substackers and Murthy cite the CDC survey and tiny numbers in the few areas where they help their case, then ignore them in the large areas where they refute their case. The preponderance of evidence today (though maybe not in 2010) shows social media is beneficial for teenagers, though not for every individual.
+				- BlueSky thread: [Re-analysis of Rausch & Haidt](https://bsky.app/profile/matthewbjane.bsky.social/post/3l2xnvtamhf2h) #inpeer/evdInfra/where/multimedia/microblog/bluesky
+					- Markdown
+						- --
+						- created: 2024-08-30T19:55:25 (UTC -04:00)
+						- tags: []
+						- source: [https://bsky.app/profile/matthewbjane.bsky.social/post/3l2xnvtamhf2h](https://bsky.app/profile/matthewbjane.bsky.social/post/3l2xnvtamhf2h)
+						- author:
+						- --
+						- # Matthew B Jané: "My blog post critical of this re-analysis is up: matthewbjane.com/blog-posts/blo… The re-analysis conducted by Rausch & Haidt does not follow a principled statistical approach. I re-do their re-analysis with appropriate statistical methods" — Bluesky
+
+						- > ## Excerpt
+						- > matthewbjane.com
+						- --
+						- matthewbjane.com
+						- A Statistical Interrogation of “The Case for Causality, Part 1” by Rausch and Haidt – Matthew B. Jané
+						- I don’t know anything about the literature on social media and mental health so my focus on this post is to interrogate the statistical approach taken by the article written by Zach Rausch and Jonatho...
+				- Twitter thread: [Re-analysis of Rausch & Haidt](https://x.com/MatthewBJane) #inpeer/evdInfra/where/multimedia/microblog/twitter
+					- Markdown
+						- --
+						- created: 2024-08-30T19:56:39 (UTC -04:00)
+						- tags: []
+						- source: [https://x.com/MatthewBJane/status/1829613320434798868](https://x.com/MatthewBJane/status/1829613320434798868)
+						- author:
+						- --
+						- # Matthew B Jané on X: "My blog post critical of this re-analysis is up: [https://t.co/wWlrRrovBI](https://t.co/wWlrRrovBI) The re-analysis conducted by Rausch & Haidt does not follow a principled statistical approach. I re-do their re-analysis with appropriate statistical methods [https://t.co/5UOz4QtIeP"](https://t.co/5UOz4QtIeP") / Twitter
+
+						- > ## Excerpt
+						- > Tweet
+						- --
+						- ## Tweet
+
+						- ## Conversation
+
+						- My blog post critical of this re-analysis is up: [matthewbjane.com/blog-posts/blo](https://t.co/wWlrRrovBI) The re-analysis conducted by Rausch & Haidt does not follow a principled statistical approach. I re-do their re-analysis with appropriate statistical methods
+						- [
+						- ![](and the effect size "Length of intervention in weeks")
+						- ]([https://x.com/MatthewBJane/status/1829613320434798868/photo/1)](https://x.com/MatthewBJane/status/1829613320434798868/photo/1))
+						- Quote
+						- Defenders of social media say that there is no evidence that it CAUSES mental illness, there's only a small correlation. But in fact, experiments consistently show benefits from reducing social media use, IF they go long enough to get past withdrawal: afterbabel.com/p/the-case-for
+						- Show more
+						- [
+						- ![](Matthew%20B%20Jan%C3%A9%20on%20X%20My%20blog%20post%20critical%20of%20this%20re-analysis%20is%20up%20httpst.cowWlrRrovBI%20The%20re-analysis%20conducted%20by%20Rausch%20&amp;%20Haidt%20does%20not%20follow%20a%20principled%20statistical%20approach.%20I%20re-do%20their%20re-analysis%20with%20appropriate%20statistical%20methods%20httpst.co5UOz4QtIeP%20%20Twitter/GWJ_oEVWsAALRl5.jpeg "Image")
+						- ]([https://x.com/JonHaidt/status/1829165292460859869/photo/1)](https://x.com/JonHaidt/status/1829165292460859869/photo/1))
+						- [
+						- ![](Matthew%20B%20Jan%C3%A9%20on%20X%20My%20blog%20post%20critical%20of%20this%20re-analysis%20is%20up%20httpst.cowWlrRrovBI%20The%20re-analysis%20conducted%20by%20Rausch%20&amp;%20Haidt%20does%20not%20follow%20a%20principled%20statistical%20approach.%20I%20re-do%20their%20re-analysis%20with%20appropriate%20statistical%20methods%20httpst.co5UOz4QtIeP%20%20Twitter/FHJjs4p7_bigger.jpg "Jay")
+						- ]([https://x.com/metasdl)](https://x.com/metasdl))
+						- Let me know if I have made any mistakes, I will make sure to revise the post accordingly if I did.
+						- Also if you like it, please consider sharing this blog post.
+						- By the way, I should mention that I could totally account for effect dependency (with robust variance estimation) since a lot of these studies come from the same lab. This would only increase the SEs and CIs of all the parameters.
+						- I'm not experienced enough with meta-analyses to give critical feedback, but overall I really like what you're doing, here. It seems transparent, frank, but professional. You're operating at a level that's well beyond many high-profile PIs.
+						- Oh jeez what a complement! I was hoping it wouldn’t come off as too confrontational, but I was trying to be quite frank
+						- I was hoping someone would model time continuously!
+						- This article was like begging me to respond.
+						- Great post! Love the clear writing style and easy to follow code
+						- Thank you! I am always a bit self-conscious about my writing so I appreciate it
+						- Cool, I learned a lot. What are your thoughts on using the log of the study length as a predictor to make the model multiplicative? Also there’s an “[eq](https://x.com/hashtag/eq?src=hashtag_click)” references in the text that should be “
+						- ” I think.
+						- Just checked that really quickly and there wasn’t anything significant (didn’t interpret the coefficients directly since they become hard to interpret) Ah good catch, I will edit that!
+					- Matthew ask for InPeeR of his InPeeR
+						- [[>]] Let me know if I have made any mistakes, I will make sure to revise the post accordingly if I did. [🐦](https://x.com/MatthewBJane/status/1829619986849210488) by Matthew B Jané on [[August 30th, 2024]]
+	- Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+		- One short-term effect: [[Chris Said]] deleted his recent post on social media reduction studies after viewing Matthew's InPeeR tweet:
+			- [[>]] Yesterday I linked to some work implying that intervention duration was a critical moderator in social media reduction studies. Doesn't seem like there's much there after all, so I've deleted the tweet. [https://t.co/my4AAZYttq](https://t.co/my4AAZYttq) [🐦](https://x.com/Chris_Said/status/1829627865098568086) by Chris Said on [[August 30th, 2024]]
+				- #inpeer/evdInfra/impacts/reactions/influencers/retractedClaim/socialMedia
+		- TBD
+			- ?
+	- Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+		- Matthew is a PhD student focusing on methods and software for meta-analyses and primary studies. He's developed a bit of a following as a second-year student in Quantitative Psychology at the University of Connecticut. He's studied Computational and Behavioral Neuroscience B.S and M.S. and went straight into his PhD. He's playing with fire sometimes doing InPeeR this boldly, but scholarly sleuths love him and he's quite cordial and polished online. His website indicates that he does consulting and helps with all manner of data science needs from cleaning, visualizing, and analyzing data. He also does website development! So his frequent blogging must be financially rewarding, getting his name and skillset out into the open.
+		- $150/hr for industry rate!
+			- #inpeer/who/reviewer/roles/employment/student, #inpeer/who/reviewer/roles/sleuth , #inpeer/who/reviewer/roles/influencer/scholarly
+		- Critiques [[@ferguson2024social]].
+		- He's on the [editorial board](https://matthewbjane.com) for _Psychological Bulletin_ as a methodological reviewer!
+	- Sociology of Science:
+		- intersections with science reform structures and movements
+			- Explicitly praises [[@ferguson2024social]] for open data, transparency, and pre-registration practices. Rausch & Haidt, 2024 do not follow these practices and engage in questionable research practices (QRPs) like subgroup analyses without a priori theorizing and justification for binning data as they do. They are not transparent. It seems that Matthew is on the open and reproducible science side, as I suspect most statisticians would prefer it. 
+			- #inpeer/how/practices/review/paper/frames/praise
+				- This means that an informal peer reviewer praised a study report.
+			- #inpeer/who/reviewer/roles/expert/fields/openSci/advocate, #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
+		- intersections with institutional and power structures
+			- Fighting a elite academic like Jonathan Haidt online on such a polarizing topic could be risky and one would need confidence to do it in a psychological field (which Matthew confesses to knowing little about). As a statistician, he can critique others' statistical practices and his re-analysis is a kind of [[verification report]].
+				- #inpeer/how/practices/sociotechnical/social/elitePower/refute
+	- Storytelling: What is the style/genre/frame of critical appraisal?
+		- [[hermeneutics of (critical) appraisal and (peer) review]]: #inpeer/how/practices/review/paper/frames/ critique that other academics can follow along and learn from
+- **Observer**: Jay Patel
+- **Date of Observation**: [[August 30th, 2024]]
+- **Duration of Observation**: one day
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+	- How was the case discovered?
+		- I discovered it in BlueSky and Twitter on Friday evening.
+			- #zoo/sciCommSocialMedia
+	- Was the observation a partial or a complete session?
+		- complete session
+	- What occurred? Which concerns were raised and by whom?
+		- Matthew tries to re-analyze Rausch & Haidt and reproduce the same small effect size (d = 0.20). He find an effect size of d = 0.20 due to lack of sound statistical modeling and use of unjustified subgroup analysis.
+			- #inpeer/how/review/paper/irreproducible
+	- Who participated?
+		- [[Matthew Jané]] critiquing [[Jonathan Haidt]]
+			- respondents: [[Stephen Wild]], [[Solomon Kurz]], other statistically savvy users and even [[Ian Hussey]]!
+				- #inpeer/evdInfra/what/reviews/informal/viral
+	- Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+		- None yet, though lots of good discussion about the Rausch & Haidt paper is active in the X/Twitter thread.
+	- By whom and how, and after what deliberations or conversations?
+		- [[Matthew Jané]]
+	- What are their roles and skills?
+		- Matthew is a PhD student focusing on methods and software for meta-analyses and primary studies. He's developed a bit of a following as a second-year student in Quantitative Psychology at the University of Connecticut. He's studied Computational and Behavioral Neuroscience B.S and M.S. and went straight into his PhD. He's playing with fire sometimes doing InPeeR this boldly, but scholarly sleuths love him and he's quite cordial and polished online. His website indicates that he does consulting and helps with all manner of data science needs from cleaning, visualizing, and analyzing data. He also does website development! So his frequent blogging must be financially rewarding, getting his name and skillset out into the open.
+	- Are there follow-ups or next steps for anyone involved?
+		- Well, I tried to attend the YouTube livestream but did not manage it and the video was deleted by the user.
+			- #inpeer/evdInfra/where/video/youtube
+	- What were my feelings about its sophistication and ease of authoring?
+		- I'm unsure of how hard it was to blog this, but even for an expert meta-analyst this does seem like a fair bit of work so the compensation Matthew received was justified.
+	- If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+		- NA, this was a reply to the blog post by Rausch & Haidt, 2024 so it can not really be retracted.
+		- Well, kinda? There was enough stimulation such that Rausch & Haidt keep posting about their re-analysis and this sparked quite a lot of commentary for people to analyze. No one really changed their mind, though.
+	- How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+		- ==I would want to catch paid examples of review by tailoring my Twitter algorithm and searching across sites like Patreon and [Buy Me a Coffee](https://buymeacoffee.com), which seem like great ways to kick off MVPs of [[ESS: evidence synthesis system(s)]]!
+			- ![[Screenshot 2024-09-05 at 17.40.30.png]]
+			- #inpeer/why/benefits/review/extrinsic/financial/paidCash
+	- Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+		- Yes, I praised Matthew's work and received a favorable reply. Matthew is using existing meta-analytic methods and services like Github + Buy Me a Coffee.
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+	- What stood out to you about this session, in light of our research problem?
+	- What was interesting or concerning or confusing?
+			- I believe the viral InPeeR work on Haidt's thesis and book about social media and phones is intriguing. Why do people love talking about this so much?
+				- #inpeer/who/target/persistent
+	- Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+		- Haidt is also getting creamed in the [comments](https://open.substack.com/pub/jonathanhaidt/p/the-case-for-causality-part-1?utm_campaign=post&utm_medium=web&comments=true) of his own Substack.
+			- joy-sorrow
+				- > "Hi Zach, I was wondering if you would take this approach with the other studies in the Ferguson meta-analysis, even including those who reported a positive effect size. The problem with meta-analyses is that not all studies are created equal, and that milage varies greatly with methodology. Take for instance the Faulhaber et al. 2023 study. [https://tmb.apaopen.org/pub/yvcb5y06/release/2](https://tmb.apaopen.org/pub/yvcb5y06/release/2) Despite finding significant changes between the treatment and control group, the treatment group limited social media usage through self-monitoring which is problematic for many reasons: truthfulness about social media usage, reliability in estimating social media usage, etc. Yes, some of the studies with a negative effect size are methodology flaws, but so do some of the studies that report positive effect sizes. What steps you are taking to balance this out?"
+			- [[Zach Rausch]]
+				- > " Zach Rausch Aug 29 Author Hi, These are good points. I agree that there are a number of issues across a variety of studies in the meta, on "both sides." Our focus in this post is primarily to show that there were clear moderators (e.g., duration) that should have been taken into account when conducting the meta. In the next post, in addition to calculation errors/other moderators, we are primarily concerned about which studies violate the inclusion criteria that was laid out within the meta (and why). This Is why we will discuss Collis in more detail, as there are a number of issues that directly pertain to inclusion. We don't cover all of the studies, just the ones that relate to that specific point. Independent of our response to this meta-analysis, we are working on a broader review of the experimental studies, where we plan to address some of your points."
+
+			- [[Matthew Jané]]
+				- responded in the thread
+					- > " Matthew B. Jané Aug 30 Hi Dr. Haidt, I wrote a blog post critique of this re-analysis. You can view it here: [https://matthewbjane.com/blog-posts/blog-post-6.html"](https://matthewbjane.com/blog-posts/blog-post-6.html")
+					- mildly interesting exchange between Matthew and joy-sorrow
+						- > " {˳✦*𝓳𝓸𝔂//𝒔𝒐𝒓𝒓𝒐𝒘*✧˳¹⁷⁹¹} Who is John Galt? Aug 31 · edited Sep 1 Hi Matthew, thank you for taking the time to engage with the meta-analysis and providing your own statistical analysis. I have a couple critiques of your interrogation. The first is in defending the choice Rausch and Haidt made in sub setting studies by duration. They cite Anna Lembke's work on dopamine addiction as noting that withdrawal symptoms may last for up to two weeks. While the withdrawal hypothesis should be more concretely tested, the decision to stratify by study duration is not entirely arbitrary. Furthermore, any decision to remove studies from consideration such as the Collis and Eggers 2022 is being made on the basis of impropriety in the methodology/experimental design, to which there are many flaws in the case of Collis and Eggers as well as many others, even studies with a positive d. The second critique is in your approach towards building a regression model. While your coding seems sound, the decision to construct the regression using only the overall effect sizes of each study seems inappropriate. Many of the studies done over a longer period of time were longitudinal, so their effect size is not static. Your regression does not capture the time evolution of effect sizes for some of these extended studies. Like Reply (1) Share Matthew B. Jané Aug 31 I will post some sort of penalized spline regression tomorrow. Dichotomizing into groups is simply not an optimal modeling approach even if you have some vaguely justified cut-off. I used the effect sizes that Rausch and Haidt used, I will not be constructing a whole new meta-analytic database for this. I’d be happy to analyze it if someone else does though. Like Reply (1) Share {˳✦*𝓳𝓸𝔂//𝒔𝒐𝒓𝒓𝒐𝒘*✧˳¹⁷⁹¹} Who is John Galt? Sep 1 A lot of the smaller studies are populated with noise due to ability for natural variance in daily life to obscure any signal. Would you really weight a day's abstinence from alcohol the same as a month's break? If so, then how about a hours? Or just 60 minutes? Surely you would agree that the length of a time series influences its utility. Also, including Collis and Eggers 2022, a study that did not holistically reduce social media usage, in a model for social media reduction studies seems highly inappropriate. Like Reply (1) Share Matthew B. Jané Sep 1 I’m not sure what this means: “A lot of the smaller studies are populated with noise due to ability for natural variance in daily life to obscure any signal.” If you are referring to sampling error, a random effects model is weighting by sampling variance. If you are referring to weighting by time, I am not going to weight the meta-regression by the independent variable. I’m using the dataset that Rausch and Haidt used. I am not conducting a new meta-analysis here, I am critiquing Haidt’s re-analysis. If you would like to use a new selection criterion for a meta-analysis then I encourage you to do that. Ultimately, if you don’t have a well-defined and coherent inclusion/exclusion criterion then you are cherry picking studies. I’m sure you could find post-hoc justifications to exclude any one of these studies. But again, this is well beyond the point of my critique. Like (1) Reply (1) Share {˳✦*𝓳𝓸𝔂//𝒔𝒐𝒓𝒓𝒐𝒘*✧˳¹⁷⁹¹} Who is John Galt? Sep 1 There are a variety of day-to-day factors that modulate your well-being (mood, sleep, stress, etc.) and performing a day's abstinence of social media without controlling for changes in the plethora of other moderators sets you up for having both high sample variance and sampling variance. What Rausch and Haidt are arguing is that the Ferguson meta-analysis suffers from a poor inclusion/exclusion criterion. It is not post-hoc to say that a study that does not reduce social media fails to meet the inclusion criteria of having measured social media reduction.
+	- What are the implications for evolving:
+		- formal peer review?
+			- Rausch and Haidt would not get away with bullshitting a re-analysis of a meta-analysis like this. They only managed to disseminate their amateurish re-analysis because they published on Substack. I believe they know that they are in error and want to be advocates with a political agenda more than experts. It is likely that Haidt is aware of his knowledge gap as he would have the opportunity to read meta-analyses in his past research activities (social psychology).
+				- #inpeer/evdInfra/what/reviews/informal/nonScholarly
+				- #inpeer/evdInfra/where/multimedia/blog/personal/substack
+		- informal peer review?
+			- We've gotta hook informal peer reviewers with Buy Me a Coffee, YouTube live streams, and create sub-communities with hashtags and associated techniques to ensure that they become more visible with academic endorsements.
+				-   #discussion/implications/peerReview/practices/financial/paymentChannels

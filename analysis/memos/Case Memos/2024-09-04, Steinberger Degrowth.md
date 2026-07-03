@@ -1,0 +1,78 @@
+- What is the relationship between informal peer review ananalysisoader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - [PubPeer page](https://pubpeer.com/publications/DB2DA597904B3B3E8A74C0B0DB2DED)
+        - Paper
+            - [[@savin2024reviewinga]]
+        - Social Media
+            - [X/Twitter](https://x.com/JKSteinberger/status/1831298395115327662): [[Julia Steinberger]] #inpeer/evdInfra/where/multimedia/microblog/twitter
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - None yet
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - This is an elite academic with minimal risks. In fact, the rewards are error correction. The real risks are borne by those who publish biased systematic reviews.
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - None that I can think of right now. There isn't a literature search improvement division in the [[open and reproducible science]] movement.
+	            - #inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique
+        - intersections with institutional and power structures
+            - The institutional structures here are journals that do not filter manuscripts by literature search strategies or require data from systematic reviews to be available by default. That makes all of this much harder. Publishing dead reviews that cannot be updated is also problematic. We need the future [[Matt Clancy]] recently blogged about. [[Jeroen van den Bergh]] noted that all reviews are incomplete because they need to be published at some point...
+	            - #discussion
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - #[[destructive critical appraisal]], but respectful and somewhat pedagogical only after Jeroen van den Bergh appeared in the comments. Y'all gotta explain your destructive appraisals when you post them instead of waiting around for them.
+			#inpeer/how/practices/review/paper/frames/destructive l
+- **Date of Observation**: [[September 4th, 2024]]
+- **Duration of Observation**: one day, early evening
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - JP discovered this as a quote tweet for Rutger Bregman's tweet while coding the [[Jukka Rintamäki]] appraisal in Obsidian.
+        - I believe Julia Steinberger discovered this via her Twitter algorithm. Given that this is what she actively studies, it makes sense that she would discover relevant viral content.
+    - Was the observation a partial or a complete session?
+        - complete session
+    - What occurred? Which concerns were raised and by whom?
+        - Reflecting on Bregman's tweet, she notes that she published 33 degrowth papers with about half using data analysis and modeling. [[@savin2024reviewinga]] use inclusion criteria strict enough to exclude all but one of Steinberger's papers.
+	        - #inpeer/how/practices/review/paper/layers/meta/literature/searchStrategy
+    - Who participated?
+        - [[Rutger Bregman]] original tweet
+            - [[Julia Steinberger]] quote tweet
+                - [[Jeroen van den Bergh]]: last author in [[@savin2024reviewinga]]
+                - accounts that seem from laypeople
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - No.
+    - By whom and how, and after what deliberations or conversations?
+        - NA
+    - What are their roles and skills?
+        - Steinberger has credentials in physics (elite, MIT) with numerous publications and academic experiences study climate, sustainability, etc. She certainly knows the science and specific literature.
+	        - #inpeer/who/reviewer/roles/expert , #inpeer/who/reviewer/roles/employment/tenured
+    - Are there follow-ups or next steps for anyone involved?
+        - Someone would have to redo the literature search and review to show that the conclusions would change. This would counter van den Bergh's claims that "With 561 studies, a few additional ones wouldn't anyway alter the results."
+            - [[>]] So you suggest that a large majority of papers on degrowth using hard methods tend not to have the term "degrowth" in their title. I wonder why, and find this a weak defense against our review's findings. With 561 studies, a few additional ones wouldn't anyway alter the results. [🐦](https://x.com/ProfJeroenBergh/status/1831325114094309827) by Jeroen van den Bergh on [[September 4th, 2024]]
+    - What were my feelings about its sophistication and ease of authoring?
+        - It's great that domain experts like Steinberger and [[Neal Haddaway]] can step in to correct claims. Several other Twitter users also stepped in to argue with van den Bergh to suggest that the search criteria were too restrictive and that more recent reviews show many quantitative degrowth papers:
+            - [[>]] So you suggest that a large majority of papers on degrowth using hard methods tend not to have the term "degrowth" in their title. I wonder why, and find this a weak defense against our review's findings. With 561 studies, a few additional ones wouldn't anyway alter the results. [🐦](https://x.com/ProfJeroenBergh/status/1831325114094309827) by Jeroen van den Bergh on [[September 4th, 2024]]
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - Absolutely nothing!
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - I presume this is a common issue when reviewing a controversial research topic. If a conflict of interest exists, then the review/synthesis will be skewed. It is up to reviewers and readers to detect that possibility.
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - I used [[active participant observation]]:
+            - I moved the thread to [[sys/PubPeer]] with [[PubPeerbot]].
+            - I asked van den Bergh for the data, as the paper noted that it would be available upon request.
+                - [[>]] According the the paper "Data availability Data will be made available on request." So, can you provide the file containing the 500+ papers excluded? [🐦](https://x.com/metasdl/status/1831471577948680656) by Jay on [[September 4th, 2024]]
+- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - Bregman's tweet is viral and has 227 Quote Tweets, 79 comments, and 3.1k likes. That's quite a lot of data to sort through.
+    - What was interesting or concerning or confusing?
+        - I found it interesting when domain experts (elites), novices, study authors with moderate knowledge, and evidence synthesis experts began challenging each other and debating in the same thread. That is very informative and doesn't appear in many formal peer review contexts.  #inpeer/who/network/diverseInputsinCase 
+	        - This means that there is a network of informal peer reviewers that contains diverse inputs/members including but not limited to novices, expert academics, study authors, and peripheral experts who are in a variety of other demographics.
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - A recent review in the same journal as [[@savin2024reviewinga]] includes many quantitative studies! Huh!
+        - How can the Data Availability statement for a not-so-systematic review shirk its duty by reporting "Data will be made available on request?" It's a review, not a primary study. The anonymity and confidentiality claims can not be made here!
+	        - #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/forkingPaths
+    - What are the implications for evolving:
+        - formal peer review?
+            - Quality appraisal tools: As I noted in the memo with [[Jukka Rintamäki]], we need to ensure that the literature search criteria are thought through carefully and evaluated during peer review. We can do a better job of this, as conclusions depend on the breath of the literature.
+            - Transparent literature reviews: show all search criteria and give us links to Zotero libraries and databases somewhere showing the papers that you included in your literature review
+        - informal peer review?
+            - Social media platforms, like [[[[[[ART]] -]] - Altmetrics Explorer]] do not provide InPeeR summaries per paper. It'd be great to automate that somehow.
+			- #discussion/implications/peerReview/tools/automate/syntheses/altmetricsExp

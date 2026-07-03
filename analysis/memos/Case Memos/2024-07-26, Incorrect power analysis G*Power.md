@@ -1,0 +1,219 @@
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - [PubPeer](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A)
+            - --
+            - created: 2024-06-26T19:14:15 (UTC -04:00)
+            - tags: [pubpeer,science,peer-reviewed publications,journals,publication conversations,peer-reviewed journals,post-publication peer review]
+            - source: [https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#)
+            - author:
+            - --
+            - # PubPeer - Targeting the prefrontal-supplementary motor network in obse...
+
+            - > ## Excerpt
+            - > There are comments on PubPeer for publication: Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial (2024)
+            - --
+            - [Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#)
+            - Translational psychiatry (2024) - 3 Comments
+            - pubmed: 38316750  doi: 10.1038/s41398-024-02736-y  issn: 2158-3188 
+            - ___
+            - Jaber Alizadehgoradel ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Behnam Molaei ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Khandan Barzegar Jalali , Asghar Pouresmali , Kiomars Sharifi , Amir-Homayun Hallajian , Vahid Nejati , Benedikt Glinski , Carmelo M. Vicario , Michael A. Nitsche ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Mohammad Ali Salehinejad ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email")
+            - The power of this study is overstated here: "The sample size was calculated a priori based on a medium effect size suggested for tDCS studies \[42\] (f = 0.30, α = 0.05, power = 0.95, N = 39, mixed-model ANOVA with 3 measurements)." The final sample size was groups of 13, 12 and 12.
+            - Reference 42 is this article: [https://www.frontiersin.org/articles/10.3389/fnhum.2016.00453/full](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00453/full) entitled: "The Importance of Sample Size for Reproducibility of tDCS Effects".
+            - Here's what that study concluded:
+            - "With sample sizes of up to 20 participants we found a significant modulation of RTs by tDCS in less than 20% of tests. .... Even a sample size of 60 participants produced the significant difference between anodal and cathodal tDCS in only 51% of randomizations. That might be somewhat surprising, since in this research field such a sample size would probably be considered as rather large. However, an a priori power-analysis suggested a sample size of 72 participants in order to achieve 80% probability of detecting an effect with an effect size of d = 0.6. The actual effect size that we found in our experiment was only at d = 0.45. This means that post-hoc even with our sample of 75 participants the experiment was slightly under-powered."
+            - Note that the d=.6 mentioned here is equivalent to f=.3 for the 3-group design used here.
+            - Here's G\*power output for this situation:
+            - (Note you have to specify SPSS in 'options' - see Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. Frontiers in Psychology, 4. [https://doi.org/10.3389/fpsyg.2013.00863](https://doi.org/10.3389/fpsyg.2013.00863)
+            - [![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../aHR0cHM6Ly9wdWJwZWVyLmNvbS9zdG9yYWdlL2ltYWdlLTE3MTkwNjU1NjE2OTMucG5n.jpeg "file")]([https://pubpeer.com/storage/image-1719065561693.png)](https://pubpeer.com/storage/image-1719065561693.png))
+            - #2 **Mohammad Ali Salehinejad**
+            - Our power analysis shows that for an f= 0.30, alpha of 0.05, and a power of 0.95, with 3 groups and 3 measurements and in a mixed model ANOVA, the minimum required sample size is 39. I recalculated it and obtained the same results. Regarding your 2nd point about the final sample size, there were several dropouts as clearly mentioned in the study and we did not add new patients.
+            - Lastly, I must clarify that these are peer-reviewed articles assessed by experts in the field, who are acquainted with the typical and necessary sample size in NIBS studies.
+            - MA Salehinejad
+            - #3 **_Actinopolyspora biskrensis_**
+            - #2
+            - You may wish to consider [Dr. Bishop's own background](https://www.psy.ox.ac.uk/people/dorothy-bishop) before suggesting that the peer review process somehow eliminates the possibility of errors in your paper.
+		- #inpeer/evdInfra/where/multimedia/bespoke/pubpeer
+		- #inpeer/evdInfra/where/multimedia/pubpeer
+		- #inpeer/evdInfra/where/multimedia/pubpeer/authorInvolved
+			- This means that the authors engaged with critiques/commentaries of their research on PubPeer.
+        - Paper [[@alizadehgoradelTargetingPrefrontalsupplementaryMotor2024]]
+            - --
+            - created: 2024-06-26T19:13:37 (UTC -04:00)
+            - tags: [pubpeer,science,peer-reviewed publications,journals,publication conversations,peer-reviewed journals,post-publication peer review]
+            - source: [https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#)
+            - author:
+            - --
+            - # PubPeer - Targeting the prefrontal-supplementary motor network in obse...
+
+            - > ## Excerpt
+            - > There are comments on PubPeer for publication: Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial (2024)
+            - --
+            - [Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#)
+            - Translational psychiatry (2024) - 3 Comments
+            - pubmed: 38316750  doi: 10.1038/s41398-024-02736-y  issn: 2158-3188 
+            - ___
+            - Jaber Alizadehgoradel ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Behnam Molaei ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Khandan Barzegar Jalali , Asghar Pouresmali , Kiomars Sharifi , Amir-Homayun Hallajian , Vahid Nejati , Benedikt Glinski , Carmelo M. Vicario , Michael A. Nitsche ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email") , Mohammad Ali Salehinejad ![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../verified.svg "author has email")
+            - The power of this study is overstated here: "The sample size was calculated a priori based on a medium effect size suggested for tDCS studies \[42\] (f = 0.30, α = 0.05, power = 0.95, N = 39, mixed-model ANOVA with 3 measurements)." The final sample size was groups of 13, 12 and 12.
+            - Reference 42 is this article: [https://www.frontiersin.org/articles/10.3389/fnhum.2016.00453/full](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00453/full) entitled: "The Importance of Sample Size for Reproducibility of tDCS Effects".
+            - Here's what that study concluded:
+            - "With sample sizes of up to 20 participants we found a significant modulation of RTs by tDCS in less than 20% of tests. .... Even a sample size of 60 participants produced the significant difference between anodal and cathodal tDCS in only 51% of randomizations. That might be somewhat surprising, since in this research field such a sample size would probably be considered as rather large. However, an a priori power-analysis suggested a sample size of 72 participants in order to achieve 80% probability of detecting an effect with an effect size of d = 0.6. The actual effect size that we found in our experiment was only at d = 0.45. This means that post-hoc even with our sample of 75 participants the experiment was slightly under-powered."
+            - Note that the d=.6 mentioned here is equivalent to f=.3 for the 3-group design used here.
+            - Here's G\*power output for this situation:
+            - (Note you have to specify SPSS in 'options' - see Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. Frontiers in Psychology, 4. [https://doi.org/10.3389/fpsyg.2013.00863](https://doi.org/10.3389/fpsyg.2013.00863)
+            - [![](PubPeer%20-%20Targeting%20the%20prefrontal-supplementary%20motor%20network%20in%20obse.../aHR0cHM6Ly9wdWJwZWVyLmNvbS9zdG9yYWdlL2ltYWdlLTE3MTkwNjU1NjE2OTMucG5n.jpeg "file")]([https://pubpeer.com/storage/image-1719065561693.png)](https://pubpeer.com/storage/image-1719065561693.png))
+            - #2 **Mohammad Ali Salehinejad**
+            - Our power analysis shows that for an f= 0.30, alpha of 0.05, and a power of 0.95, with 3 groups and 3 measurements and in a mixed model ANOVA, the minimum required sample size is 39. I recalculated it and obtained the same results. Regarding your 2nd point about the final sample size, there were several dropouts as clearly mentioned in the study and we did not add new patients.
+            - Lastly, I must clarify that these are peer-reviewed articles assessed by experts in the field, who are acquainted with the typical and necessary sample size in NIBS studies.
+            - MA Salehinejad
+            - #3 **_Actinopolyspora biskrensis_**
+            - #2
+            - You may wish to consider [Dr. Bishop's own background](https://www.psy.ox.ac.uk/people/dorothy-bishop) before suggesting that the peer review process somehow eliminates the possibility of errors in your paper.
+        - Social Media
+            - [BSky](https://bsky.app/profile/deevybee.bsky.social/post/3kvrirzollc2p) #inpeer/evdInfra/where/multimedia/microblog/bluesky
+                - seems that there are some people who just won’t accept that G*power defaults don’t work with SPSS
+                - ![[Screenshot 2024-11-06 at 18.10.22.png]]
+	                - Markdown
+		                - [https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2)
+                - 😧            - #zoo/education/educateScholarsFail
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - none when examined November 6th, 2024
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - Retired and elite professor of dev psych, little risk
+	        - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate
+	        - #inpeer/who/reviewer/roles/unconventional/formerAcademic
+	        -  #inpeer/who/reviewer/roles/employment/retired
+	        -  #inpeer/why/benefits/review/intrinsic/correctLit
+        - Dorothy has previously called for criminalising scientific misconduct and [wrote about the "Dark Arts" in research](https://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html) (aka training scholarly sleuthing)
+	        - #inpeer/who/reviewer/roles/sleuth
+	        - #inpeer/who/reviewer/roles/hero #inpeer/who/reviewer/roles/hero/sciReformer
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - [[error detection & prevention strategies]] come to mind. Open science is leaning more and more into uncovering errors like [[statcheck]], [[GRIM]], etc.
+	            - Forensic error detection tools are needed, because we only have one Dorothy.
+        - intersections with institutional and power structures
+            - An anonymous post referenced DB's power when suggesting peer review eliminates errors in the scientific process.
+	            - #zoo/infrastructure/eliteGroups/elitePower
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpNA2xomPKK.png?alt=media&token=b9c8edb4-56a0-4e08-b3e5-16e0cf6499ca)
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - Destructive aka #inpeer/how/practices/review/paper/frames/destructive
+- **Observer**: Jay Patel
+- **Date of Observation**: 2024-06-26
+- **Duration of Observation**: same day of post
+- **Event or Activity Observed**: appraisal of paper
+- **Description**: We will ask ourselves:
+    - Was the observation a partial or a complete session?
+        - complete
+    - What occurred? Which concerns were raised and by whom?
+        - DH corrected a power analysis from the paper, which overstated statistical power. The study authors, when using G*Power, did not click Options and specific effect sizes to work as they do in SPSS. Hence, they were informed to use a smaller size. They really needed n = 111 participants, far more than their sample sizes of 13, 12, and 12 (n = 37).
+	        - #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/statPower
+		        - This means that the study report contains an error in the statistical power analysis, as identified by attempting to reproduce the power analysis in the same software program.
+			- The study authors responded to DB June 2024.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1Yefstv-mX.png?alt=media&token=d9da81ae-735c-4a5e-a933-428c28a41daf)
+				    #inpeer/how/review/paper/irreproducible
+					#inpeer/evdInfra/impacts/reactions/meta/dynamics/longForm
+					#inpeer/who/reviewer/roles/reviewer/informal/debatesStudyauthor
+    -Who participated?
+        - [[Dorothy Bishop]]
+        - authors of [[@alizadehgoradelTargetingPrefrontalsupplementaryMotor2024]]
+        - anonymous PubPeer commenter
+            - **_Actinopolyspora biskrensis_**
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - No, the author is either failing to read the last bit of DB's post or doesn't want to. The study author Mohammad Ali Salehinejad replied that, upon recalculation, the n = 39 value is correct. There were dropouts and they did not add new participants. Dorothy seems correct to me (JP). I ran the analysis myself in G*Power as she advised, but I'm unsure of why to specify effect sizes as used in SPSS. I should read:
+            - > Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. Frontiers in Psychology, 4. [https://doi.org/10.3389/fpsyg.2013.00863](https://doi.org/10.3389/fpsyg.2013.00863)
+    - By whom and how, and after what deliberations or conversations?
+        - NA
+    - What are their roles and skills?
+        - DB is a metascientist, retired psychologist, and scholarly sleuth. The study authors are psychiatry researchers.
+	        - #inpeer/who/reviewer/roles/expert/fields/metascientist
+    - Are there follow-ups or next steps for anyone involved?
+        - Yeah, actually do the power analysis correctly.
+    - What were my feelings about its sophistication and ease of authoring?
+        - Using PubPeer to correct a statistical power analysis issue is easy. I tried it myself, but a moderator seems to have prevented me. Maybe I can try again later.
+            - #discussion/implications/peerReview/tools/removeUXfriction
+            - #discussion/implications/peerReview/tools/pubpeer/badUX
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaILrnkuEoK.png?alt=media&token=367abd05-52d6-47c9-bfd4-ca824e18d04a)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSzumf3pO7y.png?alt=media&token=a208e1f3-82be-4e55-b5b9-eceaafb422a4)
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - NA; I checked months later (November 6th, 2024). Nothing!
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - errors in power analysis are interesting to consider.
+		#discussion/implications/peerReview/tools/powercheck
+			This means that I, JP, was inspired to conceptualize a new peer review tool based on the cases analyzed in this study. Here, I consider a tool to check power analyses for errors and fraud much like the web app statcheck.
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - Nope, but I'm monitoring this in case I need to dig deeper. G*Power was the primary tool to report on PubPeer.
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - Analysis and reporting of statistical power can be considered a way to lend credibility to a study. Hence, we should expend some effort here going through the calculation carefully ourselves, with a supervising expert to ensure that it attended to the nuances of the technique. DB uncovered something that I would definitely have missed. Now, what can we do?
+        - Note: this issue often arises in papers with these life science, Iranian authors.
+    - What was interesting or concerning or confusing?
+        - A PubPeer search for returned 55 results and just 8 results when using
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - I need to learn more about Dorothy Bishop, scholarly sleuth. I first listened to her speak at Metascience 2019 at Stanford.
+        - I should just read her blog daily to get a sense of what she's up to. I read her bio in The Transmitter article: [Retraction, She Wrote: Dorothy Bishop's life after research](https://www.thetransmitter.org/scientific-publishing/retraction-she-wrote-dorothy-bishops-life-after-research/).
+            - Article text
+                - --
+                - created: 2024-06-26T20:06:56 (UTC -04:00)
+                - tags: []
+                - source: [https://www.thetransmitter.org/scientific-publishing/retraction-she-wrote-dorothy-bishops-life-after-research/](https://www.thetransmitter.org/scientific-publishing/retraction-she-wrote-dorothy-bishops-life-after-research/)
+                - author: alicegerlach — Read time: 9 minutes
+                - --
+                - # Retraction, She Wrote: Dorothy Bishop’s life after research
+
+                - > ## Excerpt
+                - > A renowned researcher’s eye for detail has given her a second career and a new following.
+                - --
+                - A renowned researcher’s eye for detail has given her a second career and a new following.
+                - By
+                - 12 June 2023 | 12 min read
+                - ![](Retraction,%20She%20Wrote%20Dorothy%20Bishop%E2%80%99s%20life%20after%20research/1200-inside-3-dorothy-bishop-autism-research-profile-1.jpg "Dorothy Bishop stands in a dark room wearing a turquoise shirt.")
+                - Photography by Oliver Edwards
+                - Listen to this story:
+                - Last year, when Dorothy Bishop wanted to figure out how six suspicious-looking manuscripts had all been accepted for publication in the same psychology journal, she decided to set up a sting operation.
+                - By that time in her career, after five decades as a psychology researcher, [Bishop](https://www.psy.ox.ac.uk/people/dorothy-bishop) had seen quite a few questionable papers and thought a great deal about the differences between deception, fraud and honest mistakes. These manuscripts in particular carried a whiff of fraud. Sometimes manuscripts are found to contain “tortured phrases” — sets of words created by running someone else’s writing through a synonym finder in the hope of masking plagiarism. Such phrases are often hallmarks of manuscripts generated by paper mills, shadowy organizations that sell these manuscripts to researchers and then place the papers in academic journals.
+                - But these papers had different issues that hinted a paper mill. The authors had supplied email addresses with country domains that did not match their academic addresses, and the findings in the papers were weakly supported. Bishop could not fathom how the papers had passed a rigorous peer review.
+                - The papers were published in the _Journal of Community Psychology_, and to Bishop that meant the editor-in-chief either had not noticed the poor quality of the papers or he was complicit. Bishop and her colleague [Anna Abalkina](https://retractionwatch.com/author/anna-abalkina/), who initially flagged these papers for Bishop, wanted to test the journal’s editorial process, so they submitted a manuscript about the six suspicious papers. And then they waited.
+                - The editor rejected their manuscript because of “superficial analysis,” Bishop says, which was “not what I expected at all.” The sting had failed, and she never got her answers. Still, the six articles were later retracted, and for Bishop that had to be satisfaction enough: A scientific wrong had been righted.
+                - The sting shows how far Bishop is willing to go in her fight to keep the science world clean, but she had been investigating questionable research practices for a while by then: In 2015, she helped convene a workshop on reproducibility in research that later grew into the [UK Reproducibility Network](https://www.ukrn.org/), and over the years, she has questioned the integrity of numerous papers.
+                - Uncovering fraud and challenging sloppy science might seem exciting, but Bishop understands it is not something that should be taken lightly. Some science sleuths “get a kick out of” this work, she says, but “I definitely don’t. I always feel a bit sorry” for exposing people, for making them clarify, respond or retract.
+                - B
+                - ishop grew up in East London, England, in a “grotty” suburb called Ilford. Her father settled there after returning from World War II in Germany, where he’d met a woman, Annemarie, who already had a child from a previous relationship. He brought them both back to England and received a cool reception. There was anti-German sentiment in the country, so that was part of it, Bishop says. But also, her grandparents likely were “shocked” when their son came back from the war with a woman and small child in tow. The couple married anyway and had two more children: first a boy, and then Dorothy in 1952.
+                - ![](Retraction,%20She%20Wrote%20Dorothy%20Bishop%E2%80%99s%20life%20after%20research/1200-inside-1-dorothy-bishop-autism-research-profile-1.jpg "Dorothy Bishop sits on a couch next to a stack of books on a small, circular table.")
+                - *Foul play:** Dorothy Bishop stays busy investigating unethical scientific practices, such as the proliferation of paper mills around the world.
+                - Bishop’s father spent his post-war career in the family furniture shop, but her mother went to night school and taught German to businessmen. Of her two parents, Bishop says, it was her mother who had the academic pedigree. Bishop’s maternal great-grandfather, Rudolph Eucken, won the Nobel Prize in Literature in 1908, and her grandfather, Arnold, was a noted chemist. But Bishop’s mother was estranged from her parents, and Arnold died by suicide two years before Bishop was born. Her grandfather had struggled, she was told, with the loss of his son, who had died on the Eastern Front in the war. But Bishop also says she wonders if he was burdened by his involvement in the Nazi Party — her mother had always said he never joined, but the internet suggests otherwise.
+                - The only family member Bishop knew on her German side was her Aunt Margaret, a brilliant chemist who worked in industry because academia “wasn’t the place” for women back then, Bishop says. In her own schooling, Bishop was often bored, but she knew she wanted to go to university and indeed was accepted to the University of Oxford. She began her undergraduate work in 1970 at St. Hugh’s College, one of the five colleges at Oxford that accepted women at the time. Originally, Bishop had planned on degrees in physiology and philosophy, but tutors suggested psychology to her, and she gave it a try. She earned her degree in experimental psychology in 1973 — at the time a brand-new degree at Oxford.
+                - After that, she did a two-year clinical course in psychology at the University of London. These were the earliest days of cognitive behavioral therapy, but Bishop didn’t feel like a “natural” clinician, she says — good, but not great. So she packed up and headed back to Oxford.
+                - There were two reasons for that. First, she felt more research needed to be done before anyone could be truly helped. Second, Patrick Rabbitt was at Oxford. He had taught her during her undergraduate years, but she had seen him around a few times since, and something new was forming. They had “a deep understanding” of each other, she says, “which was there right from the outset.” Bishop started her Ph.D. in 1975 in the lab of neuropsychologist [Freda Newcombe](https://www.sciencedirect.com/science/article/pii/S002839320100104X?via%3Dihub), and she married Rabbitt, a cognitive gerontologist, in 1976.
+                - N
+                - ewcombe had risen to prominence after World War II, studying language loss in men who had sustained massive head injuries in battle, and Bishop expected to work in the same area. But a new residential school for children with language and communication disorders, called the [Dawn House School](https://www.specialneedsuk.org/schooldetails.asp?id=31), had recently opened, and Newcombe was asked to come take a look.
+                - Bishop tagged along on a visit, and once she dipped her toe into the work at the school, she was hooked. The research on communication disorders in children that she started there would come to define her career.
+                - ![](Retraction,%20She%20Wrote%20Dorothy%20Bishop%E2%80%99s%20life%20after%20research/Dorothy-Bishop-autism-laptop-1200-1.jpg "Close-up photograph of Dorothy Bishop typing on a laptop.")
+                - *Write on:** Bishop has posted about her research, investigations and life in her blog, [BishopBlog](http://deevybee.blogspot.com/), for 13 years.
+                - One early goal was to categorize the children into specific “bins” with named communication disorders, but this task proved difficult. The literature at the time, Bishop says, was jumbled, and it felt like a variety of disorders were being lumped together. She developed an assessment test and administered it to the school’s children. When it was put to use, it became clear that, as far as communication disorders go, the group was “completely heterogeneous.” Bishop called this the Test for Reception of Grammar, and it is still in use today.
+                - The prevailing notion at the time was that language difficulties in children were the result of poor parenting. But when [Michael Rutter](https://www.spectrumnews.org/news/remembering-child-psychiatrist-michael-rutter)’s landmark 1977 [twin study](https://www.spectrumnews.org/opinion/viewpoint/1977-paper-on-the-first-autism-twin-study/) showed a genetic component to autism, Bishop wondered if problems with language development were genetic too.
+                - She started up her own twin study, calling schools to ask about both identical and non-identical twin pairs. Her conclusion was that identical twins with language issues were much more similar to each other than were non-identical twins. There was a genetic component to these communication struggles, she realized. Bishop published a pioneering [paper](https://doi.org/10.1111/j.1469-8749.1995.tb11932.x) on this in 1995, helping to form a foundation that other researchers would continue to build on.
+                - The connection of speech and language impairment to genetics was “kind of a game changer,” says [Courtenay Norbury](https://www.ucl.ac.uk/pals/people/courtenay-norbury), one of Bishop’s former doctoral students, now professor of communication disorders at University College London. Bishop “truly was one of the first experimental psychologists who could see the value of behavioral genetics,” Norbury says.
+                - But Bishop never stayed in one place long. Rabbitt moved from job to job, and she often went with him, though sometimes she and Rabbitt lived in different cities as one job ended or another began. She did research at Newcastle University, the University of Manchester, the University of Cambridge and then Oxford again, all the while working to untangle the mechanics of developmental language disorder. She also developed additional assessments, such as the [Children’s Communication Checklist-2](https://www.pearsonassessments.com/store/usassessments/en/Store/Professional-Assessments/Speech-%26-Language/Children%27s-Communication-Checklist-2-%7C-U-S-Edition/p/100000193.html), that are [still in regular use](https://doi.org/10.1111/jcpp.13705).
+                - If, early in her career, Bishop had thought she might find singular causes for certain communication disorders, she came to understand that this thought was “naive.”
+                - “Language is a vulnerable cognitive function,” she says. “You can have many paths that will lead to a language disorder.” The diagnostic categories and groups people are placed into are “just artificial abstractions humans use to try and make sense of the world,” she says. The reality is “much messier and sloppier,” and the goal should be getting services to those who need them.
+                - I
+                - n 2010, Bishop joined Twitter. When she realized she had more to say about research, life and everything else than she could squeeze into 140 characters, she started the [BishopBlog](http://deevybee.blogspot.com/). She was active online (to date she has tweeted more than 84,000 times) and incisive, and she built a loyal following.
+                - In early 2015, she received a tip on Twitter about a journal editor and autism researcher named Johnny Matson at Louisiana State University. Matson cited himself quite a bit and also published his own papers in the journals he edited. Bishop found this unseemly and [posted an analysis](http://deevybee.blogspot.com/2015/02/journals-without-editors-what-is-going.html) on her blog, diving deep into Matson’s publishing habits. She revealed three other editors along with Matson who may have been getting their own papers published quickly by submitting to journals where they were all editors. She received some scathing anonymous comments on her blog post that questioned her motives, but the posts were picked up by large news outlets, and she was vindicated in 2023 when two dozen of [Matson’s papers were retracted](https://www.spectrumnews.org/news/prolific-autism-researcher-has-two-dozen-papers-retracted/).
+                - Matson’s retracted work was not shown to be fraudulent, and most of it was not well cited, so at times Bishop wonders if the results are worth the effort. But her work has a greater mission. When she shone a light on the paper mill that provided the fraudulent manuscripts to researchers for the _Journal of Community Psychology_, in part she wanted to separate the bad apples from the bushel. These transactions occurred between researchers and paper mills in post-Soviet countries, and Bishop feels “very strongly that if your country is identified as a country full of fraudulent paper mills, it’s really bad for the honest people in that country.” If a few sloppy papers go unnoticed or a few unethical editors are allowed to slide, it has a domino effect on the whole community, she says. That’s what she’s here to fight against.
+                - When Bishop retired last year, her former trainees threw a [two-day celebration](https://celebratingdorothy.web.ox.ac.uk/home) at the Royal Society in London in her honor. At 70, she felt it was time to go. “I just don’t want to be one of these people that goes on and on,” she says. One reason is that she wants to make way for a new generation. Bishop has always been gracious to trainees, Norbury says. But she also wants to spend more time at the cinema and exploring local history, maybe doing some photography. She still [makes rounds at conferences](https://metascience.info/virtual_symposia/academic-journals-are-broken-lets-build-a-better-scientific-record/), talking about problems in publishing. She is also serving as another kind of mentor, helping her husband craft his [Substack](https://patrickrabbitt.substack.com/) so he can self-publish his memoirs of growing up in colonial India.
+                - And she writes creatively herself. She wrote and self-published a five-part series of mystery novels called “The Fremantle Mysteries.” The protagonist seems a lot like Dorothy Bishop, except she solves murders. In fact, the books read a bit like Agatha Christie novels. She finished that series in 2017, and these days Bishop sometimes strolls the historic streets of Oxford, taking photographs or puzzling through her own “cases” of academic fraud. The recognition for her sleuthing keeps coming. Just last month, she was featured prominently in a [report](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html) on reproducibility and research integrity for the U.K. Parliament. Earlier this year, you could hear her talking about scientific malpractice on [_The Economist_ podcast](https://www.economist.com/fraud-pod) and [BBC Radio](https://www.bbc.co.uk/sounds/play/m001lqvg).
+                - This is Bishop’s second act — one centered on sleuthing. A hobby she thought she could dabble in during her retirement has expanded to fill most of her days, she says — an unsurprising development to those who know her. Norbury, who describes Bishop as the “quintessential scientist,” says that no matter what issue Bishop tackles, “she just wants to know the truth.”
+                - ![](Retraction,%20She%20Wrote%20Dorothy%20Bishop%E2%80%99s%20life%20after%20research/1200-inside-2-dorothy-bishop-autism-research-profile-1.jpg "Photograph of Dorothy Bishop standing in an outdoor garden and smiling.")
+                - *Act 2:** Bishop retired from her position as professor of developmental neuropsychology at the University of Oxford’s St. John’s College last year.
+                - Correction
+                - This article has been updated to reflect how the six paper mill manuscripts were initially discovered.
+                - ## Recommended reading
+
+                - ## Explore more from _The Transmitter_
+
+            - Her colleague: [[Anna Abalkina]] is also a sleuth
+            - > In 2010, Bishop joined Twitter. When she realized she had more to say about research, life and everything else than she could squeeze into 140 characters, she started the [BishopBlog](http://deevybee.blogspot.com/). She was active online (to date she has tweeted more than 84,000 times) and incisive, and she built a loyal following.
+	            - #inpeer/who/reviewer/roles/influencer/scholarly
+            - > This is Bishop’s second act — one centered on sleuthing. A hobby she thought she could dabble in during her retirement has expanded to fill most of her days, she says — an unsurprising development to those who know her. Norbury, who describes Bishop as the “quintessential scientist,” says that no matter what issue Bishop tackles, “she just wants to know the truth.” ^tz1xx8
+	            - #inpeer/who/reviewer/roles/employment/retired
+	            - #inpeer/why/benefits/review/intrinsic/correctLit
+                - JP: Figuring out scholarly sleuths' origin stories is a neat path for the future. Many seem to stumble into it after leaving academic positions.

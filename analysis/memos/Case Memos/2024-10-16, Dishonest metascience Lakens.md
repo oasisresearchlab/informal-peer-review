@@ -1,0 +1,95 @@
+- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - [PubPeer: Retraction Note](https://pubpeer.com/publications/8AEC9B438A164D1F2CEC2AD0285564)
+            - [PubPeer: High replicability...](https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF)
+        - Paper
+            - [[@protzko2024high]]
+        - Social Media
+            - [BSky Post](https://bsky.app/profile/lakens.bsky.social/post/3kpls7klfd52l)
+                - Screenshots
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZgjsOhpBe-.png?alt=media&token=10f41b34-a485-45e1-a290-ff604732cb8b)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9o4rS80qgZ.png?alt=media&token=d9071cb9-b84f-42e8-8127-f49a28dbb84c)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fc2aOo7T7FZ.png?alt=media&token=451ecaec-bd4a-4827-91a4-96bffafc76b5)
+                        - deactivated his Bluesky account sometime April - Oct 2024! Thank god I've got the markdown backup! He saw his error: exposing Hullman and Bak-Coleman as formal peer reviewers.
+                        - #inpeer/evdInfra/where/multimedia/microblog/bluesky
+                - Markdown
+                    - --- created: 2024-04-08T16:55:55 (UTC -04:00) tags: [] source: [https://bsky.app/profile/lakens.bsky.social/post/3kplsdsst3l2y](https://bsky.app/profile/lakens.bsky.social/post/3kplsdsst3l2y) author: --- # Daniel Lakens: "That is the answer to Q2. The answer to Q1 is this is, given that it has been done, a valuable study for metascience. Replication projects especially in this context where a novel test is examined are very rare. This is not the most exciting study ever but it is getting more criticism than deserved" — Bluesky > ## Excerpt > Social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again. --- [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreihwxlsh3h6jmfhi2chhscg63wqjbmzsyva5sdqdecr6gdgh2mhlxq@jpeg.jpeg) ]([https://bsky.app/profile/lakens.bsky.social)](https://bsky.app/profile/lakens.bsky.social)) This is not a very smart take. The question is why would Templeton fund research on a dumb idea like the decline effect. Given it was funded, anyone interested in replication in 2012ish (when replications were not done or funded) would have been thrilled to do a funded replication project. i read the post on Gelman’s blog about the Protzko et al. “high replicability” paper, and then i skimmed the published paper, and then i read the review i wrote for an older version of the paper when it was submitted to Nature back in 2020, and after that i was left with 2 questions: [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreihwxlsh3h6jmfhi2chhscg63wqjbmzsyva5sdqdecr6gdgh2mhlxq@jpeg.jpeg) ]([https://bsky.app/profile/lakens.bsky.social)](https://bsky.app/profile/lakens.bsky.social)) That is the answer to Q2. The answer to Q1 is this is, given that it has been done, a valuable study for metascience. Replication projects especially in this context where a novel test is examined are very rare. This is not the most exciting study ever but it is getting more criticism than deserved [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreihwxlsh3h6jmfhi2chhscg63wqjbmzsyva5sdqdecr6gdgh2mhlxq@jpeg.jpeg) ]([https://bsky.app/profile/lakens.bsky.social)](https://bsky.app/profile/lakens.bsky.social)) A team of highly visible people tries to prevent a file drawer for a decade old funded project that is not very interesting. It deserved criticism for the framing. But not publishing this amount of data would be unethical after you have collected it. [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreihwxlsh3h6jmfhi2chhscg63wqjbmzsyva5sdqdecr6gdgh2mhlxq@jpeg.jpeg) ]([https://bsky.app/profile/lakens.bsky.social)](https://bsky.app/profile/lakens.bsky.social)) Now bluesky mainly seems to be a nihilistic hell hole where people who are unhappy about things complain to each other, so I am sure a more nuanced take is unpopular here. Criticize the funder? Sure? Criticize publishing this? That is just stupid. [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreiekcq43zxfvc64g2cby647z74v47x2mgutb6rdmgurwp2byyt5k6u@jpeg.jpeg) ]([https://bsky.app/profile/danielread.bsky.social)](https://bsky.app/profile/danielread.bsky.social)) This is indeed an unfortunate but increasingly accurate description of Bluesky. We look at the hell of Twitter and say "if only there was somewhere better." But it turns out WE are the hell, and we just build it elsewhere, but smaller. [ ![](Daniel%20Lakens%20That%20is%20the%20answer%20to%20Q2.%20The%20answer%20to%20Q1%20is%20this%20is,%20given%20that%20it%20has%20been%20done,%20a%20valuable%20study%20for%20metascience.%20Replication%20projects%20especially%20in%20this%20context%20where%20a%20novel%20test%20is%20examined%20are%20very%20rare.%20This%20is%20not%20the%20most%20exciting%20study%20ever%20but%20it%20is%20getting%20more%20criticism%20than%20deserved%20%E2%80%94%20Bluesky/bafkreihwxlsh3h6jmfhi2chhscg63wqjbmzsyva5sdqdecr6gdgh2mhlxq@jpeg.jpeg) ]([https://bsky.app/profile/lakens.bsky.social)](https://bsky.app/profile/lakens.bsky.social)) The main solution for me is to be light on the block button, and stick closely to people you want to follow. I still learn so much through social media (mainly Twitter though) so I am not ready to give it up, but I surely do not hope young people learn about what academia is like from here.
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - retraction for the protzko paper after 7+ months
+	        - #inpeer/evdInfra/impacts/reactions/publishers/revisions/
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - Lakens is an elite metascientist and tenured professor of psychology. There are certainly personal benefit like advancing his favored positions in science, but few risks. He is already considered somewhat of a bully and rascal, so any backlash would not affect him very much.
+	        - #inpeer/who/reviewer
+	        - #inpeer/who/reviewer/roles/employment/tenured
+	        - #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
+	        - #inpeer/who/reviewer/roles/expert/fields/metascientist
+	        - #inpeer/who/reviewer/roles/influencer/scholarly
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - Lakens is part of the science reform movement and has co-written modern classics in this area like Justify your alpha.
+	            - #inpeer/who/reviewer/roles/hero/sciReformer
+        - intersections with institutional and power structures
+            - He is certainly affiliated with [[Brian Nosek]] with the [[Institute for Replication]] and associated papers: [[@lakensJustifyYourAlpha2018]]
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - [[destructive critical appraisal]]
+	        - #inpeer/how/practices/review/paper/frames/destructive
+- **Observer**: Jay Patel
+- **Date of Observation**: [[April 8th, 2024]]
+- **Duration of Observation**: one day in April, structured memo in October with causal monitoring of Lakens and his contacts between that period
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - X/Twitter and Bluesky posts on JP's timeline
+    - Was the observation a partial or a complete session?
+        - complete session
+    - What occurred? Which concerns were raised and by whom?
+        - Lakens critiqued the informal reviewers Joe Bak-Coleman, Berna Devezer, and followers but deleted his Bluesky account over April - Oct 2024 sometime and I only have screenshots of the thread with Markdown content. He claims that it's dumb to critique the protzko paper because the replication was of interest in the early 2010s and given that the study was funded, we should publish it to avoid a file drawer effect.
+	        - #inpeer/how/practices/sociotechnical/technical/deactAccount
+		        - This means that the original informal peer review is no longer available because the author or someone else deactivated the account.
+        - He agrees that framing the study as focused on the decline effect was incorrect.
+    - Who participated?
+        - [[Daniël Lakens]] quote tweeted [[Tal Yarkoni]]
+        - Daniel Read
+            - minor Twitter figure
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - Lakens seems to have left Bluesky! Another thread of him engaging with Berna and Joe seems lost, but it was spicier.
+    - By whom and how, and after what deliberations or conversations?
+        - See above...
+    - What are their roles and skills?
+        - Lakens is statistically savvy, a metascientist, perceptual/human factors psychologist and a tenured professor at a research university in NL.
+        - He knows his metascience (JP reviewed a manuscript that he co-authored in 2024.)
+        - Lakens is self-taught in philosophy of science and statistics and writes about it often from Popperian and severe testing perspectives.
+	        - #inpeer/who/reviewer/ideology/philosophy/popperian
+		        - This means that the individual favor Karl Popper's philosophy of science wherein hypotheses and theories must be tested with severe pass-or-fail tests.
+        - As one of the reviewers for [[@protzko2024high]] and a science reformer, he has to uphold the papers, I guess. Weirdly, Lakens co-authored [[@lakensJustifyYourAlpha2018]] with Tal Yarkoni and a long list of metascientists and statisticians.
+	        - #inpeer/who/reviewer/roles/reviewer/informal/pubHistorywithTarget
+		        - This means that the individual doing the informal peer review previously worked with the target of the informal peer review, as when co-authoring papers.
+    - Are there follow-ups or next steps for anyone involved?
+        - It's a bit late for this thread. Some magic happened that I wasn't aware of with Lakens skulking back to Twitter. Weird that he just quit Bluesky...
+    - What were my feelings about its sophistication and ease of authoring?
+        - Threads on microblogging platforms are quick and dirty to author. That's why it's nice to have scholars across a range of platforms like X/Twitter, Bluesky, and Linkedin.
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - It took 7+ months to get the retraction going and in October, Lakens is strangely silent about this whole affair.
+	        - #inpeer/evdInfra/impacts/reactions/authors/refute/selfpreservation/ignoreRetraction
+		        - This means that an individual or group is ignoring a retraction caused by informal peer review. This could be in the immediate aftermath (days) of a retraction or any longer timespan.
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - NA
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - No
+        - Bluesky
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - Scholarly influencers like Lakens can just leave platform if they like. I've gotta note these platform preferences.
+    - What was interesting or concerning or confusing?
+        - Lakens could make the efficiency argument like Yarkoni, because he recently co-authored a paper on logical arguments being more important compared to empirical ones in metascience. Read [Why I don't expect to be convinced by evidence that scientific reform is improving science (and why that is not a problem)](https://daniellakens.blogspot.com/2024/09/why-i-dont-expect-to-be-convinced-by.html)
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - I scoured his X/Twitter posts from April, but he doesn't mention the same issues from his BlueSky thread.
+        - I scoured his LinkedIn posts across the past few months and he doesn't mention the NHB retraction of the protzko paper.
+    - What are the implications for evolving:
+        - formal peer review?
+            - Lakens' own suggestion of using methodological review boards here would be helpful in preventing research waste.
+        - informal peer review?
+            - Don't simply link to reviews. Ensure that they are stored in multiple formats for later analysis. This is one disadvantage of only using social media for InPeeR: transient content.
+	            -  #discussion/implications/peerReview/practices/data/backup
+			        - This is a looser code ideating implication for the constructive layer. I think it would be nice to back up formal and informal reviews verbatim as platform content can disappear without warning.

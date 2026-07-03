@@ -1,0 +1,151 @@
+- [ ] What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
+    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
+        - PubPeer
+            - [PubPeer page](https://pubpeer.com/publications/DB2DA597904B3B3E8A74C0B0DB2DED)
+                - JP: I linked Jukka's comment as [[active participant observation]].
+                    - awaiting moderation
+                        - [x] check back [[September 7th, 2024]] ✅ 2025-08-06
+	                        - JP: Update November 5, 2024
+		                        - The previous PubPeer comment I submitted didn't pass moderation. I tried again today with a short post referencing Jukka's Twitter thread:
+			                        - ![[Screenshot 2024-11-05 at 19.07.10.png]]
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FoWKL2w4bnU.png?alt=media&token=d784d661-47db-4800-afef-a5839336d411)
+        - Paper
+            - [[@savin2024reviewinga]]
+        - Social Media
+            - [X/Twitter](https://x.com/Jugistoteles/status/1831344088311902505) #inpeer/evdInfra/where/multimedia/microblog/twitter
+                - [[>]] The review Bregman promotes here only included articles with ‘degrowth’, ‘de-growth’, ‘postgrowth’ or ‘post-growth’ in the title. Those search criteria wouldn't pass a review in a *mid-tier management journal*. My appraisal: reject & resubmit. [https://t.co/XV7UzjgfXE](https://t.co/XV7UzjgfXE) [🐦](https://x.com/Jugistoteles/status/1831344088311902505) by Jukka Rintamäki on [[September 4th, 2024]]
+			#inpeer/how/practices/review/paper/layers/meta/literature/searchStrategy
+				- Markdown
+					- --
+					- created: 2024-09-04T15:49:50 (UTC -04:00)
+					- tags: []
+					- source: [https://x.com/i/bookmarks?post_id=1831344088311902505](https://x.com/i/bookmarks?post_id=1831344088311902505)
+					- author:
+					- --
+					- # Bookmarks / Twitter
+					- > ## Excerpt
+					- > Post
+					- --
+					- ## Post
+
+					- ## Conversation
+
+					- The review Bregman promotes here only included articles with ‘degrowth’, ‘de-growth’, ‘postgrowth’ or ‘post-growth’ in the title. Those search criteria wouldn't pass a review in a \*mid-tier management journal\*. My appraisal: reject & resubmit.
+					- Quote
+					- Devastating review of the degrowth literature (561 studies): --> 'few studies use quantitative or qualitative data...' --> \[those that do\] 'tend to include small samples or focus on non-representative cases' -->'large majority (almost 90%) are opinions rather than analysis'
+					- Show more
+					- [
+					- ![](Bookmarks%20%20Twitter/GWnSc_jXkAAxYvQ.jpeg "Image")
+					- ]([https://x.com/rcbregman/status/1831227421896356126/photo/1)](https://x.com/rcbregman/status/1831227421896356126/photo/1))
+					- [
+					- ![](Bookmarks%20%20Twitter/FHJjs4p7_bigger.jpg "Jay")
+					- ]([https://x.com/metasdl)](https://x.com/metasdl))
+					- Which additional search terms would you recommend?
+					- I would broaden the search to include abstracts and keywords at least, in this case perhaps text bodies too. For additional terms I'd consult field insiders. A particular piece that I can think of had "green growth" in the title, questioning it.
+					- There’s 9000+ marketing tools. None of them get responses like this. B2B marketers are increasing their advertising ROI, saving serious time, and driving more revenue with Metadata. All without hiring more people or an agency.
+					- See Why B2B Marketers Lose Their Sh!t Over Metadata
+					- Absolutely shocking this was even published
+					- Yep. I've rejeted a pretty big handful of review manuscripts because of poor criteria, often still not bad as here.
+					- [x.com/\_alice\_evans/s](https://x.com/_alice_evans/status/1831230771509510626) I agree. And while we're at it, reject the $10M EU funding and resubmit it to STEM
+					- Quote
+					- A map of academics who write about 'degrowth'. (Further commentary seems unnecessary..) x.com/rcbregman/stat…
+					- [
+					- ![](Bookmarks%20%20Twitter/GWnWQq0XQAAkS5D.jpeg "Image")
+					- ]([https://x.com/_alice_evans/status/1831230771509510626/photo/1)](https://x.com/_alice_evans/status/1831230771509510626/photo/1))
+
+					- Discover more
+					- Sourced from across X
+					- The World Wildlife Foundation and other major Green NGO’s take millions of dollars from some of the worst corporations in order to provide cover for their unsustainable food production and further delay the necessary agricultural transition we need.
+					- [
+					- ![](Bookmarks%20%20Twitter/GWo64g_WUAAyRWh.jpeg "Image")
+					- ]([https://x.com/AndrewsonEarth/status/1831341013618540656/photo/1)](https://x.com/AndrewsonEarth/status/1831341013618540656/photo/1))
+					- Interesting spatial analysis of where Degrowth literature is mostly coming from (based on author affiliations of 561 'Degrowth' studies). From: [sciencedirect.com/science/articl](https://t.co/rBEJfdjaFi)
+					- [
+					- ![](Bookmarks%20%20Twitter/GWpiGN9WUAAeux4.jpeg "Image")
+					- ]([https://x.com/ryankatzrosene/status/1831384909363192274/photo/1)](https://x.com/ryankatzrosene/status/1831384909363192274/photo/1))
+					- 10 Great Books on Neoliberalism 1) The Rise and Fall of the Neoliberal Order -
+					- Fantastic recent addition to this literature, places neoliberalism within the context of the decline of the post war consensus, as well as the multiple forces behind the ideological shift.
+					- [
+					- ![](Bookmarks%20%20Twitter/GWoJrKJWkAAEr7X.jpeg "Image")
+					- ]([https://x.com/BevansAdvocate/status/1831286839174684847/photo/1)](https://x.com/BevansAdvocate/status/1831286839174684847/photo/1))
+					- Not to brag, but having led a large project on degrowth, "Living Well Within Limits", which published 33 papers, roughly half of which were data analysis and modelling, only 1 would have qualified for the parameters of the study cited. This is not indicative of anything. ![](Bookmarks%20%20Twitter/1f937-200d-2640-fe0f.svg "Woman shrugging" "🤷♀️")
+					- Quote
+					- Devastating review of the degrowth literature (561 studies): --> 'few studies use quantitative or qualitative data...' --> \[those that do\] 'tend to include small samples or focus on non-representative cases' -->'large majority (almost 90%) are opinions rather than analysis'
+					- Show more
+					- [
+					- ![](Bookmarks%20%20Twitter/GWnSc_jXkAAxYvQ.jpeg "Image")
+					- ]([https://x.com/rcbregman/status/1831227421896356126/photo/1)](https://x.com/rcbregman/status/1831227421896356126/photo/1))
+    - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
+        - TBD: too early to tell
+    - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
+        - [[Jukka Rintamäki]] is a Finnish academic interested in "...Organizations, institutions, sustainability, collective memory, misconduct..." As an assistant professor wotj a decade plus in academia, there are few genuine risks and he seems to be doing it because he wants to express how egregious the omission is for him.
+	        - #inpeer/who/reviewer , #inpeer/why/benefits/review/intrinsic
+    - Sociology of Science:
+        - intersections with science reform structures and movements
+            - None that I know of. Weirdly, science reform movements don't seem to focus on literature search strategies very much, though the traditional metascientific crowd on reporting guidelines, systematic search, etc. would like this sort of thing.
+	            - #inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique
+        - intersections with institutional and power structures
+            - None of the researchers seems eminent, though they all set comfortably secure at Western (EU) academic institutions with relevant credential and experience.
+    - Storytelling: What is the style/genre/frame of critical appraisal?
+        - #[[destructive critical appraisal]] aka #inpeer/how/practices/review/paper/frames/destructive
+- **Observer**: Jay Patel
+- **Date of Observation**: [[September 4th, 2024]]
+- **Duration of Observation**: one day
+- **Event or Activity Observed**: appraisal...
+- **Description**: We will ask ourselves:
+    - How was the case discovered?
+        - X/Twitter algorithm surfaced it after 8+ months of training the algorithm. I think Jukka found it serendipitously in his feed as well. #zoo/discovery/sciJourSocialMedia
+    - Was the observation a partial or a complete session?
+        - This was a complete session over the later part of an afternoon.
+    - What occurred? Which concerns were raised and by whom?
+        - [[Rutger Bregman]], the Dutch writer and historian, tweeted a review of the degrowth literature that is unflattering and notes that it is not empirical enough for decision-making. Jukka retweeted Bregman and noted that the review strategy was not sound. It included only a few obvious search terms like 'degrowth', 'de-growth', 'postgrowth', etc. He seems surprised that the journal allowed the search criteria to slip under peer review.
+    - Who participated?
+        - [[Rutger Bregman]]'s initial tweet
+            - [[Jukka Rintamäki]]'s reply
+                - replies to Jukka
+                    - [@SamerAbdelnour](https://x.com/SamerAbdelnour)
+                    - [@Koen_VanLaer](https://x.com/Koen_VanLaer)
+                        - critiques the misunderstanding of qualitative methods by [[@savin2024reviewinga]]
+    - Were decisions made, actions taken, or goals accomplished? What was left unresolved?
+        - None yet.
+    - By whom and how, and after what deliberations or conversations?
+        - [[Rutger Bregman]], the Dutch writer and historian, tweeted a review of the degrowth literature that is unflattering and notes that it is not empirical enough for decision-making. Jukka retweeted Bregman and noted that the review strategy was not sound. It included only a few obvious search terms like 'degrowth', 'de-growth', 'postgrowth', etc. He seems surprised that the journal allowed the search criteria to slip under peer review.
+    - What are their roles and skills?
+        - As a professor of Management with a strong economics, finance, business, and corporate social responsibility background, Jukka has a great deal of domain knowledge to comment on degrowth papers. #inpeer/who/reviewer
+    - Are there follow-ups or next steps for anyone involved?
+        - I suggested a re-analysis of the literature review could be warranted as a preprint submission. One could easily do that and create a sort of [[verification report]] not for data analyses, but literature searches!
+            - [[>]] Maybe a preprint commentary or editorial comment is in order if the conclusions change by searching differently. It reminds me of a verification report, but with the literature search/review as the target instead of data analyses.[https://t.co/i4N16xQWzx](https://t.co/i4N16xQWzx) [🐦](https://x.com/metasdl/status/1831424775815889110) by Jay on [[September 4th, 2024]]
+    - What were my feelings about its sophistication and ease of authoring?
+        - Jukka would certainly post his appraisal very quickly, but in such cases I would like these informal peer reviewers to do some more work to make their point more concretely. For those who haven't studied literature search deeply, it would be great to see a few worked examples and understand how a deeper and wider search strategy would change the conclusions.
+	        - #inpeer/how/practices/review/paper/frames/destructive
+    - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
+        - None after months of waiting and checking. Zip. Zero. Zilch. A big fat nothing burger.
+    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
+        - It's possible that my engagement with the related InPeeR cases [[InPeeR case: Search strategies]] and [[InPeeR case: SARKing - systematic searching after results are known]] may have guided the X/Twitter algorithm to surface these sorts of cases, but I think I saw it indirectly by viewing Bregman's tweet first.
+        - Social media data really needs to be machine-readable and easier to search over the semantics.
+    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
+        - Yes, I engaged in [[active participant observation]] by:
+	        - #inpeer/digitalEthnography/activePartObs
+            - [requesting clarification on which search terms the authors ought to have used](https://x.com/metasdl/status/1831377359582458025)
+	            - #inpeer/digitalEthnography/activePartObs/ask/community/details
+            - [recommending a commentary or even a form of Verification Report](https://x.com/metasdl/status/1831424775815889110)
+		            - #inpeer/digitalEthnography/activePartObs/tell/what/recFormalcomment This means that I, JP, engaged in active participant observation by recommending a formal commentary (editorial comment) and/or a preprint commentary.
+			- #inpeer/digitalEthnography/activePartObs/tell/what/minorElaboration
+				- This means that I, JP, engaged in active participant observation by adding a minor elaboration to a discussion.
+            - summarizing and cross-posting the InPeeR on PubPeer
+	            - #inpeer/digitalEthnography/activePartObs/tell/how/pubpeer
+- **Reflection**: What was your experience in this session:as a participant?as a participant-observer?
+    - What stood out to you about this session, in light of our research problem?
+        - Stumbling across another case centered on search strategies was neat!
+        - What was interesting or concerning or confusing?
+            - It's interesting that the primary X thread by Bregman doesn't include these specific search strategy issues, though several commenters remarked on the poor quality of the paper ideologically.
+    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
+        - This seems to be a politically and economically charged topic with commenters feeling negatively about degrowth, its popularity in WEIRD countries, and its policy implications.
+    - What are the implications for evolving:
+        - formal peer review?
+            - Cross-journal standards for literature reviews ought to be grounded in established reporting guidelines like [[PRISMA guidelines]].
+	            - #discussion/implications/peerReview/standards/reporting
+        - informal peer review?
+            - I should not need to prod informal peer reviewers to be more constructive in their posts. People can be educated via social media and it's up to informal peer reviewers to take on a Pedagogical frame when possible. Destructive frames may close off opportunities to improve the status quo.
+	            - #discussion/implications/peerReview/frames/adoptPedagogicalFrame
+		            -

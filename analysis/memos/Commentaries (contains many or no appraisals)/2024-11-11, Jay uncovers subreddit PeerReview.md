@@ -1,0 +1,81 @@
+- [[informal peer review communities (InPeeR)]], [[informal peer review]], [[InPeeR infrastructure: invent & develop 🏗️]]
+    - I found a new community for conducting informal peer reviews yesterday, but was pressed for time and I'm memoeing it loosely for the first time here.
+        - subreddit: [[PeerReview]]
+        - Metadata
+            - moderator: [[James Heathers]]
+                - #inpeer/who/reviewer/roles/sleuth 
+                -  #inpeer/who/reviewer/roles/expert/fields/openSci/advocate 
+                -  #inpeer/who/reviewer/roles/expert/fields/metascientist 
+                -  #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics 
+            - created: 2024-03-25
+            - status: Public
+            - members: *n* = 54
+        - Rules
+            - only use this subreddit for peer review
+            - be civil and don't attach people
+            - cross-posting academic materials is OK
+        - Screenshots
+        - #inpeer/evdInfra/where/multimedia/reddit
+	        - This means that reviewing or infrastructure for reviewing is present on Reddit.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxN37WD0p_O.png?alt=media&token=d2da9dea-4a5d-4fb7-af74-69167477a7fa)
+                - #inpeer/evdInfra/develop/subculture/subreddit
+		            - This means that a new informal peer review infrastructural element is being developed -- a subcommunity of informal peer reviewers and their supporters are congregating in the same subreddit, away from the more general communities r/science, r/academic, and r/research.
+        - Notes
+            - James didn't announce this, but launched it softly Spring 2024. That seems to be around the time he would have been busy with his health foods startup, so I'm sure he didn't want to make a big deal of it. He seems to think that announcing it won't build the community that much more quickly. Strange...
+            - The timing here with the decline of Twitter is worth considering.
+                - James responded to a user on the [Welcome post page (2024-09)](https://www.reddit.com/r/PeerReview/comments/1fj7djv/welcome_to_rpeerreview/) noting that r/science is too big and general for him to use and he wants a subreddit where he can =="get some traction on raking up the muck=="
+	                - #inpeer/why/benefits/review/intrinsic/correctLit  
+                - Screenshot
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FP3prRajIvd.png?alt=media&token=e00ceaed-ebd2-436f-bd9c-69f47fa0705b)
+		                    - #inpeer/evdInfra/problems/technical/reddit/organizedLoosely 
+			                    - This means that there is a problem with the infrastructure; one or more subreddits makes it difficult to jumpstart informal peer reviews due to, for example, loose organization.
+							- #inpeer/how/practices/review/infrastructure/frames/destructive
+			                - This means that the practice, on a given informal peer review infrastructure like r/PeerReview is to lean towards destructive reviews.
+                - Markdown
+                    - --
+                    - created: 2024-11-11T15:36:54 (UTC -05:00)
+                    - tags: []
+                    - source: [https://www.reddit.com/r/PeerReview/comments/1fj7djv/welcome_to_rpeerreview/](https://www.reddit.com/r/PeerReview/comments/1fj7djv/welcome_to_rpeerreview/)
+                    - author: JamesHeathers
+                    - --
+                    - # Welcome to r/PeerReview : r/PeerReview
+                        
+                    - > ## Excerpt
+                    - > I've thought about this for years. Guess we're finally doing it.
+                    - --
+                    - I've thought about this for years. Guess we're finally doing it.
+                    - Peer review is the process by which experts (or, some vague approximation of them) review articles before they are published in a scholarly journal. At least, peer review WAS that. ==**It's become clearer in recent years that a lot of the best and most important peer review happens elsewhere - on [Pubpeer.com](http://pubpeer.com/), in blogs, in newspaper columns, even on (God forbid) Twitter.**==
+                    - I often ==**see great comments left in [r/science](https://www.reddit.com/r/science/) (which I also help mod) which really should have their own threads and discussions elsewhere**==. So, why not peer review on Reddit as well?
+	                    - #inpeer/why/benefits/infrastructuring/scaleReviews
+		                    - This means that someone or an organization was motivated to develop the informal peer review infrastructure to scale reviews.
+                    - The rules should be obvious. The process, presumably, is known to millions of you. So, let's see how it goes.
+        - [Peer review requests thread](https://www.reddit.com/r/PeerReview/comments/1fjz57e/peer_review_requests_thread/)
+            - James asked users to send him studies to review, possibly to ignite his work.
+            - Thus far, two users have sent him some papers (u/RainComfortable1563 and u/Gudiol).
+                - James reviewed them both, doing free work.
+            - Screenshots
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FD7x1f4V4uG.png?alt=media&token=9946559f-7a90-40a8-b7ff-61f692a9d1e0)
+            - Markdown
+                - --
+                - created: 2024-11-11T15:43:01 (UTC -05:00)
+                - tags: []
+                - source: [https://www.reddit.com/r/PeerReview/comments/1fj7djv/welcome_to_rpeerreview/](https://www.reddit.com/r/PeerReview/comments/1fj7djv/welcome_to_rpeerreview/)
+                - author: JamesHeathers
+                - --
+                - # Peer review requests thread : r/PeerReview
+                    
+                - > ## Excerpt
+                - > Hi all,
+                - --
+                - Hi all,
+                - It's possible that you'll see science in the bowels of the internet and not know what to think about it. Maybe you have a suspicion about a paper, maybe you don't have time to deal with it yourself, or maybe you're just here because it seems interesting.
+                - If so:
+                - (1) reply to this thread.
+                - (2) leave a link to the study, and
+                - (3) include what you think is wrong with it, if anything.
+                - We'll try to get around to it. Especially if it's interesting or topical.
+        - Connections
+            - [u/GidMKHealthNerd](https://www.reddit.com/user/GidMKHealthNerd/) from X/Twitter [[HealthNerd]] and Bluesky is reviewing studies on r/PeerReview and r/science!
+            - No many other sleuths are on here right now.
+            - JP: I joined this community.
+	            - #inpeer/digitalEthnography/activePartObs/integrate/joinComm 
