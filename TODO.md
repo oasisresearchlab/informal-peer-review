@@ -2,20 +2,14 @@
 
 ## Open
 
-### ⚠️ `data/papers/` was deleted (confirm intent)
-
-The 10 notes in `data/papers/` were removed from the working tree during a live sync — they duplicated the `source/` entries (same names). They **remain in git history and are recoverable** (`git checkout HEAD -- data/papers`). Confirm this consolidation is intended, or restore them.
-
 ### Sources (research reports) — residual verification
 
-Located in `source/` (`type: source`, linked via `sourceReport:`).
+Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `@bartik`, `@gaski`, `@AbrahmssonSara` were archived as orphan sources.)
 
-- **`@dadamo2024Reversal`** — title UNVERIFIED. Confirm from DOI `10.3390/jpm14060641` (J. Personalized Medicine 14(6):641, 2024).
 - **`@ferguson2024social`** — two candidate 2024 Ferguson social-media meta-analyses; confirm which, add venue + DOI.
-- **`@bartik2024impact`** — confirm exact NBER working-paper number and author order (UBI/guaranteed-income study).
 - **`@wang2012reducing` vs `@wang2012reducinga`** — duplicate citekeys for the same 2012 *J. Neuroscience* paper; consider merging.
 - **Co-author completeness** — `@abou-Khalil` has first author only; `@protzko` links 3 key authors of a large consortium. Extend if needed.
-- **Unresolved author links** — new co-authors (e.g. Moses Miller, Jacob Goldenberg, Elizabeth Rhodes) are `[[wikilinks]]` with no person note yet. Decide whether to create `person` notes for them.
+- **Unresolved author links** — new co-authors (e.g. Moses Miller, Jacob Goldenberg, Noa Grobgeld) are `[[wikilinks]]` with no person note yet. Decide whether to create `person` notes for them.
 
 ### Reviewer bios — verify tentative identities
 
@@ -25,11 +19,13 @@ Located in `source/` (`type: source`, linked via `sourceReport:`).
 
 ### Data quality (see `DATA-QUALITY.md`)
 
-- **Site vs setting name clashes** — 9 platform names (`blog`, `bluesky`, `pubpeer`, …) exist as both a `settings/` note and a `sites/` note, making `[[name]]` ambiguous. Consider renaming the setting notes.
+- **Site vs setting name clashes** — 6 platform names (`blog`, `bluesky`, `hackernews`, `mastodon`, `reddit`, `twitter`) exist as both a `settings/` note and a `sites/` note, making `[[name]]` ambiguous. Consider renaming the setting notes.
 - **Site URLs** — 3 generic category notes (`blog.md` ×2, `podcast.md`) still have no `url` (may not need one).
-- **Legacy `paper:` field** — some reviews/posters link a source via a `paper:` field instead of `sourceReport:`; one citekey is broken (`lakens Twitter, Names Shape Faces` → `@zwebner2024can`, should be `@zwebnerCanNamesShape2024`). Unify to `sourceReport:` and fix the citekey.
 
 ## Completed
+
+- ~~**`data/papers/` removal**~~ — confirmed intentional (notes duplicated `source/`); recoverable from git if ever needed.
+- ~~**`paper:` → `sourceReport:` unification**~~ — all `paper:` fields converted; broken citekeys (`@protzko2024high`, `@zwebner2024can`, `@statistical`, `@gelmanhow`) fixed.
 
 - ~~**`source/` rename**~~ — research reports are now `type: source` in `source/`; the link field `report:`/`reviewof:` was renamed to `sourceReport:` across cases/memos/reviews; 5 named-duplicate reports archived; README/SCHEMA/DATA-QUALITY updated.
 - ~~**Report-location instability**~~ — resolved by adopting the auto-generated `source/` folder as the canonical home.

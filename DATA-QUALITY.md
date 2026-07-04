@@ -8,9 +8,9 @@ _Status: all **~188** live notes carry `type` + `noteID` + `status` (YAML-valida
 
 ## 1. Ambiguous wikilinks — platform note vs setting note
 
-The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the duplicate person notes are **resolved** (redundant reports and non-memo cases archived; `data/people/` merged into `data/posters/`; and the `data/papers/` folder — which duplicated `source/` — was removed during a sync, recoverable from git). What remains: **9 site/setting name clashes**, where a `data/settings/` note (platform *type*) shares a name with one or more `data/sites/` notes (specific venue):
+The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the duplicate person notes are **resolved** (redundant reports and non-memo cases archived; `data/people/` merged into `data/posters/`; and the `data/papers/` folder — which duplicated `source/` — was removed during a sync, recoverable from git). What remains: **6 site/setting name clashes**, where a `data/settings/` note (platform *type*) shares a name with a `data/sites/` note (specific venue):
 
-`blog` · `bluesky` · `github` · `hackernews` · `mastodon` · `pubpeer` · `reddit` · `retractionwatch` · `twitter`
+`blog` · `bluesky` · `hackernews` · `mastodon` · `reddit` · `twitter`
 
 → Distinct concepts (type vs instance). Consider renaming the setting notes (e.g. `blog (platform type)`) to break the clash.
 
@@ -23,8 +23,8 @@ The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the dupl
 
 `analysis/cases/` holds **12 cases**: the **10 distinct cases reported in the preprint** (Patel & Chan 2026; the paper's case titles are stored as `aliases`, with *Metascience Preregistration* and *Cassava Sciences Fraud* each used across two themes) plus **2 additional memo-coded cases** (`Culturally Biased SPSP Poster`, `Time-restricted Feeding`). Cases with no memo/paper connection were archived:
 
-- `_archive/orphan-cases/` — 99 fully-isolated empty stubs.
-- `_archive/cases-no-memo/` — 12 cases that had links but no memo coding.
+- `_archive/orphan-cases/` — 98 fully-isolated empty stubs.
+- `_archive/cases-no-memo/` — 11 cases that had links but no memo coding.
 - `_archive/cases-merged/` — 2 Bishop power-analysis duplicates (folded into the canonical case).
 
 Remaining cases are mostly `status: stub` (they carry links but the analytic write-up lives in the memos, not the case note).
