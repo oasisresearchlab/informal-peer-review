@@ -1,4 +1,7 @@
 ---
+type: memo
+noteID: cc746453-ed56-4be0-89ef-158a974db815
+status: complete
 sites: "[[SciComment]], [[LinkedIn]]"
 ---
 ---
@@ -34,9 +37,9 @@ Let's code for a bit...
 	                    - Jay Patel
 	                    - ‪@infotainment.bsky.social‬
 	                    - 🧐
-	                    - #zoo/SciComment
+	                    - #discussion/zoo/SciComment
 	                    - +
-	                    - #zoo/ResearchIntegrity
+	                    - #discussion/zoo/ResearchIntegrity
 	                    - I've got a challenge for you re: journal websites with comments sections: Do you have any examples of critiques of the article? It'd be great to find cases when the comments section: a. led to updates/retractions b. didn't lead to updates/retractions
 	                    - November 9, 2024 at 7:58 PM
 	                    - Everybody can reply
@@ -87,7 +90,7 @@ Let's code for a bit...
 	                        - "I am **==really torn because I believe post-publication peer review is an important part of the research process but it's unpaid labour, and often feels like a waste of time==**. I now sometimes post PubPeer comments with the idea that they are visible to even if they don't result in change to the paper."
 	                            - #inpeer/how/practices/review/paper/frames/metaReflection/reluctant
 	                                - This means that the informal peer reviewer is engaging in a reflection of how they feel when they review. They are conflicted for reasons like it being potentially futile.
-	                            - JP: reminds of me [[Joe Bak-Coleman]]'s blog post on not wanting to write about [[@protzko2024high]]
+	                            - JP: reminds of me [[Joe Bak-Coleman]]'s blog post on not wanting to write about [[@protzko2024highrep]]
 	                                - see his metamemoInPeeR
 	                                    - [x] go back to [Joe's blog post](obsidian://open?vault=orca-cases&file=analysis%2Fmemos%2FCommentaries%20(contains%20multiple%20or%20no%20appraisals)%2F2024-10-17%2C%20Dishonest%20metascience%2C%20Bak-Coleman) and code his appraisal frame as reluctant ✅ 2024-11-11
 		                                    - [x] moved the code from roles to paper/appraisal/frames ✅ 2024-11-11
@@ -402,7 +405,7 @@ Let's code for a bit...
 	                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLOVHw1UE0R.png?alt=media&token=4e5529d0-145e-47d1-a643-a7beab13445a)
 	                - Markdown
 	                    - ![](https://media.licdn.com/dms/image/v2/D4E35AQGkV2NY46xjeA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1704243747919?e=1731884400&v=beta&t=iJbXh4QSYO8TqjMMGzZnnr8roK3enk9AmAD8VtPN8wM)[🔗](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
-	                    - [Jay PatelJay Patel • You • YouUX Researcher, UX Designer | Research Synthesis Systems #zoo/HCI #zoo/dataviz #zoo/psychology #zoo/metascienceUX Researcher, UX Designer | Research Synthesis Systems #zoo/HCI #zoo/dataviz #zoo/psychology #zoo/metascience](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)[Request services](https://www.linkedin.com/services/page/369660322a16a3b036)[20h • Edited • 20 hours ago](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
+	                    - [Jay PatelJay Patel • You • YouUX Researcher, UX Designer | Research Synthesis Systems #discussion/zoo/HCI #discussion/zoo/dataviz #discussion/zoo/psychology #discussion/zoo/metascienceUX Researcher, UX Designer | Research Synthesis Systems #discussion/zoo/HCI #discussion/zoo/dataviz #discussion/zoo/psychology #discussion/zoo/metascience](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)[Request services](https://www.linkedin.com/services/page/369660322a16a3b036)[20h • Edited • 20 hours ago](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
 	                    - 🧐 I've got a challenge for you (sleuths and readers across the sciences):
 	                    - For journal websites with comments sections, do you have any examples of reader comments that:
 	                    - a. led to updates, corrections, or retractions?

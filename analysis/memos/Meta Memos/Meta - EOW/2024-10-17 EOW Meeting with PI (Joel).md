@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: e6a06904-2ea8-47b2-987a-03342efa050b
+status: complete
+---
 
 #### Afternoon: alone
 

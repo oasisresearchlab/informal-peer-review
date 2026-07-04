@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: f5e467be-576a-4af8-8317-e3fb49034162
+status: complete
+---
 I memoed this in a structured way yesterday and performed active participant observation. However, I only coded it today in Obsidian.
 
 I added the following codes:

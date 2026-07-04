@@ -1,3 +1,10 @@
+---
+type: review
+noteID: a11cc8e2-bcd6-4ce2-b0c2-7b21d77e5a60
+status: complete
+cases:
+  - "[[Time-restricted Feeding]]"
+---
 Post
 - --
 - created: 2024-09-18T19:12:06 (UTC -04:00)
@@ -14,8 +21,8 @@ Post
 - > You and the blog readers might find this interesting: [https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death](https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death).
 - >
 - > Yesterday, my friend was very concerned for me after he found out I usually don’t eat breakfast. He told me it’s _dangerous_. I thought it was as simple as not being hungry for a few hours after I wake up.
-	- #zoo/discovery/informalRev/request/followerBenefit
-		- #zoo/discovery/informalRev/request/followerBenefit 
+	- #discussion/zoo/discovery/informalRev/request/followerBenefit
+		- #discussion/zoo/discovery/informalRev/request/followerBenefit 
 - > He showed me the above press release from the American Heart Association newsroom. I have never seen the results of an abstract for a poster publicized like this. It even made it to CNN ([https://www.cnn.com/2024/03/19/health/intermittent-fasting-pros-cons-wellness/index.html](https://www.cnn.com/2024/03/19/health/intermittent-fasting-pros-cons-wellness/index.html)). Both the press release and the CNN article emphasize that the findings are preliminary. For example, press release says “As noted in all American Heart Association scientific meetings news releases, research abstracts are considered preliminary until published in a peer-reviewed scientific journal.”
 	- #inpeer/evdInfra/what/studyReports/viralTarget 
 - > This doesn’t make me feel better about the situation. Let’s pretend this analysis was conducted perfectly (whatever that means). How would the AHA newsroom & CNN report the results if this was peer-reviewed and published? From the newsroom quote above, I get the sense that if it’s in the peer-reviewed scientific journal the press release wouldn’t have any caveat. Maybe they’ll even recommend people change their lifestyles and diets?

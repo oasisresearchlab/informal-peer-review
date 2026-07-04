@@ -1,10 +1,35 @@
+---
+type: memo
+noteID: a43b21d9-9f45-4ef3-9663-058f4f402565
+status: complete
+sourceReport:
+  - "[[@zwebnerCanNamesShape2024]]"
+reviews:
+  - "[[bryan Twitter, Names Shape Faces]]"
+  - "[[lakens Twitter, Names Shape Faces]]"
+cases:
+  - "[[Names Shape Faces]]"
+reviewers:
+  - "[[Daniël Lakens]]"
+  - "[[Eiko Fried]]"
+  - "[[Kevin Bryan]]"
+authors:
+  - "[[Ruth Mayo]]"
+  - "[[Yonat Zwebner]]"
+sites:
+  - "[[twitter]]"
+source:
+  - "https://x.com/Afinetheorem/status/1818297553143595223"
+  - "https://x.com/lakens/status/1818215189478519060"
+  - "https://x.com/NeuroscienceNew/status/1818040431902589206"
+---
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
         - PubPeer
             - [None yet](https://pubpeer.com/publications/6B67B6B2A7E71C8AFA9DC3587F403C)
 	            - #inpeer/evdInfra/where/multimedia/pubpeer/unused
         - Paper
-            - [[@zwebner2024can]]
+            - [[@zwebnerCanNamesShape2024]]
         - Social Media
             - Twitter: [[Kevin A. Bryan]] #inpeer/evdInfra/where/multimedia/microblog/twitter
                 - [[>]] The hardest thing to explain to non-academics is how different technical rigor is across fields. Here's (yet another) article in PNAS, of course handled by Fiske, of course in psych, that we would have desk rejected. Paper is "Can Names Shape Facial Appearance?" 1/n [🐦](https://x.com/Afinetheorem/status/1818297553143595223) by Kevin A. Bryan on [[July 30th, 2024]]
@@ -118,11 +143,11 @@
                         - Xmail
                         - 10.9K posts
                         - Trending in United States
-                        - #zoo/bin/ElonIsWeird
+                        - #discussion/zoo/bin/ElonIsWeird
                         - 4,583 posts
                         - SAY IT TO MY FACE
                         - 3,908 posts
-            - Twitter: Neuroscience News  #zoo/discovery/sciJourSocialMedia
+            - Twitter: Neuroscience News  #discussion/zoo/discovery/sciJourSocialMedia
                 - [[>]] Study Finds Faces Evolve to Match Names Over Time A new study reveals that people's faces tend to evolve to match their names, influenced by social expectations. Researchers found that adults' faces could be accurately matched to their names, while children's faces could not.… pic.twitter.com/vMLVQn4nJd [🐦](https://x.com/NeuroscienceNew/status/1818040431902589206) by Neuroscience News on [[July 29th, 2024]]
 	                - #inpeer/evdInfra/problems/sciComm/uncritical
                     - Markdown
@@ -211,9 +236,9 @@
 				- This means that the authors of a scholarly report followed open science practices performatively or superficially. For example, they may link to a missing pre-registration or one that doesn't align with the paper's methods and results. Or else, they may fail to upload data and code in a manner that would enable reproducibility/verification checks.
         - intersections with institutional and power structures
             - All scholarly sleuths in this InPeeR case are confronting an elite journal, an elite psychologist, and the science journalism ecosystem that feeds laypeople cutesy findings like these they are intuitively know to be true. These are tough forces to confront and education needs to immunize people against these harms.
-	            - #zoo/scavengers/problematicEditor
+	            - #discussion/zoo/scavengers/problematicEditor
 		            - This means that the editor is responsible for disseminating research waste/low-quality studies.
-	            - #zoo/sciComm/sciJournalismfail
+	            - #discussion/zoo/sciComm/sciJournalismfail
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - [[destructive critical appraisal]]
 	        - #inpeer/how/practices/review/paper/frames/destructive

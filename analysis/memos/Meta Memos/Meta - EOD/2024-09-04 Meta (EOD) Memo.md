@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 3762f3d8-55a1-4610-aba3-6cd23ad79380
+status: complete
+---
 [[2024-09-04, Degrowth search strategies]]
 
 I worked this afternoon and evening on sorting through new cases to add in Obsidian. I then renamed cases in sentence case across Roam and Obsidian, standardizing case names. 
@@ -18,7 +23,7 @@ I noted that a new case related to a degrowth paper bears similarity to InPeeR c
 
 #inpeer/how/practices/review/paper/frames/pedagogical means supporting pedagogical InPeeR, whether due to someone's prompting or not.
 
-#zoo/infrastructure/eliteGroups means the organization or network of individuals has elite power in their social sphere, typically an academic with elite credentials and/or considerable following online and in scholarly venues.
+#discussion/zoo/infrastructure/eliteGroups means the organization or network of individuals has elite power in their social sphere, typically an academic with elite credentials and/or considerable following online and in scholarly venues.
 
 #inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique means that a critique has been missing from conventional calls for scholarly reforms.
 

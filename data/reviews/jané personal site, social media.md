@@ -1,8 +1,13 @@
 ---
+type: review
+noteID: c89e0442-7648-4fa1-9be4-eb2b47cc1cf7
+status: complete
 created: 2024-09-05T18:23:45 (UTC -04:00)
 tags: []
 source: https://matthewbjane.com/blog-posts/blog-post-6.html#discussion
 author: Matthew B. Jané
+cases:
+  - "[[Re-analysis of re-analysis of social media meta-analysis]]"
 ---
 
 # A Statistical Interrogation of “The Case for Causality, Part 1” by Rausch and Haidt – Matthew B. Jané

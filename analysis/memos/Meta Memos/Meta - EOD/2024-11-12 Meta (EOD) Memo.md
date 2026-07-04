@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: c0c61c83-ec6a-43d2-b7d6-3b2bd53abb82
+status: complete
+---
 I used parts of my Tuesday P.M. to:
 
 1. code loose memo [[2024-11-11, Jay uncovers subreddit PeerReview]]

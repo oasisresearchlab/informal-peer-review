@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 047cd78f-1b9f-4ad8-9014-a2ed24fdd21d
+status: complete
+---
 JP polished my coding of [InPeeR case: Time-restricted feeding, Gelman](obsidian://open?vault=orca-cases&file=analysis%2Fmemos%2FCase%20Memos%2F2024-09-18%2C%20Time-restricted%20feeding%20Gelman). 
 
 I added the following new quotes:
@@ -6,9 +11,9 @@ I added the following new quotes:
 
 #inpeer/who/target/eliteAuthors means that some or all of the study co-authors of the study report (poster/paper) are affiliated somehow with elite research institutions. I should have used this code earlier and can go back to add it where relevant.
 
-#zoo/discovery/informalRev/request/followerBenefit means that a reader/follower of the informal peer reviewer requested an informal peer review.
+#discussion/zoo/discovery/informalRev/request/followerBenefit means that a reader/follower of the informal peer reviewer requested an informal peer review.
 
-#zoo/discovery/informalRev/request/followerBenefit/practicalReason  means that the requester needed an informal peer review from someone and requested it for some practical reason.
+#discussion/zoo/discovery/informalRev/request/followerBenefit/practicalReason  means that the requester needed an informal peer review from someone and requested it for some practical reason.
 
 #inpeer/how/practices/review/paper/layers/empirical/methods/falsePositiveRisk means that there was a suspicion of a study including false positives.
 

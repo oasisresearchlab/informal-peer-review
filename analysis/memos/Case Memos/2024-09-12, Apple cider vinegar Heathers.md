@@ -1,3 +1,30 @@
+---
+type: memo
+noteID: 61b5c17f-89cf-43cd-a885-b58f9c4be197
+status: complete
+sourceReport:
+  - "[[@abou-KhalilAppleCiderVinegar2024]]"
+reviews:
+  - "[[heathers ResearchHub, apple cider vinegar]]"
+  - "[[heathers ResearchHub, apple cider vinegar 2]]"
+  - "[[valdez bsky, apple cider vinegar]]"
+cases:
+  - "[[Apple cider vinegar]]"
+reviewers:
+  - "[[Andre Calero Valdez]]"
+  - "[[James Heathers]]"
+authors:
+  - "[[Rony Abou-Khalil]]"
+sites:
+  - "[[bluesky - general]]"
+  - "[[hackernews]]"
+  - "[[pubpeer]]"
+  - "[[researchhub]]"
+source:
+  - "https://bsky.app/profile/jamesheathers.bsky.social/post/3krvyfeqxie2g"
+  - "https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management"
+  - "https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e"
+---
 - memo: Heathers
 	- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
 	    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -5,7 +32,7 @@
 	            - [PubPeer](https://pubpeer.com/publications/B9D324ACD28DCC7D7B696DD2D1FF67)
 	                - [[James Heathers]] did not comment here.
 	        - Paper
-	            - [[@abou-khalilAppleCiderVinegar2024]]
+	            - [[@abou-KhalilAppleCiderVinegar2024]]
 	        - Social Media
 	            - [BSky post: Apple cider vinegar for weight loss](https://bsky.app/profile/jamesheathers.bsky.social/post/3krvyfeqxie2g) announces the informal peer review
 	                - Markdown
@@ -265,7 +292,7 @@
 	        - I already did some active participant observation with BMJ Rapid Responses and PubPeer when processing Valdez's appraisal for this case.
 	- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
 	    - What stood out to you about this session, in light of our research problem?
-	        - It's wild that version 2 of [[@abou-khalilAppleCiderVinegar2024]] looks just like the original version of the article. WTF?!?
+	        - It's wild that version 2 of [[@abou-KhalilAppleCiderVinegar2024]] looks just like the original version of the article. WTF?!?
 	    - What was interesting or concerning or confusing?
 	        - James Heathers got paid, as far as I can tell.
 	    - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
@@ -297,7 +324,7 @@
 	                - [[active participant observation]] copied over BSky thread from @sumidu.bsky.social and alerted the lead author of my post when PubPeer prompted me to consider it.
 	                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_D53SpC4C-.png?alt=media&token=81b0bf68-5f75-4a9c-a397-b119f9f2f3f7) #inpeer/evdInfra/where/multimedia/bespoke/pubpeer
 	        - Paper
-	            - [[@abou-khalilAppleCiderVinegar2024]]
+	            - [[@abou-KhalilAppleCiderVinegar2024]]
 	        - Social Media
 	            - [BSky post: @sumidu.bsky.social](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e) aka [[Andre Calero Valdez]] #inpeer/evdInfra/where/multimedia/microblog/bluesky
 	                - Markdown
@@ -307,10 +334,10 @@
 	                    - source: [https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e)
 	                    - author:
 	                    - --
-	                    - # André Calero Valdez: "I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
+	                    - # André Calero Valdez: "I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
 
 	                    - > ## Excerpt
-	                    - > I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now.
+	                    - > I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now.
 	                    - [https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 	                    - It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported.
 
@@ -391,7 +418,7 @@
 	    - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
 	        - Continue monitoring the Bluesky feed and follow closely networked scholars.
 	    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
-	        - Yes, I'm still waiting for PubPeer and BMJ to respond on their own platforms & emails. I used PubPeer and BMJ Rapid Response tab for the article [[@abou-khalilAppleCiderVinegar2024]].
+	        - Yes, I'm still waiting for PubPeer and BMJ to respond on their own platforms & emails. I used PubPeer and BMJ Rapid Response tab for the article [[@abou-KhalilAppleCiderVinegar2024]].
 		        - #discussion/implications/peerReview/standards/reporting
 		        - #discussion/implications/peerReview/tools/publisher/informalRev
 		        - #inpeer/evdInfra/problems/publishing/failuseInformalrev

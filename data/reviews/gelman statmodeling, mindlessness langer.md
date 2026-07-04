@@ -1,3 +1,8 @@
+---
+type: review
+noteID: 718e85be-3e7d-4858-bf59-e182dc9006f6
+status: complete
+---
 _This is a long post, so let me give you the tl;dr right away: Don’t use the word “whom” in your dating profile._
 
 OK, now for the story. Fasten your seat belts, it’s going to be a bumpy night.

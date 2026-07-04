@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 408b6967-ad16-47fc-906a-d94981f4dec7
+status: complete
+---
 
 #### Afternoon
 

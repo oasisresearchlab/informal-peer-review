@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 299fcc50-b682-4318-b171-ebedc69bb9f8
+status: complete
+---
 I used parts of my Thursday P.M. (fill in) to code case [[Dishonest metascience research]] and transferred codes to this Meta (EOD) Memo.
 
 ---

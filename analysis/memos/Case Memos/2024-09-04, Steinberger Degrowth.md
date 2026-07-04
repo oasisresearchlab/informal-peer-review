@@ -1,3 +1,28 @@
+---
+type: memo
+noteID: a01f5bde-bd68-4aa5-a4fe-7a2460c1524c
+status: complete
+sourceReport:
+  - "[[@savin2024reviewinga]]"
+reviews:
+  - "[[rintamäki Twitter, degrowth]]"
+  - "[[rintamäki Twitter, degrowth 2]]"
+  - "[[steinberger Twitter, degrowth]]"
+  - "[[steinberger Twitter, degrowth 2]]"
+cases:
+  - "[[Degrowth search strategies]]"
+reviewers:
+  - "[[Jeroen van den Bergh]]"
+  - "[[Jukka Rintamäki]]"
+  - "[[Julia Steinberger]]"
+authors:
+  - "[[Ivan Savin]]"
+sites:
+  - "[[pubpeer]]"
+  - "[[twitter]]"
+source:
+  - "https://pubpeer.com/publications/DB2DA597904B3B3E8A74C0B0DB2DED"
+---
 - What is the relationship between informal peer review ananalysisoader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
         - PubPeer

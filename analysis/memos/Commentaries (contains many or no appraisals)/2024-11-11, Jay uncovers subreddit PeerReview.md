@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 957be403-f163-431f-80ed-e1d1e53f7666
+status: complete
+---
 - [[informal peer review communities (InPeeR)]], [[informal peer review]], [[InPeeR infrastructure: invent & develop 🏗️]]
     - I found a new community for conducting informal peer reviews yesterday, but was pressed for time and I'm memoeing it loosely for the first time here.
         - subreddit: [[PeerReview]]

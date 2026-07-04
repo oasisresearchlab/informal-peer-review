@@ -1,9 +1,13 @@
 ---
+type: review
+noteID: f8cc2b9c-f61a-4a23-bfd1-b431d1d2568f
+status: complete
 created: 2024-11-06T19:02:06 (UTC -05:00)
 tags: 
 source: https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A
 author: "[[Dorothy Bishop]]"
-cases: "[[Incorrect power analysis in G*Power]]"
+cases:
+  - "[[Incorrect power analysis in G*Power]]"
 ---
 
 # PubPeer - Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial...

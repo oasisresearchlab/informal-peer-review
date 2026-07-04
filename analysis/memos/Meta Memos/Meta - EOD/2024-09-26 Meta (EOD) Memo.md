@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 3b690c23-6a31-4e15-8589-4399bc057bdd
+status: complete
+---
 I reused a variety of older codes like:
 
 #inpeer/evdInfra/what/studyReports/poster
@@ -52,7 +57,7 @@ I added new codes like:
 #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
 - The outcome was a swift retraction meaning within minutes, hours, days, or a 1-4 weeks.
 
-#zoo/scholarlySociety
+#discussion/zoo/scholarlySociety
 - A scholarly society (e.g. SPSP, APA, CHI, CSCW) is directly involved in the case.
 
 #inpeer/how/practices/review/paper/frames/affective

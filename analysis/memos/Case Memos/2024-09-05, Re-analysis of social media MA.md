@@ -1,5 +1,28 @@
 ---
+type: memo
 noteID: 649ffb6b-10ac-4553-bda2-e66ecbaee2fe
+status: complete
+sourceReport:
+  - "[[@ferguson2024social]]"
+reviews:
+  - "[[jané personal site, social media]]"
+cases:
+  - "[[Re-analysis of re-analysis of social media meta-analysis]]"
+reviewers:
+  - "[[Jonathan Haidt]]"
+  - "[[Lee Jussim]]"
+  - "[[Matthew Jané]]"
+  - "[[Zach Rausch]]"
+authors:
+  - "[[Chris Ferguson]]"
+sites:
+  - "[[blog]]"
+  - "[[bluesky - general]]"
+  - "[[twitter]]"
+source:
+  - "https://www.afterbabel.com/p/the-case-for-causality-part-1/comments"
+  - "https://bsky.app/profile/matthewbjane.bsky.social/post/3l2xnvtamhf2h"
+  - "https://x.com/MatthewBJane/status/1829613320434798868"
 ---
 memo
 - Note: I originally did not plan to include this InPeer case because it's more work for me, the blog post doesn't allow commenting directly, and the case concerns a re-analysis of a critique of a meta-analysis by [[@ferguson2024social]]. But commenting is available and encouraged via e-mail, X/Twitter, and Bluesky. Moreover, this re-analysis by [[Matthew Jané]] has been praised widely on social media by [[Stephen Wild]] and [[Lee Jussim]]. So I'm including this case and expanding my inclusion criteria.
@@ -10,7 +33,7 @@ memo
 		- Paper
 			- targets [Substack blog post: Rausch & Haidt](https://www.afterbabel.com/p/the-case-for-causality-part-1), which critiqued [[@ferguson2024social]]
 		- Social Media
-			- [[@statistical]]
+			- [[jané personal site, social media]]
 				- [Blog post: A Statistical Interrogation of "The Case for Causality, Part 1" by Rausch and Haidt](https://matthewbjane.com/blog-posts/blog-post-6.html#discussion) #inpeer/evdInfra/where/multimedia/blog/personal
 					- Post
 						- > "The re-analysis of Ferguson ([2024](https://matthewbjane.com/blog-posts/blog-post-6.html#ref-ferguson2024))’s meta-analysis by R&H does not have adequate statistical rigor to build a “case for causality”. Post-hoc subgroup analyses conducted by R&H did not use a principled statistical model, they did not report any variability in their estimates, the estimates themselves were sub-optimal (unweighted averaging), and they misinterpreted the point-estimates that they calculated. They did not do a proper comparison of their point-estimates and instead they treated them as fixed quantities and simply claimed that these average effect sizes are different without consideration of variability in their estimation procedure. Their conclusion claimed that: we still found that his data _supports_ (rather than undermines) the contention by some scholars that “reductions in social media time would improve adolescent mental health,” at least as long as the reductions continue for two weeks or longer. Based on my re-analysis of R&H’s re-analysis I find that the intervention length when modeled properly as a continuous variable (since it literally is) does not support this claim. If I did anything incorrectly or if I did not use best practices, I take full responsibility and you can let me know by sending me a DM on twitter or emailing me at matthewbjane@gmail.com."
@@ -121,7 +144,7 @@ memo
 - **Description**: We will ask ourselves:
 	- How was the case discovered?
 		- I discovered it in BlueSky and Twitter on Friday evening.
-			- #zoo/sciCommSocialMedia
+			- #discussion/zoo/sciCommSocialMedia
 	- Was the observation a partial or a complete session?
 		- complete session
 	- What occurred? Which concerns were raised and by whom?

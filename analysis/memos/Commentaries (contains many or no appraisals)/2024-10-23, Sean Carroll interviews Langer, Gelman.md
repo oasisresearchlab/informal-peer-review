@@ -1,4 +1,7 @@
 ---
+type: memo
+noteID: b607319d-cad1-4773-9a61-2e96ed1b01b7
+status: complete
 url: https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/
 sites: "[[blog - Statistical Modeling]]"
 ---
@@ -566,7 +569,7 @@ sites: "[[blog - Statistical Modeling]]"
                             - [Reply ↓](https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/?replytocom=2381805#respond)
         - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
             - None for scholarly, but a preprint from summer 2024 inspired this blog post
-				- [[@gelmanhow]] is a bit long, but neat collaboration with [[blog commenter - Mark]]
+				- [[gelman blog, carroll interviews langer]] is a bit long, but neat collaboration with [[blog commenter - Mark]]
 					- #inpeer/why/benefits/review/intrinsic/correctSciComm
 						- This means that the individual and or team motivated to review want to correct erroneous science communications.
         - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks

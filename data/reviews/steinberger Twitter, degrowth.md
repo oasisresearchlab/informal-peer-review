@@ -1,11 +1,14 @@
 ---
+type: review
+noteID: 953e77e2-4331-4477-b24f-cb8fa3bcddf1
+status: complete
 created: 2024-09-04T18:18:08 (UTC -04:00)
 tags:
 source: https://x.com/JKSteinberger/status/1831298395115327662
 author: Julia Steinberger
 memos:
   - "[[2024-09-04, Steinberger Degrowth]]"
-reviewof: "[[@savin2024reviewinga]]"
+sourceReport: "[[@savin2024reviewinga]]"
 casetype: central
 ---
 

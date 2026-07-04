@@ -1,3 +1,22 @@
+---
+type: memo
+noteID: 84923c35-dd3e-4f8b-b76f-2809d4956540
+status: complete
+reviews:
+  - "[[jussim blog Substack, culturally biased poster 1]]"
+  - "[[omar twitter, culturally biased SPSP poster]]"
+cases:
+  - "[[Culturally Biased SPSP Poster]]"
+reviewers:
+  - "[[Lee Jussim]]"
+  - "[[Syed Omar]]"
+sites:
+  - "[[blog - Substack, Unsafe Science]]"
+  - "[[twitter]]"
+source:
+  - "https://x.com/NafsiatMahir/status/1756017250837119213/photo/1"
+  - "https://x.com/SPSPnews/status/1756027021657092398"
+---
 - memo
     - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
         - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -62,7 +81,7 @@
                             - Islam is a religion of peace. If you disagree, we will cut off your head, like Abdoullakh Anzorov did to Samuel Paty.
                             - Decolonial psych? Not sure about Islam, but you are definitely evil.
                             - Quote
-                            - #zoo/bin/Academic colleagues - henceforth, if you unironically mention #zoo/bin/decolonization in your publications or syllabi, I will consider you #zoo/bin/Hitler\-adjacent supporters of #zoo/bin/Hamas butchers who promote beheading of babies, rape, kidnapping, torture, and burning people alive. Yours.
+                            - #discussion/zoo/bin/Academic colleagues - henceforth, if you unironically mention #discussion/zoo/bin/decolonization in your publications or syllabi, I will consider you #discussion/zoo/bin/Hitler\-adjacent supporters of #discussion/zoo/bin/Hamas butchers who promote beheading of babies, rape, kidnapping, torture, and burning people alive. Yours.
                             - Show more
                             - Please stop fathoming yourself as a "scholar." You are light-years away from being a scholar. Islam is a toxic religion. Time you grow up.
                 - X/Twitter post: @datepsych or Alexander
@@ -148,7 +167,7 @@
                             - > "Many attendees raised concerns about this poster after seeing the abstract on our online convention platform. In response, the poster abstract was reviewed. Based on that review which revealed a **^^lack of scientific rigor in the reporting of the results and a disconnect between the claims made in the abstract and the evidence provided in the data set^^**, SPSP retracted the poster. While SPSP removed the poster from our convention platform and did not display the presentation onsite, it had already been viewed by convention attendees, members, as well as others in our community."
 							#inpeer/evdInfra/impacts/reactions/publishers/revisions/admitsLowRigor
 		                            - The reason for a retraction is a stated lack of scholarly rigor, as when a publication uses faulty theorizing, study design, and/or analyses.
-	                            - #clippings/cscw/credibility/resultsMismatchClaims
+	                            - #discussion/zoo/clippings/cscw/credibility/resultsMismatchClaims
 		                            - The claims and results do not match.
                         - reviewing criteria, reviewer burden
                             - > "Single presenter podium submissions (such as this one) are **^^evaluated by three volunteer reviewers, who are SPSP members with a PhD. Reviewers receive around 30 submissions to review.^^** Reviewers score three scientific criteria during evaluation: strength and rigor, contribution, and interest value. Separately, reviewers score the diversity, equity, inclusion, and/or anti-racism statements. More details about each of these criteria are available [on the SPSP website](https://spsp.org/events/annual-convention/submissions/evaluation-selection-process)."
@@ -175,7 +194,7 @@
                 - SPSP is the largest social and personality psychology society. They seem to have the power to suggest reforms and require diversity and equity statements. It certainly seems as though they are enforcing a strong liberal agenda in their conferences.
 					- #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
 						- The outcome was a swift retraction meaning within minutes, hours, days, or a 1-4 weeks.
-					- #zoo/scholarlySociety
+					- #discussion/zoo/scholarlySociety
 						- A scholarly society (e.g. SPSP, APA, CHI, CSCW) is directly involved in the case.
         - Storytelling: What is the style/genre/frame of critical appraisal?
             - [[AdvisoryCriticalAppraisal]] ? ExpressiveCriticalAppraisal
@@ -218,7 +237,7 @@
             - No, time has passed and I cannot engage in meaningful active participant observation. I may do so if a similar case arises.
     - **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
         - What stood out to you about this session, in light of our research problem?
-            - I originally missed Lee Jussim's take on this and now know the value of waiting a few days to weeks, returning to search for InPeeR reactions, and note them down. Note of implications section of #zoo/bin/CSCW2025InPeeRPaper and #zoo/bin/IntegrativePaper2024JP.
+            - I originally missed Lee Jussim's take on this and now know the value of waiting a few days to weeks, returning to search for InPeeR reactions, and note them down. Note of implications section of #discussion/zoo/bin/CSCW2025InPeeRPaper and #discussion/zoo/bin/IntegrativePaper2024JP.
         - What was interesting or concerning or confusing?
             - This case features posters and social issues like DEI/bias and that does not often come across my feed!
         - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.

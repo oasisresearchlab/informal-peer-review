@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 9e3fb584-8424-4c7c-9085-332e830c3f6b
+status: complete
+---
 [Peer review requests thread](https://www.reddit.com/r/PeerReview/comments/1fjz57e/peer_review_requests_thread/)
 - JP: Some light info foraging on Reddit and new sites today surfaced a weirdly effective intervention for reducing suicides at Japanese train stations.
 	- #inpeer/evdInfra/where/multimedia/reddit

@@ -1,4 +1,7 @@
 ---
+type: appraisal
+noteID: 83d27c8e-4e81-4601-993c-ba00321fa531
+status: complete
 url: https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/
 sites:
   - "[[blog - Statistical Modeling]]"
@@ -97,7 +100,7 @@ commentary: "[[2024-10-23, Sean Carroll interviews Langer, Gelman]]"
 	- ![](https://secure.gravatar.com/avatar/0cfc6d6b78d15af7012d62c3cc5c97bc?s=68&d=identicon&r=g)Anonymous on [October 19, 2024 12:54 PM at 12:54 pm](https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/#comment-2381734) said:
 	- One thing that stood out for me in this blog post is the comment about the person being alarmingly overconfident in her views. I have thought about this in relation to problematic issues and people in academia in general, and psychological science in particular. I also noticed this in recent discussions with, and concerning, certain psychological scientists.
 	- ==I wonder whether certain personality characteristics and certain actions might have some sort of “survival benefit” in academia and/or psychological science. One of those could be being, or coming across as, very confident.== Perhaps this feature interacts with several features of academia and psychological science to produce a situation in which people get away with, or even benefit from, this arguably unscientific behaviour.
-		- #zoo/discovery/informalRev/psychAnalysis
+		- #discussion/zoo/discovery/informalRev/psychAnalysis
 			- This means that an individual or organization conducted an informal peer review wherein a psychological analysis proposes an explanation for research waste.
 	- For instance, perhaps it’s hard in psychological science to determine who or what is right or wrong and it might be a field in which confidence is often mistaken for competence. Now, when taking into account several features of present-day academia in which power differences and dependencies exist it might be even harder to be critical of certain work and certain people. This might further build the confidence of the (over-)confident scientists because they never receive any real criticism. And as long as they receive attention and grant money, the universities might not care. Or perhaps they aren’t even aware. The scientists can just go on and on and on with telling their stories, and doing it (over-)confidently. And there might be many folks who listen to those stories and mistake their confidence for competence.
 	- [Reply ↓](https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/?replytocom=2381734#respond)

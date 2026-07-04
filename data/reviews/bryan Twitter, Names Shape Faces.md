@@ -1,7 +1,9 @@
 ---
+type: appraisal
+noteID: 6d047dad-3885-4178-9a2e-dfdc819035e4
+status: complete
 url: https://x.com/Afinetheorem/status/1818297553143595223
 appraiser: "[[Kevin Bryan]]"
-paper: 
 ---
 Meta: This is a Twitter thread with multiple posters below replying to  [[Kevin Bryan]], but the Markdown format makes it hard to perceive that.
 

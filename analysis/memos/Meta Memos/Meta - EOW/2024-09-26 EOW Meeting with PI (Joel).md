@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: b6b82ea1-d0de-4730-b126-faccf7d67913
+status: complete
+---
 Explain why the code belongs right in the Case Memo underneath the code.
 
 This will make it easier to write the Meta-EOD memo.

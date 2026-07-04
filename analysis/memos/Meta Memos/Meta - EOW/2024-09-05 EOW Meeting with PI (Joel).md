@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 77b4b19d-6fda-4872-8fd2-30e2522a48a0
+status: complete
+---
 Discussing codes in person today, we remarked on [[2024-09-04 Meta (EOD) Memo]]
 
 1. We added a code #inpeer/who/network/diverseInputsinCase for the case [[Degrowth search strategies]]. The name could use polishing, but the ability to find diverse voices in one place is quite valuable. 

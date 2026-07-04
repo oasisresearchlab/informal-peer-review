@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 469.50418853759766
   },
   "right": {
     "id": "389d3835118d3c43",
@@ -131,20 +131,6 @@
             }
           },
           {
-            "id": "52fa19064cb4765e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "a577b58244bc8c23",
             "type": "leaf",
             "state": {
@@ -157,6 +143,26 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "13d701c1bc5fdca6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a069370e7cf48667",
+            "type": "leaf",
+            "state": {
+              "type": "ReferencesView",
+              "state": {},
+              "icon": "graduation-cap",
+              "title": "References"
+            }
           }
         ],
         "currentTab": 2
@@ -167,48 +173,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-tweet-to-markdown:Tweet to Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "discourse-graphs:Toggle Discourse Context": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "discourse-graphs:Toggle discourse context": false,
+      "vault-llm-assistant:Vault LLM Assistant": false
     }
   },
   "active": "ce6a59075d08117c",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "data/cases/Dishonesty in Dishonesty Research.md",
-    "data/cases/Firearms Regulations.md",
-    "data/cases/Writing on Rapa Nui (Easter Island).md",
-    "data/cases/Vitamin D Deficiency.md",
-    "data/cases/SPSP Poster - Reconsidering the Religion of Peace.md",
-    "data/cases/Social anxiety and social media correlation effect size.md",
-    "data/cases/Sitting for Long Periods.md",
-    "data/cases/Psilocybin-assisted group therapy for depression.md",
-    "data/cases/SORA model.md",
-    "data/cases/Protzko High-replicability Open Science Practices.md",
-    "data/cases/LK-99.md",
-    "data/cases/IQ of North American College Students.md",
-    "data/cases/Growth Mindsets.md",
-    "data/cases/Genetic Basis of Tail-Loss Evolution.md",
-    "data/cases/Depression and body temperature.md",
-    "data/cases/Decline in Scientific Innovation.md",
-    "data/cases/Climate Change Impacts.md",
-    "data/cases/Aspartame.md",
-    "data/cases/All of Us Research - Racial Genetics.md",
-    "data/cases/AI-generated Images.md",
-    "data/cases/AI and Materials Science.md",
-    "Clippings/willemhalffman.bsky.social.md",
-    "Clippings/A Response to Jonathan Haidt’s Response.md",
-    "Clippings/Backup - Integrative Paper.md",
-    "Clippings/Berna Devezer \"\"our scientific representations are not, as many hoped in the heyday of logical empiricism, a super vending machine to which we can feed in facts about the questions we are interested in, turn the crank of logical derivation, and pick.md",
+    "source/@gaski2024.md",
+    "_archive/orphan-sources/@gaski2024.md",
+    "_archive/orphan-sources/@dadamo2024Reversal.md",
+    "_archive/orphan-sources/@bartik2024impact.md",
+    "_archive/orphan-sources/@AbrahmssonSara.md",
+    "_archive/orphan-sources",
+    "source/@dadamo2024Reversal.md",
+    "source/@ferguson2024social.md",
+    "source/@bartik2024impact.md",
+    "source/@AbrahmssonSara.md",
+    "source/@abou-KhalilAppleCiderVinegar2024.md",
+    "source/@alizadehgoradelTargetingPrefrontalsupplementaryMotor2024.md",
+    "source/@protzko2024highrep.md",
+    "source/@savin2024reviewinga.md",
+    "source/@wang2012reducing.md",
+    "source/@wang2012reducinga.md",
+    "source/@wang2017pti125.md",
+    "source/@zwebnerCanNamesShape2024.md",
+    "data/authors/study authors/Yonat Zwebner.md",
+    "_archive/unlinked-study-authors/Riccardo Ciacci.md",
+    "_archive/unlinked-study-authors/Sara Abrahamsson.md",
+    "_archive/unlinked-study-authors/Meng Chen.md",
+    "_archive/unlinked-study-authors/John Gaski.md",
+    "_archive/unlinked-study-authors/Christopher D'Adamo.md",
+    "_archive/unlinked-study-authors/Eva Vivalt.md",
+    "_archive/unlinked-study-authors/Ellen Langer.md",
+    "_archive/unlinked-study-authors/Alex Bartik.md",
+    "_archive/unlinked-study-authors",
+    "TODO.md.tmp.66142.c59efc05d6cd",
+    "DATA-QUALITY.md.tmp.66142.9b6e481cc126",
+    "_archive/cases-merged",
+    "_archive/cases-no-memo",
+    "source",
+    "_archive/redundant-named-reports",
+    "TODO.md.tmp.66142.d8a07dd9f760",
+    "README.md.tmp.66142.d2db87e58689",
     "Semantic Search - Ethiquette/Images/Screenshot 2026-01-28 at 8.54.50 PM.png",
     "Semantic Search - Ethiquette/Images/Screenshot 2026-01-28 at 9.04.45 PM.png",
     "Semantic Search - Ethiquette/Images/Screenshot 2026-01-28 at 9.10.43 PM.png",
@@ -218,10 +243,6 @@
     "Roam/Screenshot 2024-11-05 at 19.07.10.png",
     "Roam/Screenshot 2024-11-06 at 18.10.22.png",
     "Roam/Screenshot 2024-11-08 at 21.40.39.png",
-    "Roam/Screenshot 2024-11-07 at 14.03.36.png",
-    "Project Pubs",
-    "consent-form-nsf-fpr.pdf",
-    "protocol-interview-nsf-fpr.pdf",
-    "Interview Study - NSF FPR (S26)"
+    "Roam/Screenshot 2024-11-07 at 14.03.36.png"
   ]
 }

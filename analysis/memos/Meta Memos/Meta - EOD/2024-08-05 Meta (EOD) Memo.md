@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 2ece3e6f-0c17-4146-a652-9cc9339e0733
+status: complete
+---
 - [x] add how the InPeeR opportunity came to be known within the InPeeR community: science journalism (exp: [Obsidian case: Names Shape Faces](obsidian://open?vault=orca-cases&file=analysis%2Fmemos%2FCase%20Memos%2F2024-07-30%2C%20Names%20Shape%20Faces))
 
 I am working alone today and practicing coding the appraisals (data) and memos re: the who, why, and infrastructural elements of InPeeR cases like:
@@ -22,9 +27,9 @@ who
 
 
 infrastructure
-#zoo/education/educateScholarsFail for mentioning that scholars need to be better educated to catch research waste and prevent it from being published
-#zoo/sciComm/sciJournalismfail for accusations that science journalism contributed to publicizing low-quality research
-#zoo/scavengers/paidLowTierpublishers for remarks of the low-quality journals where InPeeR commentary is usually targeted
+#discussion/zoo/education/educateScholarsFail for mentioning that scholars need to be better educated to catch research waste and prevent it from being published
+#discussion/zoo/sciComm/sciJournalismfail for accusations that science journalism contributed to publicizing low-quality research
+#discussion/zoo/scavengers/paidLowTierpublishers for remarks of the low-quality journals where InPeeR commentary is usually targeted
 
 how
 #inpeer/how/practices/review/paper/layers/meta/bias/COIs/detect for pointing out publisher-level and/or scholar-level conflicts-on-interest
@@ -33,8 +38,8 @@ misc
 
 Some miscellaneous codes are:
 
-#zoo/discovery/sciJourSocialMedia
-#zoo/discovery/spouseInformal for an informal, familial way to discover InPeeR cases
+#discussion/zoo/discovery/sciJourSocialMedia
+#discussion/zoo/discovery/spouseInformal for an informal, familial way to discover InPeeR cases
 #inpeer/how/practices/review/paper/layers/discursive/causalClaimUnjustified for unjustified causal claims
 #inpeer/how/practices/review/paper/layers/empirical/interpretation/maturation for age-related changes in participants worth considering during interpretation
 #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/confidenceInts for the misreporting of confidence intervals (CIs)

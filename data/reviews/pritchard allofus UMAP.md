@@ -1,4 +1,7 @@
 ---
+type: appraisal
+noteID: aa9a7c8a-e6e8-4bf3-b56b-aab5c1de7589
+status: complete
 url: https://twitter.com/jkpritch/status/1759769445759893832
 appraiser: "[[Jonathan Pritchard]]"
 ---

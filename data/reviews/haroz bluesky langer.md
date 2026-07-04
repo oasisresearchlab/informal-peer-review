@@ -1,4 +1,7 @@
 ---
+type: appraisal
+noteID: a8868a17-1379-475d-9898-1f402db8e445
+status: complete
 url: https://bsky.app/profile/steveharoz.com/post/3klhtkqrprc2t
 appraiser: "[[Steve Haroz]]"
 setting: "[[bluesky - general]]"

@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 35a35e72-91a9-4112-b403-8903759aea6a
+status: complete
+---
 Discuss [apple cider vinegar case](obsidian://open?vault=orca-cases&file=analysis%2Fmemos%2FCase%20Memos%2F2024-09-12%2C%20Apple%20cider%20vinegar%20Heathers)
 Discuss [daily meta-memo](obsidian://open?vault=orca-cases&file=analysis%2Fmemos%2FMeta%20Memos%2FMeta%20-%20EOD%2F2024%2C%2009-19%20Meta%20(EOD)%20Memo)
 

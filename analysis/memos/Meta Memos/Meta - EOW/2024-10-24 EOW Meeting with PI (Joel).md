@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 806799b1-26ac-4c4b-9cca-7b9119ae4cd3
+status: complete
+---
 
 #### Afternoon: JP alone
 - continued structured memoing and transferred to Obsidian to code:

@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: c45cbddb-87f1-4816-ae71-da0d516b81bf
+status: complete
+---
 I review InPeeR case: Apple cider vinegar with Valdez's appraisal only aka [[Apple cider vinegar]]: [[valdez bsky, apple cider vinegar]].
 
 JC and JP went through the codes and discovered that JP should focus on the *who* even more and capture more details about the appraisers.

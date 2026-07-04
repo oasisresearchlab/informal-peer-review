@@ -1,11 +1,14 @@
 ---
+type: review
+noteID: 33a90c91-706d-4d5c-94a4-307e5c384eed
+status: complete
 created: 2024-11-05T19:40:02 (UTC -05:00)
 tags:
 source: https://x.com/Jugistoteles/status/1831344088311902505
 author:
   - "[[Jukka Rintamäki]]"
 permalink: https://archive.ph/cHLc0
-reviewof: "[[@savin2024reviewinga]]"
+sourceReport: "[[@savin2024reviewinga]]"
 memos:
   - "[[2024-09-04, Degrowth search strategies]]"
 casetype: central

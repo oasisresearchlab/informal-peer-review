@@ -1,10 +1,40 @@
+---
+type: memo
+noteID: c0858f92-8140-4e08-85d2-142183bf70fb
+status: complete
+sourceReport:
+  - "[[@protzko2024highrep]]"
+reviews:
+  - "[[bak-coleman blog, protzko]]"
+  - "[[hullman blog Protzko]]"
+  - "[[lakens BSky dishonest metascience research]]"
+  - "[[yarkoni bsky, protzko]]"
+cases:
+  - "[[Dishonest metascience research]]"
+reviewers:
+  - "[[Brian Nosek]]"
+  - "[[Daniël Lakens]]"
+  - "[[Jessica Hullman]]"
+  - "[[Joe Bak-Coleman]]"
+authors:
+  - "[[John Protzko]]"
+  - "[[Jonathan Schooler]]"
+sites:
+  - "[[blog]]"
+  - "[[bluesky - general]]"
+  - "[[twitter]]"
+source:
+  - "https://bsky.app/profile/lakens.bsky.social/post/3kplsdsst3l2y"
+  - "https://pubpeer.com/publications/8AEC9B438A164D1F2CEC2AD0285564"
+  - "https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF"
+---
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
         - PubPeer
             - [PubPeer: Retraction Note](https://pubpeer.com/publications/8AEC9B438A164D1F2CEC2AD0285564)
             - [PubPeer: High replicability...](https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF)
         - Paper
-            - [[@protzko2024high]]
+            - [[@protzko2024highrep]]
         - Social Media
             - [BSky Post](https://bsky.app/profile/lakens.bsky.social/post/3kpls7klfd52l)
                 - Screenshots
@@ -62,7 +92,7 @@
         - Lakens is self-taught in philosophy of science and statistics and writes about it often from Popperian and severe testing perspectives.
 	        - #inpeer/who/reviewer/ideology/philosophy/popperian
 		        - This means that the individual favor Karl Popper's philosophy of science wherein hypotheses and theories must be tested with severe pass-or-fail tests.
-        - As one of the reviewers for [[@protzko2024high]] and a science reformer, he has to uphold the papers, I guess. Weirdly, Lakens co-authored [[@lakensJustifyYourAlpha2018]] with Tal Yarkoni and a long list of metascientists and statisticians.
+        - As one of the reviewers for [[@protzko2024highrep]] and a science reformer, he has to uphold the papers, I guess. Weirdly, Lakens co-authored [[@lakensJustifyYourAlpha2018]] with Tal Yarkoni and a long list of metascientists and statisticians.
 	        - #inpeer/who/reviewer/roles/reviewer/informal/pubHistorywithTarget
 		        - This means that the individual doing the informal peer review previously worked with the target of the informal peer review, as when co-authoring papers.
     - Are there follow-ups or next steps for anyone involved?

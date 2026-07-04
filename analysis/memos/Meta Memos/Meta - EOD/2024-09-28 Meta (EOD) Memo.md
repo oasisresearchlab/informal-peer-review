@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 0e85954f-df94-43cb-87e3-bfa2a94d751e
+status: complete
+---
 I used my Saturday late night to continue sampling theoretically from my running list of cases in Roam. 
 
 This case was very controversial and even I tweeted at authors regarding their poor communication of complex results. There are considerable ethical implications to getting study design and messaging off like this.
@@ -12,7 +17,7 @@ I added the following new codes:
 #inpeer/how/practices/review/paper/layers/empirical/openness/prereg/closed 
 - This means that the preregistration is hard to access (gated), adding a delay.
 
-#zoo/sciComm/biased
+#discussion/zoo/sciComm/biased
 - This means that the individual (influencers, sci comm) reporting a study in a biased way (e.g. selectively reporting results).
 
 #inpeer/digitalEthnography/activePartObs/tell/what/advisedCoauthor
@@ -46,7 +51,7 @@ I added the following new codes:
  #inpeer/who/reviewer/roles/unconventional/thinktankScholar 
 
 #inpeer/how/practices/review/paper/frames/destructive 
-#zoo/discovery/viralStudy 
+#discussion/zoo/discovery/viralStudy 
 
 
 #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed 

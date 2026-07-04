@@ -1,3 +1,33 @@
+---
+type: memo
+noteID: 181ad887-9f22-43fc-b381-2f9dd96428fb
+status: complete
+sourceReport:
+  - "[[@protzko2024highrep]]"
+reviews:
+  - "[[bak-coleman blog, protzko]]"
+  - "[[hullman blog Protzko]]"
+  - "[[lakens BSky dishonest metascience research]]"
+  - "[[yarkoni bsky, protzko]]"
+cases:
+  - "[[Dishonest metascience research]]"
+reviewers:
+  - "[[Daniël Lakens]]"
+  - "[[Jessica Hullman]]"
+  - "[[Joe Bak-Coleman]]"
+authors:
+  - "[[Brian Nosek]]"
+  - "[[John Protzko]]"
+  - "[[Jonathan Schooler]]"
+sites:
+  - "[[blog]]"
+  - "[[bluesky - general]]"
+  - "[[twitter]]"
+source:
+  - "https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF"
+  - "https://joebakcoleman.com/blog/2024/protzko/"
+  - "https://doi.org/10.1038/s41562-024-01997-3"
+---
 
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -22,7 +52,7 @@
                     - ___
                     - John Protzko , Jon Krosnick , Leif Nelson , Brian A. Nosek , Jordan Axt , Matt Berent , Nicholas Buttrick , Matthew DeBell , Charles R. Ebersole , Sebastian Lundmark , Bo MacInnis , Michael O’Donnell , Hannah Perfecto , James E. Pustejovsky , Scott S. Roeder , Jan Walleczek , Jonathan W. Schooler
         - Paper
-            - [[@protzko2024high]]
+            - [[@protzko2024highrep]]
         - Social Media
             - [blog post: I did not want to write this blog post.](https://joebakcoleman.com/blog/2024/protzko/)
 		        #inpeer/evdInfra/impacts/reactions/meta/dynamics/longForm
@@ -183,7 +213,7 @@
 	            - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate
 	            - #inpeer/who/reviewer/roles/hero/sciReformer
 	            - #inpeer/who/reviewer/roles/influencer/scholarly
-	            - #zoo/infrastructure/eliteGroups/elitePublishersGoodRevs
+	            - #discussion/zoo/infrastructure/eliteGroups/elitePublishersGoodRevs
 		            - This means that the elite publishers actually had good reviews pointing out problems in the manuscript, but they published it anyway.
             - Joe Bak-Coleman, like Berna Devezer. and Jessica Hullman, could be considered part of the open science counterculture. All of these scholars use open practices, but have a more critical POV regarding the necessity of certain practices and whether they are sufficient for high-quality scholarship.
 	            - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate/cautious
@@ -191,7 +221,7 @@
 				-  #inpeer/how/practices/review/paper/layers/empirical/openness/practices
         - intersections with institutional and power structures
             - The Center for Open Science [[org/Center for Open Science]] and _Nature Human Behavior_ are powerful institution interested in selling open science and papers applying it. Here, I commend _Nature Human Behavior_ for flagging and retracting the paper. But they gave the authors an opportunity to resubmit the paper, so does that reveal the friendly peer-to-peer backscratching at the elite levels of science? Given the deep issues in @protzko2024, a stricter publisher ought to have prevented future publication. After all, a retraction looks unseemly and wastes editorial resources for resubmission.
-	            - #inpeer/who/target/eliteAuthors #zoo/infrastructure/eliteGroups/elitePower
+	            - #inpeer/who/target/eliteAuthors #discussion/zoo/infrastructure/eliteGroups/elitePower
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - [[destructive critical appraisal]]
 	        - #inpeer/how/practices/review/paper/frames/destructive

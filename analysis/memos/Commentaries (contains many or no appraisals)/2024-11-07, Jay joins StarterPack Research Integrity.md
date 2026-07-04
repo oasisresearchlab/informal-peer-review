@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 020016f1-910c-414f-b970-70ac64eec8d9
+status: complete
+---
 - Structured
     - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
         - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.

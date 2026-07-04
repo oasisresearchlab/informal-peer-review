@@ -1,10 +1,17 @@
 ---
+type: commentary
+noteID: 5db4e810-575b-4416-a2a3-dc2f0c6c3ec6
+status: complete
 url: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Finfotainment.bsky.social%2Fpost%2F3l66myhizbx26&viewtype=tree
-commenters: "[[Steve Haroz]], [[Dorothy Bishop]]"
-sites: "[[bluesky - general]]"
 community: "[[SciComment]]"
-authors:
-  - "[[Jay Patel 🫢]]"
+cases:
+  - "[[Bluesky Feed Scientific Comments]]"
+reviewers:
+  - "[[Dorothy Bishop]]"
+  - "[[Steve Haroz]]"
+sites:
+  - "[[SciComment]]"
+  - "[[bluesky - general]]"
 ---
 Jay Patel
 25d

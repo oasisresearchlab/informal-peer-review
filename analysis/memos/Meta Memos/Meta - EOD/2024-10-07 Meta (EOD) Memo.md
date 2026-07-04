@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 679674ee-f944-4de6-8b57-9302c89ef1b7
+status: complete
+---
 I used parts of my Monday P.M. to wrap up the coding of  [[2024-10-03, Cassava Sciences Alzheimers drug]].
 
 Note: Joel wants shorter memos now.

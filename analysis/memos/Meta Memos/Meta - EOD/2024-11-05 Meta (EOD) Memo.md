@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: a8061470-b9b3-4286-bcfe-d9aa1bee1bff
+status: complete
+---
 I used parts of my Tuesday P.M. (fill in) to meet Joel for timeline discussion for the Integrative Paper, delete incomplete case memos, read and recode some older cases memos like [[Names Shape Faces]] and [[Degrowth search strategies]].
 
 I need to tidy up the case memoes before conducting a true synthesis of the data into 3-5 themes. This will requires a day or two for the first two cases in the Case Memoes subsection.
@@ -43,7 +48,7 @@ Microupdate to Joel:
 #inpeer/how/practices/review/paper/layers/empirical/openness/practices/performative
 - This means that the authors of a scholarly report followed open science practices performatively or superficially. For example, they may link to a missing pre-registration or one that doesn't align with the paper's methods and results. Or else, they may fail to upload data and code in a manner that would enable reproducibility/verification checks.
 
-#zoo/scavengers/problematicEditor
+#discussion/zoo/scavengers/problematicEditor
 - This means that the editor is responsible for disseminating research waste/low-quality studies.
 
 #inpeer/how/practices/review/paper/layers/empirical/transparency/preregMissing
@@ -96,7 +101,7 @@ Bryan
 #inpeer/how/practices/review/paper/frames/destructive
 
 
-#zoo/discovery/sciJourSocialMedia
+#discussion/zoo/discovery/sciJourSocialMedia
 #inpeer/who/reviewer
 
 #inpeer/digitalEthnography/activePartObs
@@ -114,11 +119,11 @@ Bryan
 #inpeer/evdInfra/where/multimedia/microblog/twitter
 #inpeer/who/reviewer/roles/sleuth
 #inpeer/who/reviewer/roles/hero/sciReformer
-#zoo/discovery/sciJourSocialMedia
+#discussion/zoo/discovery/sciJourSocialMedia
 #inpeer/evdInfra/problems/sciComm/uncritical
 #inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update
 
-#zoo/sciComm/sciJournalismfail
+#discussion/zoo/sciComm/sciJournalismfail
 
 #inpeer/how/practices/review/paper/frames/destructive
 
@@ -161,7 +166,7 @@ Lakens
 #inpeer/who/reviewer/roles/employment/tenured
 #inpeer/evdInfra/where/multimedia/microblog/twitter
 #inpeer/how/practices/review/paper/frames/destructive
-#zoo/infrastructure/eliteGroups/elitePublishersBadRevs
+#discussion/zoo/infrastructure/eliteGroups/elitePublishersBadRevs
 #inpeer/how/practices/review/paper/layers/empirical/analyses/noise/marginalPValues
 
 Bryan

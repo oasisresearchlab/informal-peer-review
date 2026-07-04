@@ -1,4 +1,6 @@
 ---
+type: memo
+status: complete
 noteID: ce043673-59b8-4e34-8948-5523221a27dc
 ---
 I used parts of my Wednesday P.M. to wrap up the coding of  [[2024-10-03, Cassava Sciences Alzheimers drug]]: [[bik science integrity blog 3, wang]]

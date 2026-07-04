@@ -1,4 +1,6 @@
 ---
+type: memo
+status: complete
 noteID: 17ef4e3d-18c7-4249-a201-87b1689dd01b
 ---
 This is an End-of-Semester memo, even though we're only in early November 2024.

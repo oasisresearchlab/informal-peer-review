@@ -1,1 +1,0 @@
-[Reversal of Autism Symptoms among Dizygotic Twins through a Personalized Lifestyle and Environmental Modification Approach: A Case Report and Review of the Literature](https://www.mdpi.com/2075-4426/14/6/641)

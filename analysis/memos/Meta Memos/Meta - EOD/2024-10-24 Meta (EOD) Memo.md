@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 35d92a8b-5935-458d-b123-9f293e406aff
+status: complete
+---
 I used parts of my Thursday P.M. (fill in) to structured loose memo notes from Roam and transfer to Obsidian for coding: [[2024-10-24, Jay asks SciComment tech preference]]
 
 ---

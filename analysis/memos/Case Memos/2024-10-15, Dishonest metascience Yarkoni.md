@@ -1,3 +1,33 @@
+---
+type: memo
+noteID: b86f7f3d-45e8-4c0a-a06e-0724b446db87
+status: complete
+sourceReport:
+  - "[[@protzko2024highrep]]"
+reviews:
+  - "[[bak-coleman blog, protzko]]"
+  - "[[hullman blog Protzko]]"
+  - "[[lakens BSky dishonest metascience research]]"
+  - "[[yarkoni bsky, protzko]]"
+cases:
+  - "[[Dishonest metascience research]]"
+reviewers:
+  - "[[Brian Nosek]]"
+  - "[[Daniël Lakens]]"
+  - "[[Jessica Hullman]]"
+  - "[[Joe Bak-Coleman]]"
+authors:
+  - "[[John Protzko]]"
+  - "[[Jonathan Schooler]]"
+sites:
+  - "[[blog]]"
+  - "[[bluesky - general]]"
+  - "[[twitter]]"
+source:
+  - "https://bsky.app/profile/talyarkoni.com/post/3kowl4n465k24"
+  - "https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF"
+  - "https://pubpeer.com/publications/8AEC9B438A164D1F2CEC2AD0285564"
+---
 - Structured
     - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
         - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -6,7 +36,7 @@
                 - [PubPeer: protzko2024](https://pubpeer.com/publications/A98F46F301606E700D42299753F8BF)
                 - [PubPeer: retraction notice](https://pubpeer.com/publications/8AEC9B438A164D1F2CEC2AD0285564)
             - Paper
-                - [[@protzko2024high]]
+                - [[@protzko2024highrep]]
                     - Formal Peer Review
                         - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FU6bVHb9WSl.pdf?alt=media&token=8f4dcc1e-2f95-4e38-96b8-216fdcd4a8de}}
             - Social Media
@@ -185,8 +215,8 @@
         - Sociology of Science:
             - intersections with science reform structures and movements
                 - Science reform is happening within Nosek's circle and Tal wrote some modern metascientific classics on the [[generalizability crisis]], statistics, and social media. He is a part of the group (or was) being critiqued. He can't square the idea that reformers would be both dumb in choosing to investigate a well-trod area and fail to provide evidence to support their conclusions.
-	                - #zoo/infrastructure/eliteGroups
-	                - #zoo/infrastructure/eliteGroups/elitePower
+	                - #discussion/zoo/infrastructure/eliteGroups
+	                - #discussion/zoo/infrastructure/eliteGroups/elitePower
 	                - #inpeer/evdInfra/impacts/reactions/authors/support/critiqueHero
 		                - This means that someone is critiquing their hero/idol with an informal peer review or two.
             - intersections with institutional and power structures
@@ -204,7 +234,7 @@
         - Was the observation a partial or a complete session?
             - Complete session
         - What occurred? Which concerns were raised and by whom?
-            - Tal remarked that the [[@protzko2024high]] paper as superfluous and not credible. Brian Nosek responded by noting that there was a philosophical alignment, but pragmatic difference in that he wants to engage others in science reform with evidence.
+            - Tal remarked that the [[@protzko2024highrep]] paper as superfluous and not credible. Brian Nosek responded by noting that there was a philosophical alignment, but pragmatic difference in that he wants to engage others in science reform with evidence.
 	            - #inpeer/how/practices/review/paper/values/creativity/lowValue
 		            - This means that a debate is highlight concerning whether or not a study or set of studies was needed in the first place to reach a conclusion. On one side, a critic lays blame on wasted resources pursuing an obvious conclusion. On the other side, the pragmatic researcher/team advocates for focusing more attention on the issue, gathering data, and considering alternative possibilities.
         - Who participated?
@@ -237,7 +267,7 @@
 		            - This means that a formal peer review is available publicly (openly) for us to peruse and align with the informal peer review.
         - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
             - Tal doesn't usually poke his head into academic matters these days, but it's great that he dove back in. What if he had left social networks?
-            - Just realize this: One extra reason for Tal to be angry at the study co-authors of [[@protzko2024high]] is that the expensive, time-consuming study usurped resources from other metascientific team to conduct truly novel research instead of testing a logically believable and empirically verified RQ. He could have articulated this more explicitly, conducting a back-of-the-envelope fiscal analysis.
+            - Just realize this: One extra reason for Tal to be angry at the study co-authors of [[@protzko2024highrep]] is that the expensive, time-consuming study usurped resources from other metascientific team to conduct truly novel research instead of testing a logically believable and empirically verified RQ. He could have articulated this more explicitly, conducting a back-of-the-envelope fiscal analysis.
         - What are the implications for evolving:
             - formal peer review?
                 - study co-authors: if presenting empirical data from complex, expensive studies, justify their value over a literature review

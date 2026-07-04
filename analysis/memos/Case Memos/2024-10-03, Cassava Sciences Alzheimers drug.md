@@ -1,3 +1,30 @@
+---
+type: memo
+noteID: a7dee809-7841-4577-a60f-69b738f7735e
+status: complete
+sourceReport:
+  - "[[@wang2012reducinga]]"
+  - "[[@wang2017pti125]]"
+reviews:
+  - "[[bik science integrity blog 1, wang]]"
+  - "[[bik science integrity blog 1, wang 2]]"
+  - "[[bik science integrity blog 2, wang]]"
+  - "[[bik science integrity blog 3, wang]]"
+cases:
+  - "[[Cassava Sciences' Alzheimer's drug simufilam]]"
+reviewers:
+  - "[[Elisabeth Bik]]"
+  - "[[Hoau-Yan Wang]]"
+authors:
+  - "[[Lindsay Burns (Barbier)]]"
+sites:
+  - "[[blog - Science Integrity Blog]]"
+  - "[[pubpeer]]"
+source:
+  - "https://pubpeer.com/publications/F91E0D22B887598445BB1F908393EE?utm_source=Chrome&utm_medium=BrowserExtension&utm_campaign=Chrome"
+  - "https://pubpeer.com/publications/A8DD7059A8A7F13D4899049A83F61E?utm_source=Chrome&utm_medium=BrowserExtension&utm_campaign=Chrome"
+  - "https://pubpeer.com/publications/80DD10169D3C375C5828BC2711A49B"
+---
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Meta note: There are multiple papers, but JP will choose a recent trial and InPeeR by multiple sources to get the ball rolling...
 	    - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -238,7 +265,7 @@
                         - INCORRECT:
                         - 1. **SC-65844 antibody** is for the alpha-1 subunit of the nAchR, as noted by another commenter. There are no alpha-1 subunits of nAchR's from mammalian hippocampi, therefore the selection of this antibody is absurd. 10.1016/j.tips.2006.07.004
                         - LINEAR EPITOPE ANTIBODIES 2) **SC-7565 antibody** for FLNA was raised against a linear peptide sequence near the N-terminal, has not been validated to recognize a native protein epitope and therefore **cannot** be used to make a claim regarding native or partially folded proteins. [https://datasheets.scbt.com/sc-7565.pdf](https://datasheets.scbt.com/sc-7565.pdf)
-                        - 3)\*\* SC-271440 antibody\*\* for FLNA was raised against a linear sequence of amino acids #zoo/bin/2348-2647, which span the FLNA Ig-like repeats #zoo/bin/21-24 (#2327-2646). A linear amino acid epitope of such large size, it would be unable to recognize the pleated beta sheet conformation across three separate FLNA Ig repeats, which include a hinge (rotated area) between #23 & #24. Thus use of this antibody would indicate a denatured FLNA protein. [https://datasheets.scbt.com/sc-271440.pdf](https://datasheets.scbt.com/sc-271440.pdf) [https://www.uniprot.org/uniprot/P21333](https://www.uniprot.org/uniprot/P21333) [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/)
+                        - 3)\*\* SC-271440 antibody\*\* for FLNA was raised against a linear sequence of amino acids #discussion/zoo/bin/2348-2647, which span the FLNA Ig-like repeats #discussion/zoo/bin/21-24 (#2327-2646). A linear amino acid epitope of such large size, it would be unable to recognize the pleated beta sheet conformation across three separate FLNA Ig repeats, which include a hinge (rotated area) between #23 & #24. Thus use of this antibody would indicate a denatured FLNA protein. [https://datasheets.scbt.com/sc-271440.pdf](https://datasheets.scbt.com/sc-271440.pdf) [https://www.uniprot.org/uniprot/P21333](https://www.uniprot.org/uniprot/P21333) [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/)
                         - DENATURED CONDITIONS (in addition to using antibodies for denature proteins, above): 4) Section 2.8 - in order to run SDS-PAGE, methods describe boiling the samples for 5 minutes in SDS preparation buffer, which is a technique specifically designed to denature proteins and includes 2% SDS and a reducing agent (2-mercaptoethanol) which cleaves disulfide bonds and facilitates denaturing before probing for FLNA and other proteins with linear epitope antibodies. In other words, the proteins were denatured and then antibodies designed for denatured proteins were used.
                         - 5. Section 2.17 - states "solubilized immunoprecipitates \[...\] were separated by either 7.5 or 10% SDS PAGE" (also a very denaturing technique.
                         - ISOELECTRIC FOCUSING With denatured assays as described, we are left with IEF. Again, linear epitope antibodies for recognition of denatured FLNA were used for the IEF gels. Many things can cause an isoelectric point to shift, including multiple freeze-thaw cycles, variable oxidation states, sample preparation, buffer and focusing time, among other things. **Without having any other validated native protein assay or study, the pI shift, as probed by linear epitope antibodies, is inconclusive at best.**
@@ -1162,7 +1189,7 @@
         - Good god, this could take a while to analyze. But we know that Wang has had financial COIs with companies for years and Cassava Sciences may have the most to gain from a purported breakthrough drug. The initial informal peer reviewers here like Luosheng Peng are investors in SAVA and quantitatively savvy. The same might be said of Matthew Schrag and Elisabeth Bik (who have have biomedical expertise and image sleuthing skills. We find other these biomedical researchers don't have any financial COIs. They seem to be motivated intrinsically, for the error detection benefits.
 	        - #inpeer/why/benefits/review/intrinsic
 	        - #inpeer/why/benefits/review/extrinsic
-	        - #zoo/why/motivation/forResearching/profits
+	        - #discussion/zoo/why/motivation/forResearching/profits
 		        - This means that one motivation for fraudsters could be monetary profits.
         - Risks
             - Matthew Schrag
@@ -1194,7 +1221,7 @@
 	            - #inpeer/how/practices/review/paper/layers/empirical/openness/practices
         - intersections with institutional and power structures
             - The multiple power structure here elite educational institutions, powerful biotech companies, powerful journals with lax retraction policies, and patent-holding Ph.Ds are a troubling, self-reinforcing network. Professional investors, shareholders, and others are not knowledgeable enough to detect research fraud and waste (except L. Peng above).
-	            - #zoo/infrastructure/eliteGroups/elitePower
+	            - #discussion/zoo/infrastructure/eliteGroups/elitePower
 				- #discussion/implications/peerReview/practices/financial/improveDuediligence
 					- This means that the infrastructure of research and communication needs better due diligence for financial applications like investing in stocks.
     - Storytelling: What is the style/genre/frame of critical appraisal?
@@ -1208,7 +1235,7 @@
         - JP discovered this initially via X/Twitter algorithm, [[Jesse Brodkin]]? RetractionWatch?
         - The diffusion of awareness about Cassava Science is likely:
             - The cassavafraud.com website authors/FDA petition filers alerting Matthew Schrag and roping in sleuths like Elisabeth Bik. Anonymous posters on PubPeer are included.
-		            - #zoo/discovery/consultant/legalAction
+		            - #discussion/zoo/discovery/consultant/legalAction
 			            - This means that the infrastructure of research and InPeeR involved a consultant who discovered the case through legal proceedings requiring their help.
     - Was the observation a partial or a complete session?
         - complete session

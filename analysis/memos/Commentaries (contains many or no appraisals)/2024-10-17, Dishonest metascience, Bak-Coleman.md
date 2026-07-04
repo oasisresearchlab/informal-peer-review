@@ -1,8 +1,11 @@
 ---
+type: memo
+noteID: 09f3f4a3-5ef2-440f-bc54-39c19bc820de
+status: complete
 url: https://bsky.app/profile/jbakcoleman.bsky.social/post/3kophjigqwl2f
 sites: "[[bluesky - general]]"
 ---
-
+and 
 
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -10,7 +13,7 @@ sites: "[[bluesky - general]]"
             - See other memos
 	            - #inpeer/evdInfra/where/multimedia/pubpeer/sparse
         - Paper
-            - [[@protzko2024high]]
+            - [[@protzko2024highrep]]
         - Social Media
             - [BSky Post](https://bsky.app/profile/jbakcoleman.bsky.social/post/3kophjigqwl2f): [[Joe Bak-Coleman]] deleted! #inpeer/evdInfra/where/multimedia/microblog/bluesky
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGqQ-mKVOuG.png?alt=media&token=cd0d5e26-9980-4956-ae25-6c1389c2afde)

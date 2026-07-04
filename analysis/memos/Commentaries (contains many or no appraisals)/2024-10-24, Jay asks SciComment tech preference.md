@@ -1,4 +1,7 @@
 ---
+type: memo
+noteID: e8de165f-7cf4-4e23-8278-84c44fe0012a
+status: complete
 url: https://bsky.app/profile/infotainment.bsky.social/post/3l66myhizbx26
 sites: "[[bluesky - general]]"
 ---

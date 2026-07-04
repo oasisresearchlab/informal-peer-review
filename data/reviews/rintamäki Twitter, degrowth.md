@@ -1,4 +1,7 @@
 ---
+type: review
+noteID: f898ba85-c51d-4d57-9a5d-d64aa9383bc9
+status: complete
 created: 2024-11-05T19:40:02 (UTC -05:00)
 tags: 
 source: https://x.com/Jugistoteles/status/1831344088311902505

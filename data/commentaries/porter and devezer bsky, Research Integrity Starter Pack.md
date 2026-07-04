@@ -1,9 +1,22 @@
 ---
+type: commentary
+noteID: b2a7f934-9130-441e-9f24-d5045284c48f
+status: complete
 url: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Finfotainment.bsky.social%2Fpost%2F3l66myhizbx26&viewtype=tree
-commenters: "[[Andrew Porter]]"
-sites: "[[bluesky - general]]"
 community: "[[SciComment]], [[Research Integrity]]"
-authors:
+cases:
+  - "[[Bluesky Starter Pack Research Integrity]]"
+reviewers:
+  - "[[Andrew Porter]]"
+  - "[[Berna Devezer]]"
+  - "[[Eiko Fried]]"
+  - "[[Steve Haroz]]"
+sites:
+  - "[[SciComment]]"
+  - "[[bluesky - general]]"
+source:
+  - "https://bsky.app/profile/retropz.bsky.social/post/3l6pscj3cls2i"
+  - "https://bsky.app/starter-pack-short/5NJ9Z4N"
 ---
 ---
 created: 2024-11-07T16:57:56 (UTC -05:00)

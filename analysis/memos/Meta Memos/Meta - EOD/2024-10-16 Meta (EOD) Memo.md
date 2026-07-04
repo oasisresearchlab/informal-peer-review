@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 7b9dc368-ca69-4bc5-b2f0-5eac6f2e5a03
+status: complete
+---
 I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to code case [[Dishonest metascience research]] and transferred codes to this memo: Monday P.M. 2024-10-15 and 2024-10-16.
 
 ---
@@ -11,10 +16,10 @@ I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to cod
  #inpeer/how/practices/review/paper/values/creativity/litIgnored
 - This means that the report does not support a claim of novelty/creativity because it ignores relevant extant literature.
 
- #zoo/why/motivation/forResearching/debate
+ #discussion/zoo/why/motivation/forResearching/debate
  - This means that a debate has occurred between individuals or organizations as to why research ought to be done. For example, one party support a pragmatic reason (persuasion) and the other support knowledge-building with novel data and claims.
 
-#zoo/why/motivation/forResearching/pragmaticPersuade
+#discussion/zoo/why/motivation/forResearching/pragmaticPersuade
 - This means the an individual or organization is advocating for a pragmatic reason to conduct research: persuade others.
 
 #inpeer/evdInfra/impacts/reactions/authors/support/critiqueHero
@@ -52,8 +57,8 @@ I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to cod
 #inpeer/who/reviewer/roles/expert/fields/metascientist
  #inpeer/why/benefits/review/intrinsic
 #inpeer/who/target/eliteAuthors
-#zoo/infrastructure/eliteGroups
-#zoo/infrastructure/eliteGroups/elitePower
+#discussion/zoo/infrastructure/eliteGroups
+#discussion/zoo/infrastructure/eliteGroups/elitePower
 
 #inpeer/how/practices/review/paper/frames/destructive
 

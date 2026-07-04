@@ -1,7 +1,10 @@
 ---
+type: review
+noteID: ba91cc08-b106-4efc-a05a-ceb2606ccf8a
+status: complete
 memos:
   - "[[2024-09-12, Apple cider vinegar Heathers]]"
-reviewof: "[[@abou-KhalilAppleCiderVinegar2024]]"
+sourceReport: "[[@abou-KhalilAppleCiderVinegar2024]]"
 author:
   - "[[James Heathers]]"
 casetype: central

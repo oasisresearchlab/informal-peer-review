@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 9ebe3bbd-b828-47da-89c6-625cfe697d48
+status: complete
+---
 I used parts of my Thursday P.M. to wrap up the coding of  [[2024-10-03, Cassava Sciences Alzheimers drug]].
 
 This case takes a long time to code and I wanted to make sure that I didn't forget news articles that may have been published this morning.
@@ -52,7 +57,7 @@ Note: Joel wants shorter memos now.
 #inpeer/evdInfra/impacts/reactions/markets/stockPrice/decreases
 - This means that informal peer review results in the stock price of a company decreasing significantly.
 
- #zoo/why/motivation/forResearching/profits
+ #discussion/zoo/why/motivation/forResearching/profits
 - This means that one motivation for fraudsters could be monetary profits.
 
 #inpeer/why/risks/reviewer/careerSuicide 
@@ -64,7 +69,7 @@ Note: Joel wants shorter memos now.
 #discussion/implications/peerReview/practices/financial/improveDuediligence 
 - This means that the infrastructure of research and communication needs better due diligence for financial applications like investing in stocks.
 
-#zoo/discovery/consultant/legalAction 
+#discussion/zoo/discovery/consultant/legalAction 
 - This means that the infrastructure of research and InPeeR involved a consultant who discovered the case through legal proceedings requiring their help.
 
 #inpeer/evdInfra/impacts/reactions/meta/dynamics/ongoingResearchContinues
@@ -113,7 +118,7 @@ Note: Joel wants shorter memos now.
 #inpeer/who/reviewer/roles/villain/firebrand 
 #inpeer/why/benefits/review/intrinsic  #inpeer/why/benefits/review/extrinsic
  #inpeer/how/practices/review/paper/layers/empirical/openness/practices 
-  #zoo/infrastructure/eliteGroups/elitePower 
+  #discussion/zoo/infrastructure/eliteGroups/elitePower 
 #discussion/implications/peerReview/standards/prepublication 
 
 ---

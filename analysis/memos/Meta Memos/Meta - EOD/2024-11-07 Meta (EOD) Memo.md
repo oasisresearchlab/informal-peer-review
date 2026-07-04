@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 1c91785d-d76e-4e00-b132-c691c0040409
+status: complete
+---
 I used parts of my Thursday P.M. (fill in) to:
 1. wrap up the [[2024-11-06 Meta (EOD) Memo]] on edits to July cases memos
 2. checked all 12 case memos for updates to the study report (publication) including corrections, updates, retractions and made mild edits as needed

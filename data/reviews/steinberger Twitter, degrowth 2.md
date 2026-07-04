@@ -1,4 +1,7 @@
 ---
+type: review
+noteID: 2083cd81-13cb-44aa-9dcc-3410c2f3621d
+status: complete
 created: 2024-09-04T18:18:08 (UTC -04:00)
 tags: 
 source: https://x.com/JKSteinberger/status/1831298395115327662

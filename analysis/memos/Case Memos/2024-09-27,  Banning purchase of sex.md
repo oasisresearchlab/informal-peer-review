@@ -1,3 +1,14 @@
+---
+type: memo
+noteID: e160784c-2a47-466f-b2cc-33bee23e3146
+status: complete
+reviewers:
+  - "[[Andrew Gelman]]"
+  - "[[Olle Folke]]"
+source:
+  - "https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/"
+  - "https://pubpeer.com/publications/73B937CFBA507A3B35968ED89A109A"
+---
 memo
 	- What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
@@ -183,7 +194,7 @@ memo
                     - misunderstandings
                         - regression discontinuity checks
                         - robustness checks
-	                        - #zoo/education/statsMisconceptions
+	                        - #discussion/zoo/education/statsMisconceptions
 		- This means that there is a need to educate the scholarly community about statistical misconceptions.
         - Gelman shared this because the authors did a lot of work to correct an "obscure" paper in a "minor" journal.
             - JP: Not so obscure, actually. Thousands of views, 2 citations, and Altmetric score = 852 (1836 tweeters, 2 news mentions including in [Germany](https://zeitung.faz.net/fas/wirtschaft/2023-09-17/14976e6bdc595a4a11fa271b4d4f7fea/?GEPC=s1)...).

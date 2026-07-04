@@ -1,7 +1,9 @@
 ---
+type: appraisal
+noteID: 869899bd-2020-4eea-aa50-e39bd4fd6f1e
+status: complete
 url: https://x.com/andre_quentin/status/1783148596956635465
 appraiser: "[[Quentin Andre]]"
-paper: "[[@AbrahmssonSara]]"
 ---
 - --
 # (2) Quentin André on X: "Hate to be *this* guy, but the p-values associated with these outcomes are p = .044, p = .011, p = .008, p = .076, p = .067, p = .094, p = .058, p = .039, p = .064, p = .05, p = .067, p = .014. These results are interesting, but need replicating." / X
@@ -20,7 +22,7 @@ Hate to be \*this\* guy, but the p-values associated with these outcomes are p =
 
 
 Oh, come on. You're **including non-significant p-values for which the author makes no claim of statistical significance**, lumping together several p-values from the same model (not independent!), and lumping across hypotheses.
-#zoo/bin/ReviewstheInPeeRReviewers, #inpeer/how/practices/review/paper/layers/empirical/rigor/analysis/pValueCirclingIssue, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsSameModel, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsAcrossHyps 
+#discussion/zoo/bin/ReviewstheInPeeRReviewers, #inpeer/how/practices/review/paper/layers/empirical/rigor/analysis/pValueCirclingIssue, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsSameModel, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsAcrossHyps 
 
 I wrote down all the p-values as they appear next to reported differences in outcomes in the paper. The author reports 90% CI and thus appears to consider p < .1 suggestive of significant differences. I also acknowledged in several places that these are not independent tests.
 

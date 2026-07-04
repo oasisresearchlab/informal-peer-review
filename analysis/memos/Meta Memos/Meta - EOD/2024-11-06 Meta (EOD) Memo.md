@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: abcbef34-d30c-4a6e-854a-7855ab88b177
+status: complete
+---
 I used parts of my Wednesday P.M. (fill in) to delete the autism case memo, as I do not have the time to finish coding it and am already saturated with data. I finished create metamemo [[2024-11-05 Meta (EOD) Memo]]
 
 I tidied the coding tree along the way and may tackle the layers subsections later if I have time.
@@ -41,7 +46,7 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 #inpeer/who/reviewer/roles/hero
 #inpeer/who/reviewer/roles/hero/sciReformer
 
-#zoo/infrastructure/eliteGroups/elitePower
+#discussion/zoo/infrastructure/eliteGroups/elitePower
 #inpeer/how/practices/review/paper/frames/destructive
 
 #inpeer/how/review/paper/irreproducible
@@ -65,7 +70,7 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 #inpeer/evdInfra/impacts/reactions/authors/refute
 #inpeer/evdInfra/impacts/reactions
 
-#zoo/infrastructure/eliteGroups/elitePower
+#discussion/zoo/infrastructure/eliteGroups/elitePower
 #inpeer/how/practices/sociotechnical/social/elitePower/refute
 #inpeer/how/practices/review/paper/layers/empirical/openness/practices/performative
 #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed/requestFail

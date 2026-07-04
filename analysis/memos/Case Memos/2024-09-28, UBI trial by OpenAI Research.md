@@ -1,5 +1,13 @@
 ---
+type: memo
 noteID: 5130c6f4-2dd3-4b21-9469-8f6ca6ae6393
+status: complete
+reviewers:
+  - "[[Eva Vivalt]]"
+source:
+  - "https://x.com/smilleralert/status/1815372032621879628"
+  - "https://news.ycombinator.com/item?id=41033005"
+  - "https://pubpeer.com/search?q=The+Employment+Effects+of+a+Guaranteed+Income"
 ---
 - Memo
     - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
@@ -376,10 +384,10 @@ noteID: 5130c6f4-2dd3-4b21-9469-8f6ca6ae6393
     - **Event or Activity Observed**: appraisal and science communication
     - **Description**: We will ask ourselves:
         - How was the case discovered?
-	        - #zoo/discovery/viralStudy
+	        - #discussion/zoo/discovery/viralStudy
             - X/Twitter has been quite active today
                 - [Noah Smith thread on X/Twitter](https://x.com/Noahpinion/status/1815406682094375227)
-	                - #zoo/sciComm/biased
+	                - #discussion/zoo/sciComm/biased
 		                - This means that the individual reporting a study in a biased way (e.g. selectively reporting results).
                 - [Michael Nielsen on X/Twitter](https://x.com/michael_nielsen/status/1815498396398145614)
         - Was the observation a partial or a complete session?

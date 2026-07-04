@@ -1,4 +1,7 @@
 ---
+type: appraisal
+noteID: 1d7fede5-6503-4785-97df-598b26f2ff5d
+status: complete
 url: https://languagelog.ldc.upenn.edu/nll/?p=1396
 appraiser: "[[Mark Liberman]]"
 setting: "blog: Language Log"

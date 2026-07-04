@@ -1,4 +1,7 @@
 ---
+type: review
+noteID: 5e62288d-cdb4-4bf1-b361-be822368011e
+status: complete
 created: 2024-09-29T21:41:46 (UTC -04:00)
 tags: []
 source: https://www.reddit.com/r/Economics/comments/1e9hk06/the_employment_effects_of_a_guaranteed_income/

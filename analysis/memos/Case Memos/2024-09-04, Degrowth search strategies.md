@@ -1,3 +1,29 @@
+---
+type: memo
+noteID: 700b8e72-48a1-406a-93a5-166f125d13de
+status: complete
+sourceReport:
+  - "[[@savin2024reviewinga]]"
+reviews:
+  - "[[rintamäki Twitter, degrowth]]"
+  - "[[rintamäki Twitter, degrowth 2]]"
+  - "[[steinberger Twitter, degrowth]]"
+  - "[[steinberger Twitter, degrowth 2]]"
+cases:
+  - "[[Degrowth search strategies]]"
+reviewers:
+  - "[[Jukka Rintamäki]]"
+  - "[[Julia Steinberger]]"
+authors:
+  - "[[Ivan Savin]]"
+  - "[[Jeroen van den Bergh]]"
+sites:
+  - "[[pubpeer]]"
+  - "[[twitter]]"
+source:
+  - "https://x.com/i/bookmarks?post_id=1831344088311902505"
+  - "https://pubpeer.com/publications/DB2DA597904B3B3E8A74C0B0DB2DED"
+---
 - [ ] What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
         - PubPeer
@@ -94,7 +120,7 @@
 - **Event or Activity Observed**: appraisal...
 - **Description**: We will ask ourselves:
     - How was the case discovered?
-        - X/Twitter algorithm surfaced it after 8+ months of training the algorithm. I think Jukka found it serendipitously in his feed as well. #zoo/discovery/sciJourSocialMedia
+        - X/Twitter algorithm surfaced it after 8+ months of training the algorithm. I think Jukka found it serendipitously in his feed as well. #discussion/zoo/discovery/sciJourSocialMedia
     - Was the observation a partial or a complete session?
         - This was a complete session over the later part of an afternoon.
     - What occurred? Which concerns were raised and by whom?

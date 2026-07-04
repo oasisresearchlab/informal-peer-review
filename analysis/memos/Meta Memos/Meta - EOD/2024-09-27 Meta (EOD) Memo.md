@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: 3fea146d-876e-40e2-a1ce-6b5f8483844e
+status: complete
+---
 I used my Friday afternoon and early evening to sample theoretically some my list of cases in Roam.
 
 I found the InPeeR case: Culturally Biased SPSP poster and its ideological and ethical implications interesting. These sorts of cases reveal the value of informal peer review. 
@@ -18,7 +23,7 @@ I added the following new codes:
 - This means that a paper has not been retracted despite significant flaws that were communicated to the authors and/or publisher(s). Or else use this code if a paper has been retracted and re-published elsewhere.
 	- Update 2024-10-08: can include papers that were published despite an offer to self-retract and also papers that were retracted and offered a resubmission opportunity
 
- #zoo/discovery/followerSharedtheirInformalRev
+ #discussion/zoo/discovery/followerSharedtheirInformalRev
 - This means that a follower or reader of a blog/microblog shared their own informal peer review for discussion and/or action.
 
 #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/mispecifiedModel 
@@ -39,7 +44,7 @@ I added the following new codes:
 #inpeer/who/reviewer/roles/villain/wasteProducer 
 - This means that one or more of the study co-authors has been producing research waste over a long timespan.
 
-#zoo/education/statsMisconceptions
+#discussion/zoo/education/statsMisconceptions
 - This means that there is a need to educate the scholarly community about statistical misconceptions.
 
 #inpeer/who/reviewer/roles/sleuth/adjacentSleuth

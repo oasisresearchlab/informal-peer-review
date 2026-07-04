@@ -1,3 +1,8 @@
+---
+type: memo
+noteID: d90389e3-0519-43d6-939a-0936b88299f2
+status: complete
+---
 I used parts of my Wednesday P.M. (fill in) to structured loose memo notes from Roam and transfer to Obsidian for coding: [[2024-10-23, Sean Carroll interviews Langer, Gelman]]
 
 ---
@@ -40,7 +45,7 @@ I used parts of my Wednesday P.M. (fill in) to structured loose memo notes from 
 #inpeer/evdInfra/what/reviews/informal/commenters/reviewedInformalreview
 - This means that a commenter reviewed an informal peer review.
 
-#zoo/discovery/informalRev/psychAnalysis
+#discussion/zoo/discovery/informalRev/psychAnalysis
 - This means that an individual or organization conducted an informal peer review wherein a psychological analysis proposes an explanation for research waste.
 
 

@@ -1,4 +1,7 @@
 ---
+type: memo
+noteID: 4aad02fa-9391-43a5-9282-4356ea06674e
+status: complete
 url: https://bsky.app/profile/devezer.bsky.social/post/3kooza63wgo2v
 sites: "[[bluesky - general]]"
 ---
@@ -29,7 +32,7 @@ sites: "[[bluesky - general]]"
     - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
         - retraction after 7+ months
     - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
-        - Berna, as a tenured professor in a US research university conducts statistical, marketing, and metascientific research. Risks seem to be online critiques, but nothing lasting. She received some blame from Lakens, who named her as a purported reviewer of [[@protzko2024high]].
+        - Berna, as a tenured professor in a US research university conducts statistical, marketing, and metascientific research. Risks seem to be online critiques, but nothing lasting. She received some blame from Lakens, who named her as a purported reviewer of [[@protzko2024highrep]].
 	        - #inpeer/who/reviewer/roles/employment/tenured
 	        - #inpeer/who/reviewer/roles/expert/fields/metascientist
 	        - #inpeer/who/reviewer/roles/expert/cognitive/skills/statistics
@@ -43,7 +46,7 @@ sites: "[[bluesky - general]]"
         - intersections with institutional and power structures
             - She does not command the full influence of the open science pioneers, but has spoken critically about metascience at [[Critical Metascience: OSF Talk Series 2024]] so the relation is professional, but frosty.
     - Storytelling: What is the style/genre/frame of critical appraisal?
-        - endorsed appraisals by Jessica Hullman and Joe Bak-Coleman, but not critical appraisal of [[@protzko2024high]] herself in this thread. We can find her Matters Arising: Nature article for more details on appraisals.
+        - endorsed appraisals by Jessica Hullman and Joe Bak-Coleman, but not critical appraisal of [[@protzko2024highrep]] herself in this thread. We can find her Matters Arising: Nature article for more details on appraisals.
 - **Observer**: Jay Patel
 - **Date of Observation**: [[March 27th, 2024]] for loose memoing, returned [[October 17th, 2024]] for analysis
 - **Duration of Observation**: two days, nonconsecutive

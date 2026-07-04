@@ -1,3 +1,25 @@
+---
+type: memo
+noteID: 5cfa7f2e-0c13-441a-80e3-7c5f9428f7c9
+status: complete
+sourceReport:
+  - "[[@alizadehgoradelTargetingPrefrontalsupplementaryMotor2024]]"
+reviews:
+  - "[[bishop PubPeer incorrect power analysis]]"
+  - "[[bishop PubPeer incorrect power analysis 2]]"
+cases:
+  - "[[Incorrect power analysis in G*Power]]"
+reviewers:
+  - "[[Dorothy Bishop]]"
+sites:
+  - "[[bluesky - general]]"
+  - "[[pubpeer]]"
+  - "[[twitter]]"
+source:
+  - "https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#"
+  - "https://www.thetransmitter.org/scientific-publishing/retraction-she-wrote-dorothy-bishops-life-after-research/"
+  - "https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A"
+---
 - What is the relationship between informal peer review and the broader sociotechnical infrastructure of science? Explore:
     - Technical: posting between PubPeer, social media sites, and publishers’ platforms, etc.
         - [PubPeer](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A)
@@ -74,7 +96,7 @@
                 - ![[Screenshot 2024-11-06 at 18.10.22.png]]
 	                - Markdown
 		                - [https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2)
-                - 😧            - #zoo/education/educateScholarsFail
+                - 😧            - #discussion/zoo/education/educateScholarsFail
     - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
         - none when examined November 6th, 2024
     - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
@@ -92,7 +114,7 @@
 	            - Forensic error detection tools are needed, because we only have one Dorothy.
         - intersections with institutional and power structures
             - An anonymous post referenced DB's power when suggesting peer review eliminates errors in the scientific process.
-	            - #zoo/infrastructure/eliteGroups/elitePower
+	            - #discussion/zoo/infrastructure/eliteGroups/elitePower
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpNA2xomPKK.png?alt=media&token=b9c8edb4-56a0-4e08-b3e5-16e0cf6499ca)
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - Destructive aka #inpeer/how/practices/review/paper/frames/destructive

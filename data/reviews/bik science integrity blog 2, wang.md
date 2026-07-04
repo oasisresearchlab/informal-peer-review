@@ -1,4 +1,7 @@
 ---
+type: appraisal
+noteID: b6a737c3-ae13-47e4-b493-c206efac491d
+status: complete
 url: 
 appraiser: "[[Elisabeth Bik]]"
 setting: 

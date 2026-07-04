@@ -1,3 +1,8 @@
+---
+type: review
+noteID: c85800e1-7319-4cb7-8f6d-ccbd5d2c7c40
+status: complete
+---
 - Poster
     - SPSP Conference site
         - [Poster 134: Reconsidering the 'Religion of Peace'](https://x.com/NafsiatMahir/status/1756017250837119213) by John F. Gaski (adjunct scholar, Indiana Policy Review Foundation)

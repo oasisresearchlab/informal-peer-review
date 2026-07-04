@@ -1,12 +1,17 @@
 ---
+type: review
+noteID: 63775e7f-8499-4159-a8e2-0aaa48f68921
+status: complete
 url: https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e
-paper: "[[@abou-KhalilAppleCiderVinegar2024]]"
-cases: "[[Apple cider vinegar]]"
 authors:
   - "[[Rony Abou-Khalil]]"
 site: "[[bluesky - general]]"
 initial date: 2024-09-11
 domain: nutrition
+cases:
+  - "[[Apple cider vinegar]]"
+sourceReport:
+  - "[[@abou-KhalilAppleCiderVinegar2024]]"
 ---
 - --
 - created: 2024-09-11T18:29:43 (UTC -04:00)
@@ -14,16 +19,16 @@ domain: nutrition
 - source: [https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e)
 - author:
 - --
-- # André Calero Valdez: "I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
+- # André Calero Valdez: "I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
     
 - > ## Excerpt
-- > I hope my first-year bachelor students will do better #zoo/bin/statistics than what is catching on in the news right now.
+- > I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now.
 	- #inpeer/how/practices/review/paper/frames/destructive 
 - [https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 - It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported.
 	- #discussion/implications/peerReview/standards/reporting 
 	- #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/wrongAnalyses 
-- #zoo/bin/rstats/trash/rstats/rstats
+- #discussion/zoo/bin/rstats/trash/rstats/rstats
 - --
 - [
 - ![](Andr%C3%A9%20Calero%20Valdez%20I%20hope%20my%20first-year%20bachelor%20students%20will%20do%20better%20statistics%20than%20what%20is%20catching%20on%20in%20the%20news%20right%20now.%20nutrition.bmj.comcontentearl...%20It%20has%20all%20the%20classical%20mistakes.%20Many%20t-tests%20instead%20of%20mixed%20model%20design.%20No%20degrees%20of%20freedom%20reported,%20no%20t%20statistic%20reported.%20rstats%20%E2%80%94%20Bluesky/bafkreib5o2sqgue7hk5w4vcupb27l325v3epqirpvit7kfg574mklxv76m@jpeg.jpeg)
