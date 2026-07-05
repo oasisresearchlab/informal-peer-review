@@ -2,7 +2,7 @@
 
 This file tracks known consistency issues in the dataset. It supports transparency and reuse (FAIR). See [SCHEMA.md](SCHEMA.md) for the intended structure.
 
-_Status: all **~172** live notes carry `type` + `noteID` + `status` (YAML-validated). Superseded/archived material lives under the gitignored `_archive/`. **The vault is edited/synced live, so counts drift.**_
+_Status: all **~171** live notes carry `type` + `noteID` + `status` (YAML-validated). Superseded/archived material lives under the gitignored `_archive/`. **The vault is edited/synced live, so counts drift.**_
 
 > **Rename (2026-07-03):** what the paper calls a *research report* now lives in the `source/` folder as `type: source`; the relational link field was renamed `report:`/`reviewof:` → `sourceReport:` across cases, memos, and reviews.
 

@@ -43,7 +43,7 @@ Conventions:
 
 ## Note types
 
-Counts are as of the last cleanup pass (**total: 172 notes**; excludes the gitignored `_archive/`). Regenerate after changes — see *Maintaining totals* below.
+Counts are as of the last cleanup pass (**total: 171 notes**; excludes the gitignored `_archive/`). Regenerate after changes — see *Maintaining totals* below. (The former `type: reference` Templater note in `analysis/memos/Codebook/` was removed; [CODEBOOK.md](CODEBOOK.md) supersedes it.)
 
 | `type` | Folder | Count | What it represents | Key relational fields |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ Counts are as of the last cleanup pass (**total: 172 notes**; excludes the gitig
 | `case` | `analysis/cases/` | 12 | One instance of informal peer review, tying together a source, its reviews, people, and sites. | `sourceReport` · `reviews` · `people` · `sites` · `memos` · `casetype` |
 | `memo` | `analysis/memos/…` | 53 | Analytic or reflexive memo. Subtypes by folder: Case Memos, Meta Memos (EOD/EOW/EOS), Commentaries. | `sourceReport` · `reviews` · `cases` · `reviewers` · `authors` · `sites` · `source` |
 | `commentary` | `data/commentaries/` | 2 | Participant meta-commentary about informal peer review itself. | `reviewers` → person · `cases` · `sites` · `source` |
-| `reference` | `analysis/memos/Codebook/` | 1 | The coding-scheme template that regenerates the live tag list. | — |
 
 > Note on people: `data/posters/` (reviewers/commenters) and `data/authors/` (`study authors` / `ethnography authors`) both use `type: person`; the folder and the `community`/`domain` fields carry the role distinction. The former redundant `data/people/` folder was merged into `data/posters/`.
 
@@ -83,7 +82,7 @@ Sites are organized by interaction structure under `data/sites/`:
 
 ## Coding taxonomy (tags)
 
-Analytic coding uses a hierarchical tag tree. The **current/primary** namespace is `#inpeer/…`, organized by the dimensions of a review — e.g.:
+Analytic coding uses a hierarchical tag tree. See **[CODEBOOK.md](CODEBOOK.md)** for the complete codebook — all 455 codes across Levels 1–11, each with definition, RQ, instance count, and a grounded example. The **current/primary** namespace is `#inpeer/…`, organized by the dimensions of a review — e.g.:
 
 - `#inpeer/who/reviewer/roles/…` — who reviews (sleuth, hero, expert, …)
 - `#inpeer/why/motives/…` — why they review
@@ -92,7 +91,7 @@ Analytic coding uses a hierarchical tag tree. The **current/primary** namespace 
 
 A retained secondary branch, `#zoo/…`, captures surrounding social/institutional context and some earlier coding; only `#inpeer/` tags remain in the live vault.
 
-The live list of tags in the vault can be regenerated from `analysis/memos/Codebook/`.
+The live list of tags can be regenerated with the `grep` commands in [CODEBOOK.md](CODEBOOK.md)'s *Regenerating the tree* section.
 
 ## Provenance
 
