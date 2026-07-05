@@ -4,6 +4,7 @@ noteID: a11cc8e2-bcd6-4ce2-b0c2-7b21d77e5a60
 status: complete
 cases:
   - "[[Time-restricted Feeding]]"
+source: https://statmodeling.stat.columbia.edu/2024/09/12/its-stanford-time-baby-8-hour-time-restricted-press-releases-linked-to-a-91-higher-risk-of-hype/
 ---
 Post
 - --

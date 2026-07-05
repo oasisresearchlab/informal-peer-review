@@ -2,6 +2,7 @@
 type: review
 noteID: fdc91287-0efe-44f0-baf0-e0f54eb9ff5b
 status: complete
+source: https://bsky.app/profile/infotainment.bsky.social/post/3l66myhizbx26
 ---
 Markdown: JP Question
 	---

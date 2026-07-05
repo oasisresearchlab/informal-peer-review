@@ -4,6 +4,7 @@ noteID: aa9a7c8a-e6e8-4bf3-b56b-aab5c1de7589
 status: complete
 url: https://twitter.com/jkpritch/status/1759769445759893832
 appraiser: "[[Jonathan Pritchard]]"
+source: https://twitter.com/jkpritch/status/1759769447408284019
 ---
 > It's a pity that All of Us used UMAP to visualize ancestry variation in their new marker paper, out today in Nature. The UMAP algorithm, by design, exaggerates the distinctiveness of the most frequent ancestries, a message that can be misinterpreted by the public.
 ![[Pasted image 20240308170108.png]]

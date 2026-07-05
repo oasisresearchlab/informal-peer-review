@@ -12,6 +12,7 @@ cases:
   - "[[Apple cider vinegar]]"
 sourceReport:
   - "[[@abou-KhalilAppleCiderVinegar2024]]"
+source: https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e
 ---
 - --
 - created: 2024-09-11T18:29:43 (UTC -04:00)

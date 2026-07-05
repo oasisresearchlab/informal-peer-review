@@ -5,6 +5,7 @@ status: complete
 url: 
 appraiser: "[[Elisabeth Bik]]"
 setting: 
+source: https://scienceintegritydigest.com/2023/11/12/investigation-finds-egregious-misconduct-by-cuny-scientist/
 ---
 
 - [Investigation finds ‘egregious misconduct’ by CUNY scientist](https://scienceintegritydigest.com/2023/11/12/investigation-finds-egregious-misconduct-by-cuny-scientist/)

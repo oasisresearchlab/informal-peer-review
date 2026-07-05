@@ -6,6 +6,7 @@ url: https://x.com/lakens/status/1818215189478519060
 appraiser: "[[Daniël Lakens]]"
 sourceReport:
   - "[[@zwebnerCanNamesShape2024]]"
+source: https://x.com/lakens/status/1818215189478519060
 ---
 ---
 - Twitter: [[Daniël Lakens]]

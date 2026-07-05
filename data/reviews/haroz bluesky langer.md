@@ -5,6 +5,7 @@ status: complete
 url: https://bsky.app/profile/steveharoz.com/post/3klhtkqrprc2t
 appraiser: "[[Steve Haroz]]"
 setting: "[[bluesky - general]]"
+source: https://bsky.app/profile/steveharoz.com/post/3klhtkqrprc2t
 ---
 > I don't need to read this article to know that it's bullshit science and/or bullshit reporting.
 > ![[Pasted image 20240308164926.png]]

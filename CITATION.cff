@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the preprint below."
+title: "Informal peer review: data and analyses from a digital ethnography"
+type: dataset
+authors:
+  - family-names: Patel
+    given-names: Jay
+    orcid: "https://orcid.org/0000-0003-1040-3607"
+    affiliation: "University of Maryland, College Park"
+  - family-names: Chan
+    given-names: Joel
+    orcid: "https://orcid.org/0000-0003-3000-4160"
+    affiliation: "University of Maryland, College Park"
+repository-code: "https://github.com/oasisresearchlab/informal-peer-review"
+license: CC0-1.0
+date-released: "2026-07-05"
+keywords:
+  - peer review
+  - informal peer review
+  - post-publication review
+  - digital ethnography
+  - metascience
+  - open science
+preferred-citation:
+  type: article
+  status: preprint
+  title: "You can just review things: A digital ethnography of informal peer review"
+  authors:
+    - family-names: Patel
+      given-names: Jay
+      orcid: "https://orcid.org/0000-0003-1040-3607"
+    - family-names: Chan
+      given-names: Joel
+      orcid: "https://orcid.org/0000-0003-3000-4160"
+  year: 2026

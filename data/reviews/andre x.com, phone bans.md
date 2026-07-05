@@ -4,6 +4,7 @@ noteID: 869899bd-2020-4eea-aa50-e39bd4fd6f1e
 status: complete
 url: https://x.com/andre_quentin/status/1783148596956635465
 appraiser: "[[Quentin Andre]]"
+source: https://twitter.com/andre_quentin/status/1783148596956635465
 ---
 - --
 # (2) Quentin André on X: "Hate to be *this* guy, but the p-values associated with these outcomes are p = .044, p = .011, p = .008, p = .076, p = .067, p = .094, p = .058, p = .039, p = .064, p = .05, p = .067, p = .014. These results are interesting, but need replicating." / X

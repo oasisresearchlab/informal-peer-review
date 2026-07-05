@@ -43,7 +43,7 @@ Conventions:
 
 ## Note types
 
-Counts are as of the last cleanup pass (**total: 188 notes**; excludes the gitignored `_archive/`). Regenerate after changes — see *Maintaining totals* below.
+Counts are as of the last cleanup pass (**total: 172 notes**; excludes the gitignored `_archive/`). Regenerate after changes — see *Maintaining totals* below.
 
 | `type` | Folder | Count | What it represents | Key relational fields |
 |---|---|---|---|---|
@@ -51,8 +51,7 @@ Counts are as of the last cleanup pass (**total: 188 notes**; excludes the gitig
 | `appraisal` | `data/reviews/` | 12 | An evaluation of a specific paper/claim (a review focused on judging quality). Lives alongside reviews; distinguished by `type`. | `sourceReport` → source · `appraiser`/`author` → person · `source` (URL) |
 | `source` | `source/` | 9 | Bibliographic note for the original study (research report), keyed `@authorYearTitle`. | `authors` → person(s) · `url` · `publicationStatus` · `cases` · `appraiser` |
 | `person` | `data/posters/` (reviewers/commenters), `data/authors/` (study & ethnography authors) | 41 | An individual: reviewer, commenter, or study author. | `url` · `credentials` · `community` · `domain` |
-| `site` | `data/sites/…` | 30 | A specific venue where review happens (a blog, PubPeer, a Bluesky account). | `setting` → setting · `url` |
-| `setting` | `data/settings/` | 6 | A *type* of platform and its affordances (blog, bluesky, twitter, reddit, pubpeer). | — |
+| `site` | `data/sites/…` | 20 | A venue where review happens (a blog, PubPeer, a Bluesky account), organized in interaction-structure subfolders (see *Site taxonomy*). Generic notes (`twitter`, `reddit`, `blog`, …) double as the platform *type* — the former `type: setting` notes in `data/settings/` were archived (they were empty stubs whose names clashed with these). Flat root-level duplicates were also archived. | `cases` → case(s) · `url` |
 | `case` | `analysis/cases/` | 12 | One instance of informal peer review, tying together a source, its reviews, people, and sites. | `sourceReport` · `reviews` · `people` · `sites` · `memos` · `casetype` |
 | `memo` | `analysis/memos/…` | 53 | Analytic or reflexive memo. Subtypes by folder: Case Memos, Meta Memos (EOD/EOW/EOS), Commentaries. | `sourceReport` · `reviews` · `cases` · `reviewers` · `authors` · `sites` · `source` |
 | `commentary` | `data/commentaries/` | 2 | Participant meta-commentary about informal peer review itself. | `reviewers` → person · `cases` · `sites` · `source` |
@@ -73,13 +72,13 @@ grep -rh '^type:' data analysis source --include='*.md' | sort | uniq -c
 ## Site taxonomy
 
 Sites are organized by interaction structure under `data/sites/`:
-`flat network`, `threaded commons` (e.g. `blogs`), `threaded network` (e.g. `bluesky`), `threaded space` (e.g. `reddit`). The `setting` field on a site links to the matching `data/settings/` platform-type note.
+`flat network`, `threaded commons` (e.g. `blogs`), `threaded network` (e.g. `bluesky`), `threaded space` (e.g. `reddit`). The subfolder placement plus the generic platform notes (`twitter`, `reddit`, `blog`, …) carry the platform-type information that the archived `data/settings/` notes used to represent.
 
 ## Controlled vocabularies
 
 - **`status`**: `complete` · `stub`
 - **`casetype`**: `central` (extend as needed; document new values here)
-- **`publicationStatus`**: `published` · `preprint` · `unpublished` · `retracted` / `expression of concern` (extend as needed)
+- **`publicationStatus`**: a base status — `published` · `preprint` · `unpublished` — optionally followed by `; ` and a qualifier noting a retraction or Expression of Concern (e.g. `published; RETRACTED Sept 2024`, `published; Expression of Concern`). Machines filtering this field should match on substrings, not exact values.
 - **`type`**: the values in the Note types table above.
 
 ## Coding taxonomy (tags)

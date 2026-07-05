@@ -2,6 +2,7 @@
 type: review
 noteID: c85800e1-7319-4cb7-8f6d-ccbd5d2c7c40
 status: complete
+source: https://x.com/NafsiatMahir/status/1756017250837119213
 ---
 - Poster
     - SPSP Conference site

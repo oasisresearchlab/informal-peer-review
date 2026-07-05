@@ -15,10 +15,9 @@ Source material gathered for each case, lightly normalized into linked notes.
 | Folder | Count | Contents |
 | --- | --- | --- |
 | `reviews/` | 34 | The informal peer-review artifacts themselves — blog posts, PubPeer threads, social-media critiques. **Also holds appraisals** (evaluations of specific papers/claims), distinguished by a `type: review` / `type: appraisal` field (22 reviews + 12 appraisals ≈ **27 distinct review events**). |
-| `posters/` | 27 | People who post reviews, comments, and critiques (reviewers, commenters). Canonical home for reviewer notes. Each carries a profile `url` and a short bio. |
+| `posters/` | 27 | People who post reviews, comments, and critiques (reviewers, commenters). Canonical home for reviewer notes. Nearly all (25/27) carry a profile `url` and a short bio; aggregate or pseudonymous accounts (e.g. `reddit users`) are the exceptions. |
 | `authors/` | 14 | Study authors (`study authors/`, 13) and ethnography authors (`ethnography authors/`, 1) |
-| `sites/` | 30 | Specific platforms/venues where review happens (PubPeer, particular blogs, GitHub, etc.) |
-| `settings/` | 6 | Platform *types* grouped by their affordances (blog, bluesky, twitter, …) |
+| `sites/` | 20 | Platforms/venues where review happens (PubPeer, particular blogs, GitHub, etc.), organized by interaction structure. The generic notes (`twitter`, `reddit`, `blog`, …) double as the platform *type*; the former separate `settings/` folder was archived. |
 | `commentaries/` | 2 | Meta-commentary in which participants discuss informal peer review itself |
 
 ### `source/` — the works under review
@@ -39,7 +38,7 @@ Analytic notes, memos, and the coding scheme produced while working the corpus.
 | `memos/Commentaries/` | 8 | Memos on the commentary material |
 | `memos/Codebook/` | 1 | The coding scheme (see below) |
 
-_Totals as of the last cleanup pass — ~188 notes across the vault (excludes the local, gitignored `_archive/`). The vault is edited/synced live, so counts drift; see [SCHEMA.md](SCHEMA.md) for per-`type` counts and how to regenerate them._
+_Totals as of the last cleanup pass — ~172 notes across the vault (excludes the local, gitignored `_archive/`). The vault is edited/synced live, so counts drift; see [SCHEMA.md](SCHEMA.md) for per-`type` counts and how to regenerate them._
 
 ## Method notes
 
@@ -52,16 +51,20 @@ _Totals as of the last cleanup pass — ~188 notes across the vault (excludes th
 
 Portions of this repository's **data curation** were performed with AI assistance, disclosed here for transparency:
 
-- **Model:** Claude Opus 4.8 (Anthropic), 1M-context configuration.
-- **Date of use:** 2026-07-03.
-- **What it did:** normalized YAML metadata across notes; consolidated/archived duplicates; added relational `[[wikilinks]]`; enriched `source/` bibliographic entries (titles, authors, DOIs, retraction flags) via web search; wrote reviewer bios and profile URLs; and drafted the `SCHEMA.md` / `DATA-QUALITY.md` / `TODO.md` scaffolding.
-- **Labeling:** AI-generated **reviewer biographies** in `data/posters/` are shown in orange text with a `[^claude-bio]` footnote. Other AI-assisted edits are structural (metadata/links) rather than interpretive.
+- **Models:** Claude Opus 4.8 (Anthropic), 1M-context configuration; Claude Fable 5 (Anthropic).
+- **Dates of use:** 2026-07-03 (Opus 4.8); 2026-07-05 (Fable 5).
+- **What it did:** normalized YAML metadata across notes; consolidated/archived duplicates; added relational `[[wikilinks]]`; enriched `source/` bibliographic entries (titles, authors, DOIs, retraction flags) via web search; wrote reviewer bios and profile URLs; drafted the `SCHEMA.md` / `DATA-QUALITY.md` / `TODO.md` scaffolding; audited the vault against its documentation; backfilled original capture URLs (`source:`) on review/commentary notes (5 recovered via web search — flagged in `TODO.md` for spot-checking); added `CITATION.cff`; linked `sites/` ↔ `cases/` bidirectionally; and wrote labeled case summaries (preprint placement + orange summary) in `analysis/cases/`.
+- **Labeling:** AI-generated **reviewer biographies** in `data/posters/` are shown in orange text with a `[^claude-bio]` footnote; AI-generated **case summaries** in `analysis/cases/` are shown in orange text with a `[^claude-case]` footnote. Other AI-assisted edits are structural (metadata/links) rather than interpretive.
 - **Human oversight:** All AI output was reviewed and checked by **Jay Patel**. The analytic content (memos, coding, case interpretation) is the author's own.
 
 ## Notes on the repository
 
 - `.obsidian/` holds vault configuration (themes, hotkeys, templates, settings). Installed **plugins are intentionally excluded** via `.gitignore` (`.obsidian/plugins/`) — they are large binaries and not part of the research data.
 - Content is plain Markdown; no build step.
+
+## Citation
+
+See [CITATION.cff](CITATION.cff) — cite the dataset and the preprint (Patel & Chan, 2026, *You can just review things: A digital ethnography of informal peer review*).
 
 ## License
 

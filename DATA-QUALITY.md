@@ -2,17 +2,17 @@
 
 This file tracks known consistency issues in the dataset. It supports transparency and reuse (FAIR). See [SCHEMA.md](SCHEMA.md) for the intended structure.
 
-_Status: all **~188** live notes carry `type` + `noteID` + `status` (YAML-validated). Superseded/archived material lives under the gitignored `_archive/`. **The vault is edited/synced live, so counts drift.**_
+_Status: all **~172** live notes carry `type` + `noteID` + `status` (YAML-validated). Superseded/archived material lives under the gitignored `_archive/`. **The vault is edited/synced live, so counts drift.**_
 
 > **Rename (2026-07-03):** what the paper calls a *research report* now lives in the `source/` folder as `type: source`; the relational link field was renamed `report:`/`reviewof:` → `sourceReport:` across cases, memos, and reviews.
 
-## 1. Ambiguous wikilinks — platform note vs setting note
+## 1. Ambiguous wikilinks — resolved
 
-The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the duplicate person notes are **resolved** (redundant reports and non-memo cases archived; `data/people/` merged into `data/posters/`; and the `data/papers/` folder — which duplicated `source/` — was removed during a sync, recoverable from git). What remains: **6 site/setting name clashes**, where a `data/settings/` note (platform *type*) shares a name with a `data/sites/` note (specific venue):
+The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the duplicate person notes are **resolved** (redundant reports and non-memo cases archived; `data/people/` merged into `data/posters/`; and the `data/papers/` folder — which duplicated `source/` — was removed during a sync, recoverable from git).
 
-`blog` · `bluesky` · `hackernews` · `mastodon` · `reddit` · `twitter`
+**Duplicate site notes — resolved (2026-07-05):** 10 flat root-level `data/sites/` notes (github, mastodon, pubpeer, retractionwatch, twitter, reddit, hackernews, blog, bluesky, and a second Statistical Modeling blog note) duplicated the taxonomy-subfolder copies with separate `noteID`s, dating to the initial import. The frontmatter-only root copies were archived to `_archive/duplicate-sites/`; the taxonomy copies (which carry the inbound links) are canonical. `blog - Statistical Modeling` now carries the long blog name as aliases.
 
-→ Distinct concepts (type vs instance). Consider renaming the setting notes (e.g. `blog (platform type)`) to break the clash.
+**Site/setting name clashes — resolved (2026-07-05):** the 6 `data/settings/` notes (`blog`, `bluesky`, `hackernews`, `mastodon`, `reddit`, `twitter`) were empty stubs whose names clashed with `data/sites/` notes. They were archived to `_archive/settings-superseded/`; the generic site notes now double as the platform type, and every formerly ambiguous `[[name]]` link resolves uniquely to its site note (verified). No name clashes remain in the live vault.
 
 ## 2. Fragmented / duplicate case names — resolved
 
@@ -27,7 +27,7 @@ The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the dupl
 - `_archive/cases-no-memo/` — 11 cases that had links but no memo coding.
 - `_archive/cases-merged/` — 2 Bishop power-analysis duplicates (folded into the canonical case).
 
-Remaining cases are mostly `status: stub` (they carry links but the analytic write-up lives in the memos, not the case note).
+Remaining cases are mostly `status: stub` — the human analytic write-up lives in the memos, not the case note. As of 2026-07-05, each case note carries a preprint-placement line (whether/where it appears in Patel & Chan 2026) and an orange, footnoted AI-generated summary (`[^claude-case]`), plus bidirectional `sites` ↔ `cases` links.
 
 ## 4. Coding vocabulary — `#inpeer/` only in the live vault
 
@@ -36,11 +36,11 @@ The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for t
 ## 5. Provenance gaps
 
 - Many notes lack a `created` timestamp; only source-captured notes reliably carry `created`/`source`/`permalink`.
-- Ensure every `review` / `appraisal` / `commentary` retains its `source` (original URL) and, where possible, an archived `permalink`.
+- **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap is `gelman blog langer` (empty stub, ambiguous target — see `TODO.md`). Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
 
 ## 6. Sources (research reports) — residual verification
 
-See `TODO.md` for open items: unverified `@dadamo` title, `@ferguson`/`@bartik` specifics, the duplicate `@wang2012reducing`/`@wang2012reducinga` citekeys, and first-author-only lists. Note several reviewed works are **retracted** or carry an **Expression of Concern** (flagged in each source's `publicationStatus`).
+See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate `@wang2012reducing`/`@wang2012reducinga` citekeys, and first-author-only author lists. (`@dadamo` and `@bartik` were archived as orphan sources.) Note several reviewed works are **retracted** or carry an **Expression of Concern** (flagged in each source's `publicationStatus`).
 
 ## 7. Archived material (gitignored, kept locally)
 
@@ -56,3 +56,5 @@ See `TODO.md` for open items: unverified `@dadamo` title, `@ferguson`/`@bartik` 
 | `_archive/orphan-sources/` | 4 | sources with no live author/case/review |
 | `_archive/blank-orphan-reports/` | 4 | blank, unlinked `@citekey` reports |
 | `_archive/blank-orphan-papers/` | 1 | blank, unlinked paper |
+| `_archive/duplicate-sites/` | 10 | flat root-level site notes duplicating the taxonomy-subfolder copies |
+| `_archive/settings-superseded/` | 6 | empty platform-type stubs; generic site notes now carry this role |

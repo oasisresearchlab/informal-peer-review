@@ -5,6 +5,8 @@ status: complete
 url: 
 appraiser: "[[Elisabeth Bik]]"
 setting: 
+source: https://scienceintegritydigest.com/2021/08/30/cassava-sciences-of-posters-and-spaghetti-plots/
+permalink: https://archive.is/NpL7Q
 ---
 
 

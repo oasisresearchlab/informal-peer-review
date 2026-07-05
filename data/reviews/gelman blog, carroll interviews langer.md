@@ -7,6 +7,7 @@ sites:
   - "[[blog - Statistical Modeling]]"
 appraiser: "[[Andrew Gelman]]"
 commentary: "[[2024-10-23, Sean Carroll interviews Langer, Gelman]]"
+source: https://statmodeling.stat.columbia.edu/2024/10/19/carroll-langer-credulous-scientist-as-hero-reporting-from-a-podcaster-who-should-know-better/
 ---
 - Markdown: Post
 	- --

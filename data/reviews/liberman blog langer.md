@@ -6,6 +6,7 @@ url: https://languagelog.ldc.upenn.edu/nll/?p=1396
 appraiser: "[[Mark Liberman]]"
 setting: "blog: Language Log"
 cases: "[[Mindlessness Langer]]"
+source: https://languagelog.ldc.upenn.edu/nll/?p=1396
 ---
 
 - critique's [[Daniel Kahneman]]'s reading of [[@langer1978mindlessness]]

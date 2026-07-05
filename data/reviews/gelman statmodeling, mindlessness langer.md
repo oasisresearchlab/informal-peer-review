@@ -2,6 +2,7 @@
 type: review
 noteID: 718e85be-3e7d-4858-bf59-e182dc9006f6
 status: complete
+source: https://statmodeling.stat.columbia.edu/2024/03/06/mindlessness-in-the-interpretation-of-a-study-on-mindlessness/
 ---
 _This is a long post, so let me give you the tl;dr right away: Don’t use the word “whom” in your dating profile._
 

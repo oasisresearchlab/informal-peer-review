@@ -5,6 +5,7 @@ status: complete
 url:
 appraiser: "[[Elisabeth Bik]]"
 setting:
+source: https://scienceintegritydigest.com/2021/08/27/cassava-sciences-of-stocks-and-blots/
 ---
 
 - [Cassava Sciences: Of Stocks and blots](https://scienceintegritydigest.com/2021/08/27/cassava-sciences-of-stocks-and-blots/)

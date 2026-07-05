@@ -8,6 +8,7 @@ sourceReport: "[[@abou-KhalilAppleCiderVinegar2024]]"
 author:
   - "[[James Heathers]]"
 casetype: central
+source: https://www.researchhub.com/post/2220/apple-cider-vinegar-for-weight-management
 ---
 - --
 - created: 2024-09-12T19:08:50 (UTC -04:00)
