@@ -37,7 +37,7 @@ Conventions:
 | --------- | -------- | -------------------------------------------------------------- |
 | `type`    | yes      | The note type — one of the values in the table below.          |
 | `noteID`  | yes      | UUID, stable across renames.                                   |
-| `created` | yes      | ISO-8601 timestamp the record was created/captured.            |
+| `created` | no       | ISO-8601 timestamp the record was created/captured. Present on only some notes. |
 | `status`  | yes      | `complete` = written up; `stub` = placeholder needing content. |
 | `tags`    | no       | List of taxonomy tags (may also appear inline as `#inpeer/…`). |
 |           |          |                                                                |
@@ -86,11 +86,11 @@ Sites are organized by interaction structure under `data/sites/`:
 Analytic coding uses a hierarchical tag tree. See **[CODEBOOK.md](CODEBOOK.md)** for the complete codebook — all 455 codes across Levels 1–11, each with definition, RQ, instance count, and a grounded example. The **current/primary** namespace is `#inpeer/…`, organized by the dimensions of a review — e.g.:
 
 - `#inpeer/who/reviewer/roles/…` — who reviews (sleuth, hero, expert, …)
-- `#inpeer/why/motives/…` — why they review
+- `#inpeer/why/benefits/…` and `#inpeer/why/risks/…` — why they review, or avoid it
 - `#inpeer/how/practices/…` — how review is done (e.g. `…/review/paper/frames/destructive`)
 - `#inpeer/evdInfra/where/…` — where review happens (platforms/multimedia)
 
-A retained secondary branch, `#zoo/…`, captures surrounding social/institutional context and some earlier coding; the live coding tree uses `#inpeer/` only. Notes also carry a working-notes branch, `#misc/…` (`#misc/implications`, `#misc/zoo`, formerly `#discussion/…`), and two `#cscw/…` tags; these are listed but not defined in [CODEBOOK.md](CODEBOOK.md).
+An earlier branch, `#zoo/…`, is no longer used in live notes; the live coding tree uses `#inpeer/` only. Notes also carry a working-notes branch, `#misc/…` (`#misc/implications`, `#misc/zoo`, formerly `#discussion/…`), and two `#cscw/…` tags; these are not defined in [CODEBOOK.md](CODEBOOK.md) and are listed in `code-applications.csv`.
 
 The live list of tags can be regenerated with the `grep` commands in [CODEBOOK.md](CODEBOOK.md)'s *Regenerating the tree* section.
 

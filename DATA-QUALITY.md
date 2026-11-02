@@ -36,6 +36,7 @@ The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for t
 ## 5. Provenance gaps
 
 - Many notes lack a `created` timestamp; only source-captured notes reliably carry `created`/`source`/`permalink`.
+- **Capture URLs (corrected 2026-11-02):** 34 of the 36 notes below have a web URL. `gelman blog langer` has none, and the `source` of `jussim blog Substack, culturally biased poster 1` is a browser-extension address, not a web page.
 - **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap is `gelman blog langer` (empty stub, ambiguous target — see `TODO.md`). Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
 
 ## 6. Sources (research reports) — residual verification
@@ -61,13 +62,13 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-17 screenshots embedded 18 times in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' working copies when checked on 2026-11-02. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
+17 screenshots embedded in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' local vault when checked on 2026-11-02. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
 
 Missing files: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-05 (15.14.35, 15.15.32, 19.07.10), 2024-11-06 (18.10.22), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
 
 ## 9. Unresolved wikilinks
 
-By a scripted count on 2026-11-02, about 359 of 938 wikilinks in the notes (case-insensitive, counting aliases, excluding image embeds) point to no note. Many are leftovers from the Roam Research import in memo text, such as daily-note dates and block references, or point to people without a note, such as study co-authors. They are left as written to preserve the memos as the record of the analysis.
+By a rough scripted count on 2026-11-02, about 360 of about 930 wikilinks in the notes point to no note. Many are leftovers from the Roam Research import in memo text, such as daily-note dates and block references, or point to people without a note, such as study co-authors. They are left as written to preserve the memos as the record of the analysis.
 
 ## 10. Thin review notes
 

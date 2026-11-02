@@ -20,19 +20,19 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 | TADA asks for | The equivalent in this ethnography | Where | Status |
 |---|---|---|---|
 | A header saying what a script does and produces | Frontmatter saying what a note is and which case, source, people, and sites it connects to | All 171 notes carry `type`, `noteID`, and `status` | Met |
-| Comments saying what a line does | A code applied to an excerpt, with an inline "*This means that…*" gloss | 316 of 1,136 applications have a gloss beside them; 182 of 330 applied codes are glossed at least once | Partly met |
+| Comments saying what a line does | A code applied to an excerpt, with an inline "*This means that…*" gloss | By scripted match on "This means…" and "…means that…", 308 of 1,136 applications have a gloss beside them, and 189 of 330 applied codes are glossed at least once | Partly met |
 | Comments saying why | Analytic and reflexive memos | 14 case memos, 8 commentary memos, 31 meta memos | Met |
 | Clear, meaningful names | Nested code paths that read from general to specific | The 455 codes below | Met |
-| Definitions that can be trusted as the author's | Each code defined in the researchers' words | 186 of 455 definitions quote a researcher gloss; 269 were AI-drafted (see the AI-use note above) | Partly met |
-| Keep the source, not only the rendered output | Archive captures and memos, not only the quotes in the paper | `data/` and `analysis/memos/`; 35 of 36 captures have a source URL | Mostly met |
+| Definitions that can be trusted as the author's | Each code defined in the researchers' words | 186 of 455 definitions are marked as quoting a researcher gloss (three need correcting; see `TODO.md`); 269 were AI-drafted (see the AI-use note above) | Partly met |
+| Keep the source, not only the rendered output | Archive captures and memos, not only the quotes in the paper | `data/` and `analysis/memos/`; 34 of 36 captures have a web URL (see `DATA-QUALITY.md` §5) | Mostly met |
 | Run from top to bottom to confirm it works | Walk a finding back to its source | The example below | Met for this example |
 
-**What the gaps mean.** A code needs one good definition, not a gloss at every use, so 316 of 1,136 is not a failure in itself. The gaps that matter are the 148 applied codes never glossed in the notes, and the 269 definitions not written in the researchers' words. `code-applications.csv` lists every application and `codebook.csv` marks every definition's source, so both can be filtered directly.
+**What the gaps mean.** A code needs one good definition, not a gloss at every use, so 308 of 1,136 is not a failure in itself. The gaps that matter are the 141 applied codes with no gloss the script could find, and the 269 definitions not written in the researchers' words. `code-applications.csv` lists every application and `codebook.csv` marks every definition's source, so both can be filtered directly.
 
 ### Worked example: from finding to source
 
 1. **Finding.** The paper's §6.1.3, *Case 3: Incorrect statistical power analysis*, contributes to theme T1, "motley crew" (supplementary Table S1).
-2. **Case.** [[Incorrect power analysis in G-Power]] ties together the source, reviews, reviewer, and site.
+2. **Case.** [[Incorrect power analysis in G-Power]] summarizes the case and links its reviews and site. The memo in the next step links back to the case, source, and reviewer.
 3. **Memo and gloss.** Line 130 of [[2024-07-26, Incorrect power analysis G-Power]] applies `#inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/statPower`, with the gloss "This means that the study report contains an error in the statistical power analysis…".
 4. **Definition.** That code appears in Table 11 below with 5 instances.
 5. **Capture.** Line 35 of [[bishop PubPeer incorrect power analysis]] applies the same code to the reviewer's own text.
@@ -291,7 +291,7 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 | 97 | `#inpeer/who/reviewer/roles/villain/firebrand` | Researcher's gloss: "This means that the scholar is a controversial figure (e.g. John Gaski's writing was cited in the manifesto of the Buffalo shooter)." ([[2024-09-26 Meta (EOD) Memo]]) | RQ1 | 4 | See [[2024-10-03 Meta (EOD) Memo]] |
 | 98 | `#inpeer/who/reviewer/roles/villain/fraudster` | Researcher's gloss: "This means that an individual has committed research fraud." ([[2024-10-03 Meta (EOD) Memo]]) | RQ1 | 2 | "This means that an inventor is being referenced. They may or may not have a patent." — [[2024-10-03 Meta (EOD) Memo]] |
 | 99 | `#inpeer/who/reviewer/roles/villain/wasteProducer` | Researcher's gloss: "This means that one or more of the study co-authors has been producing research waste over a long timespan." ([[2024-09-27 Meta (EOD) Memo]]) | RQ1 | 2 | "This means that the credibility of the claim/result is in doubt because there was a reproducibility failure…" — [[2024-09-27 Meta (EOD) Memo]] |
-| 100 | `#inpeer/why/benefits/review/extrinsic/financial` | Financial motivation for reviewing. | RQ1 | 3 | "!2024-07-26, Incorrect power analysis G*Power#^tz1xx8" — [[2024-11-07 Meta (EOS) Memo]] |
+| 100 | `#inpeer/why/benefits/review/extrinsic/financial` | Financial motivation for reviewing. | RQ1 | 3 | "!2024-07-26, Incorrect power analysis G-Power#^tz1xx8" — [[2024-11-07 Meta (EOS) Memo]] |
 | 101 | `#inpeer/why/benefits/review/extrinsic/winArgument` | Motivation to win an argument/settle a dispute. | RQ1 | 1 | "Adam Pollock e-mailed Andrew Gelman about the study and its circulation because he though readers might fin…" — [[2024-09-18, Time-restricted feeding Gelman]] |
 | 102 | `#inpeer/why/benefits/review/intrinsic/correctLit` | Motivation to correct the scholarly literature. | RQ1 | 9 | See [[2024-11-12 Meta (EOD) Memo]] |
 | 103 | `#inpeer/why/benefits/review/intrinsic/correctSciComm` | Researcher's gloss: "This means that the individual and or team motivated to review want to correct erroneous science communications." ([[2024-10-23 Meta (EOD) Memo]]) | RQ1 | 3 | "This means that at least part of the informal peer reviewing occurred on a podcast." — [[2024-10-23 Meta (EOD) Memo]] |
@@ -368,7 +368,7 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 | 64 | `#inpeer/who/reviewer/roles/reviewer/informal/infrastructureCreator` | Researcher's gloss: "This means that someone is a sleuth and leads a community of informal peer review. One example is James Heathers, who created and operates the r/PeerReview subreddit." ([[2024-11-12, Jay requests review subreddit PeerReview]]) | RQ1 | 1 | "JP: So I just went ahead and posted a request to James Heathers for an informal peer review of a key study.…" — [[2024-11-12, Jay requests review subreddit PeerReview]] |
 | 65 | `#inpeer/who/reviewer/roles/reviewer/informal/onlineCommenters` | Online commenters acting as informal reviewers. | RQ1 | 2 | Parent code — applied via descendants, e.g. `skeptical` in [[gelman blog, carroll interviews langer]] |
 | 66 | `#inpeer/who/reviewer/roles/reviewer/informal/pubHistorywithTarget` | Researcher's gloss: "This means that the individual doing the informal peer review previously worked with the target of the informal peer review, as when co-authoring papers." ([[2024-10-16 Meta (EOD) Memo]]) | RQ1 | 2 | "This means that the individual favor Karl Popper's philosophy of science wherein hypotheses and theories mu…" — [[2024-10-16 Meta (EOD) Memo]] |
-| 67 | `#inpeer/why/benefits/review/extrinsic/financial/paidCash` | Reviewer paid/tipped in cash for a review (e.g., ResearchHub tips). | RQ1 | 2 | "!2024-07-26, Incorrect power analysis G*Power#^tz1xx8" — [[2024-11-07 Meta (EOS) Memo]] |
+| 67 | `#inpeer/why/benefits/review/extrinsic/financial/paidCash` | Reviewer paid/tipped in cash for a review (e.g., ResearchHub tips). | RQ1 | 2 | "!2024-07-26, Incorrect power analysis G-Power#^tz1xx8" — [[2024-11-07 Meta (EOS) Memo]] |
 
 ## Table 8. Level 8 codes (46 codes)
 
@@ -550,7 +550,7 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 
 ## Tags outside the coding tree
 
-The notes also use 180 applications of 92 tags outside `#inpeer`: the `#misc/implications` and `#misc/zoo` working-notes branches (formerly `#discussion/…`) and two `#cscw/…` tags. These are working notes, not part of the coding tree in Tables 1–11, so they are not defined here. Each one is listed in `code-applications.csv`, with any adjacent gloss.
+The notes also use 180 applications of 92 tags outside `#inpeer`: the `#misc/implications` and `#misc/zoo` working-notes branches (formerly `#discussion/…`), one bare `#misc`, and two `#cscw/…` tags. These are working notes, not part of the coding tree in Tables 1–11, so they are not defined here. Each one is listed in `code-applications.csv`, with any adjacent gloss.
 
 ## Regenerating the tree
 

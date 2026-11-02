@@ -15,9 +15,21 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TAG = re.compile(r"(?<![\w/#])#(inpeer|misc|cscw)((?:/[A-Za-z0-9_-]+)*)")
-GLOSS = re.compile(r"This means.*")
-# A gloss sits on the code's own line or within the next two lines of the memo.
+# Glosses are written as "This means that..." or "#code means that...".
+GLOSS = re.compile(r"(?:[Tt]his means|\bmeans that).*")
 GLOSS_WINDOW = 3
+
+
+def find_gloss(lines, index, tag_end):
+    """Return the gloss after a code, on its line or the next two, stopping at the next code."""
+    rest = lines[index][tag_end:]
+    next_tag = TAG.search(rest)
+    window = [rest[: next_tag.start()] if next_tag else rest]
+    for line in lines[index + 1 : index + GLOSS_WINDOW]:
+        if TAG.search(line):
+            break
+        window.append(line)
+    return next((m.group(0).strip() for m in map(GLOSS.search, window) if m), "")
 
 
 def read_applications():
@@ -29,15 +41,13 @@ def read_applications():
             lines = text.split("\n")
             for number, line in enumerate(lines, 1):
                 for tag in TAG.finditer(line):
-                    window = lines[number - 1 : number - 1 + GLOSS_WINDOW]
-                    gloss = next((m.group(0).strip() for m in map(GLOSS.search, window) if m), "")
                     rows.append({
                         "tree": tag.group(1),
                         "code": tag.group(0),
                         "note": path.relative_to(ROOT).as_posix(),
                         "line": number,
                         "note_type": kind.group(1) if kind else "",
-                        "gloss": gloss,
+                        "gloss": find_gloss(lines, number - 1, tag.end()),
                     })
     return rows
 

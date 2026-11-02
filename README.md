@@ -24,14 +24,14 @@ The paper asks four questions: (1) Who are informal peer reviewers? (2) Where do
 
 - **Fieldwork dates:** memos in this vault run from 2024-07-26 to 2024-11-12. The paper followed up on all cases after nine and twelve months.
 - **Where the data come from:** English-language public posts on platforms including Twitter/X, Bluesky, Reddit, PubPeer, ResearchHub, and personal or collaborative blogs. Inclusion and exclusion criteria are in the supplementary materials (S2).
-- **Software:** coded in Obsidian v1.7.5 after memoing in Roam Research (supplementary materials, S5). No statistical analysis software was used.
+- **Software:** threads saved with Zotero 7 (supplementary materials, S3); memoed in Roam Research, macOS desktop app v0.0.22; coded in Obsidian v1.7.5 (S5).
 
 ## Getting started
 
-1. Unzip the archived deposit or clone this repository. Keep the folder structure, because folders carry meaning (see [SCHEMA.md](SCHEMA.md)).
+1. Download the archived deposit or clone this repository. Keep the folder structure, because folders carry meaning (see [SCHEMA.md](SCHEMA.md)). On macOS, extract Figshare's zip with `tar -xf` rather than `unzip`, which stops partway on it.
 2. Open the folder as a vault in Obsidian, or read the Markdown files in any text editor. Nothing needs to be installed or built. Community plugins are not included, so Obsidian may list them as missing; they are not needed to read the notes.
 3. Follow the analysis in this order: [CODEBOOK.md](CODEBOOK.md), then `analysis/cases/`, then `analysis/memos/`, then the captured material in `data/`. The codebook includes a worked example that walks one finding back to its source post.
-4. To rebuild the coding audit trail, run `python3 scripts/code_audit.py`. It needs Python 3.8+ with no packages, takes a few seconds, changes no notes, and overwrites the two CSV files below.
+4. To rebuild the coding audit trail, run `python3 scripts/code_audit.py`. It reads the notes in `data/`, `analysis/`, and `source/` and the tables in `CODEBOOK.md`, and overwrites the two CSV files below. It needs Python 3 with no packages, takes a few seconds, and changes no notes. It was run on Python 3.14.
 
 ### Top-level files
 
@@ -94,7 +94,7 @@ Portions of this repository's **data curation** were performed with AI assistanc
 
 - **Models:** Claude Opus 4.8 (Anthropic), 1M-context configuration; Claude Fable 5 (Anthropic); Claude Opus 5.5 (Anthropic).
 - **Dates of use:** 2026-07-03 (Opus 4.8); 2026-07-05 (Fable 5); 2026-11-02 (Opus 5.5).
-- **What it did:** normalized YAML metadata across notes; consolidated/archived duplicates; added relational `[[wikilinks]]`; enriched `source/` bibliographic entries (titles, authors, DOIs, retraction flags) via web search; wrote reviewer bios and profile URLs; drafted the `SCHEMA.md` / `DATA-QUALITY.md` / `TODO.md` scaffolding; audited the vault against its documentation; backfilled original capture URLs (`source:`) on review/commentary notes (5 recovered via web search — flagged in `TODO.md` for spot-checking); added `CITATION.cff`; linked `sites/` ↔ `cases/` bidirectionally; wrote labeled case summaries (preprint placement + orange summary) in `analysis/cases/`; and drafted `CODEBOOK.md` (of its 455 definitions, 186 quote the researcher's own glosses and 269 were drafted from the code path and coded excerpts, all grounded in the vault's fully human-generated content; `codebook.csv` marks which is which). On 2026-11-02, Claude Opus 5.5 prepared the v2 release changes: file renames, this README's added sections, the licence scope statement, `scripts/code_audit.py`, the codebook's annotation section, and new `DATA-QUALITY.md` entries, drawing on the paper and supplementary materials. It did not change memos, coding, or definitions.
+- **What it did:** normalized YAML metadata across notes; consolidated/archived duplicates; added relational `[[wikilinks]]`; enriched `source/` bibliographic entries (titles, authors, DOIs, retraction flags) via web search; wrote reviewer bios and profile URLs; drafted the `SCHEMA.md` / `DATA-QUALITY.md` / `TODO.md` scaffolding; audited the vault against its documentation; backfilled original capture URLs (`source:`) on review/commentary notes (5 recovered via web search — flagged in `TODO.md` for spot-checking); added `CITATION.cff`; linked `sites/` ↔ `cases/` bidirectionally; wrote labeled case summaries (preprint placement + orange summary) in `analysis/cases/`; and drafted `CODEBOOK.md` (of its 455 definitions, 186 quote the researcher's own glosses and 269 were drafted from the code path and coded excerpts, all grounded in the vault's fully human-generated content; `codebook.csv` marks which is which). On 2026-11-02, Claude Opus 5.5 prepared the v2 release changes: file renames, this README's added sections, the licence scope statement, `scripts/code_audit.py`, the codebook's annotation section, and new `DATA-QUALITY.md` entries, drawing on the paper and supplementary materials. It did not change coding or the wording of definitions; in memos and `CODEBOOK.md` it changed only references to the two renamed notes.
 - **Labeling:** AI-generated **reviewer biographies** in `data/posters/` are shown in orange text with a `[^claude-bio]` footnote; AI-generated **case summaries** in `analysis/cases/` are shown in orange text with a `[^claude-case]` footnote. Other AI-assisted edits are structural (metadata/links) rather than interpretive.
 - **Human oversight:** AI output was reviewed and checked by **Jay Patel**, except the items still open in [TODO.md](TODO.md). The analytic content (memos, coding, case interpretation) is my own work.
 
@@ -102,7 +102,7 @@ Portions of this repository's **data curation** were performed with AI assistanc
 
 - `.obsidian/` holds vault configuration (themes, hotkeys, templates, settings). Installed **plugins are intentionally excluded** via `.gitignore` (`.obsidian/plugins/`) — they are large binaries and not part of the research data.
 - Content is plain Markdown; no build step.
-- Some hashtags inside captured posts were converted to analysis tags during coding (for example, `#misc/zoo/bin/…`), so check the original URL before treating a hashtag in a capture as verbatim.
+- Some hashtags inside captured posts and quoted memo text were converted to analysis tags during coding (for example, `#misc/zoo/bin/…`), so check the original URL before treating a hashtag in quoted text as verbatim.
 
 ## Ethics
 
@@ -117,16 +117,14 @@ The University of Maryland, College Park IRB determined this project exempt from
 
 | Version | DOI | Date | Contents |
 | --- | --- | --- | --- |
-| v1 | [10.6084/m9.figshare.33187710.v1](https://doi.org/10.6084/m9.figshare.33187710.v1) | 2026-08-07 | 179 separate files, flattened with no folders. Superseded because folders carry meaning here. |
-| v2 | [10.6084/m9.figshare.33187710.v2](https://doi.org/10.6084/m9.figshare.33187710.v2) | At release | One zip that preserves the folder structure, with the fixes described in `git log`. |
+| v1 | [10.6084/m9.figshare.33187710.v1](https://doi.org/10.6084/m9.figshare.33187710.v1) | 2026-08-07 | First deposit. Its record listed CC BY 4.0 while its files stated CC0, and it left out `TODO.md`. |
+| v2 | [10.6084/m9.figshare.33187710.v2](https://doi.org/10.6084/m9.figshare.33187710.v2) | At release | Adds ethics, contact, and licence-scope documentation, DOI links, and the coding audit trail. Details are in `git log`. |
 
-Cite the version you used. Build the deposit from the tagged commit, in the folder above this one, with:
+Cite the version you used. To export the files for a deposit from the tagged commit into the folder above this one, run:
 
 ```
-git archive --prefix=informal-peer-review-v2/ v2.0.0 | tar -x -C .. && (cd .. && python3 -m zipfile -c informal-peer-review-v2.zip informal-peer-review-v2/)
+git archive --prefix=informal-peer-review-v2/ v2.0.0 | tar -x -C ..
 ```
-
-Use this rather than `git archive --format=zip`: macOS's `unzip` fails partway through that zip because some filenames have accented characters.
 
 ## Citation
 
