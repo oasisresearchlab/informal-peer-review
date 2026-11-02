@@ -32,6 +32,26 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 - **`gelman blog langer`** — empty stub with no metadata; ambiguous which Gelman–Langer post it meant (two other Gelman–Langer notes already exist). Decide: supply a URL, merge, or archive.
 - **Archived permalinks** — only 2 notes carry a `permalink`; consider archiving the social-media captures (archive.today / Wayback) while they're still live.
 
+### v2 release steps (need the authors' Figshare and GitHub accounts)
+
+1. Review and merge this branch, then set `date-released` in `CITATION.cff` to the release date and tag the merge commit `v2.0.0`.
+2. Build the zip with the command in the README's *Versions* section.
+3. Publish a new version of Figshare record 33187710: replace the 179 files with the zip plus a copy of `README.md`.
+4. Change the Figshare licence from CC BY 4.0 to CC0, to match `LICENSE`, and add the third-party exclusion from the README's *License* section to the description.
+5. Add related materials on Figshare: the GitHub repository, the preprint (10.48550/arXiv.2604.16764), and the supplementary materials (10.6084/m9.figshare.32048553).
+6. Confirm the `.v2` DOI link in the README resolves.
+
+### Paper and supplement updates
+
+- **Data availability statement** (paper, p. 96) still points to GitHub and says FAIR alignment is in progress. Cite the Figshare DOI in the text and reference list.
+- **S6 in the supplementary materials** is still a placeholder ("expected in version 2"). Point it to `CODEBOOK.md`.
+- **1,080 versus 455 codes.** Explain the difference in the paper or in `DATA-QUALITY.md` §11.
+- **AI statement versus codebook.** The paper says no AI tools were used to analyze or interpret and that codes were defined with co-author JC. `CODEBOOK.md` has 269 AI-drafted definitions. Rewrite those definitions or update the statement.
+
+### Annotation review
+
+- Review the 269 definitions with `definition_source` = `drafted` in `codebook.csv`, starting with the 148 applied codes that have no gloss in the notes.
+
 ### Publishing
 
 - ~~**Mint a dataset DOI** — connect the GitHub repo to Zenodo (or OSF or Figshare) and cut a release so the dataset has a persistent identifier; then add the DOI to `CITATION.cff` and `README.md`. Requires your account.~~

@@ -87,10 +87,10 @@ Analytic coding uses a hierarchical tag tree. See **[CODEBOOK.md](CODEBOOK.md)**
 
 - `#inpeer/who/reviewer/roles/…` — who reviews (sleuth, hero, expert, …)
 - `#inpeer/why/motives/…` — why they review
-- `#inpeer/how/practices/…` — how review is done (e.g. `…/appraise/paper/frames/destructive`)
-- `#inpeer/infrastructure/where/…` — where review happens (platforms/multimedia)
+- `#inpeer/how/practices/…` — how review is done (e.g. `…/review/paper/frames/destructive`)
+- `#inpeer/evdInfra/where/…` — where review happens (platforms/multimedia)
 
-A retained secondary branch, `#zoo/…`, captures surrounding social/institutional context and some earlier coding; only `#inpeer/` tags remain in the live vault.
+A retained secondary branch, `#zoo/…`, captures surrounding social/institutional context and some earlier coding; the live coding tree uses `#inpeer/` only. Notes also carry a working-notes branch, `#misc/…` (`#misc/implications`, `#misc/zoo`, formerly `#discussion/…`), and two `#cscw/…` tags; these are listed but not defined in [CODEBOOK.md](CODEBOOK.md).
 
 The live list of tags can be regenerated with the `grep` commands in [CODEBOOK.md](CODEBOOK.md)'s *Regenerating the tree* section.
 

@@ -31,7 +31,7 @@ Remaining cases are mostly `status: stub` — the human analytic write-up lives 
 
 ## 4. Coding vocabulary — `#inpeer/` only in the live vault
 
-The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for the live dataset: **82 notes use `#inpeer/`, 0 use `#zoo/`**. Remaining `#zoo/` tags exist only on archived notes.
+The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for the live dataset: **82 notes use `#inpeer/`, 0 use a top-level `#zoo/`** (a `#misc/zoo/…` working-notes branch remains; see the codebook's *Tags outside the coding tree*). Remaining `#zoo/` tags exist only on archived notes.
 
 ## 5. Provenance gaps
 
@@ -58,3 +58,24 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 | `_archive/blank-orphan-papers/`     | 1     | blank, unlinked paper                                                |
 | `_archive/duplicate-sites/`         | 10    | flat root-level site notes duplicating the taxonomy-subfolder copies |
 | `_archive/settings-superseded/`     | 6     | empty platform-type stubs; generic site notes now carry this role    |
+
+## 8. Missing images
+
+17 screenshots embedded 18 times in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' working copies when checked on 2026-11-02. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
+
+Missing files: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-05 (15.14.35, 15.15.32, 19.07.10), 2024-11-06 (18.10.22), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
+
+## 9. Unresolved wikilinks
+
+By a scripted count on 2026-11-02, about 359 of 938 wikilinks in the notes (case-insensitive, counting aliases, excluding image embeds) point to no note. Many are leftovers from the Roam Research import in memo text, such as daily-note dates and block references, or point to people without a note, such as study co-authors. They are left as written to preserve the memos as the record of the analysis.
+
+## 10. Thin review notes
+
+Three of the 34 notes in `data/reviews/` hold almost no content: `gelman blog langer`, `fried twitter wu`, and `hullman blog Protzko`. Their target or source URL is listed in `TODO.md` where one needs checking.
+
+## 11. Dataset versus paper counts
+
+- **Study authors:** the paper reports 21. This vault has 13 live notes, and 8 more with no links are in `_archive/unlinked-study-authors/`, which accounts for the difference.
+- **Codes:** the paper and supplementary materials report 1,080 codes. This vault has 455 (`CODEBOOK.md`). The difference is not yet explained; see `TODO.md`.
+- **Websites:** the paper reports sixteen distinct websites and the vault has 20 site notes, some of them generic platform categories. The difference is not yet itemized.
+

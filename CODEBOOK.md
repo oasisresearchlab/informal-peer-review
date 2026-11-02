@@ -13,6 +13,31 @@ This codebook documents **every code** in the vault's hierarchical coding tree: 
 - **Example** — a verbatim coded excerpt with a `[[wikilink]]` to the note where the code was applied. Parent nodes never applied directly point to a descendant's note.
 
 
+## How the coding annotates the data
+
+TADA's *Annotated* step asks for comments explaining what code does and why. This project has no analysis code, because the analysis is qualitative coding. The same standard applies to that coding: someone reading the notes without us should be able to tell what each piece of analysis does and why we did it. Here is how we translated it. Counts come from `scripts/code_audit.py`.
+
+| TADA asks for | The equivalent in this ethnography | Where | Status |
+|---|---|---|---|
+| A header saying what a script does and produces | Frontmatter saying what a note is and which case, source, people, and sites it connects to | All 171 notes carry `type`, `noteID`, and `status` | Met |
+| Comments saying what a line does | A code applied to an excerpt, with an inline "*This means that…*" gloss | 316 of 1,136 applications have a gloss beside them; 182 of 330 applied codes are glossed at least once | Partly met |
+| Comments saying why | Analytic and reflexive memos | 14 case memos, 8 commentary memos, 31 meta memos | Met |
+| Clear, meaningful names | Nested code paths that read from general to specific | The 455 codes below | Met |
+| Definitions that can be trusted as the author's | Each code defined in the researchers' words | 186 of 455 definitions quote a researcher gloss; 269 were AI-drafted (see the AI-use note above) | Partly met |
+| Keep the source, not only the rendered output | Archive captures and memos, not only the quotes in the paper | `data/` and `analysis/memos/`; 35 of 36 captures have a source URL | Mostly met |
+| Run from top to bottom to confirm it works | Walk a finding back to its source | The example below | Met for this example |
+
+**What the gaps mean.** A code needs one good definition, not a gloss at every use, so 316 of 1,136 is not a failure in itself. The gaps that matter are the 148 applied codes never glossed in the notes, and the 269 definitions not written in the researchers' words. `code-applications.csv` lists every application and `codebook.csv` marks every definition's source, so both can be filtered directly.
+
+### Worked example: from finding to source
+
+1. **Finding.** The paper's §6.1.3, *Case 3: Incorrect statistical power analysis*, contributes to theme T1, "motley crew" (supplementary Table S1).
+2. **Case.** [[Incorrect power analysis in G-Power]] ties together the source, reviews, reviewer, and site.
+3. **Memo and gloss.** Line 130 of [[2024-07-26, Incorrect power analysis G-Power]] applies `#inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/statPower`, with the gloss "This means that the study report contains an error in the statistical power analysis…".
+4. **Definition.** That code appears in Table 11 below with 5 instances.
+5. **Capture.** Line 35 of [[bishop PubPeer incorrect power analysis]] applies the same code to the reviewer's own text.
+6. **Source post.** That note's `source` field links to the original [PubPeer thread](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A).
+
 ## Table 1. Level 1 codes (1 code)
 
 | # | Code | Definition | RQ | Inst. | Example |
@@ -523,7 +548,13 @@ This codebook documents **every code** in the vault's hierarchical coding tree: 
 | 15 | `#inpeer/how/practices/review/paper/values/credibility/vices/fraud/imageManipulation/inconsistentData` | Researcher's gloss: "This means that the credibility of a scholarly report is questionable due to the image manipulation red flag: inconsistent data (within and between figures)." ([[bik science integrity blog 1, wang]]) | RQ3 | 2 | "In the 2017 Neurobiol Aging paper, the LS report noticed some potential problems in Figure 12. In the top p…" — [[bik science integrity blog 1, wang]] |
 | 16 | `#inpeer/how/practices/review/paper/values/credibility/vices/fraud/imageManipulation/possibleCopyPaste` | Researcher's gloss: "This means that the credibility of a scholarly report is questionable due to the image manipulation red flags indicating possible copy-pasting of data." ([[bik science integrity blog 1, wang]]) | RQ3 | 8 | "In addition, the NR1 blot appears to show a splice after lane 8, while the PLCgamma1 blot and most other bl…" — [[bik science integrity blog 1, wang]] |
 
+## Tags outside the coding tree
+
+The notes also use 180 applications of 92 tags outside `#inpeer`: the `#misc/implications` and `#misc/zoo` working-notes branches (formerly `#discussion/…`) and two `#cscw/…` tags. These are working notes, not part of the coding tree in Tables 1–11, so they are not defined here. Each one is listed in `code-applications.csv`, with any adjacent gloss.
+
 ## Regenerating the tree
+
+The CSV audit trail is rebuilt with `python3 scripts/code_audit.py`.
 
 Instance counts for any level can be regenerated from the vault root (change `$3` to the depth wanted):
 
