@@ -25,11 +25,11 @@ I am co-working with Joel today and practicing coding the appraisals (data) and 
 	
 	I am using infrastructure codes like:
 	#inpeer/evdInfra
-		#discussion/zoo/infrastructure/eliteGroups/elitePower
-		#discussion/zoo/how/practices/suggestErrorDetection/suggestErrorDetection
+		#misc/zoo/infrastructure/eliteGroups/elitePower
+		#misc/zoo/how/practices/suggestErrorDetection/suggestErrorDetection
 	
 	The elite power code references one's own or other's elite status in a role within an appraisal or commentary on an appraisal.
 	
-	The #discussion/zoo/how/practices/suggestErrorDetection/suggestErrorDetection references the contribution or mentioning of an error detection idea like checking for how a power analysis was used in a software program (or else GRIM, SPRITE). Other examples will arise.
+	The #misc/zoo/how/practices/suggestErrorDetection/suggestErrorDetection references the contribution or mentioning of an error detection idea like checking for how a power analysis was used in a software program (or else GRIM, SPRITE). Other examples will arise.
 2. [[bishop BSky incorrect power analysis G*Power]]
-	1. #discussion/zoo/education/educateScholarsFail  means that there is an effort to educate scholars that is failing.
+	1. #misc/zoo/education/educateScholarsFail  means that there is an effort to educate scholars that is failing.

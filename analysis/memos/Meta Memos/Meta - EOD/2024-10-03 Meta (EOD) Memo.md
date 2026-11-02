@@ -57,7 +57,7 @@ Note: Joel wants shorter memos now.
 #inpeer/evdInfra/impacts/reactions/markets/stockPrice/decreases
 - This means that informal peer review results in the stock price of a company decreasing significantly.
 
- #discussion/zoo/why/motivation/forResearching/profits
+ #misc/zoo/why/motivation/forResearching/profits
 - This means that one motivation for fraudsters could be monetary profits.
 
 #inpeer/why/risks/reviewer/careerSuicide 
@@ -66,10 +66,10 @@ Note: Joel wants shorter memos now.
 #inpeer/how/practices/review/paper/layers/meta/bias/COIs/shortsellers 
 - This means that the credibility of an individual sleuth or team is in question due to a significant conflict of interest: being a short seller who may profit off a stock's downfall.
 
-#discussion/implications/peerReview/practices/financial/improveDuediligence 
+#misc/implications/peerReview/practices/financial/improveDuediligence 
 - This means that the infrastructure of research and communication needs better due diligence for financial applications like investing in stocks.
 
-#discussion/zoo/discovery/consultant/legalAction 
+#misc/zoo/discovery/consultant/legalAction 
 - This means that the infrastructure of research and InPeeR involved a consultant who discovered the case through legal proceedings requiring their help.
 
 #inpeer/evdInfra/impacts/reactions/meta/dynamics/ongoingResearchContinues
@@ -78,7 +78,7 @@ Note: Joel wants shorter memos now.
 #inpeer/evdInfra/impacts/reactions/meta/dynamics/ongoingResearchContinues
 - This means that the research infrastructure, despite leading to retractions, was insufficient to stop ongoing research.
 
-#discussion/implications/peerReview/practices/financial/fundFraudDetection
+#misc/implications/peerReview/practices/financial/fundFraudDetection
 - This means that one implication of this study is to find hidden fraud by funding its detection.
 
 #inpeer/evdInfra/what/patent/revocationNeeded
@@ -96,10 +96,10 @@ Note: Joel wants shorter memos now.
 #inpeer/how/practices/review/paper/layers/discursive/intConsistency/inconsistentResultsTextFigs 
 - This means that the credibility of research is in jeopardy due to inconsistent data like results sections not matching and content of figures not aligning.
 
-#discussion/implications/peerReview/standards/retracting/broaden
+#misc/implications/peerReview/standards/retracting/broaden
 - This means that the case suggests that COPE guidelines need to be broadened to prevent research waste from piling up.
 
-#discussion/implications/patentReview/strengthen
+#misc/implications/patentReview/strengthen
 - This means that we ought to strengthen patent review in order to prevent fraudulent patents from piling up.
 
 #inpeer/who/reviewer/roles/sleuth/oneTimeSleuth
@@ -118,14 +118,14 @@ Note: Joel wants shorter memos now.
 #inpeer/who/reviewer/roles/villain/firebrand 
 #inpeer/why/benefits/review/intrinsic  #inpeer/why/benefits/review/extrinsic
  #inpeer/how/practices/review/paper/layers/empirical/openness/practices 
-  #discussion/zoo/infrastructure/eliteGroups/elitePower 
-#discussion/implications/peerReview/standards/prepublication 
+  #misc/zoo/infrastructure/eliteGroups/elitePower 
+#misc/implications/peerReview/standards/prepublication 
 
 ---
 ## 🚧 Warning: Looser Codes
 
-#discussion/implications/peerReview/tools/automate/syntheses/informalRevs
+#misc/implications/peerReview/tools/automate/syntheses/informalRevs
 - This a looser code. One implication of this research is that we need to synthesize informal peer reviews into a gestalt, permitting experts and laypeople to see moment-by-moment snapshots of scholarly credibility and usefulness.
 
-#discussion/implications/peerReview/practices/social/sleuthingTeams
+#misc/implications/peerReview/practices/social/sleuthingTeams
 - This is a looser code, meaning that one implication from this study is to create sleuthing teams to affect change.

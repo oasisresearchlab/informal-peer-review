@@ -674,9 +674,9 @@ sites: "[[blog - Statistical Modeling]]"
                 - covered in other posts, the usually bits on reporting guidelines, quality appraisal tools, and replications
             - informal peer review?
                 - covered in other posts, but let's generally get more InPeeR activated online for pop psych claims to ensure that we have some information in outlets beyond _Psychology Today_
-	                - #discussion/implications/peerReview/practices/social/advertiseInformalRevs
+	                - #misc/implications/peerReview/practices/social/advertiseInformalRevs
             - science journalism
                 - copied from text above
                     - [[[[QUE]] - What are some effective solutions, technological and otherwise, to link informal peer reviews to science communications like podcasts, books, reports, posters, memos, e-mails, etc?]]
                         - This means that I propose that we need an omni-channel feedback mechanism to correct and critique claims.
-	                        - #discussion/implications/peerReview/tools/connect 
+	                        - #misc/implications/peerReview/tools/connect 

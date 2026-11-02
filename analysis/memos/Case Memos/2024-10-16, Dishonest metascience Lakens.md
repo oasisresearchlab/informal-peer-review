@@ -121,5 +121,5 @@ source:
             - Lakens' own suggestion of using methodological review boards here would be helpful in preventing research waste.
         - informal peer review?
             - Don't simply link to reviews. Ensure that they are stored in multiple formats for later analysis. This is one disadvantage of only using social media for InPeeR: transient content.
-	            -  #discussion/implications/peerReview/practices/data/backup
+	            -  #misc/implications/peerReview/practices/data/backup
 			        - This is a looser code ideating implication for the constructive layer. I think it would be nice to back up formal and informal reviews verbatim as platform content can disappear without warning.

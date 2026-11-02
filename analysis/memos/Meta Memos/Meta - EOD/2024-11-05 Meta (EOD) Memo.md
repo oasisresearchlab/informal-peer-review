@@ -48,7 +48,7 @@ Microupdate to Joel:
 #inpeer/how/practices/review/paper/layers/empirical/openness/practices/performative
 - This means that the authors of a scholarly report followed open science practices performatively or superficially. For example, they may link to a missing pre-registration or one that doesn't align with the paper's methods and results. Or else, they may fail to upload data and code in a manner that would enable reproducibility/verification checks.
 
-#discussion/zoo/scavengers/problematicEditor
+#misc/zoo/scavengers/problematicEditor
 - This means that the editor is responsible for disseminating research waste/low-quality studies.
 
 #inpeer/how/practices/review/paper/layers/empirical/transparency/preregMissing
@@ -101,7 +101,7 @@ Bryan
 #inpeer/how/practices/review/paper/frames/destructive
 
 
-#discussion/zoo/discovery/sciJourSocialMedia
+#misc/zoo/discovery/sciJourSocialMedia
 #inpeer/who/reviewer
 
 #inpeer/digitalEthnography/activePartObs
@@ -110,7 +110,7 @@ Bryan
 #inpeer/digitalEthnography/activePartObs/tell/what/minorElaboration
 #inpeer/digitalEthnography/activePartObs/tell/how/pubpeer
 
-#discussion/implications/peerReview/standards/reporting
+#misc/implications/peerReview/standards/reporting
 
 
 [[2024-07-30, Names Shape Faces]]
@@ -119,11 +119,11 @@ Bryan
 #inpeer/evdInfra/where/multimedia/microblog/twitter
 #inpeer/who/reviewer/roles/sleuth
 #inpeer/who/reviewer/roles/hero/sciReformer
-#discussion/zoo/discovery/sciJourSocialMedia
+#misc/zoo/discovery/sciJourSocialMedia
 #inpeer/evdInfra/problems/sciComm/uncritical
 #inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update
 
-#discussion/zoo/sciComm/sciJournalismfail
+#misc/zoo/sciComm/sciJournalismfail
 
 #inpeer/how/practices/review/paper/frames/destructive
 
@@ -166,7 +166,7 @@ Lakens
 #inpeer/who/reviewer/roles/employment/tenured
 #inpeer/evdInfra/where/multimedia/microblog/twitter
 #inpeer/how/practices/review/paper/frames/destructive
-#discussion/zoo/infrastructure/eliteGroups/elitePublishersBadRevs
+#misc/zoo/infrastructure/eliteGroups/elitePublishersBadRevs
 #inpeer/how/practices/review/paper/layers/empirical/analyses/noise/marginalPValues
 
 Bryan
@@ -194,18 +194,18 @@ Bryan
 
 #### New
 
-#discussion/implications/peerReview/frames/adoptPedagogicalFrame
+#misc/implications/peerReview/frames/adoptPedagogicalFrame
 - This means that I, JP, wish that informal peer reviewers adopted pedagogical frames more often. Let's advocate for that across digital communities.
 
 [[2024-07-30, Names Shape Faces]]
 
-#discussion/implications/peerReview/standards/reporting/preregDeviations
+#misc/implications/peerReview/standards/reporting/preregDeviations
 - This means that one implication of this informal peer review case is that we ought to report our preregistration deviations for transparency.
 
-#discussion/implications/peerReview/practices/cognitive/speedChecklinks
+#misc/implications/peerReview/practices/cognitive/speedChecklinks
 - This means that one super-quick way to review scholarly reports could be to simply conduct a "sniff test" of the paper whereby the reviewer(s) clicks all links to open materials, data, code, supplementary analyses, etc.
 #### Old
 
-#discussion/implications/peerReview/tools
+#misc/implications/peerReview/tools
 
 #### Appraisal

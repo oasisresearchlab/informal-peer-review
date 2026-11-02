@@ -33,7 +33,7 @@ I added new codes like:
  #inpeer/who/reviewer/ideology/politics/conservative
 - The scholar is a social conservative due to explicit statements and/or connections to socially conservative organizations.
 
-#discussion/implications/peerReview/standards/retracting
+#misc/implications/peerReview/standards/retracting
 - The individual mentions COPE guidelines used by publishers to justify retractions and considers whether or not they are applicable in a particular situation.
 
 #inpeer/evdInfra/impacts/reactions/publishers/revisions/admitsLowRigor
@@ -57,7 +57,7 @@ I added new codes like:
 #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
 - The outcome was a swift retraction meaning within minutes, hours, days, or a 1-4 weeks.
 
-#discussion/zoo/scholarlySociety
+#misc/zoo/scholarlySociety
 - A scholarly society (e.g. SPSP, APA, CHI, CSCW) is directly involved in the case.
 
 #inpeer/how/practices/review/paper/frames/affective
@@ -67,8 +67,8 @@ Some implications for improving reviewing:
 
 Looser Codes
 
-#discussion/implications/peerReview/practices/cognitive/alignStudyPlanwithSubmission
+#misc/implications/peerReview/practices/cognitive/alignStudyPlanwithSubmission
 - This is inspiration for improving reviewing by checking to ensure that the plan (e.g. poster/talk/paper abstract matches the eventual content in the poster/talk/paper)
 
-#discussion/implications/peerReview/practices/social/coordinateConferences
+#misc/implications/peerReview/practices/social/coordinateConferences
 - This is inspiration for improving reviewing by increasing support for informal peer review at conferences.

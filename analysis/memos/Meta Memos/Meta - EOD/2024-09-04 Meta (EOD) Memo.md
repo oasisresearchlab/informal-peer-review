@@ -23,8 +23,8 @@ I noted that a new case related to a degrowth paper bears similarity to InPeeR c
 
 #inpeer/how/practices/review/paper/frames/pedagogical means supporting pedagogical InPeeR, whether due to someone's prompting or not.
 
-#discussion/zoo/infrastructure/eliteGroups means the organization or network of individuals has elite power in their social sphere, typically an academic with elite credentials and/or considerable following online and in scholarly venues.
+#misc/zoo/infrastructure/eliteGroups means the organization or network of individuals has elite power in their social sphere, typically an academic with elite credentials and/or considerable following online and in scholarly venues.
 
 #inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique means that a critique has been missing from conventional calls for scholarly reforms.
 
-#discussion/implications/peerReview/tools/automate/syntheses/informalRevs means that it could potentially be useful to automate InPeeR summaries for broader audiences including its generation and cross-posting across digital communities.
+#misc/implications/peerReview/tools/automate/syntheses/informalRevs means that it could potentially be useful to automate InPeeR summaries for broader audiences including its generation and cross-posting across digital communities.

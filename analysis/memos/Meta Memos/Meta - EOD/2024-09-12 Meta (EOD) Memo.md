@@ -22,8 +22,8 @@ Older codes for the appraiser were:
 
 #inpeer/digitalEthnography/activePartObs if I performed any kind of active participant observation.
 
-#discussion/implications/peerReview/standards/reporting if following reporting guidelines would have helped the study co-authors write a better paper.
-		        - #discussion/implications/peerReview/tools/publisher/informalRev if the publishers offered the opportunity to engage in informal peer review with their own tool like BMJ's Rapid Responses section on their articles' webpages.
+#misc/implications/peerReview/standards/reporting if following reporting guidelines would have helped the study co-authors write a better paper.
+		        - #misc/implications/peerReview/tools/publisher/informalRev if the publishers offered the opportunity to engage in informal peer review with their own tool like BMJ's Rapid Responses section on their articles' webpages.
 		        - #inpeer/evdInfra/problems/publishing/failuseInformalrev if the publisher's informal peer review tool failed for some reason to surface insights (e.g. rejection/gatekeeping/technical issues preventing public posting). Maybe the tools didn't work due to UX friction, technological reasons, or sociocultural reasons.
 
 #inpeer/evdInfra/problems/publishing/laxStandards/publisher  if publishers' lax standards allowed research waste to surface.
@@ -61,13 +61,13 @@ I coded [the James Heathers InPeeR today](obsidian://open?vault=orca-cases&file=
 
 #### Loose Codes
 - inferring some implications not connected to data:
-	#discussion/implications/peerReview/standards/prepublication means that it would be nice to have specific pre-publication checklists and standards to avoid obvious research waste.
+	#misc/implications/peerReview/standards/prepublication means that it would be nice to have specific pre-publication checklists and standards to avoid obvious research waste.
 	
-	#discussion/implications/peerReview/practices/social/stakeholderEngagement  means that there is so little crosstalk between authors, publishers, and informal peer reviewers that we need to begin the cross talk with open peer review from the beginning. That could prevent research waste.
+	#misc/implications/peerReview/practices/social/stakeholderEngagement  means that there is so little crosstalk between authors, publishers, and informal peer reviewers that we need to begin the cross talk with open peer review from the beginning. That could prevent research waste.
 	
-	#discussion/implications/sciComm/teachJournos means that science journalists need to be educated about research waste and avoid writing articles about drivel.
+	#misc/implications/sciComm/teachJournos means that science journalists need to be educated about research waste and avoid writing articles about drivel.
 
-#discussion/implications means that it'd be valuable to crosspost InPeeR to science news webpages like with hypothesis-style annotations or PubPeer-style banners to indicate that readers are advised to interpret the critical remarks from the crowd as they read the science news article.
+#misc/implications means that it'd be valuable to crosspost InPeeR to science news webpages like with hypothesis-style annotations or PubPeer-style banners to indicate that readers are advised to interpret the critical remarks from the crowd as they read the science news article.
 
 #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed/requestFail means that a direct request for data (addressed to any study co-authors) was unsuccessful.
 

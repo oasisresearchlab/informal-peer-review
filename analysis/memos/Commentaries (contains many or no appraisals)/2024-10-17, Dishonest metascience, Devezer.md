@@ -99,5 +99,5 @@ sites: "[[bluesky - general]]"
             - NA
         - informal peer review?
             - Spread the word that InPeeR is desirable and possible.
-- #discussion/implications/peerReview/practices/social/advertiseInformalRevs
+- #misc/implications/peerReview/practices/social/advertiseInformalRevs
 		            - This means the be ought to publicize that informal peer review is desirable and possible.

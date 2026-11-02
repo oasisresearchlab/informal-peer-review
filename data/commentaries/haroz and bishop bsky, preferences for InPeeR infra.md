@@ -54,7 +54,7 @@ In aggregate, sometimes, yes. But I have had no luck with posts about individual
 Dorothy Bishop
 22d
 from what I gather from publishers, the typical person making a judgement call about retraction wouldn’t understand the stats so couldn’t evaluate it. May be they should employ more expert consultants
-	#discussion/implications/peerReview/practices/social/hireStatsExps
+	#misc/implications/peerReview/practices/social/hireStatsExps
 		This means that someone (could be JP or someone in the dataset) mentioned that publishers ought to hire statistical experts to make decisions about retractions if they do not already do so.
 
 Jay Patel

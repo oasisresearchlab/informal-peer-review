@@ -265,7 +265,7 @@ source:
                         - INCORRECT:
                         - 1. **SC-65844 antibody** is for the alpha-1 subunit of the nAchR, as noted by another commenter. There are no alpha-1 subunits of nAchR's from mammalian hippocampi, therefore the selection of this antibody is absurd. 10.1016/j.tips.2006.07.004
                         - LINEAR EPITOPE ANTIBODIES 2) **SC-7565 antibody** for FLNA was raised against a linear peptide sequence near the N-terminal, has not been validated to recognize a native protein epitope and therefore **cannot** be used to make a claim regarding native or partially folded proteins. [https://datasheets.scbt.com/sc-7565.pdf](https://datasheets.scbt.com/sc-7565.pdf)
-                        - 3)\*\* SC-271440 antibody\*\* for FLNA was raised against a linear sequence of amino acids #discussion/zoo/bin/2348-2647, which span the FLNA Ig-like repeats #discussion/zoo/bin/21-24 (#2327-2646). A linear amino acid epitope of such large size, it would be unable to recognize the pleated beta sheet conformation across three separate FLNA Ig repeats, which include a hinge (rotated area) between #23 & #24. Thus use of this antibody would indicate a denatured FLNA protein. [https://datasheets.scbt.com/sc-271440.pdf](https://datasheets.scbt.com/sc-271440.pdf) [https://www.uniprot.org/uniprot/P21333](https://www.uniprot.org/uniprot/P21333) [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/)
+                        - 3)\*\* SC-271440 antibody\*\* for FLNA was raised against a linear sequence of amino acids #misc/zoo/bin/2348-2647, which span the FLNA Ig-like repeats #misc/zoo/bin/21-24 (#2327-2646). A linear amino acid epitope of such large size, it would be unable to recognize the pleated beta sheet conformation across three separate FLNA Ig repeats, which include a hinge (rotated area) between #23 & #24. Thus use of this antibody would indicate a denatured FLNA protein. [https://datasheets.scbt.com/sc-271440.pdf](https://datasheets.scbt.com/sc-271440.pdf) [https://www.uniprot.org/uniprot/P21333](https://www.uniprot.org/uniprot/P21333) [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2099194/)
                         - DENATURED CONDITIONS (in addition to using antibodies for denature proteins, above): 4) Section 2.8 - in order to run SDS-PAGE, methods describe boiling the samples for 5 minutes in SDS preparation buffer, which is a technique specifically designed to denature proteins and includes 2% SDS and a reducing agent (2-mercaptoethanol) which cleaves disulfide bonds and facilitates denaturing before probing for FLNA and other proteins with linear epitope antibodies. In other words, the proteins were denatured and then antibodies designed for denatured proteins were used.
                         - 5. Section 2.17 - states "solubilized immunoprecipitates \[...\] were separated by either 7.5 or 10% SDS PAGE" (also a very denaturing technique.
                         - ISOELECTRIC FOCUSING With denatured assays as described, we are left with IEF. Again, linear epitope antibodies for recognition of denatured FLNA were used for the IEF gels. Many things can cause an isoelectric point to shift, including multiple freeze-thaw cycles, variable oxidation states, sample preparation, buffer and focusing time, among other things. **Without having any other validated native protein assay or study, the pI shift, as probed by linear epitope antibodies, is inconclusive at best.**
@@ -1189,7 +1189,7 @@ source:
         - Good god, this could take a while to analyze. But we know that Wang has had financial COIs with companies for years and Cassava Sciences may have the most to gain from a purported breakthrough drug. The initial informal peer reviewers here like Luosheng Peng are investors in SAVA and quantitatively savvy. The same might be said of Matthew Schrag and Elisabeth Bik (who have have biomedical expertise and image sleuthing skills. We find other these biomedical researchers don't have any financial COIs. They seem to be motivated intrinsically, for the error detection benefits.
 	        - #inpeer/why/benefits/review/intrinsic
 	        - #inpeer/why/benefits/review/extrinsic
-	        - #discussion/zoo/why/motivation/forResearching/profits
+	        - #misc/zoo/why/motivation/forResearching/profits
 		        - This means that one motivation for fraudsters could be monetary profits.
         - Risks
             - Matthew Schrag
@@ -1221,8 +1221,8 @@ source:
 	            - #inpeer/how/practices/review/paper/layers/empirical/openness/practices
         - intersections with institutional and power structures
             - The multiple power structure here elite educational institutions, powerful biotech companies, powerful journals with lax retraction policies, and patent-holding Ph.Ds are a troubling, self-reinforcing network. Professional investors, shareholders, and others are not knowledgeable enough to detect research fraud and waste (except L. Peng above).
-	            - #discussion/zoo/infrastructure/eliteGroups/elitePower
-				- #discussion/implications/peerReview/practices/financial/improveDuediligence
+	            - #misc/zoo/infrastructure/eliteGroups/elitePower
+				- #misc/implications/peerReview/practices/financial/improveDuediligence
 					- This means that the infrastructure of research and communication needs better due diligence for financial applications like investing in stocks.
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - [[destructive critical appraisal]]
@@ -1235,7 +1235,7 @@ source:
         - JP discovered this initially via X/Twitter algorithm, [[Jesse Brodkin]]? RetractionWatch?
         - The diffusion of awareness about Cassava Science is likely:
             - The cassavafraud.com website authors/FDA petition filers alerting Matthew Schrag and roping in sleuths like Elisabeth Bik. Anonymous posters on PubPeer are included.
-		            - #discussion/zoo/discovery/consultant/legalAction
+		            - #misc/zoo/discovery/consultant/legalAction
 			            - This means that the infrastructure of research and InPeeR involved a consultant who discovered the case through legal proceedings requiring their help.
     - Was the observation a partial or a complete session?
         - complete session
@@ -1266,14 +1266,14 @@ source:
         - The results are so damning that H.Y. Wang needs that prison time and we need the kind of introspection seen by some Gino co-authors. We could also try to stop the FDA's Phase III clinical trial. It does not merit completion at this point.
     - What were my feelings about its sophistication and ease of authoring?
         - Each sleuth used tools that worked from them over many years like a custom website, PubPeer, X/Twitter, and long petitions to the FDA requiring legal consultation. This is a saga and debacle unlike the [[InPeeR case: Gino fraud]] and [[InPeeR case: Dishonest preregistration about dishonesty research]]. This makes Ariely look like a chump. The InPeeR work here is on par with the extended work by [[Data Colada]]. Both the cassavafraud.com team and the Data Colada team are composed of 3-4 people. That's about the level that may work for deep, independent sleuthing for academic research. So much of this was difficult to author. The PubPeer cases must have been a breeze for Bik, but the blog posts she authors required a bit more synthesis. The FDA, DoJ, and CUNY reports count are more formal peer review. I'm also interested in the kind of commentary Luosheng Peng offers as a quantitatively savvy investor. Finding some examples like that over social media could help surface other fraudsters. In fact, this is an opportunity to create a special organization for discovering related cases.
-	        - #discussion/implications/peerReview/practices/social/sleuthingTeams
+	        - #misc/implications/peerReview/practices/social/sleuthingTeams
 		        - This is a looser code, meaning that one implication from this study is to create sleuthing teams to affect change.
     - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
         - {{[[embed]]: ((_WEFvLGCb))}}
             - Corrections and EOCs were plentiful due to powerhouses like Bik pointing the finger at the papers above (Wang, Burns). It would be hard to ignore such significant accusations from experts. Publishers seem to use corrections and EOC as a way to delay total cooperation and shift the responsibility to academic institutions.
     - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
         - Let's find out in another lifetime or specialize in InPeeR of technical organizations, develop a consulting organization, and visualize the incoming results on a dashboard for decision-making.
-	        - #discussion/implications/peerReview/practices/financial/fundFraudDetection
+	        - #misc/implications/peerReview/practices/financial/fundFraudDetection
 		        - This means that one implication of this study is to find hidden fraud by funding its detection.
     - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
         - No, it seems too late for anything substantive right now. I don't have the power to induce retractions and lack the domain expertise to feel fully certain of highlighting imaging issues. If publishers won't cooperate, we need to develop [[ESS: evidence synthesis system(s)]] starting from InPeeR to identify threads of credible vs. incredible scholarship as it's hard to catch up with all of this InPeeR content.
@@ -1321,14 +1321,14 @@ source:
         - formal peer review?
             - academic
                 - establish clear prepublication checks
-	                - #discussion/implications/peerReview/standards/prepublication
+	                - #misc/implications/peerReview/standards/prepublication
                 - establish retraction guidelines/thresholds beyond [[COPE publication guidelines]]
-	                - #discussion/implications/peerReview/standards/retracting/broaden
+	                - #misc/implications/peerReview/standards/retracting/broaden
 		                - This means that the case suggests that COPE guidelines need to be broadened to prevent research waste from piling up.
             - [[patent review]]
                 - [US Patent 2014/0018341](https://patentimages.storage.googleapis.com/f5/52/1c/acd56c74df5a3f/US20140018341A1.pdf)
                 - not sure how patent review works, but providing that info may help them vet claims
-	                - #discussion/implications/patentReview/strengthen
+	                - #misc/implications/patentReview/strengthen
 		                - This means that we ought to strengthen patent review in order to prevent fraudulent patents from piling up.
                 - the patent was filed mid-2013, so can we dig up InPeeR before that?
             - overall
@@ -1341,5 +1341,5 @@ source:
                 - [[ReSS]]
                 - [[IReSS design: general]]
             - Perhaps part of the difficulty with retraction, patent revocation, and pausing of clinical trials lies in not being able to see the big picture at once.
-	            - #discussion/implications/peerReview/tools/automate/syntheses/informalRevs
+	            - #misc/implications/peerReview/tools/automate/syntheses/informalRevs
 			        - This a looser code. One implication of this research is that we need to synthesize informal peer reviews into a gestalt, permitting experts and laypeople to see moment-by-moment snapshots of scholarly cre

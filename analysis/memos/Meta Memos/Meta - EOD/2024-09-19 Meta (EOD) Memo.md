@@ -11,9 +11,9 @@ I added the following new quotes:
 
 #inpeer/who/target/eliteAuthors means that some or all of the study co-authors of the study report (poster/paper) are affiliated somehow with elite research institutions. I should have used this code earlier and can go back to add it where relevant.
 
-#discussion/zoo/discovery/informalRev/request/followerBenefit means that a reader/follower of the informal peer reviewer requested an informal peer review.
+#misc/zoo/discovery/informalRev/request/followerBenefit means that a reader/follower of the informal peer reviewer requested an informal peer review.
 
-#discussion/zoo/discovery/informalRev/request/followerBenefit/practicalReason  means that the requester needed an informal peer review from someone and requested it for some practical reason.
+#misc/zoo/discovery/informalRev/request/followerBenefit/practicalReason  means that the requester needed an informal peer review from someone and requested it for some practical reason.
 
 #inpeer/how/practices/review/paper/layers/empirical/methods/falsePositiveRisk means that there was a suspicion of a study including false positives.
 
@@ -29,7 +29,7 @@ I added the following new quotes:
 
 #inpeer/how/practices/review/paper/layers/discursive/intConsistency/unjustifiedClaimsFromEvd means that the claims are not justified given the available evidence.
 
-#discussion/implications/peerReview/standards/reporting/posters means that reporting guidelines are needed based on users' comments.
+#misc/implications/peerReview/standards/reporting/posters means that reporting guidelines are needed based on users' comments.
 
 This case includes multiple informal peer reviewers beyond Gelman like [[Dale Lehman]], [[Kevin McConway]], and [[Anoneuoid]].
 

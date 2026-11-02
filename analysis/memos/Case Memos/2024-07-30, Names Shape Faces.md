@@ -143,11 +143,11 @@ source:
                         - Xmail
                         - 10.9K posts
                         - Trending in United States
-                        - #discussion/zoo/bin/ElonIsWeird
+                        - #misc/zoo/bin/ElonIsWeird
                         - 4,583 posts
                         - SAY IT TO MY FACE
                         - 3,908 posts
-            - Twitter: Neuroscience News  #discussion/zoo/discovery/sciJourSocialMedia
+            - Twitter: Neuroscience News  #misc/zoo/discovery/sciJourSocialMedia
                 - [[>]] Study Finds Faces Evolve to Match Names Over Time A new study reveals that people's faces tend to evolve to match their names, influenced by social expectations. Researchers found that adults' faces could be accurately matched to their names, while children's faces could not.… pic.twitter.com/vMLVQn4nJd [🐦](https://x.com/NeuroscienceNew/status/1818040431902589206) by Neuroscience News on [[July 29th, 2024]]
 	                - #inpeer/evdInfra/problems/sciComm/uncritical
                     - Markdown
@@ -236,9 +236,9 @@ source:
 				- This means that the authors of a scholarly report followed open science practices performatively or superficially. For example, they may link to a missing pre-registration or one that doesn't align with the paper's methods and results. Or else, they may fail to upload data and code in a manner that would enable reproducibility/verification checks.
         - intersections with institutional and power structures
             - All scholarly sleuths in this InPeeR case are confronting an elite journal, an elite psychologist, and the science journalism ecosystem that feeds laypeople cutesy findings like these they are intuitively know to be true. These are tough forces to confront and education needs to immunize people against these harms.
-	            - #discussion/zoo/scavengers/problematicEditor
+	            - #misc/zoo/scavengers/problematicEditor
 		            - This means that the editor is responsible for disseminating research waste/low-quality studies.
-	            - #discussion/zoo/sciComm/sciJournalismfail
+	            - #misc/zoo/sciComm/sciJournalismfail
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - [[destructive critical appraisal]]
 	        - #inpeer/how/practices/review/paper/frames/destructive
@@ -289,7 +289,7 @@ source:
         - Yes, if Gemini use below counts.
 	        - #inpeer/digitalEthnography/activePartObs/tell/how/usedGenerativeAI
 		        - This means that I us of my active participant observation, I used generative AI tools like Gemini Pro, Claude, or ChatGPT to assist my reviewing.
-			- #discussion/implications/peerReview/tools
+			- #misc/implications/peerReview/tools
         - The appraisers used their own eyes and minds. I am trying to use [[statcheck]] on the paper and would advise that others use [[GRIM]], [[GRIMMER]], and [[SPRITE]]. Statcheck failed on this.
         - I used Gemini Advanced with my pro subscription to collect insights
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQMiznEgeeS.png?alt=media&token=efb69036-7c59-4d53-9111-a537ad96855a)
@@ -305,7 +305,7 @@ source:
             - Check links to open content and pre-registrations:
                 - [[>]] What about "forking paths", multiple hypotheses only showing "significant" ones? **^^Second study is preregistered. Click on the links: they're dead. I can't find the prereg by searching Google either. Surely they did one, but how can PNAS not even bother to click links to check^^**? 4/n [🐦](https://x.com/Afinetheorem/status/1818297557077876753) by Kevin A. Bryan on [[July 30th, 2024]]
             - Get people to use [[reporting guidelines]] for studies and for reporting deviations from pre-registrations
-	            - #discussion/implications/peerReview/standards/reporting/preregDeviations
+	            - #misc/implications/peerReview/standards/reporting/preregDeviations
 		            - This means that one implication of this informal peer review case is that we ought to report our preregistration deviations for transparency.
             - Get reviewers to use [[⛵ [[MTD]] - multilayer appraisal and synthesis technique (MAST)]]
             - If pre-registrations are mentioned in a paper, the minimum work to review should be to click the link. For authors, the minimum expected work should be to report deviations, as advised by [[@willroth2024best]].
@@ -314,5 +314,5 @@ source:
                 - [[>]] (And to be clear, I'm not blaming the authors - they are responding to incentives in the field. **^^Start insisting on technical accuracy in places like PNAS, and you'll get better papers^^**!) [🐦](https://x.com/Afinetheorem/status/1818297800037130656) by Kevin A. Bryan on [[July 30th, 2024]]
         - informal peer review?
             - Check links to open content and pre-registrations as a first step when appraising/reviewing papers to sniff test whether the use of open science practices was genuine or performative
-	            - #discussion/implications/peerReview/practices/cognitive/speedChecklinks
+	            - #misc/implications/peerReview/practices/cognitive/speedChecklinks
 		            - This means that one super-quick way to review scholarly reports could be to simply conduct a "sniff test" of the paper whereby the reviewer(s) clicks all links to open materials, data, code, supplementary analyses, etc.

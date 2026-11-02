@@ -303,17 +303,17 @@ source:
 	    - What are the implications for evolving:
 	        - formal peer review?
 	            - Journal-level standards for filtering research waste and needed with [[scholarly sleuth(s)]] guiding the way. As I recall from this week's repliCATS workshop, other professors did not catch a power analysis error in one of the papers that I caught. The specific expertise needed here would be _scholarly sleuths_. In fact, can we found a journal based just with their editorial involvement?
-			            #discussion/implications/peerReview/standards/prepublication
+			            #misc/implications/peerReview/standards/prepublication
 					A direct request for data from the co-authors was unsuccessful even though *BMJ Nutrition* requires it! There have to be some standards here.
 						#inpeer/how/practices/review/paper/layers/empirical/openness/data/needed/requestFail
 	        - informal peer review?
 	            - Engaging authors and journals as part of [[active participant observation]] and InPeer itself will be valuable from the beginning. Let's not wait around to alert others.
-		            - #discussion/implications/peerReview/practices/social/stakeholderEngagement
+		            - #misc/implications/peerReview/practices/social/stakeholderEngagement
 	        - sci comm? cc [[Joel Chan]]
 	            - connect InPeeR to sci comm so we can communicate the important critical comments to journalists as they are writing and afterwards through live updates someone on the article webpage
 	                - JP: Is this a [[startup idea(s)]]
-	                - #discussion/implications/sciComm/teachJournos
-	                - #discussion/implications/peerReview/practices/social/crosspost/informalRevscicomm
+	                - #misc/implications/sciComm/teachJournos
+	                - #misc/implications/peerReview/practices/social/crosspost/informalRevscicomm
 		- This means that JP thinks one implication of this study is that scholars ought to crosspost informal peer reviews to science communications resources like science news websites.
 ---
 - memo: Valdez
@@ -334,10 +334,10 @@ source:
 	                    - source: [https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e](https://bsky.app/profile/sumidu.bsky.social/post/3kobq6rfj6h2e)
 	                    - author:
 	                    - --
-	                    - # André Calero Valdez: "I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
+	                    - # André Calero Valdez: "I hope my first-year bachelor students will do better #misc/zoo/bin/statistics than what is catching on in the news right now. nutrition.bmj.com/content/earl... It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported. # rstats" — Bluesky
 
 	                    - > ## Excerpt
-	                    - > I hope my first-year bachelor students will do better #discussion/zoo/bin/statistics than what is catching on in the news right now.
+	                    - > I hope my first-year bachelor students will do better #misc/zoo/bin/statistics than what is catching on in the news right now.
 	                    - [https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
 	                    - It has all the classical mistakes. Many t-tests instead of mixed model design. No degrees of freedom reported, no t statistic reported.
 
@@ -419,8 +419,8 @@ source:
 	        - Continue monitoring the Bluesky feed and follow closely networked scholars.
 	    - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
 	        - Yes, I'm still waiting for PubPeer and BMJ to respond on their own platforms & emails. I used PubPeer and BMJ Rapid Response tab for the article [[@abou-KhalilAppleCiderVinegar2024]].
-		        - #discussion/implications/peerReview/standards/reporting
-		        - #discussion/implications/peerReview/tools/publisher/informalRev
+		        - #misc/implications/peerReview/standards/reporting
+		        - #misc/implications/peerReview/tools/publisher/informalRev
 		        - #inpeer/evdInfra/problems/publishing/failuseInformalrev
 	- **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
 	    - What stood out to you about this session, in light of our research problem?

@@ -48,10 +48,10 @@ I used parts of my Thursday P.M. (fill in) to code case [[Dishonest metascience 
 
 #### Devezer
 
- #discussion/implications/peerReview/practices/social/advertiseInformalRevs
+ #misc/implications/peerReview/practices/social/advertiseInformalRevs
  - This means the be ought to publicize that informal peer review is desirable and possible.
 
 #### Bak-Coleman
 
-#discussion/implications/peerReview/practices/social/enforceConfidentiality
+#misc/implications/peerReview/practices/social/enforceConfidentiality
 - This means that publishers need to enforce reviewers' confidentiality policies more strongly.

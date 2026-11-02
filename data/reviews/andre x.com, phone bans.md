@@ -23,7 +23,7 @@ Hate to be \*this\* guy, but the p-values associated with these outcomes are p =
 
 
 Oh, come on. You're **including non-significant p-values for which the author makes no claim of statistical significance**, lumping together several p-values from the same model (not independent!), and lumping across hypotheses.
-#discussion/zoo/bin/ReviewstheInPeeRReviewers, #inpeer/how/practices/review/paper/layers/empirical/rigor/analysis/pValueCirclingIssue, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsSameModel, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsAcrossHyps 
+#misc/zoo/bin/ReviewstheInPeeRReviewers, #inpeer/how/practices/review/paper/layers/empirical/rigor/analysis/pValueCirclingIssue, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsSameModel, #inpeer/how/practices/review/paper/layers/empirical/methods/samplingIssues/lumpedPValsAcrossHyps 
 
 I wrote down all the p-values as they appear next to reported differences in outcomes in the paper. The author reports 90% CI and thus appears to consider p < .1 suggestive of significant differences. I also acknowledged in several places that these are not independent tests.
 

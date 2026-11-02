@@ -45,7 +45,7 @@ I used parts of my Wednesday P.M. (fill in) to structured loose memo notes from 
 #inpeer/evdInfra/what/reviews/informal/commenters/reviewedInformalreview
 - This means that a commenter reviewed an informal peer review.
 
-#discussion/zoo/discovery/informalRev/psychAnalysis
+#misc/zoo/discovery/informalRev/psychAnalysis
 - This means that an individual or organization conducted an informal peer review wherein a psychological analysis proposes an explanation for research waste.
 
 
@@ -87,11 +87,11 @@ I used parts of my Wednesday P.M. (fill in) to structured loose memo notes from 
 
 #### Commentary
 
-#discussion/implications/peerReview/practices/social/advertiseInformalRevs
+#misc/implications/peerReview/practices/social/advertiseInformalRevs
 
-#discussion/implications/peerReview/tools/connect/informalRevtoBooks
+#misc/implications/peerReview/tools/connect/informalRevtoBooks
 - This means that informal peer reviews could be linked back to digital and physical books to ensure that critiques are available to the masses.
 
-#discussion/implications/sciComm/teachJournos
+#misc/implications/sciComm/teachJournos
 #### Appraisal Data
 

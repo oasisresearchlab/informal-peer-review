@@ -68,9 +68,9 @@ sleuths:
 
 #### Commentary
 
-#discussion/implications/peerReview/tools/enableEditsDeletes
+#misc/implications/peerReview/tools/enableEditsDeletes
 - This means that an implication of the research supports editing and deleting of informal peer review posts on digital platforms.
 #### Commentary Data
 
-#discussion/implications/peerReview/practices/social/hireStatsExps
+#misc/implications/peerReview/practices/social/hireStatsExps
 - This means that someone (could be JP or someone in the dataset) mentioned that publishers ought to hire statistical experts to make decisions about retractions if they do not already do so.

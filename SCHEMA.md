@@ -33,13 +33,14 @@ Conventions:
 
 ## Fields on every note
 
-| Field | Required | Description |
-|---|---|---|
-| `type` | yes | The note type — one of the values in the table below. |
-| `noteID` | yes | UUID, stable across renames. |
-| `created` | yes | ISO-8601 timestamp the record was created/captured. |
-| `status` | yes | `complete` = written up; `stub` = placeholder needing content. |
-| `tags` | no | List of taxonomy tags (may also appear inline as `#inpeer/…`). |
+| Field     | Required | Description                                                    |
+| --------- | -------- | -------------------------------------------------------------- |
+| `type`    | yes      | The note type — one of the values in the table below.          |
+| `noteID`  | yes      | UUID, stable across renames.                                   |
+| `created` | yes      | ISO-8601 timestamp the record was created/captured.            |
+| `status`  | yes      | `complete` = written up; `stub` = placeholder needing content. |
+| `tags`    | no       | List of taxonomy tags (may also appear inline as `#inpeer/…`). |
+|           |          |                                                                |
 
 ## Note types
 

@@ -85,7 +85,7 @@ and
     - What are the implications for evolving:
         - formal peer review?
             - Journal reviewing confidentiality policies seem easy to break. Maybe they should be stricter. What are the consequences for breaking them?
-	            - #discussion/implications/peerReview/practices/social/enforceConfidentiality
+	            - #misc/implications/peerReview/practices/social/enforceConfidentiality
 		            - This means that publishers need to enforce reviewers' confidentiality policies more strongly.
         - informal peer review?
             - Platforms supporting informal peer review ought to develop codes of conduct that require agreeing to confidentiality rules.

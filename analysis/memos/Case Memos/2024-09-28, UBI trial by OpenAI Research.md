@@ -384,10 +384,10 @@ source:
     - **Event or Activity Observed**: appraisal and science communication
     - **Description**: We will ask ourselves:
         - How was the case discovered?
-	        - #discussion/zoo/discovery/viralStudy
+	        - #misc/zoo/discovery/viralStudy
             - X/Twitter has been quite active today
                 - [Noah Smith thread on X/Twitter](https://x.com/Noahpinion/status/1815406682094375227)
-	                - #discussion/zoo/sciComm/biased
+	                - #misc/zoo/sciComm/biased
 		                - This means that the individual reporting a study in a biased way (e.g. selectively reporting results).
                 - [Michael Nielsen on X/Twitter](https://x.com/michael_nielsen/status/1815498396398145614)
         - Was the observation a partial or a complete session?
@@ -434,7 +434,7 @@ source:
         - What are the implications for evolving:
             - general
                 - communicate effect sizes more concretely to show what is going on beyond small percentage increases: [[CLES: common language effect size]], [[Cohen's U3]]
-	                - #discussion/implications/peerReview/practices/pedagogical/effectSizesClearly
+	                - #misc/implications/peerReview/practices/pedagogical/effectSizesClearly
 		                - This means that the scholarship would benefit from communicating effect sizes clearly, not just with conventional notation.
             - formal peer review?
                 - Get your messaging right and share your dataset by default to avoid idealogical spin on study results.

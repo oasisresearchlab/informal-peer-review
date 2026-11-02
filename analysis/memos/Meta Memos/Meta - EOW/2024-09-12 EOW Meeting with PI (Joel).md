@@ -11,7 +11,7 @@ JP should also stick to coding things explicitly added to the data and not code 
 
 #inpeer/how/practices/review/paper/layers/theoretic/vacuousStudy if there isn't strong conceptual grounding in the form of a model, theory, or framework.
 
-#discussion/implications/peerReview/tools/removeUXfriction is something that is good to look for, but isn't yet grounded in explicit data.
+#misc/implications/peerReview/tools/removeUXfriction is something that is good to look for, but isn't yet grounded in explicit data.
 
 JC also helped work out a metadata schema for the properties panels in data > appraisals:
 ![[Screenshot 2024-09-12 at 18.58.31.png]]

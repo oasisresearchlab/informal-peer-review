@@ -144,7 +144,7 @@ memo
 - **Description**: We will ask ourselves:
 	- How was the case discovered?
 		- I discovered it in BlueSky and Twitter on Friday evening.
-			- #discussion/zoo/sciCommSocialMedia
+			- #misc/zoo/sciCommSocialMedia
 	- Was the observation a partial or a complete session?
 		- complete session
 	- What occurred? Which concerns were raised and by whom?
@@ -198,4 +198,4 @@ memo
 				- #inpeer/evdInfra/where/multimedia/blog/personal/substack
 		- informal peer review?
 			- We've gotta hook informal peer reviewers with Buy Me a Coffee, YouTube live streams, and create sub-communities with hashtags and associated techniques to ensure that they become more visible with academic endorsements.
-				-   #discussion/implications/peerReview/practices/financial/paymentChannels
+				-   #misc/implications/peerReview/practices/financial/paymentChannels

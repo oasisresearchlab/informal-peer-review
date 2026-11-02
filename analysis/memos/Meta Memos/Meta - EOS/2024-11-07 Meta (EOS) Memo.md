@@ -39,7 +39,7 @@ Here, I track the synthesis of codes into themes. I end open coding (for now) an
 					- #inpeer/evdInfra/what/studyReports/poster 
 						- #inpeer/evdInfra/what/studyReports/poster/sensitiveTopic 
 				- Rarely patents
-					- #discussion/implications/patentReview
+					- #misc/implications/patentReview
 	Where do they review?
 		1. ==Theme: Informal peer reviewers work in a "glass laboratory" by using existing,  public-access platforms for socializing. These include Bluesky, X/Twitter, YouTube and bespoke platforms like PubPeer.==
 			Codes: where

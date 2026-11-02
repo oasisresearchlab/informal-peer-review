@@ -120,7 +120,7 @@ source:
 - **Event or Activity Observed**: appraisal...
 - **Description**: We will ask ourselves:
     - How was the case discovered?
-        - X/Twitter algorithm surfaced it after 8+ months of training the algorithm. I think Jukka found it serendipitously in his feed as well. #discussion/zoo/discovery/sciJourSocialMedia
+        - X/Twitter algorithm surfaced it after 8+ months of training the algorithm. I think Jukka found it serendipitously in his feed as well. #misc/zoo/discovery/sciJourSocialMedia
     - Was the observation a partial or a complete session?
         - This was a complete session over the later part of an afternoon.
     - What occurred? Which concerns were raised and by whom?
@@ -170,8 +170,8 @@ source:
     - What are the implications for evolving:
         - formal peer review?
             - Cross-journal standards for literature reviews ought to be grounded in established reporting guidelines like [[PRISMA guidelines]].
-	            - #discussion/implications/peerReview/standards/reporting
+	            - #misc/implications/peerReview/standards/reporting
         - informal peer review?
             - I should not need to prod informal peer reviewers to be more constructive in their posts. People can be educated via social media and it's up to informal peer reviewers to take on a Pedagogical frame when possible. Destructive frames may close off opportunities to improve the status quo.
-	            - #discussion/implications/peerReview/frames/adoptPedagogicalFrame
+	            - #misc/implications/peerReview/frames/adoptPedagogicalFrame
 		            -

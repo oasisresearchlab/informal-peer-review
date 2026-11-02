@@ -46,7 +46,7 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 #inpeer/who/reviewer/roles/hero
 #inpeer/who/reviewer/roles/hero/sciReformer
 
-#discussion/zoo/infrastructure/eliteGroups/elitePower
+#misc/zoo/infrastructure/eliteGroups/elitePower
 #inpeer/how/practices/review/paper/frames/destructive
 
 #inpeer/how/review/paper/irreproducible
@@ -54,8 +54,8 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 #inpeer/who/reviewer/roles/reviewer/informal/debatesStudyauthor
 
 #inpeer/who/reviewer/roles/expert/fields/metascientist
-#discussion/implications/peerReview/tools/removeUXfriction
-#discussion/implications/peerReview/tools/pubpeer/badUX
+#misc/implications/peerReview/tools/removeUXfriction
+#misc/implications/peerReview/tools/pubpeer/badUX
 
 #inpeer/who/reviewer/roles/influencer/scholarly
 #inpeer/who/reviewer/roles/employment/retired
@@ -70,7 +70,7 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 #inpeer/evdInfra/impacts/reactions/authors/refute
 #inpeer/evdInfra/impacts/reactions
 
-#discussion/zoo/infrastructure/eliteGroups/elitePower
+#misc/zoo/infrastructure/eliteGroups/elitePower
 #inpeer/how/practices/sociotechnical/social/elitePower/refute
 #inpeer/how/practices/review/paper/layers/empirical/openness/practices/performative
 #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed/requestFail
@@ -81,7 +81,7 @@ Meta: It's a quiet day after Election Day 2024. Hard to feel super productive to
 
 #### Appraisal
 
-#discussion/implications/peerReview/tools/powercheck
+#misc/implications/peerReview/tools/powercheck
 - This means that I, JP, was inspired to conceptualize a new peer review tool based on the cases analyzed in this study. Here, I consider a tool to check power analyses for errors and fraud much like the web app statcheck.
 
 #### Appraisal Data

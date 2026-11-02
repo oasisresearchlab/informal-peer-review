@@ -96,7 +96,7 @@ source:
                 - ![[Screenshot 2024-11-06 at 18.10.22.png]]
 	                - Markdown
 		                - [https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2](https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A#2)
-                - 😧            - #discussion/zoo/education/educateScholarsFail
+                - 😧            - #misc/zoo/education/educateScholarsFail
     - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
         - none when examined November 6th, 2024
     - Behavioral Economics: its value/risks; who is doing it, why, and rewards/risks
@@ -114,7 +114,7 @@ source:
 	            - Forensic error detection tools are needed, because we only have one Dorothy.
         - intersections with institutional and power structures
             - An anonymous post referenced DB's power when suggesting peer review eliminates errors in the scientific process.
-	            - #discussion/zoo/infrastructure/eliteGroups/elitePower
+	            - #misc/zoo/infrastructure/eliteGroups/elitePower
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpNA2xomPKK.png?alt=media&token=b9c8edb4-56a0-4e08-b3e5-16e0cf6499ca)
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - Destructive aka #inpeer/how/practices/review/paper/frames/destructive
@@ -151,15 +151,15 @@ source:
         - Yeah, actually do the power analysis correctly.
     - What were my feelings about its sophistication and ease of authoring?
         - Using PubPeer to correct a statistical power analysis issue is easy. I tried it myself, but a moderator seems to have prevented me. Maybe I can try again later.
-            - #discussion/implications/peerReview/tools/removeUXfriction
-            - #discussion/implications/peerReview/tools/pubpeer/badUX
+            - #misc/implications/peerReview/tools/removeUXfriction
+            - #misc/implications/peerReview/tools/pubpeer/badUX
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaILrnkuEoK.png?alt=media&token=367abd05-52d6-47c9-bfd4-ca824e18d04a)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSzumf3pO7y.png?alt=media&token=a208e1f3-82be-4e55-b5b9-eceaafb422a4)
     - If retractions, corrections, and expressions of editorial concern are issued, then can we dig deeper into why they were possible and how long they required?
         - NA; I checked months later (November 6th, 2024). Nothing!
     - How many similar examples of informal peer review are hiding elsewhere and how might one surface them?
         - errors in power analysis are interesting to consider.
-		#discussion/implications/peerReview/tools/powercheck
+		#misc/implications/peerReview/tools/powercheck
 			This means that I, JP, was inspired to conceptualize a new peer review tool based on the cases analyzed in this study. Here, I consider a tool to check power analyses for errors and fraud much like the web app statcheck.
     - Did I engage in active participant observation? If so, what did I do and how was it received? Which conceptual and technological tools did appraisers use?
         - Nope, but I'm monitoring this in case I need to dig deeper. G*Power was the primary tool to report on PubPeer.

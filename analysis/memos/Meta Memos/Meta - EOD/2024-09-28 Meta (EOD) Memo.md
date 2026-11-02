@@ -17,13 +17,13 @@ I added the following new codes:
 #inpeer/how/practices/review/paper/layers/empirical/openness/prereg/closed 
 - This means that the preregistration is hard to access (gated), adding a delay.
 
-#discussion/zoo/sciComm/biased
+#misc/zoo/sciComm/biased
 - This means that the individual (influencers, sci comm) reporting a study in a biased way (e.g. selectively reporting results).
 
 #inpeer/digitalEthnography/activePartObs/tell/what/advisedCoauthor
 - This means that I engaged directly with a scholar/co-author and let me know how I would have liked the research to have been designed and/or executed.
 
-#discussion/implications/peerReview/practices/pedagogical/effectSizesClearly
+#misc/implications/peerReview/practices/pedagogical/effectSizesClearly
 - This means that the scholarship would benefit from communicating effect sizes clearly, not just with conventional notation. 
 
 #inpeer/digitalEthnography/activePartObs/ask/community/details
@@ -51,7 +51,7 @@ I added the following new codes:
  #inpeer/who/reviewer/roles/unconventional/thinktankScholar 
 
 #inpeer/how/practices/review/paper/frames/destructive 
-#discussion/zoo/discovery/viralStudy 
+#misc/zoo/discovery/viralStudy 
 
 
 #inpeer/how/practices/review/paper/layers/empirical/openness/data/needed 

@@ -191,10 +191,10 @@ sites: "[[bluesky - general]]"
                         - JP: How do we compete with social media?
                     - ability to edit and delete posts
                         - This is easy.
-	                        - #discussion/implications/peerReview/tools/enableEditsDeletes
+	                        - #misc/implications/peerReview/tools/enableEditsDeletes
 		                        - This means that an implication of the research supports editing and deleting of informal peer review posts on digital platforms.
                     - assurance of impacts: [[literature changes: retractions, corrections, notices of editorial concern]]
-			                    - #discussion/implications/peerReview/practices/social/assureImpacts
+			                    - #misc/implications/peerReview/practices/social/assureImpacts
 			                    - This means that an implication of the research supports providing informal peer reviewers assurances that their posts will impact the scholarly literature through notices of editorial concern, corrections, and retractions.
 				                    - JP: I just had a thought that any newly created journals like the soon-to-come Lifecycle Journals and MetaROR ought to have statements regarding how they will respond to informal peer reviews in good faith.
 										== JP: Moderately difficult, but we could provide users case studies, statistics, and unite sleuths with joint statements like the [[InPeeR case: Scientific Reports AI Fiasco]] Op

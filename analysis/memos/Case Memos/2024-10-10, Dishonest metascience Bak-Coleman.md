@@ -213,7 +213,7 @@ source:
 	            - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate
 	            - #inpeer/who/reviewer/roles/hero/sciReformer
 	            - #inpeer/who/reviewer/roles/influencer/scholarly
-	            - #discussion/zoo/infrastructure/eliteGroups/elitePublishersGoodRevs
+	            - #misc/zoo/infrastructure/eliteGroups/elitePublishersGoodRevs
 		            - This means that the elite publishers actually had good reviews pointing out problems in the manuscript, but they published it anyway.
             - Joe Bak-Coleman, like Berna Devezer. and Jessica Hullman, could be considered part of the open science counterculture. All of these scholars use open practices, but have a more critical POV regarding the necessity of certain practices and whether they are sufficient for high-quality scholarship.
 	            - #inpeer/who/reviewer/roles/expert/fields/openSci/advocate/cautious
@@ -221,7 +221,7 @@ source:
 				-  #inpeer/how/practices/review/paper/layers/empirical/openness/practices
         - intersections with institutional and power structures
             - The Center for Open Science [[org/Center for Open Science]] and _Nature Human Behavior_ are powerful institution interested in selling open science and papers applying it. Here, I commend _Nature Human Behavior_ for flagging and retracting the paper. But they gave the authors an opportunity to resubmit the paper, so does that reveal the friendly peer-to-peer backscratching at the elite levels of science? Given the deep issues in @protzko2024, a stricter publisher ought to have prevented future publication. After all, a retraction looks unseemly and wastes editorial resources for resubmission.
-	            - #inpeer/who/target/eliteAuthors #discussion/zoo/infrastructure/eliteGroups/elitePower
+	            - #inpeer/who/target/eliteAuthors #misc/zoo/infrastructure/eliteGroups/elitePower
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - [[destructive critical appraisal]]
 	        - #inpeer/how/practices/review/paper/frames/destructive
@@ -319,13 +319,13 @@ source:
     - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
         - cc [[Joel Chan]]
             - It is difficult to study and synthesize multiple lengthy InPeeRs, so carefully developing a UI for authoring and studying InPeeRs may help us get up to speed. Here, [[[[ART]] - PubPeer]] is the old world with their top-to-bottom forum UI. Can we consider other options like [[discourse graph]]s and [[canvas UI(s)]]?
-	            - #discussion/implications/peerReview/tools/pubpeer/badUX
-	            - #discussion/implications/peerReview/tools/pubpeer/designUI
+	            - #misc/implications/peerReview/tools/pubpeer/badUX
+	            - #misc/implications/peerReview/tools/pubpeer/designUI
 		            - This means that it would be useful to design PubPeer's UI to enable a synthesis of what is currently being discussed about a scholarly report.
     - What are the implications for evolving:
         - formal peer review?
             - Formal peer review detected some of the issues, as found in posts by [[Tal Yarkoni]]. We need a way to push such reviews into the open and improve their discovery.
-	            - #discussion/implications/peerReview/practices/social/publicizeFormalreviews
+	            - #misc/implications/peerReview/practices/social/publicizeFormalreviews
 		            - This means that we should publicize formal peers alongside the paper to uncover the critiques.
         - informal peer review?
             - We can supplement....

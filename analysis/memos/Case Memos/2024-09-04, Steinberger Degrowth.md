@@ -41,7 +41,7 @@ source:
 	            - #inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique
         - intersections with institutional and power structures
             - The institutional structures here are journals that do not filter manuscripts by literature search strategies or require data from systematic reviews to be available by default. That makes all of this much harder. Publishing dead reviews that cannot be updated is also problematic. We need the future [[Matt Clancy]] recently blogged about. [[Jeroen van den Bergh]] noted that all reviews are incomplete because they need to be published at some point...
-	            - #discussion
+	            - #misc
     - Storytelling: What is the style/genre/frame of critical appraisal?
         - #[[destructive critical appraisal]], but respectful and somewhat pedagogical only after Jeroen van den Bergh appeared in the comments. Y'all gotta explain your destructive appraisals when you post them instead of waiting around for them.
 			#inpeer/how/practices/review/paper/frames/destructive l
@@ -100,4 +100,4 @@ source:
             - Transparent literature reviews: show all search criteria and give us links to Zotero libraries and databases somewhere showing the papers that you included in your literature review
         - informal peer review?
             - Social media platforms, like [[[[[[ART]] -]] - Altmetrics Explorer]] do not provide InPeeR summaries per paper. It'd be great to automate that somehow.
-			- #discussion/implications/peerReview/tools/automate/syntheses/altmetricsExp
+			- #misc/implications/peerReview/tools/automate/syntheses/altmetricsExp

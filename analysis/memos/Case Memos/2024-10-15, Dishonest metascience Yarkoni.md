@@ -215,8 +215,8 @@ source:
         - Sociology of Science:
             - intersections with science reform structures and movements
                 - Science reform is happening within Nosek's circle and Tal wrote some modern metascientific classics on the [[generalizability crisis]], statistics, and social media. He is a part of the group (or was) being critiqued. He can't square the idea that reformers would be both dumb in choosing to investigate a well-trod area and fail to provide evidence to support their conclusions.
-	                - #discussion/zoo/infrastructure/eliteGroups
-	                - #discussion/zoo/infrastructure/eliteGroups/elitePower
+	                - #misc/zoo/infrastructure/eliteGroups
+	                - #misc/zoo/infrastructure/eliteGroups/elitePower
 	                - #inpeer/evdInfra/impacts/reactions/authors/support/critiqueHero
 		                - This means that someone is critiquing their hero/idol with an informal peer review or two.
             - intersections with institutional and power structures
@@ -274,10 +274,10 @@ source:
                 - reviewers:
                 - publishers: just like NHB, share reviews publicly, request justifications for
                 - readers: alert readers to formal and informal reviews, synthesizing the two into a coherent view. PubPeer seems ill-suited to this.
-	                - #discussion/implications/peerReview/practices/cognitive/synthFormalandInformal
+	                - #misc/implications/peerReview/practices/cognitive/synthFormalandInformal
             - informal peer review?
                 - study co-authors: Many of the formal reviewers engaged with InPeeR, but many formal reviewers may not even be aware of InPeeR. How can we alert them without requiring them to log onto social media?
-	                - #discussion/implications/peerReview/practices/social/alertFormalReviewers
+	                - #misc/implications/peerReview/practices/social/alertFormalReviewers
                     - Use Altmetrics to spot activity
                         - Synthesize posts by sentiment
                     - Send alerts to study co-authors

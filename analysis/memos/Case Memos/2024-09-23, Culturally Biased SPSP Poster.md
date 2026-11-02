@@ -81,7 +81,7 @@ source:
                             - Islam is a religion of peace. If you disagree, we will cut off your head, like Abdoullakh Anzorov did to Samuel Paty.
                             - Decolonial psych? Not sure about Islam, but you are definitely evil.
                             - Quote
-                            - #discussion/zoo/bin/Academic colleagues - henceforth, if you unironically mention #discussion/zoo/bin/decolonization in your publications or syllabi, I will consider you #discussion/zoo/bin/Hitler\-adjacent supporters of #discussion/zoo/bin/Hamas butchers who promote beheading of babies, rape, kidnapping, torture, and burning people alive. Yours.
+                            - #misc/zoo/bin/Academic colleagues - henceforth, if you unironically mention #misc/zoo/bin/decolonization in your publications or syllabi, I will consider you #misc/zoo/bin/Hitler\-adjacent supporters of #misc/zoo/bin/Hamas butchers who promote beheading of babies, rape, kidnapping, torture, and burning people alive. Yours.
                             - Show more
                             - Please stop fathoming yourself as a "scholar." You are light-years away from being a scholar. Islam is a toxic religion. Time you grow up.
                 - X/Twitter post: @datepsych or Alexander
@@ -103,7 +103,7 @@ source:
 	                            - > "Even if the Occupation poster did not exist, and or was immediately taken down, the removal of the Gaski poster is still censorship of science by scientists, and that is the key point of this post."
                 - [Substack post: SPSP Censorship 2.0: "We Are Above the Rules"](https://unsafescience.substack.com/p/spsp-censorship-20-we-are-above-the) by [[Lee Jussim]]
                     - > "Of course, SPSP does not need to be bound by COPE, but, as far as I can tell, they have articulated no other grounds for retractions. So, whatever their grounds are for removing the poster, they are making it up after the fact to justify imposing their “values” via censoring the poster. To be sure, SPSP is formally a private organization.
-	                    - #discussion/implications/peerReview/standards/retracting
+	                    - #misc/implications/peerReview/standards/retracting
 		                    - The individual mentions COPE guidelines used by publishers to justify retractions and considers whether or not they are applicable in a particular situation.
                     - > "This poster was _not_ what was accepted. It was sneakily slipped in (whether by the person who had a bona fide research presentation accepted or someone else remains unclear). Regardless, it is against SPSP’s own rules to present something very different than what was accepted. And yet, the paper on Pew surveys of Muslims was removed but this was not. What’s next? Getting a poster accepted because it reports new studies of the role of Bayesian reasoning in political judgments and replacing it with Lock Up Trump posters?
         - Scholarly: outcomes for formal scholarly record like retractions, corrections, notices, etc.
@@ -167,7 +167,7 @@ source:
                             - > "Many attendees raised concerns about this poster after seeing the abstract on our online convention platform. In response, the poster abstract was reviewed. Based on that review which revealed a **^^lack of scientific rigor in the reporting of the results and a disconnect between the claims made in the abstract and the evidence provided in the data set^^**, SPSP retracted the poster. While SPSP removed the poster from our convention platform and did not display the presentation onsite, it had already been viewed by convention attendees, members, as well as others in our community."
 							#inpeer/evdInfra/impacts/reactions/publishers/revisions/admitsLowRigor
 		                            - The reason for a retraction is a stated lack of scholarly rigor, as when a publication uses faulty theorizing, study design, and/or analyses.
-	                            - #discussion/zoo/clippings/cscw/credibility/resultsMismatchClaims
+	                            - #misc/zoo/clippings/cscw/credibility/resultsMismatchClaims
 		                            - The claims and results do not match.
                         - reviewing criteria, reviewer burden
                             - > "Single presenter podium submissions (such as this one) are **^^evaluated by three volunteer reviewers, who are SPSP members with a PhD. Reviewers receive around 30 submissions to review.^^** Reviewers score three scientific criteria during evaluation: strength and rigor, contribution, and interest value. Separately, reviewers score the diversity, equity, inclusion, and/or anti-racism statements. More details about each of these criteria are available [on the SPSP website](https://spsp.org/events/annual-convention/submissions/evaluation-selection-process)."
@@ -194,7 +194,7 @@ source:
                 - SPSP is the largest social and personality psychology society. They seem to have the power to suggest reforms and require diversity and equity statements. It certainly seems as though they are enforcing a strong liberal agenda in their conferences.
 					- #inpeer/evdInfra/impacts/reactions/publishers/revisions/retractions/swift
 						- The outcome was a swift retraction meaning within minutes, hours, days, or a 1-4 weeks.
-					- #discussion/zoo/scholarlySociety
+					- #misc/zoo/scholarlySociety
 						- A scholarly society (e.g. SPSP, APA, CHI, CSCW) is directly involved in the case.
         - Storytelling: What is the style/genre/frame of critical appraisal?
             - [[AdvisoryCriticalAppraisal]] ? ExpressiveCriticalAppraisal
@@ -237,7 +237,7 @@ source:
             - No, time has passed and I cannot engage in meaningful active participant observation. I may do so if a similar case arises.
     - **Reflection**: What was your experience in this session:as a participant? as a participant-observer?
         - What stood out to you about this session, in light of our research problem?
-            - I originally missed Lee Jussim's take on this and now know the value of waiting a few days to weeks, returning to search for InPeeR reactions, and note them down. Note of implications section of #discussion/zoo/bin/CSCW2025InPeeRPaper and #discussion/zoo/bin/IntegrativePaper2024JP.
+            - I originally missed Lee Jussim's take on this and now know the value of waiting a few days to weeks, returning to search for InPeeR reactions, and note them down. Note of implications section of #misc/zoo/bin/CSCW2025InPeeRPaper and #misc/zoo/bin/IntegrativePaper2024JP.
         - What was interesting or concerning or confusing?
             - This case features posters and social issues like DEI/bias and that does not often come across my feed!
         - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
@@ -245,10 +245,10 @@ source:
         - What are the implications for evolving:
             - formal peer review?
                 - Let's definitely ensure that the promised research artifact is delivered during the conference, not something else.
-	                - #discussion/implications/peerReview/practices/cognitive/alignStudyPlanwithSubmission
+	                - #misc/implications/peerReview/practices/cognitive/alignStudyPlanwithSubmission
 		                - This is inspiration for improving reviewing by checking to ensure that the plan (e.g. poster/talk/paper abstract matches the eventual content in the poster/talk/paper)
 		                - related to? #inpeer/how/practices/review/paper/layers/empirical/rigor/intConsistency/preregDev
             - informal peer review?
                 - Let's use the power of social media to surface issues early for conferences, instead of three highly expert Ph.Ds. Let anyone review at anytime from the very beginning.
-	                - #discussion/implications/peerReview/practices/social/coordinateConferences
+	                - #misc/implications/peerReview/practices/social/coordinateConferences
 		                - This is inspiration for improving reviewin

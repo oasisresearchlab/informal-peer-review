@@ -23,7 +23,7 @@ I added the following new codes:
 - This means that a paper has not been retracted despite significant flaws that were communicated to the authors and/or publisher(s). Or else use this code if a paper has been retracted and re-published elsewhere.
 	- Update 2024-10-08: can include papers that were published despite an offer to self-retract and also papers that were retracted and offered a resubmission opportunity
 
- #discussion/zoo/discovery/followerSharedtheirInformalRev
+ #misc/zoo/discovery/followerSharedtheirInformalRev
 - This means that a follower or reader of a blog/microblog shared their own informal peer review for discussion and/or action.
 
 #inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/mispecifiedModel 
@@ -44,7 +44,7 @@ I added the following new codes:
 #inpeer/who/reviewer/roles/villain/wasteProducer 
 - This means that one or more of the study co-authors has been producing research waste over a long timespan.
 
-#discussion/zoo/education/statsMisconceptions
+#misc/zoo/education/statsMisconceptions
 - This means that there is a need to educate the scholarly community about statistical misconceptions.
 
 #inpeer/who/reviewer/roles/sleuth/adjacentSleuth
@@ -59,10 +59,10 @@ I added the following new codes:
 #inpeer/how/practices/review/paper/layers/empirical/rigor/methods/stakeholderEngagement/memberChecking
 - This means that scholars worked with stakeholders like participants and/or practitioners to ensure that the results and claims are sensible. This practice from qualitative research can also be applied to quantitative research. 
 
-#discussion/implications/peerReview/tools/pubpeer/badUX
+#misc/implications/peerReview/tools/pubpeer/badUX
 - This means that the user experience (UX) of the PubPeer platform could be smoother by supporting writing more easily on a modern interface rather than an old-school forum initially designed in 2012.
 
-#discussion/implications/peerReview/practices/social/educatePublishers 
+#misc/implications/peerReview/practices/social/educatePublishers 
 - This means that scholars need to better educate publishers about the depth of reviewing needs and the nuances of best practices. For example, robustness checks do not excuse bad statistical modeling that is doomed to fail.
 
 #inpeer/evdInfra/what/reviews/informal/verificationReport
@@ -93,5 +93,5 @@ I reused some older codes as well:
 ---
 ## 🚧 Warning: Looser Codes
 
-#discussion/implications/peerReview/practices/social/crowdsourceRevisions 
+#misc/implications/peerReview/practices/social/crowdsourceRevisions 
 - This means that JP thinks it'd be useful to crowdsource retractions and corrections within a scholarly publishing g

@@ -37,9 +37,9 @@ Let's code for a bit...
 	                    - Jay Patel
 	                    - ‪@infotainment.bsky.social‬
 	                    - 🧐
-	                    - #discussion/zoo/SciComment
+	                    - #misc/zoo/SciComment
 	                    - +
-	                    - #discussion/zoo/ResearchIntegrity
+	                    - #misc/zoo/ResearchIntegrity
 	                    - I've got a challenge for you re: journal websites with comments sections: Do you have any examples of critiques of the article? It'd be great to find cases when the comments section: a. led to updates/retractions b. didn't lead to updates/retractions
 	                    - November 9, 2024 at 7:58 PM
 	                    - Everybody can reply
@@ -309,7 +309,7 @@ Let's code for a bit...
 	                                - JP: Gelman and [[Lonni Besançon]] [cover its issues](Lonni Besançon).
 	                                    - "OliP on August 25, 2023 10:38 AM at 10:38 am said:
 		                                    - > Great comment. One thing that slightly bugs me about post-publication peer review is how little exposure some of it gets. For example, **==most people wont be aware of PubPeer comments on a paper unless they have already bought in to the system (installed browser add-on e.g.). Seems surprising to me that newer companies like scite.ai have already teamed up with publishers to add citation-type info to publication webpages, but PubPeer seem to be left out in the cold==**. Is it because PP wish to remain totally financially independent/uninfluenced by publishers? Just seems a shame that **==PP content often seems to be preaching to the choir.==**"
-			                                    - #discussion/implications/peerReview/tools/connect 
+			                                    - #misc/implications/peerReview/tools/connect 
 				                                    - [ ] check whether it's OK to code Gelman and Bescacon
 	                            - Markdown
 	                                - ...
@@ -405,7 +405,7 @@ Let's code for a bit...
 	                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLOVHw1UE0R.png?alt=media&token=4e5529d0-145e-47d1-a643-a7beab13445a)
 	                - Markdown
 	                    - ![](https://media.licdn.com/dms/image/v2/D4E35AQGkV2NY46xjeA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1704243747919?e=1731884400&v=beta&t=iJbXh4QSYO8TqjMMGzZnnr8roK3enk9AmAD8VtPN8wM)[🔗](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
-	                    - [Jay PatelJay Patel • You • YouUX Researcher, UX Designer | Research Synthesis Systems #discussion/zoo/HCI #discussion/zoo/dataviz #discussion/zoo/psychology #discussion/zoo/metascienceUX Researcher, UX Designer | Research Synthesis Systems #discussion/zoo/HCI #discussion/zoo/dataviz #discussion/zoo/psychology #discussion/zoo/metascience](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)[Request services](https://www.linkedin.com/services/page/369660322a16a3b036)[20h • Edited • 20 hours ago](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
+	                    - [Jay PatelJay Patel • You • YouUX Researcher, UX Designer | Research Synthesis Systems #misc/zoo/HCI #misc/zoo/dataviz #misc/zoo/psychology #misc/zoo/metascienceUX Researcher, UX Designer | Research Synthesis Systems #misc/zoo/HCI #misc/zoo/dataviz #misc/zoo/psychology #misc/zoo/metascience](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)[Request services](https://www.linkedin.com/services/page/369660322a16a3b036)[20h • Edited • 20 hours ago](https://www.linkedin.com/in/jp93?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACk9qBQBqK-FRlpO7rzWjNoq4A-x3888gqQ)
 	                    - 🧐 I've got a challenge for you (sleuths and readers across the sciences):
 	                    - For journal websites with comments sections, do you have any examples of reader comments that:
 	                    - a. led to updates, corrections, or retractions?

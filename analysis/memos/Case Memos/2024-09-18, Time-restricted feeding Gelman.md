@@ -140,9 +140,9 @@ source:
                     - AHA news release: [10 popular diets scored for heart-healthy elements; some need improvement](https://newsroom.heart.org/news/10-popular-diets-scored-for-heart-healthy-elements-some-need-improvement) (April 2023)
                     - AHA news release: [New look at nutrition research identifies 10 features of a heart-healthy eating pattern](https://newsroom.heart.org/news/new-look-at-nutrition-research-identifies-10-features-of-a-heart-healthy-eating-pattern) (November 2021)
                     - AHA healthy eating tips: [Eat Smart](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart)
-                    - For more news from AHA EPI|Lifestyle Scientific Sessions 2024, follow us on X (formerlTwitter) [@HyeartNews](https://twitter.com/HeartNews), #discussion/zoo/bin/EPILifestyle24.
+                    - For more news from AHA EPI|Lifestyle Scientific Sessions 2024, follow us on X (formerlTwitter) [@HyeartNews](https://twitter.com/HeartNews), #misc/zoo/bin/EPILifestyle24.
                     - *###**
-                    - The American Heart Association’s EPI|Lifestyle Scientific Sessions 2024 is the world’s premier meeting dedicated to the latest advances in population-based science. The 2024 meeting is in-person only, **Monday through Thursday, March 18-21 at the Hilton Chicago.** The primary goal of the meeting is to promote the development and application of translational and population science to prevent heart disease and stroke and foster cardiovascular health. The sessions focus on risk factors, obesity, nutrition, physical activity, genetics, metabolism, biomarkers, subclinical disease, clinical disease, healthy populations, global health and prevention-oriented clinical trials. The Councils on Epidemiology and Prevention and Lifestyle and Cardiometabolic Health (Lifestyle) jointly planned the EPI|Lifestyle Scientific Sessions 2024. Follow the conference on Twitter at **#discussion/zoo/bin/EPILifestyle24**.
+                    - The American Heart Association’s EPI|Lifestyle Scientific Sessions 2024 is the world’s premier meeting dedicated to the latest advances in population-based science. The 2024 meeting is in-person only, **Monday through Thursday, March 18-21 at the Hilton Chicago.** The primary goal of the meeting is to promote the development and application of translational and population science to prevent heart disease and stroke and foster cardiovascular health. The sessions focus on risk factors, obesity, nutrition, physical activity, genetics, metabolism, biomarkers, subclinical disease, clinical disease, healthy populations, global health and prevention-oriented clinical trials. The Councils on Epidemiology and Prevention and Lifestyle and Cardiometabolic Health (Lifestyle) jointly planned the EPI|Lifestyle Scientific Sessions 2024. Follow the conference on Twitter at **#misc/zoo/bin/EPILifestyle24**.
                     - *About the American Heart Association**
                     - The American Heart Association is a relentless force for a world of longer, healthier lives. We are dedicated to ensuring equitable health in all communities. Through collaboration with numerous organizations, and powered by millions of volunteers, we fund innovative research, advocate for the public’s health and share lifesaving resources. The Dallas-based organization has been a leading source of health information for a century. During 2024 - our Centennial year - we celebrate our rich 100-year history and accomplishments. As we forge ahead into our second century of bold discovery and impact, our vision is to advance health and hope for everyone, everywhere. Connect with us on [heart.org](http://www.heart.org/en), [Facebook](http://facebook.com/AmericanHeart), [X](http://twitter.com/American_Heart) or by calling 1-800-AHA-USA1.
                     - *For Media Inquiries and AHA Expert Perspective:**
@@ -211,7 +211,7 @@ source:
 - **Description**: We will ask ourselves:
     - How was the case discovered?
         - Adam Pollock e-mailed Andrew Gelman about the study and its circulation because he though readers might find it interesting. Pollock's friend used the AHA press release to argue that skipping breakfast is dangerous.
-	        - #discussion/zoo/discovery/informalRev/request/followerBenefit
+	        - #misc/zoo/discovery/informalRev/request/followerBenefit
 	        - #inpeer/why/benefits/review/extrinsic/winArgument
 	        - #inpeer/why/benefits/review/extrinsic
     - Was the observation a partial or a complete session?
@@ -360,7 +360,7 @@ source:
     - What are the implications for evolving:
         - formal peer review?
             - Let's request minimum publishing standards for posters including [[EBTC Metadata Template]] like artifacts
-	            - #discussion/implications/peerReview/standards/reporting/posters needed
+	            - #misc/implications/peerReview/standards/reporting/posters needed
         - informal peer review?
             - People need to suggest how they would improve upon the research with the limitations commonly encountered in that field.
                 - See I have some sympathy for the authors because it's easier to criticize a study like this than suggest new studies that would offer greater certainty. I haven't seen a single constructive critical appraisal in the sense that people don't suggest better study designs. This is also a poster, so it's hard to explain everything in one shot. The final author also noted some limitations.

@@ -27,9 +27,9 @@ who
 
 
 infrastructure
-#discussion/zoo/education/educateScholarsFail for mentioning that scholars need to be better educated to catch research waste and prevent it from being published
-#discussion/zoo/sciComm/sciJournalismfail for accusations that science journalism contributed to publicizing low-quality research
-#discussion/zoo/scavengers/paidLowTierpublishers for remarks of the low-quality journals where InPeeR commentary is usually targeted
+#misc/zoo/education/educateScholarsFail for mentioning that scholars need to be better educated to catch research waste and prevent it from being published
+#misc/zoo/sciComm/sciJournalismfail for accusations that science journalism contributed to publicizing low-quality research
+#misc/zoo/scavengers/paidLowTierpublishers for remarks of the low-quality journals where InPeeR commentary is usually targeted
 
 how
 #inpeer/how/practices/review/paper/layers/meta/bias/COIs/detect for pointing out publisher-level and/or scholar-level conflicts-on-interest
@@ -38,8 +38,8 @@ misc
 
 Some miscellaneous codes are:
 
-#discussion/zoo/discovery/sciJourSocialMedia
-#discussion/zoo/discovery/spouseInformal for an informal, familial way to discover InPeeR cases
+#misc/zoo/discovery/sciJourSocialMedia
+#misc/zoo/discovery/spouseInformal for an informal, familial way to discover InPeeR cases
 #inpeer/how/practices/review/paper/layers/discursive/causalClaimUnjustified for unjustified causal claims
 #inpeer/how/practices/review/paper/layers/empirical/interpretation/maturation for age-related changes in participants worth considering during interpretation
 #inpeer/how/practices/review/paper/layers/empirical/analyses/errors/confidenceInts for the misreporting of confidence intervals (CIs)

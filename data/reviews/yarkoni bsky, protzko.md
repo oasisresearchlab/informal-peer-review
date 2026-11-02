@@ -65,7 +65,7 @@ source: https://bsky.app/profile/talyarkoni.com/post/3kowl4n465k24
 		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
 		- ]([https://bsky.app/profile/talyarkoni.com)](https://bsky.app/profile/talyarkoni.com))
 		- i absolutely loathe this kind of argument, because the people making it never seem to realize that a reader who can be easily convinced into their desired conclusion by shitty empirical data can also be convinced just as easily, by equally shitty empirical data, of the opposite conclusion.
-			- #discussion/zoo/why/motivation/forResearching/debate
+			- #misc/zoo/why/motivation/forResearching/debate
 				- This means that a debate has occurred between individuals or organizations as to why research ought to be done. For example, one party support a pragmatic reason (persuasion) and the other support knowledge-building with novel data and claims.
 		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)
 	- Markdown Part II
@@ -88,7 +88,7 @@ source: https://bsky.app/profile/talyarkoni.com/post/3kowl4n465k24
 		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:m4oniojqmvnpjfyjlqwbhkm3/bafkreiadnejo5rcoalgcaapa6nnudk2yqoecjua7cdabis5tvh5h3svfbq@jpeg)
 		- ]([https://bsky.app/profile/briannosek.bsky.social)](https://bsky.app/profile/briannosek.bsky.social))
 		- That is, for my reform aims, I don’t believe that the philosophical argument is sufficient to move the culture. I believe that some empirical evidence provides another vector to engage behavior change and maturation of theoretical understanding of replicability. And your review was excellent
-			- #discussion/zoo/why/motivation/forResearching/pragmaticPersuade
+			- #misc/zoo/why/motivation/forResearching/pragmaticPersuade
 				- This means the an individual or organization is advocating for a pragmatic reason to conduct research: persuade others.
 		- [
 		- ![](https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:gbnaepzuneaxuofkhsnjvs3f/bafkreiebpfknvws3khqhztmiwq7ayzxd6sxlcbxtxdbfpaiufnxj55zn2m@jpeg)

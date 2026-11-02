@@ -137,7 +137,7 @@ memo
 	- intersections with institutional and power structures
 		- The _Journal of Population Economics_ isn't retracting anything if it doesn't want to. This kind of local gatekeeping is not just about keeping research out, but keeping existing research in. There should be some kind of veto mechanism or other governance structure to update our priors -> posterior estimate of the p(paper replicates).
 		- Actually, what _would_ it look like if we used pure crowdsourcing (with a pool of expert, vetted scholars) to make these sorts of judgments. Might [[Life Cycle Journals]] do that at some point
-			- #discussion/implications/peerReview/practices/social/crowdsourceRevisions
+			- #misc/implications/peerReview/practices/social/crowdsourceRevisions
 - Storytelling: What is the style/genre/frame of critical appraisal?
 				- [[destructive critical appraisal]]
 - **Observer**: Jay Patel
@@ -194,7 +194,7 @@ memo
                     - misunderstandings
                         - regression discontinuity checks
                         - robustness checks
-	                        - #discussion/zoo/education/statsMisconceptions
+	                        - #misc/zoo/education/statsMisconceptions
 		- This means that there is a need to educate the scholarly community about statistical misconceptions.
         - Gelman shared this because the authors did a lot of work to correct an "obscure" paper in a "minor" journal.
             - JP: Not so obscure, actually. Thousands of views, 2 citations, and Altmetric score = 852 (1836 tweeters, 2 news mentions including in [Germany](https://zeitung.faz.net/fas/wirtschaft/2023-09-17/14976e6bdc595a4a11fa271b4d4f7fea/?GEPC=s1)...).
@@ -232,7 +232,7 @@ memo
             - cross-post on PubPeer, synthesizing my notes
 			- #inpeer/digitalEthnography/activePartObs/tell/how/pubpeer
 				- This means that I engaged in active participant observation by cross-posting content to PubPeer.
-				- Update: My comment did not pass moderation! It's seems #discussion/implications/peerReview/tools/pubpeer/badUX due to the lack of guidance on how to submit a good PubPeer comment.
+				- Update: My comment did not pass moderation! It's seems #misc/implications/peerReview/tools/pubpeer/badUX due to the lack of guidance on how to submit a good PubPeer comment.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLeXyPt4_ED.png?alt=media&token=242adb15-3499-4bf1-ab9d-14394710de11)
             - engage with journal: not worth it now
     - What were my feelings about its sophistication and ease of authoring?
@@ -252,10 +252,10 @@ memo
         - The regression discontinuity equation is beyond me and the associated statistical jargon is a job for another day.
     - Flesh out any jotted notes on your thoughts, ideas, questions, and concerns as you were conducting the observation.
 	    - I found it a bit awkward to post on PubPeer because the markdown editor on the site is a bit dated and doesn't permit much editing. The ease of authoring needs to improve. I dumped my memo notes into Google Gemini Advanced, prompted for a summary, read each line of output to assess accuracy, and published the comment on PubPeer. The headers that Gemini provided are clear and noticeable. The text is also direct and informative with overwhelming readers with details. I added a few lines at various points myself for added context.
-		    - #discussion/implications/peerReview/tools/pubpeer/badUX
+		    - #misc/implications/peerReview/tools/pubpeer/badUX
 			    - This means that the user experience (UX) of the PubPeer platform could be smoother by supporting writing more easily on a modern interface rather than an old-school forum initially designed in 2012.
     - What are the implications for evolving:
         - formal peer review?
             - The journal thought that robustness checks and RD checks safeguarded results somehow against other threats to validity. Journals need to realize that studies must meet multiple criteria to be published.
-	            - #discussion/implications/peerReview/practices/social/educatePublishers
+	            - #misc/implications/peerReview/practices/social/educatePublishers
 		- This means that scholars need to better educate publishers about the depth of reviewing needs and 

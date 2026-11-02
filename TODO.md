@@ -14,8 +14,8 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 ### Reviewer bios — verify tentative identities
 
 - **`Starkheiser`** — pseudonymous; no real-world bio found.
-- **`Syed Omar`** — tentative match to a KU cultural-psychology PhD student; not fully verified.
-- **`Kirsten T Elliot`** — moderate-confidence match (surname usually "Elliott").
+- ~~**`Syed Omar`** — tentative match to a KU cultural-psychology PhD student; not fully verified.~~
+- ~~**`Kirsten T Elliot`** — moderate-confidence match (surname usually "Elliott").~~
 
 ### Data quality (see `DATA-QUALITY.md`)
 
@@ -34,8 +34,8 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 
 ### Publishing
 
-- **Mint a dataset DOI** — connect the GitHub repo to Zenodo (or OSF) and cut a release so the dataset has a persistent identifier; then add the DOI to `CITATION.cff` and `README.md`. Requires your account.
-- **arXiv ID** — the preprint wasn't findable on arXiv yet; when posted, add the arXiv ID/DOI to `CITATION.cff`'s `preferred-citation`.
+- ~~**Mint a dataset DOI** — connect the GitHub repo to Zenodo (or OSF or Figshare) and cut a release so the dataset has a persistent identifier; then add the DOI to `CITATION.cff` and `README.md`. Requires your account.~~
+- ~~**arXiv ID** — the preprint wasn't findable on arXiv yet; when posted, add the arXiv ID/DOI to `CITATION.cff`'s `preferred-citation`.~~
 
 ## Completed
 

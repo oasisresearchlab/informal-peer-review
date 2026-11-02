@@ -44,17 +44,17 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 7. Archived material (gitignored, kept locally)
 
-| Folder | Count | What |
-|---|---|---|
-| `_archive/orphan-cases/` | 98 | fully-isolated empty case stubs |
-| `_archive/cases-no-memo/` | 11 | cases not coded in a memo |
-| `_archive/cases-merged/` | 2 | Bishop power-analysis duplicates |
-| `_archive/redundant-named-reports/` | 9 | named reports duplicating `source/`/paper notes |
-| `_archive/appraisals-superseded/` | 8 | old-vocabulary appraisal duplicates |
-| `_archive/redundant-people/` | 7 | `data/people/` copies merged into `data/posters/` |
-| `_archive/unlinked-study-authors/` | 8 | study authors with no reviewers/cases/memos |
-| `_archive/orphan-sources/` | 4 | sources with no live author/case/review |
-| `_archive/blank-orphan-reports/` | 4 | blank, unlinked `@citekey` reports |
-| `_archive/blank-orphan-papers/` | 1 | blank, unlinked paper |
-| `_archive/duplicate-sites/` | 10 | flat root-level site notes duplicating the taxonomy-subfolder copies |
-| `_archive/settings-superseded/` | 6 | empty platform-type stubs; generic site notes now carry this role |
+| Folder                              | Count | What                                                                 |
+| ----------------------------------- | ----- | -------------------------------------------------------------------- |
+| `_archive/orphan-cases/`            | 98    | fully-isolated empty case stubs                                      |
+| `_archive/cases-no-memo/`           | 11    | cases not coded in a memo                                            |
+| `_archive/cases-merged/`            | 2     | Bishop power-analysis duplicates                                     |
+| `_archive/redundant-named-reports/` | 9     | named reports duplicating `source/`/paper notes                      |
+| `_archive/appraisals-superseded/`   | 8     | old-vocabulary appraisal duplicates                                  |
+| `_archive/redundant-people/`        | 7     | `data/people/` copies merged into `data/posters/`                    |
+| `_archive/unlinked-study-authors/`  | 8     | study authors with no reviewers/cases/memos                          |
+| `_archive/orphan-sources/`          | 4     | sources with no live author/case/review                              |
+| `_archive/blank-orphan-reports/`    | 4     | blank, unlinked `@citekey` reports                                   |
+| `_archive/blank-orphan-papers/`     | 1     | blank, unlinked paper                                                |
+| `_archive/duplicate-sites/`         | 10    | flat root-level site notes duplicating the taxonomy-subfolder copies |
+| `_archive/settings-superseded/`     | 6     | empty platform-type stubs; generic site notes now carry this role    |

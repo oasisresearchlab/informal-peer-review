@@ -16,10 +16,10 @@ I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to cod
  #inpeer/how/practices/review/paper/values/creativity/litIgnored
 - This means that the report does not support a claim of novelty/creativity because it ignores relevant extant literature.
 
- #discussion/zoo/why/motivation/forResearching/debate
+ #misc/zoo/why/motivation/forResearching/debate
  - This means that a debate has occurred between individuals or organizations as to why research ought to be done. For example, one party support a pragmatic reason (persuasion) and the other support knowledge-building with novel data and claims.
 
-#discussion/zoo/why/motivation/forResearching/pragmaticPersuade
+#misc/zoo/why/motivation/forResearching/pragmaticPersuade
 - This means the an individual or organization is advocating for a pragmatic reason to conduct research: persuade others.
 
 #inpeer/evdInfra/impacts/reactions/authors/support/critiqueHero
@@ -57,8 +57,8 @@ I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to cod
 #inpeer/who/reviewer/roles/expert/fields/metascientist
  #inpeer/why/benefits/review/intrinsic
 #inpeer/who/target/eliteAuthors
-#discussion/zoo/infrastructure/eliteGroups
-#discussion/zoo/infrastructure/eliteGroups/elitePower
+#misc/zoo/infrastructure/eliteGroups
+#misc/zoo/infrastructure/eliteGroups/elitePower
 
 #inpeer/how/practices/review/paper/frames/destructive
 
@@ -85,13 +85,13 @@ I used parts of my Tuesday (create template) and Wednesday P.M. (fill in) to cod
 
 #### Yarkoni
 
-#discussion/implications/peerReview/practices/cognitive/synthFormalandInformal
+#misc/implications/peerReview/practices/cognitive/synthFormalandInformal
 - This means that formal and informal reviews would be valuable to synthesize and present to readers.
 
-#discussion/implications/peerReview/practices/social/alertFormalReviewers
+#misc/implications/peerReview/practices/social/alertFormalReviewers
 - This means that we ought to alert formal (peer) reviewers to the informal peer reviewers occurring to include their input. They are often anonymous and unpaid, so involving them could become difficult unless the situation is extreme.
 
 #### Lakens
 
-#discussion/implications/peerReview/practices/data/backup
+#misc/implications/peerReview/practices/data/backup
 - This is a looser code ideating implication for the constructive layer. I think it would be nice to back up formal and informal reviews verbatim as platform content can disappear without warning.

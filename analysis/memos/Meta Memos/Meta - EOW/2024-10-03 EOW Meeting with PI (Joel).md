@@ -10,6 +10,6 @@ status: complete
 
 Reconsider how I view theoretical sampling. Don't use thematic sampling, but drive future sampling from the deeper patterns you notice/predict from your coding. Exp: You could find cases with diverse agents doing and defending InPeeR.
 
-Coding of anything InPeeR related should be based on **themes** and it's OK to focus on #discussion/zoo/mmip content.
+Coding of anything InPeeR related should be based on **themes** and it's OK to focus on #misc/zoo/mmip content.
 
-In the beginning, it's OK to focus on cases, but ensure that these #discussion/zoo/mmip content can be coded without the structured coding schema found in #discussion/zoo/bin/memoInPeeR (Roam Research).
+In the beginning, it's OK to focus on cases, but ensure that these #misc/zoo/mmip content can be coded without the structured coding schema found in #misc/zoo/bin/memoInPeeR (Roam Research).

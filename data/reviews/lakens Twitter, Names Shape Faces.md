@@ -58,7 +58,7 @@ source: https://x.com/lakens/status/1818215189478519060
 					- This means that the scholarly report identified a communication problem -- one or more dependent variables was unclear to the readers and that resulted in slower comprehension and/or initial misinterpretations.
 			- Why is pnas a red flag (asking out of curioisty)
 			- A past track record of badly vetted papers, especially in psychology (although not only in psychology)
-				- #discussion/zoo/infrastructure/eliteGroups/elitePublishersBadRevs
+				- #misc/zoo/infrastructure/eliteGroups/elitePublishersBadRevs
 			- Say you ran 4 studies, two tests per study. All 8 results are in the same direction, 7 significant and one p=0.06. Would you not publish? I would but would maybe add a notice regarding that one result recommending caution. But definitely of value IMO
 			- You might want to read [journals.sagepub.com/doi/10.1177/19](https://t.co/tRybZk2xiT). But that is not the issue here - you should publish everything (because hiding results just because they are non-significant is a violation of research integrity). You should also do stats correctly.
 
