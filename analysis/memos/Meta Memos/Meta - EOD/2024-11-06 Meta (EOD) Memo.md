@@ -7,7 +7,7 @@ I used parts of my Wednesday P.M. (fill in) to delete the autism case memo, as I
 
 I tidied the coding tree along the way and may tackle the layers subsections later if I have time.
 
-Today, I focused on coding and double-checking [[bishop PubPeer incorrect power analysis]] and [[Incorrect power analysis in G*Power]], [[2024-07-26, Incorrect power analysis G*Power]]. This was very valuable to do, as I've become more thorough in my coding since 2024-07.
+Today, I focused on coding and double-checking [[bishop PubPeer incorrect power analysis]] and [[Incorrect power analysis in G-Power]], [[2024-07-26, Incorrect power analysis G-Power]]. This was very valuable to do, as I've become more thorough in my coding since 2024-07.
 
 I managed to fix the Obsidian issue that blanked out notes pages and required clicking to restore them. I believe that just had to update the Obsidian installer to match the Obsidian app itself. It appears that the installer is key!
 

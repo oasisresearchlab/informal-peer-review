@@ -16,7 +16,7 @@ The paper/report/case name triples (e.g. `Aspartame`, `SORA model`) and the dupl
 
 ## 2. Fragmented / duplicate case names — resolved
 
-- **Power analysis (Bishop / G\*Power):** ✅ merged into a single case `Incorrect power analysis in G*Power`; the former names `Multiple incorrect power analyses in G*Power` and `Power analysis critique` are kept as **aliases**, and the duplicate notes moved to `_archive/cases-merged/`.
+- **Power analysis (Bishop / G\*Power):** ✅ merged into a single case `Incorrect power analysis in G-Power` (renamed from `…G*Power` in v2, because Windows does not allow `*` in filenames; the old name is kept as an alias); the former names `Multiple incorrect power analyses in G*Power` and `Power analysis critique` are kept as **aliases**, and the duplicate notes moved to `_archive/cases-merged/`.
 - **Social-media / AI-image clusters:** ✅ the duplicate/fragment case notes were archived (they were not coded in a memo — see §3).
 
 ## 3. Cases — scope after cleanup

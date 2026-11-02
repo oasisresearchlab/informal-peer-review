@@ -56,7 +56,7 @@ Here, I track the synthesis of codes into themes. I end open coding (for now) an
 			Codes: why
 				- #inpeer/why/benefits/review/intrinsic 
 					- #inpeer/why/benefits/review/intrinsic/correctLit 
-						- ![[2024-07-26, Incorrect power analysis G*Power#^tz1xx8]]
+						- ![[2024-07-26, Incorrect power analysis G-Power#^tz1xx8]]
 				- #inpeer/why/benefits/review/extrinsic/financial 
 					- #inpeer/why/benefits/review/extrinsic/financial/paidCash 
 1. Process

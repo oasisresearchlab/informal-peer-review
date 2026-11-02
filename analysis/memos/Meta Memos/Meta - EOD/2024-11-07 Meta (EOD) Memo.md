@@ -14,7 +14,7 @@ I tidied the coding tree along the way:
 3. infrastructure -> where -> multimedia -> microblog -> bluesky
 4. infrastructure -> solutions
 
-Today, I focused on coding and double-checking [[bishop PubPeer incorrect power analysis]] and [[Incorrect power analysis in G*Power]], [[2024-07-26, Incorrect power analysis G*Power]]. This was very valuable to do, as I've become more thorough in my coding since 2024-07.
+Today, I focused on coding and double-checking [[bishop PubPeer incorrect power analysis]] and [[Incorrect power analysis in G-Power]], [[2024-07-26, Incorrect power analysis G-Power]]. This was very valuable to do, as I've become more thorough in my coding since 2024-07.
 
 Meta: I still experience very mild Obsidian page blanking issues but have now disabled new more plugins so let's see what happens.
 

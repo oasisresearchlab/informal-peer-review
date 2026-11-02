@@ -6,5 +6,5 @@ url: https://pubpeer.com
 cases:
   - "[[Cassava Sciences' Alzheimer's drug simufilam]]"
   - "[[Degrowth search strategies]]"
-  - "[[Incorrect power analysis in G*Power]]"
+  - "[[Incorrect power analysis in G-Power]]"
 ---

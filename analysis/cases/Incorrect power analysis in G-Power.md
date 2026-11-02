@@ -3,6 +3,7 @@ type: case
 noteID: 1ec5912b-3c7d-4f8c-ac00-cdb0c625caab
 status: stub
 aliases:
+  - "Incorrect power analysis in G*Power"
   - "Multiple incorrect power analyses in G*Power"
   - "Power analysis critique"
   - "Incorrect statistical power analysis"

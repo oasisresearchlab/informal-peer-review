@@ -7,7 +7,7 @@ tags:
 source: https://pubpeer.com/publications/A052D6654192E619C78490522C3C6A
 author: "[[Dorothy Bishop]]"
 cases:
-  - "[[Incorrect power analysis in G*Power]]"
+  - "[[Incorrect power analysis in G-Power]]"
 ---
 
 # PubPeer - Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial...

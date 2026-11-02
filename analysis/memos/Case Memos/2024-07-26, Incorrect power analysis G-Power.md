@@ -8,7 +8,7 @@ reviews:
   - "[[bishop PubPeer incorrect power analysis]]"
   - "[[bishop PubPeer incorrect power analysis 2]]"
 cases:
-  - "[[Incorrect power analysis in G*Power]]"
+  - "[[Incorrect power analysis in G-Power]]"
 reviewers:
   - "[[Dorothy Bishop]]"
 sites:
