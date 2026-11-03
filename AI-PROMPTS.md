@@ -25,3 +25,5 @@ The prompts are verbatim, including typos, except that local file paths are repl
 5. > It's ok to share the PubPeer image with my pseudonym. It make be that codes are not unique, appearing multiple times (hence 1080 total codes. Actually, in the local vault, iI now see 1136 codes total in inpeer/... [Image #1]. Include the latest prompts in the AI disclosure with model name, version, date-of-access, etc. misc/... and dg/... codes are irrelevant for our analyses and should be ignored. Restore the three safe screenshots. Find the jussim Substack posts on the biased poster and the original gelman post on Langer from his blog. I'll check the URLs myself while you do this for accuracy.
 
    Image #1 was a screenshot of the Obsidian tag pane showing `inpeer` 1136, `misc` 194, and `dg` 13.
+
+6. > I checked the urls and they passed. I verified your output so that's completed for the todo.  Keep the vacuousStudy code. The orca-cases local vault may have the 326 missing images.

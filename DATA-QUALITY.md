@@ -36,8 +36,8 @@ The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for t
 ## 5. Provenance gaps
 
 - Many notes lack a `created` timestamp; only source-captured notes reliably carry `created`/`source`/`permalink`.
-- **Capture URLs (updated 2026-11-02):** all 36 notes below have a source URL. `jussim blog Substack, culturally biased poster 1` now points to the post it captures. `gelman blog langer` is an empty stub, and its URL is an inference: it points to the post captured in `gelman statmodeling, mindlessness langer`. Both are flagged in `TODO.md`. Jussim's follow-up post, *SPSP Censorship 2.0*, is linked from the memo but not captured.
-- **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap then was `gelman blog langer`; see the entry above. Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
+- **Capture URLs (updated 2026-11-02):** all 36 notes below have a source URL, including `jussim blog Substack, culturally biased poster 1`, which now points to the post it captures, and `gelman blog langer`, an empty stub that points to the post captured in `gelman statmodeling, mindlessness langer`. Jay Patel checked these and the five web-recovered URLs. Jussim's follow-up post, *SPSP Censorship 2.0*, is linked from the memo but not captured.
+- **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (since checked by Jay Patel). The one gap then was `gelman blog langer`; see the entry above. Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
 
 ## 6. Sources (research reports) — residual verification
 
@@ -62,9 +62,11 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper. Separately, 326 images with relative paths in 21 notes have no file in this dataset.
+Of 17 screenshots embedded in notes, 8 were recovered from the authors' backups on 2026-11-02 and are in `attachments/`. The other 9 are not in this dataset and were not found in the authors' files, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the recovered screenshots is a figure in the paper.
 
-Still missing: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
+Still missing: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), and 2024-09-28 (22.21.02, 22.40.58).
+
+Separately, 326 image links with relative paths in 21 notes have no file in this dataset and were not found in the authors' files. They point to 53 distinct files, and 212 of the links point to one file, `s.gif`, all in the UBI trial memo.
 
 ## 9. Unresolved wikilinks
 
@@ -75,6 +77,8 @@ By a rough scripted count on 2026-11-02, about 360 of about 930 wikilinks in the
 Three of the 34 notes in `data/reviews/` hold almost no content: `gelman blog langer`, `fried twitter wu`, and `hullman blog Protzko`. Their target or source URL is listed in `TODO.md` where one needs checking.
 
 ## 11. Dataset versus paper counts
+
+- **`preferentialTreatment`:** this code keeps a drafted definition because its gloss in the notes is an unfinished sentence ("This means that retraction").
 
 - **Study authors:** the paper reports 21. This vault has 13 live notes, and 8 more with no links are in `_archive/unlinked-study-authors/`, which accounts for the difference.
 - **Codes:** the paper reports 1,080 codes. Obsidian's tag pane shows 1,136 for `#inpeer`, which counts every use of a code, so the paper's figure likely counted uses at an earlier point. This dataset has 330 distinct applied codes, or 455 with their parent nodes (`CODEBOOK.md`).

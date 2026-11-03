@@ -21,16 +21,9 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 
 - **Site URLs** — 2 generic category notes (`threaded commons/blogs/blog.md`, `threaded commons/podcast.md`) still have no `url` (may not need one). (The third, root-level `blog.md`, was archived as a duplicate.)
 
-### Capture URLs — spot-check & residuals
+### Capture URLs — residuals
 
-- **Spot-check 5 web-recovered `source:` URLs** (added 2026-07-05 by Claude via web search; the rest were extracted from the capture bodies themselves):
-  - `gelman statmodeling, mindlessness langer` → statmodeling 2024-03-06 "Mindlessness in the interpretation of a study on mindlessness"
-  - `hullman blog Protzko` → statmodeling 2024-03-27 "The feel-good open science story versus the preregistration"
-  - `liberman blog langer` → Language Log `?p=1396` "Generalization and truth"
-  - `andre x.com, phone bans` → `x.com/andre_quentin/status/1783148596956635465`
-  - `fried twitter wu` → `x.com/EikoFried/status/1773685102150644041` (matched via Zotero snapshot; note itself is an empty stub)
-- **`jussim blog Substack, culturally biased poster 1`** — spot-check the new `source` (added 2026-11-02 by Claude): `https://unsafescience.substack.com/p/the-censorious-society-for-personality`.
-- **`gelman blog langer`** — empty stub. Its `source` (added 2026-11-02 by Claude) is an inference: the 2024-03-06 *Mindlessness* post, also captured in `gelman statmodeling, mindlessness langer`. Confirm it, then merge or archive the stub.
+- **`gelman blog langer`** — empty stub whose `source` is the post captured in `gelman statmodeling, mindlessness langer`. Merge or archive it if you no longer want both.
 - **Archived permalinks** — only 2 notes carry a `permalink`; consider archiving the social-media captures (archive.today / Wayback) while they're still live.
 
 ### v2 release steps (need the authors' Figshare and GitHub accounts)
@@ -49,12 +42,6 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 - **S6 in the supplementary materials** is still a placeholder ("expected in version 2"). Point it to `CODEBOOK.md`.
 - **1,080 codes.** The paper says it generated 1,080 codes, but that figure likely counts uses, not distinct codes. Reword with the current counts: 1,136 applications of 330 distinct codes (455 with parent nodes).
 
-### Annotation review
-
-- Review the 256 definitions with `definition_source` = `drafted` in `codebook.csv`, starting with the 131 applied codes among them (`code-applications.csv`).
-- Verify the 15 definitions redrafted on 2026-11-02 because they quoted another code's gloss or a memo remark: `where/multimedia/microblog/bluesky`, `where/multimedia/pubpeer`, `marginalPValues`, `who/reviewer`, `roles/sleuth`, `expert/cognitive`, `relevantgradDegree`, `skills/statistics`, `roles/influencer`, `influencer/scholarly`, `domainOutsider`, `review/extrinsic`, `publishOrperish`, `frames/advisory`, `frames/affective`.
-- `preferentialTreatment` keeps a drafted definition because its gloss in the notes is an unfinished sentence ("This means that retraction").
-
 ### Publishing
 
 - ~~**Mint a dataset DOI** — connect the GitHub repo to Zenodo (or OSF or Figshare) and cut a release so the dataset has a persistent identifier; then add the DOI to `CITATION.cff` and `README.md`. Requires your account.~~
@@ -62,6 +49,8 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 
 ## Completed
 
+- ~~**Capture URLs spot-check**~~ — the five web-recovered URLs and the Jussim and Gelman `source` values were checked by Jay Patel (2026-11-02).
+- ~~**Annotation review**~~ — AI-drafted and redrafted codebook definitions were verified by Jay Patel (2026-11-02).
 - ~~**`data/papers/` removal**~~ — confirmed intentional (notes duplicated `source/`); recoverable from git if ever needed.
 - ~~**`paper:` → `sourceReport:` unification**~~ — all `paper:` fields converted; broken citekeys (`@protzko2024high`, `@zwebner2024can`, `@statistical`, `@gelmanhow`) fixed.
 
