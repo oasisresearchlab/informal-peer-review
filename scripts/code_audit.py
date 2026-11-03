@@ -3,7 +3,7 @@
 
 Reads every note in data/, analysis/ and source/, plus the tables in CODEBOOK.md.
 Writes two CSV files to the vault root and prints a coverage summary:
-  code-applications.csv  one row per code applied: where it is, and its gloss if any
+  code-applications.csv  one row per #inpeer code applied: where it is, and its gloss if any
   codebook.csv           one row per CODEBOOK.md entry, with where its definition came from
 
 Run from anywhere with Python 3.8+; it needs no packages and changes no notes:
@@ -14,7 +14,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TAG = re.compile(r"(?<![\w/#])#(inpeer|misc|cscw)((?:/[A-Za-z0-9_-]+)*)")
+# Other tag trees are working notes and are ignored, but a gloss never runs past one.
+TAG = re.compile(r"(?<![\w/#])#(inpeer|misc|dg|cscw)((?:/[A-Za-z0-9_-]+)*)")
 # Glosses are written as "This means that...", or as "#code means..." or "#code if...".
 GLOSS = re.compile(r"(?:[Tt]his means|\bmeans that).*")
 DIRECT_GLOSS = re.compile(r"^[\s:,-]*((?:means|if)\b.*)")
@@ -48,8 +49,9 @@ def read_applications():
             lines = text.split("\n")
             for number, line in enumerate(lines, 1):
                 for tag in TAG.finditer(line):
+                    if tag.group(1) != "inpeer":
+                        continue
                     rows.append({
-                        "tree": tag.group(1),
                         "code": tag.group(0),
                         "note": path.relative_to(ROOT).as_posix(),
                         "line": number,
@@ -94,12 +96,9 @@ codebook = read_codebook()
 write_csv("code-applications.csv", applications)
 write_csv("codebook.csv", codebook)
 
-inpeer = [row for row in applications if row["tree"] == "inpeer"]
-applied = {row["code"] for row in inpeer}
-glossed = {row["code"] for row in inpeer if row["gloss"]}
-print(f"#inpeer applications: {len(inpeer)}; with a gloss beside them: {sum(bool(r['gloss']) for r in inpeer)}")
+applied = {row["code"] for row in applications}
+glossed = {row["code"] for row in applications if row["gloss"]}
+print(f"#inpeer applications: {len(applications)}; with a gloss beside them: {sum(bool(r['gloss']) for r in applications)}")
 print(f"#inpeer codes applied: {len(applied)}; glossed at least once: {len(glossed)}")
-print(f"notes with #inpeer codes: {len({r['note'] for r in inpeer})}")
+print(f"notes with #inpeer codes: {len({r['note'] for r in applications})}")
 print(f"codebook entries: {len(codebook)}; researcher gloss: {sum(r['definition_source'] == 'researcher_gloss' for r in codebook)}")
-other = [row for row in applications if row["tree"] != "inpeer"]
-print(f"other tags: {len(other)} applications of {len({r['code'] for r in other})} tags")

@@ -90,7 +90,7 @@ Analytic coding uses a hierarchical tag tree. See **[CODEBOOK.md](CODEBOOK.md)**
 - `#inpeer/how/practices/…` — how review is done (e.g. `…/review/paper/frames/destructive`)
 - `#inpeer/evdInfra/where/…` — where review happens (platforms/multimedia)
 
-An earlier branch, `#zoo/…`, is no longer used in live notes; the live coding tree uses `#inpeer/` only. Notes also carry a working-notes branch, `#misc/…` (`#misc/implications`, `#misc/zoo`, formerly `#discussion/…`), and two `#cscw/…` tags; these are not defined in [CODEBOOK.md](CODEBOOK.md) and are listed in `code-applications.csv`.
+An earlier branch, `#zoo/…`, is no longer used in live notes; the live coding tree uses `#inpeer/` only. Other tag trees such as `#misc/…`, `#dg/…`, and `#cscw/…` are irrelevant to the analyses, so the codebook and audit trail ignore them.
 
 The live list of tags can be regenerated with the `grep` commands in [CODEBOOK.md](CODEBOOK.md)'s *Regenerating the tree* section.
 

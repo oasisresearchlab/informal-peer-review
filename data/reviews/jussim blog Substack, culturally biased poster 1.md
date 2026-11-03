@@ -4,7 +4,7 @@ noteID: 60f4ec28-96cc-4fda-9aef-c32c423b9b98
 status: complete
 created: 2024-09-28T21:51:42 (UTC -04:00)
 tags: []
-source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html
+source: https://unsafescience.substack.com/p/the-censorious-society-for-personality
 author: Lee Jussim
 ---
 

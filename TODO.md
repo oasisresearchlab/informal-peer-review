@@ -29,8 +29,8 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
   - `liberman blog langer` → Language Log `?p=1396` "Generalization and truth"
   - `andre x.com, phone bans` → `x.com/andre_quentin/status/1783148596956635465`
   - `fried twitter wu` → `x.com/EikoFried/status/1773685102150644041` (matched via Zotero snapshot; note itself is an empty stub)
-- **`jussim blog Substack, culturally biased poster 1`** — its `source` is a browser-extension address (`chrome-extension://…`); replace it with the post's web URL.
-- **`gelman blog langer`** — empty stub with no metadata; ambiguous which Gelman–Langer post it meant (two other Gelman–Langer notes already exist). Decide: supply a URL, merge, or archive.
+- **`jussim blog Substack, culturally biased poster 1`** — spot-check the new `source` (added 2026-11-02 by Claude): `https://unsafescience.substack.com/p/the-censorious-society-for-personality`.
+- **`gelman blog langer`** — empty stub. Its `source` (added 2026-11-02 by Claude) is an inference: the 2024-03-06 *Mindlessness* post, also captured in `gelman statmodeling, mindlessness langer`. Confirm it, then merge or archive the stub.
 - **Archived permalinks** — only 2 notes carry a `permalink`; consider archiving the social-media captures (archive.today / Wayback) while they're still live.
 
 ### v2 release steps (need the authors' Figshare and GitHub accounts)
@@ -47,7 +47,7 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 - **AI Use Statement** (arXiv v2 PDF) says no AI tools were used to analyze or interpret and does not mention the dataset. Add the dataset and codebook work, including that 256 of 455 definitions were AI-drafted.
 - **Data availability** (arXiv v2 PDF) already cites the Figshare DOI in the text. Add it to the reference list.
 - **S6 in the supplementary materials** is still a placeholder ("expected in version 2"). Point it to `CODEBOOK.md`.
-- **1,080 codes.** The paper gives no sign that the dataset documents fewer. Add a sentence saying the archived dataset documents 455 codes.
+- **1,080 codes.** The paper says it generated 1,080 codes, but that figure likely counts uses, not distinct codes. Reword with the current counts: 1,136 applications of 330 distinct codes (455 with parent nodes).
 
 ### Annotation review
 

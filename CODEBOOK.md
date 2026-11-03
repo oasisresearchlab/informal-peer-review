@@ -1,6 +1,6 @@
 # Codebook — the `#inpeer` codes used in this dataset (all levels)
 
-This codebook documents **every code used in this vault's notes**: 455 codes (330 directly applied; 125 parent nodes implied by deeper applications), 1,136 total applications, organized as one numbered table per hierarchy level (Tables 1–11). The project's full coding tree held 1,080 codes in Obsidian, but not every code was needed for the study; codes never applied to these notes, directly or through a child code, are not listed here. It follows qualitative-data-analysis codebook conventions: each entry gives the **code name**, a **definition**, the **research question** it serves, its **instance count**, and a **specific grounded example** linked to the vault note where the code was applied.
+This codebook documents **every code used in this vault's notes**: 455 codes (330 directly applied; 125 parent nodes implied by deeper applications), 1,136 total applications, organized as one numbered table per hierarchy level (Tables 1–11). The 1,136 is what Obsidian's tag pane shows for `#inpeer`: it counts every use, so codes repeat. The paper's figure of 1,080 likely counted uses at an earlier point, not distinct codes. It follows qualitative-data-analysis codebook conventions: each entry gives the **code name**, a **definition**, the **research question** it serves, its **instance count**, and a **specific grounded example** linked to the vault note where the code was applied.
 
 > **AI-use note:** AI was used to transform human-written notes and codes into this codebook (cleaning and organization, with human verification), and to draft definitions for codes with no gloss in the notes. Claude Fable 5 compiled it on 2026-07-05 exclusively from this vault's files, following the disclosure practice in [README.md](README.md), and Claude Opus 5.5 re-matched glosses to codes and redrafted 15 definitions on 2026-11-02; checked by Jay Patel, except the items still open in [TODO.md](TODO.md). Wherever the researcher wrote an inline gloss beside an applied code (the "*This means that…*" annotations in memos and captures), that gloss is quoted verbatim as the definition, with the source note cited. Definitions without a gloss citation were drafted from the code path and its coded excerpts. Counts are a snapshot of the live vault (171 notes) and drift as the vault is edited.
 
@@ -24,7 +24,7 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 | Comments saying why | Analytic and reflexive memos | 14 case memos, 8 commentary memos, 31 meta memos | Met |
 | Clear, meaningful names | Nested code paths that read from general to specific | The 455 codes below | Met |
 | Definitions that can be trusted as the author's | Each code defined in the researchers' words | 199 of 455 definitions quote a researcher gloss; 256 were AI-drafted (see the AI-use note above) | Partly met |
-| Keep the source, not only the rendered output | Archive captures and memos, not only the quotes in the paper | `data/` and `analysis/memos/`; 34 of 36 captures have a web URL (see `DATA-QUALITY.md` §5) | Mostly met |
+| Keep the source, not only the rendered output | Archive captures and memos, not only the quotes in the paper | `data/` and `analysis/memos/`; all 36 captures have a source URL (see `DATA-QUALITY.md` §5) | Mostly met |
 | Run from top to bottom to confirm it works | Walk a finding back to its source | The example below | Met for this example |
 
 **What the gaps mean.** A code needs one good definition, not a gloss at every use, so 320 of 1,136 is not a failure in itself. The gaps that matter are the 130 applied codes with no gloss the script could find, and the 256 definitions not written in the researchers' words. `code-applications.csv` lists every application and `codebook.csv` marks every definition's source, so both can be filtered directly.
@@ -548,9 +548,7 @@ TADA's *Annotated* step asks for comments explaining what code does and why. Thi
 | 15 | `#inpeer/how/practices/review/paper/values/credibility/vices/fraud/imageManipulation/inconsistentData` | Researcher's gloss: "This means that the credibility of a scholarly report is questionable due to the image manipulation red flag: inconsistent data (within and between figures)." ([[bik science integrity blog 1, wang]]) | RQ3 | 2 | "In the 2017 Neurobiol Aging paper, the LS report noticed some potential problems in Figure 12. In the top p…" — [[bik science integrity blog 1, wang]] |
 | 16 | `#inpeer/how/practices/review/paper/values/credibility/vices/fraud/imageManipulation/possibleCopyPaste` | Researcher's gloss: "This means that the credibility of a scholarly report is questionable due to the image manipulation red flags indicating possible copy-pasting of data." ([[bik science integrity blog 1, wang]]) | RQ3 | 8 | "In addition, the NR1 blot appears to show a splice after lane 8, while the PLCgamma1 blot and most other bl…" — [[bik science integrity blog 1, wang]] |
 
-## Tags outside the coding tree
-
-The notes also use 180 applications of 92 tags outside `#inpeer`: the `#misc/implications` and `#misc/zoo` working-notes branches (formerly `#discussion/…`), one bare `#misc`, and two `#cscw/…` tags. These are working notes, not part of the coding tree in Tables 1–11, so they are not defined here. Each one is listed in `code-applications.csv`, with any adjacent gloss.
+Other tag trees in the vault, such as `#misc/…`, `#dg/…`, and `#cscw/…`, are irrelevant to the analyses, so this codebook and its audit trail ignore them.
 
 ## Regenerating the tree
 

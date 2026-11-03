@@ -31,12 +31,12 @@ Remaining cases are mostly `status: stub` — the human analytic write-up lives 
 
 ## 4. Coding vocabulary — `#inpeer/` only in the live vault
 
-The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for the live dataset: **82 notes use `#inpeer/`, 0 use a top-level `#zoo/`** (a `#misc/zoo/…` working-notes branch remains; see the codebook's *Tags outside the coding tree*). Remaining `#zoo/` tags exist only on archived notes.
+The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for the live dataset: **82 notes use `#inpeer/`, 0 use a top-level `#zoo/`** (a `#misc/zoo/…` branch remains, which is irrelevant to the analyses). Remaining `#zoo/` tags exist only on archived notes.
 
 ## 5. Provenance gaps
 
 - Many notes lack a `created` timestamp; only source-captured notes reliably carry `created`/`source`/`permalink`.
-- **Capture URLs (corrected 2026-11-02):** 34 of the 36 notes below have a web URL. `gelman blog langer` has none, and the `source` of `jussim blog Substack, culturally biased poster 1` is a browser-extension address, not a web page.
+- **Capture URLs (updated 2026-11-02):** all 36 notes below have a source URL. `jussim blog Substack, culturally biased poster 1` now points to the post it captures. `gelman blog langer` is an empty stub, and its URL is an inference: it points to the post captured in `gelman statmodeling, mindlessness langer`. Both are flagged in `TODO.md`. Jussim's follow-up post, *SPSP Censorship 2.0*, is linked from the memo but not captured.
 - **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap is `gelman blog langer` (empty stub, ambiguous target — see `TODO.md`). Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
 
 ## 6. Sources (research reports) — residual verification
@@ -62,9 +62,9 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-17 screenshots embedded in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' local vault when checked on 2026-11-02. Four (`Screenshot 2024-11-05 at 15.14.35`, `15.15.32`, `19.07.10`, and `Screenshot 2024-11-06 at 18.10.22`) survive in a 2024 backup. None of the four is a figure in the paper. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
+Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper.
 
-Missing files: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-05 (15.14.35, 15.15.32, 19.07.10), 2024-11-06 (18.10.22), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
+Still missing: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
 
 ## 9. Unresolved wikilinks
 
@@ -77,6 +77,6 @@ Three of the 34 notes in `data/reviews/` hold almost no content: `gelman blog la
 ## 11. Dataset versus paper counts
 
 - **Study authors:** the paper reports 21. This vault has 13 live notes, and 8 more with no links are in `_archive/unlinked-study-authors/`, which accounts for the difference.
-- **Codes:** the paper reports 1,080 codes, the size of the project's full hierarchical coding tree in Obsidian. Not every code was needed for the study, and this dataset documents the 455 used in its notes (330 applied directly, plus 125 parent nodes). The 1,080 total cannot be regenerated from this dataset; the largest earlier tag list in git history (`analysis/memos/Codebook/code list.md`, last present at commit `f4e6863`) has 572 tags under older names.
+- **Codes:** the paper reports 1,080 codes. Obsidian's tag pane shows 1,136 for `#inpeer`, which counts every use of a code, so the paper's figure likely counted uses at an earlier point. This dataset has 330 distinct applied codes, or 455 with their parent nodes (`CODEBOOK.md`).
 - **Websites:** the paper reports sixteen distinct websites and the vault has 20 site notes, some of them generic platform categories. The difference is not yet itemized.
 
