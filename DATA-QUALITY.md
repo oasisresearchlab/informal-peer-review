@@ -62,7 +62,7 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper. Separately, 326 web-clipped images with relative paths in 21 notes were never stored here; their original pages are linked from each capture's `source`.
+Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper. Separately, 326 images with relative paths in 21 notes have no file in this dataset.
 
 Still missing: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
 
