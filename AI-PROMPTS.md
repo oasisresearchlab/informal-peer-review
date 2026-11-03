@@ -27,3 +27,5 @@ The prompts are verbatim, including typos, except that local file paths are repl
    Image #1 was a screenshot of the Obsidian tag pane showing `inpeer` 1136, `misc` 194, and `dg` 13.
 
 6. > I checked the urls and they passed. I verified your output so that's completed for the todo.  Keep the vacuousStudy code. The orca-cases local vault may have the 326 missing images.
+
+7. > I verified your 15 new definitions and they're good. But remove "or winning arguments" from review/extrinsic

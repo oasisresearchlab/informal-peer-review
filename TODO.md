@@ -50,7 +50,7 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 ## Completed
 
 - ~~**Capture URLs spot-check**~~ — the five web-recovered URLs and the Jussim and Gelman `source` values were checked by Jay Patel (2026-11-02).
-- ~~**Annotation review**~~ — AI-drafted and redrafted codebook definitions were verified by Jay Patel (2026-11-02).
+- ~~**Annotation review**~~ — the 15 codebook definitions redrafted on 2026-11-02 were verified by Jay Patel the same day.
 - ~~**`data/papers/` removal**~~ — confirmed intentional (notes duplicated `source/`); recoverable from git if ever needed.
 - ~~**`paper:` → `sourceReport:` unification**~~ — all `paper:` fields converted; broken citekeys (`@protzko2024high`, `@zwebner2024can`, `@statistical`, `@gelmanhow`) fixed.
 
