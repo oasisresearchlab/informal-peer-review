@@ -15,8 +15,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TAG = re.compile(r"(?<![\w/#])#(inpeer|misc|cscw)((?:/[A-Za-z0-9_-]+)*)")
-# Glosses are written as "This means that..." or "#code means that...".
+# Glosses are written as "This means that...", or as "#code means..." or "#code if...".
 GLOSS = re.compile(r"(?:[Tt]his means|\bmeans that).*")
+DIRECT_GLOSS = re.compile(r"^[\s:,-]*((?:means|if)\b.*)")
 GLOSS_WINDOW = 3
 
 
@@ -24,6 +25,9 @@ def find_gloss(lines, index, tag_end):
     """Return the gloss after a code, on its line or the next two, stopping at the next code."""
     rest = lines[index][tag_end:]
     next_tag = TAG.search(rest)
+    direct = DIRECT_GLOSS.match(rest[: next_tag.start()] if next_tag else rest)
+    if direct:
+        return direct.group(1).strip()
     window = [rest[: next_tag.start()] if next_tag else rest]
     # With several codes on one line, a gloss after them belongs to the last.
     if next_tag:

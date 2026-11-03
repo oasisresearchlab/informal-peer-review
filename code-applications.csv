@@ -844,12 +844,12 @@ inpeer,#inpeer/how/practices/review/paper/layers/discursive/causalClaimUnjustifi
 inpeer,#inpeer/how/practices/review/paper/layers/empirical/interpretation/maturation,analysis/memos/Meta Memos/Meta - EOD/2024-08-05 Meta (EOD) Memo.md,44,memo,
 inpeer,#inpeer/how/practices/review/paper/layers/empirical/analyses/errors/confidenceInts,analysis/memos/Meta Memos/Meta - EOD/2024-08-05 Meta (EOD) Memo.md,45,memo,
 inpeer,#inpeer/how/practices/review/paper/layers/theoretic/senselessResult,analysis/memos/Meta Memos/Meta - EOD/2024-08-05 Meta (EOD) Memo.md,46,memo,
-inpeer,#inpeer/how/practices/review/paper/layers/empirical/rigor/methods/qualVsQuant,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,16,memo,
-inpeer,#inpeer/how/practices/review/paper/layers/meta/literature/searchStrategy,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,18,memo,
-inpeer,#inpeer/how/practices/review/paper/frames,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,20,memo,
-inpeer,#inpeer/how/practices/review/paper/frames/destructive,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,22,memo,
-inpeer,#inpeer/how/practices/review/paper/frames/pedagogical,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,24,memo,
-misc,#misc/zoo/infrastructure/eliteGroups,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,26,memo,
+inpeer,#inpeer/how/practices/review/paper/layers/empirical/rigor/methods/qualVsQuant,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,16,memo,means a mention of differences between quantitative and qualitative research and perhaps a presumption of the superiority of one approach or the other one.
+inpeer,#inpeer/how/practices/review/paper/layers/meta/literature/searchStrategy,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,18,memo,"means a mention of the search strategy used in a paper, often critiquing it for narrowness."
+inpeer,#inpeer/how/practices/review/paper/frames,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,20,memo,means a supracode to indicate the way the appraisal was framed.
+inpeer,#inpeer/how/practices/review/paper/frames/destructive,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,22,memo,means a way to indicate destructive critical appraisal.
+inpeer,#inpeer/how/practices/review/paper/frames/pedagogical,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,24,memo,"means supporting pedagogical InPeeR, whether due to someone's prompting or not."
+misc,#misc/zoo/infrastructure/eliteGroups,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,26,memo,"means the organization or network of individuals has elite power in their social sphere, typically an academic with elite credentials and/or considerable following online and in scholarly venues."
 inpeer,#inpeer/how/practices/review/paper/layers/empirical/rigor/uniqueCritique,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,28,memo,means that a critique has been missing from conventional calls for scholarly reforms.
 misc,#misc/implications/peerReview/tools/automate/syntheses/informalRevs,analysis/memos/Meta Memos/Meta - EOD/2024-09-04 Meta (EOD) Memo.md,30,memo,means that it could potentially be useful to automate InPeeR summaries for broader audiences including its generation and cross-posting across digital communities.
 inpeer,#inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update/noExplanation,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,10,memo,
@@ -857,16 +857,16 @@ inpeer,#inpeer/who/reviewer,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta
 inpeer,#inpeer/who/reviewer/roles/employment/tenured,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,14,memo,
 inpeer,#inpeer/who/reviewer/roles/expert/cognitive/skills/statistics,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,14,memo,
 inpeer,#inpeer/evdInfra/impacts/reactions/meta/dynamics/viral,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,15,memo,
-inpeer,#inpeer/how/practices/review/paper/layers/empirical/analyses/missing/uncertaintyEst,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,17,memo,
-inpeer,#inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/wrongAnalyses,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,19,memo,
-inpeer,#inpeer/evdInfra/impacts/reactions/authors/support/reanalysisAddsMissingInfo,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,21,memo,
-inpeer,#inpeer/digitalEthnography/activePartObs,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,23,memo,
-misc,#misc/implications/peerReview/standards/reporting,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,25,memo,
-misc,#misc/implications/peerReview/tools/publisher/informalRev,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,26,memo,
-inpeer,#inpeer/evdInfra/problems/publishing/failuseInformalrev,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,27,memo,
-inpeer,#inpeer/evdInfra/problems/publishing/laxStandards/publisher,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,29,memo,
-inpeer,#inpeer/who/reviewer/roles/unconventional/formerAcademic,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,36,memo,
-inpeer,#inpeer/evdInfra/where/multimedia/researchHub,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,38,memo,
+inpeer,#inpeer/how/practices/review/paper/layers/empirical/analyses/missing/uncertaintyEst,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,17,memo,if uncertainty measures/estimates are not found in the paper
+inpeer,#inpeer/how/practices/review/paper/layers/empirical/analyses/decisions/planning/wrongAnalyses,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,19,memo,if the statistical analyses are wrong or inadvisable.
+inpeer,#inpeer/evdInfra/impacts/reactions/authors/support/reanalysisAddsMissingInfo,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,21,memo,if the missing info in a paper was recovered or estimated well with a re-analysis.
+inpeer,#inpeer/digitalEthnography/activePartObs,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,23,memo,if I performed any kind of active participant observation.
+misc,#misc/implications/peerReview/standards/reporting,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,25,memo,if following reporting guidelines would have helped the study co-authors write a better paper.
+misc,#misc/implications/peerReview/tools/publisher/informalRev,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,26,memo,if the publishers offered the opportunity to engage in informal peer review with their own tool like BMJ's Rapid Responses section on their articles' webpages.
+inpeer,#inpeer/evdInfra/problems/publishing/failuseInformalrev,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,27,memo,"if the publisher's informal peer review tool failed for some reason to surface insights (e.g. rejection/gatekeeping/technical issues preventing public posting). Maybe the tools didn't work due to UX friction, technological reasons, or sociocultural reasons."
+inpeer,#inpeer/evdInfra/problems/publishing/laxStandards/publisher,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,29,memo,if publishers' lax standards allowed research waste to surface.
+inpeer,#inpeer/who/reviewer/roles/unconventional/formerAcademic,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,36,memo,"means someone who used to be a part of academia as a student, postdoc, lecturer, professor, etc. Typically, these ex-academics shift to working in a corporation or are self-funded as consultants/freelancers.q"
+inpeer,#inpeer/evdInfra/where/multimedia/researchHub,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,38,memo,means a web-based platform like ResearchHub that supports paid informal peer reviewers in the form of cash or tokens/tips redeemable as cash
 inpeer,#inpeer/how/practices/review/paper/layers/discursive/intConsistency/conflictingStatements,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,40,memo,means that statements in the study report conflict with each other and are not resolved by reasoning through the information
 inpeer,#inpeer/how/practices/review/paper/layers/empirical/methods/data/noneDropped,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,42,memo,means that the study report did not state any participants dropped out or were lost. This is suspicious in complex methodologies in naturalistic settings.
 inpeer,#inpeer/how/practices/review/paper/layers/empirical/methods/data/noneLost,analysis/memos/Meta Memos/Meta - EOD/2024-09-12 Meta (EOD) Memo.md,44,memo,means that the study report did not state that any data were lost. This is suspicious in complex methodologies in naturalistic settings.
@@ -1310,7 +1310,7 @@ inpeer,#inpeer/evdInfra/problems/reviews/informal/fewResources,analysis/memos/Me
 inpeer,#inpeer/evdInfra/problems/technical,analysis/memos/Meta Memos/Meta - EOS/2024-11-07 Meta (EOS) Memo.md,100,memo,
 inpeer,#inpeer/evdInfra/problems/technical/repo/messy,analysis/memos/Meta Memos/Meta - EOS/2024-11-07 Meta (EOS) Memo.md,101,memo,
 inpeer,#inpeer/who/network/diverseInputsinCase,analysis/memos/Meta Memos/Meta - EOW/2024-09-05 EOW Meeting with PI (Joel).md,8,memo,
-inpeer,#inpeer/how/practices/review/paper/layers/theoretic/vacuousStudy,analysis/memos/Meta Memos/Meta - EOW/2024-09-12 EOW Meeting with PI (Joel).md,12,memo,
+inpeer,#inpeer/how/practices/review/paper/layers/theoretic/vacuousStudy,analysis/memos/Meta Memos/Meta - EOW/2024-09-12 EOW Meeting with PI (Joel).md,12,memo,"if there isn't strong conceptual grounding in the form of a model, theory, or framework."
 misc,#misc/implications/peerReview/tools/removeUXfriction,analysis/memos/Meta Memos/Meta - EOW/2024-09-12 EOW Meeting with PI (Joel).md,14,memo,
 misc,#misc/zoo/mmip,analysis/memos/Meta Memos/Meta - EOW/2024-10-03 EOW Meeting with PI (Joel).md,13,memo,
 misc,#misc/zoo/mmip,analysis/memos/Meta Memos/Meta - EOW/2024-10-03 EOW Meeting with PI (Joel).md,15,memo,
