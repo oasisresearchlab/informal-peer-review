@@ -25,6 +25,9 @@ def find_gloss(lines, index, tag_end):
     rest = lines[index][tag_end:]
     next_tag = TAG.search(rest)
     window = [rest[: next_tag.start()] if next_tag else rest]
+    # With several codes on one line, a gloss after them belongs to the last.
+    if next_tag:
+        return next((m.group(0).strip() for m in map(GLOSS.search, window) if m), "")
     for line in lines[index + 1 : index + GLOSS_WINDOW]:
         if TAG.search(line):
             break

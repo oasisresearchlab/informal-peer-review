@@ -44,15 +44,16 @@ Located in `source/` (`type: source`, linked via `sourceReport:`). (`@dadamo`, `
 
 ### Paper and supplement updates
 
-- **Data availability statement** (paper, p. 96) still points to GitHub and says FAIR alignment is in progress. Cite the Figshare DOI in the text and reference list.
+- **AI Use Statement** (arXiv v2 PDF) says no AI tools were used to analyze or interpret and does not mention the dataset. Add the dataset and codebook work, including that 266 of 455 definitions were AI-drafted.
+- **Data availability** (arXiv v2 PDF) already cites the Figshare DOI in the text. Add it to the reference list.
 - **S6 in the supplementary materials** is still a placeholder ("expected in version 2"). Point it to `CODEBOOK.md`.
-- **1,080 versus 455 codes.** Explain the difference in the paper or in `DATA-QUALITY.md` §11.
-- **AI statement versus codebook.** The paper says no AI tools were used to analyze or interpret and that codes were defined with co-author JC. `CODEBOOK.md` has 269 AI-drafted definitions. Rewrite those definitions or update the statement.
+- **1,080 codes.** The paper gives no sign that the dataset documents fewer. Add a sentence saying 455 of them were used in the archived notes.
 
 ### Annotation review
 
-- Review the 269 definitions with `definition_source` = `drafted` in `codebook.csv`, starting with the 126 applied codes that also have no gloss found in the notes (`code-applications.csv`).
-- Correct three definitions marked as researcher glosses: `#inpeer/evdInfra/what/studyReports/poster` and `#inpeer/evdInfra/impacts/reactions/publishers/revisions/minor/update/noExplanation` quote another code's gloss (their own are in the 2024-09-19 and 2024-09-12 Meta (EOD) memos), and `#inpeer/evdInfra/problems/publishing/publishOrperish` quotes a memo remark rather than a gloss.
+- Review the 266 definitions with `definition_source` = `drafted` in `codebook.csv`, starting with the 140 applied codes that also have no gloss found in the notes (`code-applications.csv`).
+- Verify the 14 definitions redrafted on 2026-11-02 because they quoted another code's gloss: `activePartObs`, `bluesky`, `pubpeer`, `marginalPValues`, `who/reviewer`, `expert/cognitive`, `relevantgradDegree`, `skills/statistics`, `influencer`, `influencer/scholarly`, `domainOutsider`, `formerAcademic`, `review/extrinsic`, `publishOrperish`.
+- `preferentialTreatment` keeps a drafted definition because its gloss in the notes is an unfinished sentence ("This means that retraction").
 
 ### Publishing
 

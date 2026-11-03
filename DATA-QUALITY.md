@@ -62,7 +62,7 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-17 screenshots embedded in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' local vault when checked on 2026-11-02. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
+17 screenshots embedded in notes are not in this dataset, so those embeds show as broken. They were not found in the authors' local vault when checked on 2026-11-02. Four (`Screenshot 2024-11-05 at 15.14.35`, `15.15.32`, `19.07.10`, and `Screenshot 2024-11-06 at 18.10.22`) survive in a 2024 backup. None of the four is a figure in the paper. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved.
 
 Missing files: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-05 (15.14.35, 15.15.32, 19.07.10), 2024-11-06 (18.10.22), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
 
@@ -77,6 +77,6 @@ Three of the 34 notes in `data/reviews/` hold almost no content: `gelman blog la
 ## 11. Dataset versus paper counts
 
 - **Study authors:** the paper reports 21. This vault has 13 live notes, and 8 more with no links are in `_archive/unlinked-study-authors/`, which accounts for the difference.
-- **Codes:** the paper and supplementary materials report 1,080 codes. This vault has 455 (`CODEBOOK.md`). The difference is not yet explained; see `TODO.md`.
+- **Codes:** the paper reports 1,080 codes, the size of the project's full hierarchical coding tree in Obsidian. Not every code was needed for the study, and this dataset documents the 455 used in its notes (330 applied directly, plus 125 parent nodes). The 1,080 total cannot be regenerated from this dataset; the largest earlier tag list in git history (`analysis/memos/Codebook/code list.md`, last present at commit `f4e6863`) has 572 tags under older names.
 - **Websites:** the paper reports sixteen distinct websites and the vault has 20 site notes, some of them generic platform categories. The difference is not yet itemized.
 
