@@ -37,7 +37,7 @@ The earlier `#zoo/…` → `#inpeer/…` migration is effectively complete for t
 
 - Many notes lack a `created` timestamp; only source-captured notes reliably carry `created`/`source`/`permalink`.
 - **Capture URLs (updated 2026-11-02):** all 36 notes below have a source URL. `jussim blog Substack, culturally biased poster 1` now points to the post it captures. `gelman blog langer` is an empty stub, and its URL is an inference: it points to the post captured in `gelman statmodeling, mindlessness langer`. Both are flagged in `TODO.md`. Jussim's follow-up post, *SPSP Censorship 2.0*, is linked from the memo but not captured.
-- **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap is `gelman blog langer` (empty stub, ambiguous target — see `TODO.md`). Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
+- **Capture URLs backfilled (2026-07-05):** 35 of 36 `review` / `appraisal` / `commentary` notes now carry a `source` (original URL) — most recovered from the capture bodies, 5 via web search (flagged in `TODO.md` for spot-checking). The one gap then was `gelman blog langer`; see the entry above. Archived `permalink`s remain rare (2 notes); adding archive.today/Wayback links is still worthwhile for the social-media captures.
 
 ## 6. Sources (research reports) — residual verification
 
@@ -62,7 +62,7 @@ See `TODO.md` for open items: the `@ferguson2024social` venue/DOI, the duplicate
 
 ## 8. Missing images
 
-Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper.
+Of 17 screenshots embedded in notes, 4 were recovered from a 2024 backup on 2026-11-02 and are in `attachments/`. The other 13 are not in this dataset and were not found in the authors' local vault or that backup, so those embeds show as broken. The surrounding text remains, and the supplementary materials (S3) describe how captures were saved. None of the four recovered screenshots is a figure in the paper. Separately, 326 web-clipped images with relative paths in 21 notes were never stored here; their original pages are linked from each capture's `source`.
 
 Still missing: `Pasted image 20240308164926`, `Pasted image 20240308170108`, `Pasted image 20240905193510`, and `Screenshot` files dated 2024-09-05 (17.40.30, 19.38.18, 19.38.38), 2024-09-12 (18.58.31), 2024-09-28 (22.21.02, 22.40.58), 2024-11-07 (14.03.36), 2024-11-09 (19.59.15, 20.56.56), and 2024-11-11 (19.34.17).
 
